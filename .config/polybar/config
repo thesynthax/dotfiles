@@ -1,0 +1,271 @@
+;==========================================================
+;
+;
+;   ██████╗  ██████╗ ██╗  ██╗   ██╗██████╗  █████╗ ██████╗
+;   ██╔══██╗██╔═══██╗██║  ╚██╗ ██╔╝██╔══██╗██╔══██╗██╔══██╗
+;   ██████╔╝██║   ██║██║   ╚████╔╝ ██████╔╝███████║██████╔╝
+;   ██╔═══╝ ██║   ██║██║    ╚██╔╝  ██╔══██╗██╔══██║██╔══██╗
+;   ██║     ╚██████╔╝███████╗██║   ██████╔╝██║  ██║██║  ██║
+;   ╚═╝      ╚═════╝ ╚══════╝╚═╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+;
+;
+;   To learn more about how to configure Polybar
+;   go to https://github.com/polybar/polybar
+;
+;   The README contains a lot of information
+;
+;==========================================================
+
+[colors]
+;background = #3322223f
+background = #400F111A
+background-alt = #99444444
+foreground = #dfdfdf
+primary = #ffb52a
+secondary = #e60053
+alert = #bd2c40
+
+[bar/example]
+width = 100%
+height = 23
+offset-x = 3%
+radius = 3.0
+fixed-center = false
+
+background = ${colors.background}
+foreground = ${colors.foreground}
+
+line-size = 0
+line-color = #f00
+
+border-size = 4
+border-color = #00000000
+
+padding-left = 0
+padding-right = 3
+
+module-margin-left = 2
+module-margin-right = 3
+
+font-0 = fixed:pixelsize=11;1
+font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
+font-2 = siji:pixelsize=11;2
+
+modules-left = i3
+modules-center = xwindow
+modules-right = pulseaudio battery wlan date
+
+tray-position = none
+tray-background = ${color.BACKGROUND}
+tray-padding = 2
+
+cursor-click = pointer
+cursor-scroll = ns-resize
+
+[module/xwindow]
+type = internal/xwindow
+label = %title:0:30:...%
+
+[module/xkeyboard]
+type = internal/xkeyboard
+blacklist-0 = num lock
+
+format-prefix = " "
+format-prefix-foreground = ${colors.foreground-alt}
+format-prefix-underline = ${colors.secondary}
+
+label-layout = %layout%
+label-layout-underline = ${colors.secondary}
+
+label-indicator-padding = 2
+label-indicator-margin = 1
+label-indicator-background = ${colors.secondary}
+label-indicator-underline = ${colors.secondary}
+
+[module/i3]
+type = internal/i3
+format = <label-state> <label-mode>
+index-sort = true
+wrapping-scroll = false
+
+label-mode-padding = 2
+label-mode-foreground = #000
+label-mode-background = ${colors.primary}
+
+label-focused = %index%
+label-focused-background = ${colors.background-alt}
+label-focused-underline= ${colors.primary}
+label-focused-padding = 2
+
+label-unfocused = %index%
+label-unfocused-padding = 2
+
+label-visible = %index%
+label-visible-background = ${self.label-focused-background}
+label-visible-underline = ${self.label-focused-underline}
+label-visible-padding = ${self.label-focused-padding}
+
+label-urgent = %index%
+label-urgent-background = ${colors.alert}
+label-urgent-padding = 2
+
+[module/kdeconnect]
+type = custom/script
+exec = "/home/thesynthax/polybar-kdeconnect/polybar-kdeconnect.sh -d"
+tail = true
+
+; [module/cpu]
+; type = internal/cpu
+; interval = 2
+; format-prefix = " "
+; format-prefix-foreground = ${colors.foreground-alt}
+; format-underline = #f90000
+; label = %percentage:2%%
+
+; [module/memory]
+; type = internal/memory
+; interval = 2
+; format-prefix = " "
+; format-prefix-foreground = ${colors.foreground-alt}
+; format-underline = #4bffdc
+; label = %percentage_used%%
+
+[module/wlan]
+type = internal/network
+interface = wlo1
+interval = 3.0
+
+format-connected = <ramp-signal> <label-connected>
+format-connected-underline = #9f78e1
+label-connected = %{F#AAAAAA}%ifname%%{F-} %essid%
+
+format-disconnected =
+;format-disconnected = <label-disconnected>
+;format-disconnected-underline = ${self.format-connected-underline}
+;label-disconnected = %ifname% disconnected
+;label-disconnected-foreground = ${colors.foreground-alt}
+
+ramp-signal-0 = 
+ramp-signal-1 = 
+ramp-signal-2 = 
+ramp-signal-3 = 
+ramp-signal-4 = 
+ramp-signal-foreground = ${colors.foreground-alt}
+
+[module/battery]
+type = internal/battery
+
+; This is useful in case the battery never reports 100% charge
+full-at = 99
+
+; Use the following command to list batteries and adapters:
+; $ ls -1 /sys/class/power_supply/
+battery = BAT1
+adapter = ADP1
+
+; If an inotify event haven't been reported in this many
+; seconds, manually poll for new values.
+;
+; Needed as a fallback for systems that don't report events
+; on sysfs/procfs.
+;
+; Disable polling by setting the interval to 0.
+;
+; Default: 5
+poll-interval = 2
+
+; see "man date" for details on how to format the time string
+; NOTE: if you want to use syntax tags here you need to use %%{...}
+; Default: %H:%M:%S
+time-format = %H:%M
+
+; Available tags:
+;   <label-charging> (default)
+;   <bar-capacity>
+;   <ramp-capacity>
+;   <animation-charging>
+format-charging = <animation-charging> <label-charging> <animation-charging>
+
+; Available tags:
+;   <label-discharging> (default)
+;   <bar-capacity>
+;   <ramp-capacity>
+;   <animation-discharging>
+format-discharging = <ramp-capacity> <label-discharging>
+
+; Available tags:
+;   <label-full> (default)
+;   <bar-capacity>
+;   <ramp-capacity>
+format-full = <label-full>
+format-full-prefix = 
+
+; Available tokens:
+;   %percentage% (default)
+;   %time%
+;   %consumption% (shows current charge rate in watts)
+label-charging = %{F#AAAAAA} Battery:%{F-} %percentage%%
+
+; Available tokens:
+;   %percentage% (default)
+;   %time%
+;   %consumption% (shows current discharge rate in watts)
+label-discharging = %{F#AAAAAA} Battery:%{F-} %percentage%%
+
+; Available tokens:
+;   %percentage% (default)
+label-full = " Full"
+
+; Only applies if <ramp-capacity> is used
+ramp-capacity-0 = 
+ramp-capacity-1 = 
+ramp-capacity-2 = 
+ramp-capacity-3 = 
+ramp-capacity-4 = 
+
+; Only applies if <bar-capacity> is used
+;bar-capacity-width = 10
+
+; Only applies if <animation-charging> is used
+animation-charging-0 = 
+animation-charging-1 = 
+animation-charging-2 = 
+animation-charging-3 = 
+animation-charging-4 = 
+
+; Framerate in milliseconds
+animation-charging-framerate = 750
+
+[module/date]
+type = internal/date
+interval = 60
+
+date = " %d/%m/%Y  | "
+date-alt = " %d-%m-%Y  | "
+
+time = %H:%M
+time-alt = %H:%M
+
+format-prefix = 
+format-prefix-foreground = ${colors.foreground-alt}
+format-underline = #0a6cf5
+
+label = %date% %time%
+
+[module/pulseaudio]
+type = internal/pulseaudio
+
+format-volume = <label-volume>
+label-volume = %{F#AAAAAA}Volume:%{F-} %percentage%%
+label-volume-foreground = ${root.foreground}
+
+label-muted = 🔇 muted
+label-muted-foreground = #888
+
+[settings]
+screenchange-reload = true
+
+[global/wm]
+margin-top = 0
+margin-bottom = 0
+
