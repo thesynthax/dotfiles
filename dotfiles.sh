@@ -12,3 +12,4 @@ ln -sf "~/dotfiles/.config/Code - OSS/" "~/.config/Code - OSS/"
 ln -sf ~/dotfiles/.config/i3 ~/.config/i3
 ln -sf ~/dotfiles/.config/picom ~/.config/picom
 ln -sf ~/dotfiles/.config/polybar ~/.config/polybar
+ln -sf ~/dotfiles/.config/nvim ~/.config/nvim
