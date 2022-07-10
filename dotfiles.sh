@@ -14,4 +14,5 @@ ln -sf ~/dotfiles/.config/picom ~/.config/picom
 ln -sf ~/dotfiles/.config/polybar ~/.config/polybar
 ln -sf ~/dotfiles/.config/nvim ~/.config/nvim
 ln -sf ~/dotfiles/.config/dunst ~/.config/dunst
+ln -sf ~/dotfiles/.config/dmenu/ ~/.config/dmenu
 ln -sf ~/dotfiles/.local/share/nvim/ ~/.local/share/
