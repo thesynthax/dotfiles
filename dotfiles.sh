@@ -13,4 +13,5 @@ ln -sf ~/dotfiles/.config/i3 ~/.config/i3
 ln -sf ~/dotfiles/.config/picom ~/.config/picom
 ln -sf ~/dotfiles/.config/polybar ~/.config/polybar
 ln -sf ~/dotfiles/.config/nvim ~/.config/nvim
+ln -sf ~/dotfiles/.config/dunst ~/.config/dunst
 ln -sf ~/dotfiles/.local/share/nvim/ ~/.local/share/
