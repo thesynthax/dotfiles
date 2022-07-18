@@ -4,6 +4,7 @@ ln -sf ~/dotfiles/.xinitrc ~/.xinitrc
 ln -sf ~/dotfiles/.xprofile ~/.xprofile
 ln -sf ~/dotfiles/.xsessionrc ~/.xsessionrc
 ln -sf ~/dotfiles/.zsh_history ~/.zsh_history
+ln -sf ~/dotfiles/.bash_history ~/.bash_history
 ln -sf ~/dotfiles/.nvimrc ~/.nvimrc
 ln -sf ~/dotfiles/.oh-my-zsh ~/.oh-my-zsh
 ln -sf ~/dotfiles/.config/alacritty ~/.config/alacritty
