@@ -1,0 +1,6 @@
+2022-12-17 08:52:17.582 [info] [perf] Render performance baseline is 69ms
+2022-12-17 08:52:24.652 [error] Error while registering log channel file:///home/thesynthax/.config/Code%20-%20OSS/logs/20221217T085211/userDataSync.log Timed out while waiting for file to be created
+2022-12-17 08:54:22.440 [error] Git error
+2022-12-17 08:55:34.966 [error] [Extension Host] (node:41784) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+2022-12-17 08:56:16.871 [warning] [lifecycle] onWillShutdown is taking a long time, pending operations: join.workingCopyHistory

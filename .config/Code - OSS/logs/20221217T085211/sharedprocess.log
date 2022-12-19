@@ -1,0 +1,19 @@
+2022-12-17 08:52:15.029 [info] Starting worker process with pid 41826 (type: fileWatcher, window: 1).
+2022-12-17 08:53:59.639 [info] Getting Manifest... franneck94.c-cpp-runner
+2022-12-17 08:54:00.488 [info] Installing extension: franneck94.c-cpp-runner
+2022-12-17 08:54:01.201 [info] Getting Manifest... vadimcn.vscode-lldb
+2022-12-17 08:54:02.674 [info] Installing extension: vadimcn.vscode-lldb franneck94.c-cpp-runner
+2022-12-17 08:54:04.437 [info] Extracted extension to /home/thesynthax/.vscode-oss/extensions/.ceb0e84e-a44b-4a40-9764-b7168a6f7f00: vadimcn.vscode-lldb
+2022-12-17 08:54:04.577 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/vadimcn.vscode-lldb-1.8.1-universal
+2022-12-17 08:54:04.586 [info] Extracting completed. vadimcn.vscode-lldb
+2022-12-17 08:54:15.174 [info] Extracted extension to /home/thesynthax/.vscode-oss/extensions/.5dc121f5-0471-4d1b-a207-dfe12ea4958d: franneck94.c-cpp-runner
+2022-12-17 08:54:15.307 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/franneck94.c-cpp-runner-4.3.1-universal
+2022-12-17 08:54:15.312 [info] Extracting completed. franneck94.c-cpp-runner
+2022-12-17 08:54:15.441 [info] Extension installed successfully: vadimcn.vscode-lldb
+2022-12-17 08:54:15.441 [info] Extension installed successfully: franneck94.c-cpp-runner
+2022-12-17 08:55:03.027 [info] Getting Manifest... formulahendry.code-runner
+2022-12-17 08:55:03.260 [info] Installing extension: formulahendry.code-runner
+2022-12-17 08:55:04.887 [info] Extracted extension to /home/thesynthax/.vscode-oss/extensions/.aac3ca7b-1955-4710-83ca-d214f748f29f: formulahendry.code-runner
+2022-12-17 08:55:05.016 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/formulahendry.code-runner-0.11.8-universal
+2022-12-17 08:55:05.022 [info] Extracting completed. formulahendry.code-runner
+2022-12-17 08:55:05.188 [info] Extension installed successfully: formulahendry.code-runner

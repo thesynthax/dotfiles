@@ -1,0 +1,12 @@
+[Running] cd "/home/thesynthax/test/" && gcc test.c -o test && "/home/thesynthax/test/"test
+Fuck you!
+[Done] exited with code=0 in 0.065 seconds
+
+[Running] cd "/home/thesynthax/test/" && gcc test.c -o test && "/home/thesynthax/test/"test
+ you!
+[Done] exited with code=0 in 0.087 seconds
+
+[Running] cd "/home/thesynthax/test/" && gcc test.c -o test && "/home/thesynthax/test/"test
+ you!
+[Done] exited with code=0 in 0.044 seconds
+

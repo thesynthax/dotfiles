@@ -1,0 +1,37 @@
+I[09:02:44.913] clangd version 15.0.6 (https://github.com/llvm/llvm-project 088f33605d8a61ff519c580a71b1dd57d16a03f8)
+I[09:02:44.914] Features: linux+grpc
+I[09:02:44.914] PID: 47492
+I[09:02:44.914] Working directory: /home/thesynthax
+I[09:02:44.914] argv[0]: /home/thesynthax/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/bin/clangd
+I[09:02:44.914] Starting LSP over stdin/stdout
+I[09:02:44.918] <-- initialize(0)
+I[09:02:44.918] --> reply:initialize(0) 0 ms
+I[09:02:44.920] <-- initialized
+I[09:02:44.927] <-- textDocument/didOpen
+I[09:02:44.927] Failed to find compilation database for /home/thesynthax/test.c
+I[09:02:44.927] ASTWorker building file /home/thesynthax/test.c version 1 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[09:02:44.928] --> textDocument/clangd.fileStatus
+I[09:02:44.940] --> workspace/semanticTokens/refresh(0)
+I[09:02:44.941] <-- reply(0)
+I[09:02:44.943] --> textDocument/publishDiagnostics
+I[09:02:44.943] --> textDocument/clangd.fileStatus
+I[09:02:44.944] <-- textDocument/semanticTokens/full(1)
+I[09:02:44.944] --> reply:textDocument/semanticTokens/full(1) 0 ms
+I[09:02:44.944] --> textDocument/clangd.fileStatus
+I[09:02:47.087] <-- textDocument/documentSymbol(2)
+I[09:02:47.087] <-- textDocument/codeAction(3)
+I[09:02:47.087] --> reply:textDocument/documentSymbol(2) 0 ms
+I[09:02:47.088] --> reply:textDocument/codeAction(3) 0 ms
+I[09:02:47.088] --> textDocument/clangd.fileStatus
+I[09:02:47.097] <-- textDocument/documentLink(4)
+I[09:02:47.097] <-- textDocument/inlayHint(5)
+I[09:02:47.097] --> reply:textDocument/documentLink(4) 0 ms
+I[09:02:47.097] --> reply:textDocument/inlayHint(5) 0 ms
+I[09:02:47.097] --> textDocument/clangd.fileStatus
+I[09:02:47.308] <-- textDocument/codeAction(6)
+I[09:02:47.309] --> reply:textDocument/codeAction(6) 0 ms
+I[09:02:47.309] --> textDocument/clangd.fileStatus
+I[09:03:04.814] <-- $/setTrace
+I[09:03:04.814] unhandled notification $/setTrace

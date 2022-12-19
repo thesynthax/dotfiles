@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --bg-fill /home/thesynthax/.wallpaper/$(cd /home/thesynthax/.wallpaper/ && fd . | shuf -n1)

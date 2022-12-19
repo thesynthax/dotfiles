@@ -1,0 +1,43 @@
+I[09:03:09.358] clangd version 15.0.6 (https://github.com/llvm/llvm-project 088f33605d8a61ff519c580a71b1dd57d16a03f8)
+I[09:03:09.358] Features: linux+grpc
+I[09:03:09.358] PID: 47671
+I[09:03:09.358] Working directory: /home/thesynthax
+I[09:03:09.358] argv[0]: /home/thesynthax/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/bin/clangd
+I[09:03:09.358] Starting LSP over stdin/stdout
+I[09:03:09.362] <-- initialize(0)
+I[09:03:09.363] --> reply:initialize(0) 0 ms
+I[09:03:09.374] <-- initialized
+I[09:03:09.385] <-- textDocument/didOpen
+I[09:03:09.386] Failed to find compilation database for /home/thesynthax/test.c
+I[09:03:09.386] ASTWorker building file /home/thesynthax/test.c version 1 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[09:03:09.387] --> textDocument/clangd.fileStatus
+I[09:03:09.400] --> workspace/semanticTokens/refresh(0)
+I[09:03:09.400] --> textDocument/clangd.fileStatus
+I[09:03:09.400] --> textDocument/clangd.fileStatus
+I[09:03:09.401] <-- reply(0)
+I[09:03:09.404] --> textDocument/publishDiagnostics
+I[09:03:09.404] --> textDocument/clangd.fileStatus
+I[09:03:09.445] <-- textDocument/codeAction(1)
+I[09:03:09.445] --> reply:textDocument/codeAction(1) 0 ms
+I[09:03:09.445] --> textDocument/clangd.fileStatus
+I[09:03:09.447] <-- textDocument/documentLink(2)
+I[09:03:09.447] <-- textDocument/inlayHint(3)
+I[09:03:09.447] --> reply:textDocument/documentLink(2) 0 ms
+I[09:03:09.447] <-- textDocument/semanticTokens/full(4)
+I[09:03:09.447] --> reply:textDocument/inlayHint(3) 0 ms
+I[09:03:09.447] --> reply:textDocument/semanticTokens/full(4) 0 ms
+I[09:03:09.447] --> textDocument/clangd.fileStatus
+I[09:03:09.503] <-- $/setTrace
+I[09:03:09.503] unhandled notification $/setTrace
+I[09:03:09.597] <-- textDocument/documentLink(5)
+I[09:03:09.597] --> reply:textDocument/documentLink(5) 0 ms
+I[09:03:09.597] --> textDocument/clangd.fileStatus
+I[09:03:11.030] <-- textDocument/documentSymbol(6)
+I[09:03:11.030] <-- textDocument/codeAction(7)
+I[09:03:11.030] --> reply:textDocument/documentSymbol(6) 0 ms
+I[09:03:11.030] --> reply:textDocument/codeAction(7) 0 ms
+I[09:03:11.030] --> textDocument/clangd.fileStatus
+I[09:03:19.410] <-- textDocument/didClose
+I[09:03:19.410] --> textDocument/publishDiagnostics

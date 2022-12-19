@@ -1,0 +1,28 @@
+#!/bin/sh
+
+case "$(echo -e "Shutdown\nReboot\nHibernate\nSuspend\nLock" | dmenu -p "POWER MENU:")" in
+	Shutdown)
+		case "$(echo -e "Yes\nNo" | dmenu -p "Are you sure?")" in
+			Yes) Shutdown now ;;
+	  		No) exit ;;
+	  	esac
+	  	;;
+	Reboot)
+		case "$(echo -e "Yes\nNo" | dmenu -p "Are you sure?")" in
+			Yes) reboot ;;
+			No) exit ;;
+		esac
+		;;
+	Hibernate)
+		case "$(echo -e "Yes\nNo" | dmenu -p "Are you sure?")" in
+			Yes) systemctl hibernate ;;
+			No) exit ;;
+		esac
+		;;
+	Suspend)
+		systemctl suspend
+		;;
+	Lock) 
+		slock 
+		;;
+esac

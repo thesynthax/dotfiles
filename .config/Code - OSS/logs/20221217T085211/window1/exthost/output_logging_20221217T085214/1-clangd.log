@@ -1,0 +1,1475 @@
+I[08:52:15.093] clangd version 15.0.6 (https://github.com/llvm/llvm-project 088f33605d8a61ff519c580a71b1dd57d16a03f8)
+I[08:52:15.093] Features: linux+grpc
+I[08:52:15.093] PID: 41834
+I[08:52:15.093] Working directory: /home/thesynthax
+I[08:52:15.093] argv[0]: /home/thesynthax/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/bin/clangd
+I[08:52:15.093] Starting LSP over stdin/stdout
+I[08:52:15.097] <-- initialize(0)
+I[08:52:15.098] --> reply:initialize(0) 0 ms
+I[08:52:15.147] <-- initialized
+I[08:52:15.393] <-- $/setTrace
+I[08:52:15.393] unhandled notification $/setTrace
+I[08:52:48.524] <-- textDocument/didOpen
+I[08:52:48.524] <-- textDocument/semanticTokens/full(1)
+I[08:52:48.524] Failed to find compilation database for /home/thesynthax/test.c
+I[08:52:48.524] ASTWorker building file /home/thesynthax/test.c version 1 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:52:48.525] --> textDocument/clangd.fileStatus
+I[08:52:48.530] --> workspace/semanticTokens/refresh(0)
+I[08:52:48.530] --> textDocument/clangd.fileStatus
+I[08:52:48.531] <-- reply(0)
+I[08:52:48.532] --> textDocument/publishDiagnostics
+I[08:52:48.532] --> reply:textDocument/semanticTokens/full(1) 8 ms
+I[08:52:48.533] --> textDocument/clangd.fileStatus
+I[08:52:48.674] <-- textDocument/didSave
+I[08:52:48.674] File version went from 1 to 1
+I[08:52:48.674] <-- textDocument/documentSymbol(2)
+I[08:52:48.674] Failed to find compilation database for /home/thesynthax/test.c
+I[08:52:48.676] ASTWorker building file /home/thesynthax/test.c version 1 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:52:48.676] --> reply:textDocument/documentSymbol(2) 2 ms
+I[08:52:48.676] --> textDocument/clangd.fileStatus
+I[08:52:48.676] --> textDocument/clangd.fileStatus
+I[08:52:48.676] --> textDocument/clangd.fileStatus
+I[08:52:48.676] --> textDocument/clangd.fileStatus
+I[08:52:48.696] <-- textDocument/documentLink(3)
+I[08:52:48.696] --> reply:textDocument/documentLink(3) 0 ms
+I[08:52:48.696] <-- textDocument/inlayHint(4)
+I[08:52:48.696] --> textDocument/clangd.fileStatus
+I[08:52:48.696] --> reply:textDocument/inlayHint(4) 0 ms
+I[08:52:48.696] --> textDocument/clangd.fileStatus
+I[08:52:48.840] <-- textDocument/semanticTokens/full/delta(5)
+I[08:52:48.841] --> reply:textDocument/semanticTokens/full/delta(5) 0 ms
+I[08:52:48.841] --> textDocument/clangd.fileStatus
+I[08:52:52.218] <-- textDocument/didChange
+I[08:52:52.218] --> textDocument/clangd.fileStatus
+I[08:52:52.268] Failed to find compilation database for /home/thesynthax/test.c
+I[08:52:52.269] ASTWorker building file /home/thesynthax/test.c version 2 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:52:52.271] --> textDocument/clangd.fileStatus
+I[08:52:52.271] --> textDocument/clangd.fileStatus
+I[08:52:52.289] --> workspace/semanticTokens/refresh(1)
+I[08:52:52.289] --> textDocument/clangd.fileStatus
+I[08:52:52.291] <-- reply(1)
+I[08:52:52.297] <-- textDocument/semanticTokens/full/delta(6)
+I[08:52:52.299] --> textDocument/publishDiagnostics
+I[08:52:52.299] --> reply:textDocument/semanticTokens/full/delta(6) 1 ms
+I[08:52:52.299] --> textDocument/clangd.fileStatus
+I[08:52:52.451] <-- textDocument/codeAction(7)
+I[08:52:52.451] --> reply:textDocument/codeAction(7) 0 ms
+I[08:52:52.451] --> textDocument/clangd.fileStatus
+I[08:52:52.513] <-- textDocument/didChange
+I[08:52:52.513] --> textDocument/clangd.fileStatus
+I[08:52:52.516] <-- textDocument/documentHighlight(8)
+I[08:52:52.516] Failed to find compilation database for /home/thesynthax/test.c
+I[08:52:52.516] ASTWorker building file /home/thesynthax/test.c version 3 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:52:52.517] --> textDocument/clangd.fileStatus
+I[08:52:52.522] --> reply:textDocument/documentHighlight(8) 6 ms
+I[08:52:52.522] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:52:52.522] --> textDocument/publishDiagnostics
+I[08:52:52.522] --> textDocument/clangd.fileStatus
+I[08:52:52.532] <-- textDocument/completion(9)
+I[08:52:52.535] Code complete: sema context PreprocessorDirective, query scopes [] (AnyScope=true), expected type <none>
+I[08:52:52.535] Code complete: 7 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 7 returned.
+I[08:52:52.535] --> reply:textDocument/completion(9) 3 ms
+I[08:52:52.578] <-- textDocument/didChange
+I[08:52:52.578] <-- textDocument/completion(10)
+I[08:52:52.578] --> textDocument/clangd.fileStatus
+I[08:52:52.579] <-- textDocument/documentHighlight(11)
+I[08:52:52.579] Failed to find compilation database for /home/thesynthax/test.c
+I[08:52:52.580] ASTWorker building file /home/thesynthax/test.c version 4 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:52:52.580] Code complete: sema context PreprocessorDirective, query scopes [] (AnyScope=true), expected type <none>
+I[08:52:52.580] Code complete: 4 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 4 returned.
+I[08:52:52.580] --> reply:textDocument/completion(10) 2 ms
+I[08:52:52.580] --> textDocument/clangd.fileStatus
+I[08:52:52.582] --> reply:textDocument/documentHighlight(11) 2 ms
+I[08:52:52.582] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:52:52.582] --> textDocument/publishDiagnostics
+I[08:52:52.583] --> textDocument/clangd.fileStatus
+I[08:52:52.809] <-- textDocument/semanticTokens/full/delta(12)
+I[08:52:52.810] --> reply:textDocument/semanticTokens/full/delta(12) 0 ms
+I[08:52:52.810] --> textDocument/clangd.fileStatus
+I[08:52:52.849] <-- textDocument/codeAction(13)
+I[08:52:52.850] --> reply:textDocument/codeAction(13) 0 ms
+I[08:52:52.850] --> textDocument/clangd.fileStatus
+I[08:52:52.929] <-- textDocument/documentSymbol(14)
+I[08:52:52.929] --> reply:textDocument/documentSymbol(14) 0 ms
+I[08:52:52.929] --> textDocument/clangd.fileStatus
+I[08:52:53.354] <-- textDocument/didChange
+I[08:52:53.354] --> textDocument/clangd.fileStatus
+I[08:52:53.355] <-- textDocument/completion(15)
+I[08:52:53.361] Code complete: sema context PreprocessorDirective, query scopes [] (AnyScope=true), expected type <none>
+I[08:52:53.361] Code complete: 4 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 4 returned.
+I[08:52:53.361] --> reply:textDocument/completion(15) 6 ms
+I[08:52:53.367] <-- textDocument/documentHighlight(16)
+I[08:52:53.367] Failed to find compilation database for /home/thesynthax/test.c
+I[08:52:53.367] ASTWorker building file /home/thesynthax/test.c version 5 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:52:53.368] --> textDocument/clangd.fileStatus
+I[08:52:53.371] --> reply:textDocument/documentHighlight(16) 3 ms
+I[08:52:53.371] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:52:53.371] --> textDocument/publishDiagnostics
+I[08:52:53.371] --> textDocument/clangd.fileStatus
+I[08:52:53.629] <-- textDocument/codeAction(17)
+I[08:52:53.629] --> reply:textDocument/codeAction(17) 0 ms
+I[08:52:53.629] --> textDocument/clangd.fileStatus
+I[08:52:53.647] <-- textDocument/semanticTokens/full/delta(18)
+I[08:52:53.647] --> reply:textDocument/semanticTokens/full/delta(18) 0 ms
+I[08:52:53.647] --> textDocument/clangd.fileStatus
+I[08:52:53.698] <-- textDocument/documentSymbol(19)
+I[08:52:53.698] --> reply:textDocument/documentSymbol(19) 0 ms
+I[08:52:53.698] --> textDocument/clangd.fileStatus
+I[08:52:54.350] <-- textDocument/documentLink(20)
+I[08:52:54.350] --> reply:textDocument/documentLink(20) 0 ms
+I[08:52:54.350] --> textDocument/clangd.fileStatus
+I[08:52:54.599] <-- textDocument/inlayHint(21)
+I[08:52:54.599] --> reply:textDocument/inlayHint(21) 0 ms
+I[08:52:54.599] --> textDocument/clangd.fileStatus
+I[08:52:57.285] <-- textDocument/didChange
+I[08:52:57.285] --> textDocument/clangd.fileStatus
+I[08:52:57.335] Failed to find compilation database for /home/thesynthax/test.c
+I[08:52:57.336] ASTWorker building file /home/thesynthax/test.c version 6 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:52:57.338] --> textDocument/clangd.fileStatus
+I[08:52:57.339] --> textDocument/clangd.fileStatus
+I[08:52:57.357] --> workspace/semanticTokens/refresh(2)
+I[08:52:57.357] --> textDocument/clangd.fileStatus
+I[08:52:57.359] <-- reply(2)
+I[08:52:57.364] <-- textDocument/semanticTokens/full/delta(22)
+I[08:52:57.367] --> textDocument/publishDiagnostics
+I[08:52:57.367] --> reply:textDocument/semanticTokens/full/delta(22) 3 ms
+I[08:52:57.367] --> textDocument/clangd.fileStatus
+I[08:52:57.614] <-- textDocument/documentSymbol(23)
+I[08:52:57.614] --> reply:textDocument/documentSymbol(23) 0 ms
+I[08:52:57.614] --> textDocument/clangd.fileStatus
+I[08:52:57.634] <-- textDocument/codeAction(24)
+I[08:52:57.634] --> reply:textDocument/codeAction(24) 0 ms
+I[08:52:57.634] --> textDocument/clangd.fileStatus
+I[08:52:58.265] <-- textDocument/documentLink(25)
+I[08:52:58.265] --> reply:textDocument/documentLink(25) 0 ms
+I[08:52:58.265] --> textDocument/clangd.fileStatus
+I[08:52:58.515] <-- textDocument/inlayHint(26)
+I[08:52:58.515] --> reply:textDocument/inlayHint(26) 0 ms
+I[08:52:58.515] --> textDocument/clangd.fileStatus
+I[08:52:58.905] <-- textDocument/didChange
+I[08:52:58.905] --> textDocument/clangd.fileStatus
+I[08:52:58.911] <-- textDocument/documentHighlight(27)
+I[08:52:58.911] Failed to find compilation database for /home/thesynthax/test.c
+I[08:52:58.911] ASTWorker building file /home/thesynthax/test.c version 7 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:52:58.912] --> textDocument/clangd.fileStatus
+I[08:52:58.913] --> reply:textDocument/documentHighlight(27) 2 ms
+I[08:52:58.913] --> textDocument/clangd.fileStatus
+I[08:52:58.915] --> workspace/semanticTokens/refresh(3)
+I[08:52:58.915] --> textDocument/clangd.fileStatus
+I[08:52:58.915] <-- reply(3)
+I[08:52:58.917] --> textDocument/publishDiagnostics
+I[08:52:58.917] --> textDocument/clangd.fileStatus
+I[08:52:58.921] <-- textDocument/semanticTokens/full/delta(28)
+I[08:52:58.921] --> reply:textDocument/semanticTokens/full/delta(28) 0 ms
+I[08:52:58.921] --> textDocument/clangd.fileStatus
+I[08:52:59.071] <-- textDocument/didChange
+I[08:52:59.071] --> textDocument/clangd.fileStatus
+I[08:52:59.084] <-- textDocument/documentHighlight(29)
+I[08:52:59.084] Failed to find compilation database for /home/thesynthax/test.c
+I[08:52:59.085] ASTWorker building file /home/thesynthax/test.c version 8 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:52:59.086] --> textDocument/clangd.fileStatus
+I[08:52:59.089] --> reply:textDocument/documentHighlight(29) 4 ms
+I[08:52:59.089] --> textDocument/clangd.fileStatus
+I[08:52:59.092] --> workspace/semanticTokens/refresh(4)
+I[08:52:59.092] --> textDocument/clangd.fileStatus
+I[08:52:59.093] <-- reply(4)
+I[08:52:59.095] --> textDocument/publishDiagnostics
+I[08:52:59.095] --> textDocument/clangd.fileStatus
+I[08:52:59.096] <-- textDocument/semanticTokens/full/delta(30)
+I[08:52:59.096] --> reply:textDocument/semanticTokens/full/delta(30) 0 ms
+I[08:52:59.096] --> textDocument/clangd.fileStatus
+I[08:52:59.353] <-- textDocument/codeAction(31)
+I[08:52:59.353] --> reply:textDocument/codeAction(31) 0 ms
+I[08:52:59.353] --> textDocument/clangd.fileStatus
+I[08:52:59.417] <-- textDocument/documentSymbol(32)
+I[08:52:59.418] --> reply:textDocument/documentSymbol(32) 0 ms
+I[08:52:59.418] --> textDocument/clangd.fileStatus
+I[08:52:59.513] <-- textDocument/didChange
+I[08:52:59.513] --> textDocument/clangd.fileStatus
+I[08:52:59.517] <-- textDocument/documentHighlight(33)
+I[08:52:59.518] Failed to find compilation database for /home/thesynthax/test.c
+I[08:52:59.518] ASTWorker building file /home/thesynthax/test.c version 9 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:52:59.521] --> textDocument/clangd.fileStatus
+I[08:52:59.528] --> reply:textDocument/documentHighlight(33) 11 ms
+I[08:52:59.528] --> textDocument/clangd.fileStatus
+I[08:52:59.535] --> workspace/semanticTokens/refresh(5)
+I[08:52:59.535] --> textDocument/clangd.fileStatus
+I[08:52:59.536] <-- reply(5)
+I[08:52:59.540] --> textDocument/publishDiagnostics
+I[08:52:59.540] --> textDocument/clangd.fileStatus
+I[08:52:59.543] <-- textDocument/semanticTokens/full/delta(34)
+I[08:52:59.543] --> reply:textDocument/semanticTokens/full/delta(34) 0 ms
+I[08:52:59.543] --> textDocument/clangd.fileStatus
+I[08:52:59.798] <-- textDocument/codeAction(35)
+I[08:52:59.798] --> reply:textDocument/codeAction(35) 0 ms
+I[08:52:59.799] --> textDocument/clangd.fileStatus
+I[08:52:59.859] <-- textDocument/documentSymbol(36)
+I[08:52:59.859] --> reply:textDocument/documentSymbol(36) 0 ms
+I[08:52:59.859] --> textDocument/clangd.fileStatus
+I[08:53:00.131] <-- textDocument/didChange
+I[08:53:00.131] --> textDocument/clangd.fileStatus
+I[08:53:00.131] <-- textDocument/completion(37)
+I[08:53:00.139] Code complete: sema context IncludedFile, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:00.139] Code complete: 12 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 12 returned.
+I[08:53:00.139] --> reply:textDocument/completion(37) 8 ms
+I[08:53:00.181] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:00.181] ASTWorker building file /home/thesynthax/test.c version 10 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:00.183] --> textDocument/clangd.fileStatus
+I[08:53:00.183] --> textDocument/clangd.fileStatus
+I[08:53:00.193] --> workspace/semanticTokens/refresh(6)
+I[08:53:00.193] --> textDocument/clangd.fileStatus
+I[08:53:00.193] <-- reply(6)
+I[08:53:00.197] --> textDocument/publishDiagnostics
+I[08:53:00.197] --> textDocument/clangd.fileStatus
+I[08:53:00.197] <-- textDocument/semanticTokens/full/delta(38)
+I[08:53:00.197] --> reply:textDocument/semanticTokens/full/delta(38) 0 ms
+I[08:53:00.197] --> textDocument/clangd.fileStatus
+I[08:53:00.454] <-- textDocument/documentSymbol(39)
+I[08:53:00.454] --> reply:textDocument/documentSymbol(39) 0 ms
+I[08:53:00.455] --> textDocument/clangd.fileStatus
+I[08:53:00.455] <-- textDocument/codeAction(40)
+I[08:53:00.455] --> reply:textDocument/codeAction(40) 0 ms
+I[08:53:00.455] --> textDocument/clangd.fileStatus
+I[08:53:00.658] <-- textDocument/didChange
+I[08:53:00.658] --> textDocument/clangd.fileStatus
+I[08:53:00.658] <-- textDocument/completion(41)
+I[08:53:00.664] <-- textDocument/documentHighlight(42)
+I[08:53:00.664] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:00.664] ASTWorker building file /home/thesynthax/test.c version 11 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:00.665] --> textDocument/clangd.fileStatus
+I[08:53:00.665] Code complete: sema context IncludedFile, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:00.666] Code complete: 12 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 12 returned.
+I[08:53:00.666] --> reply:textDocument/completion(41) 8 ms
+I[08:53:00.669] --> reply:textDocument/documentHighlight(42) 4 ms
+I[08:53:00.669] --> textDocument/clangd.fileStatus
+I[08:53:00.673] --> workspace/semanticTokens/refresh(7)
+I[08:53:00.673] --> textDocument/clangd.fileStatus
+I[08:53:00.674] <-- reply(7)
+I[08:53:00.676] --> textDocument/publishDiagnostics
+I[08:53:00.676] --> textDocument/clangd.fileStatus
+I[08:53:00.684] <-- textDocument/semanticTokens/full/delta(43)
+I[08:53:00.684] --> reply:textDocument/semanticTokens/full/delta(43) 0 ms
+I[08:53:00.684] --> textDocument/clangd.fileStatus
+I[08:53:00.938] <-- textDocument/codeAction(44)
+I[08:53:00.938] --> reply:textDocument/codeAction(44) 0 ms
+I[08:53:00.938] --> textDocument/clangd.fileStatus
+I[08:53:00.985] <-- textDocument/documentSymbol(45)
+I[08:53:00.985] --> reply:textDocument/documentSymbol(45) 0 ms
+I[08:53:00.985] --> textDocument/clangd.fileStatus
+I[08:53:01.208] <-- textDocument/didChange
+I[08:53:01.208] <-- textDocument/completion(46)
+I[08:53:01.208] --> textDocument/clangd.fileStatus
+I[08:53:01.209] <-- textDocument/documentHighlight(47)
+I[08:53:01.209] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:01.210] ASTWorker building file /home/thesynthax/test.c version 12 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:01.210] --> textDocument/clangd.fileStatus
+I[08:53:01.211] Code complete: sema context IncludedFile, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:01.211] Code complete: 3 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 3 returned.
+I[08:53:01.211] --> reply:textDocument/completion(46) 3 ms
+I[08:53:01.212] --> reply:textDocument/documentHighlight(47) 2 ms
+I[08:53:01.212] --> textDocument/clangd.fileStatus
+I[08:53:01.213] --> workspace/semanticTokens/refresh(8)
+I[08:53:01.213] --> textDocument/clangd.fileStatus
+I[08:53:01.213] <-- reply(8)
+I[08:53:01.216] --> textDocument/publishDiagnostics
+I[08:53:01.216] --> textDocument/clangd.fileStatus
+I[08:53:01.224] <-- textDocument/semanticTokens/full/delta(48)
+I[08:53:01.225] --> reply:textDocument/semanticTokens/full/delta(48) 0 ms
+I[08:53:01.225] --> textDocument/clangd.fileStatus
+I[08:53:01.479] <-- textDocument/didChange
+I[08:53:01.479] <-- textDocument/completion(49)
+I[08:53:01.479] --> textDocument/clangd.fileStatus
+I[08:53:01.482] <-- textDocument/documentHighlight(50)
+I[08:53:01.482] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:01.482] Code complete: sema context IncludedFile, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:01.482] Code complete: 2 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 2 returned.
+I[08:53:01.482] ASTWorker building file /home/thesynthax/test.c version 13 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:01.482] --> reply:textDocument/completion(49) 3 ms
+I[08:53:01.483] --> textDocument/clangd.fileStatus
+I[08:53:01.485] --> reply:textDocument/documentHighlight(50) 3 ms
+I[08:53:01.485] --> textDocument/clangd.fileStatus
+I[08:53:01.487] --> workspace/semanticTokens/refresh(9)
+I[08:53:01.487] --> textDocument/clangd.fileStatus
+I[08:53:01.487] <-- reply(9)
+I[08:53:01.490] --> textDocument/publishDiagnostics
+I[08:53:01.490] --> textDocument/clangd.fileStatus
+I[08:53:01.494] <-- textDocument/semanticTokens/full/delta(51)
+I[08:53:01.494] --> reply:textDocument/semanticTokens/full/delta(51) 0 ms
+I[08:53:01.494] --> textDocument/clangd.fileStatus
+I[08:53:01.747] <-- textDocument/codeAction(52)
+I[08:53:01.747] --> reply:textDocument/codeAction(52) 0 ms
+I[08:53:01.748] --> textDocument/clangd.fileStatus
+I[08:53:01.808] <-- textDocument/documentSymbol(53)
+I[08:53:01.808] --> reply:textDocument/documentSymbol(53) 0 ms
+I[08:53:01.808] --> textDocument/clangd.fileStatus
+I[08:53:01.864] <-- textDocument/didChange
+I[08:53:01.864] <-- textDocument/completion(54)
+I[08:53:01.864] --> textDocument/clangd.fileStatus
+I[08:53:01.867] Code complete: sema context IncludedFile, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:01.867] Code complete: 2 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 2 returned.
+I[08:53:01.867] --> reply:textDocument/completion(54) 3 ms
+I[08:53:01.914] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:01.914] ASTWorker building file /home/thesynthax/test.c version 14 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:01.915] --> textDocument/clangd.fileStatus
+I[08:53:01.915] --> textDocument/clangd.fileStatus
+I[08:53:01.919] --> workspace/semanticTokens/refresh(10)
+I[08:53:01.919] --> textDocument/clangd.fileStatus
+I[08:53:01.919] <-- reply(10)
+I[08:53:01.921] --> textDocument/publishDiagnostics
+I[08:53:01.921] --> textDocument/clangd.fileStatus
+I[08:53:01.923] <-- textDocument/semanticTokens/full/delta(55)
+I[08:53:01.923] --> reply:textDocument/semanticTokens/full/delta(55) 0 ms
+I[08:53:01.923] --> textDocument/clangd.fileStatus
+I[08:53:02.178] <-- textDocument/codeAction(56)
+I[08:53:02.178] --> reply:textDocument/codeAction(56) 0 ms
+I[08:53:02.178] --> textDocument/clangd.fileStatus
+I[08:53:02.207] <-- textDocument/documentSymbol(57)
+I[08:53:02.207] --> reply:textDocument/documentSymbol(57) 0 ms
+I[08:53:02.207] --> textDocument/clangd.fileStatus
+I[08:53:02.294] <-- textDocument/didChange
+I[08:53:02.295] --> textDocument/clangd.fileStatus
+I[08:53:02.345] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:02.345] ASTWorker building file /home/thesynthax/test.c version 15 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:02.347] --> textDocument/clangd.fileStatus
+I[08:53:02.347] --> textDocument/clangd.fileStatus
+I[08:53:02.383] --> workspace/semanticTokens/refresh(11)
+I[08:53:02.383] --> textDocument/clangd.fileStatus
+I[08:53:02.383] <-- reply(11)
+I[08:53:02.386] --> textDocument/publishDiagnostics
+I[08:53:02.386] --> textDocument/clangd.fileStatus
+I[08:53:02.387] <-- textDocument/semanticTokens/full/delta(58)
+I[08:53:02.387] --> reply:textDocument/semanticTokens/full/delta(58) 0 ms
+I[08:53:02.387] --> textDocument/clangd.fileStatus
+I[08:53:02.622] <-- textDocument/documentSymbol(59)
+I[08:53:02.622] --> reply:textDocument/documentSymbol(59) 0 ms
+I[08:53:02.622] --> textDocument/clangd.fileStatus
+I[08:53:02.644] <-- textDocument/codeAction(60)
+I[08:53:02.644] --> reply:textDocument/codeAction(60) 0 ms
+I[08:53:02.644] --> textDocument/clangd.fileStatus
+I[08:53:03.273] <-- textDocument/documentLink(61)
+I[08:53:03.273] --> reply:textDocument/documentLink(61) 0 ms
+I[08:53:03.273] --> textDocument/clangd.fileStatus
+I[08:53:03.347] <-- textDocument/didChange
+I[08:53:03.347] --> textDocument/clangd.fileStatus
+I[08:53:03.397] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:03.398] ASTWorker building file /home/thesynthax/test.c version 16 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:03.399] --> textDocument/clangd.fileStatus
+I[08:53:03.400] --> textDocument/clangd.fileStatus
+I[08:53:03.431] --> workspace/semanticTokens/refresh(12)
+I[08:53:03.431] --> textDocument/clangd.fileStatus
+I[08:53:03.432] <-- reply(12)
+I[08:53:03.435] <-- textDocument/semanticTokens/full/delta(62)
+I[08:53:03.435] --> textDocument/publishDiagnostics
+I[08:53:03.435] --> reply:textDocument/semanticTokens/full/delta(62) 0 ms
+I[08:53:03.436] --> textDocument/clangd.fileStatus
+I[08:53:03.680] <-- textDocument/documentSymbol(63)
+I[08:53:03.680] --> reply:textDocument/documentSymbol(63) 0 ms
+I[08:53:03.680] --> textDocument/clangd.fileStatus
+I[08:53:03.722] <-- textDocument/didChange
+I[08:53:03.722] --> textDocument/clangd.fileStatus
+I[08:53:03.772] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:03.773] ASTWorker building file /home/thesynthax/test.c version 17 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:03.775] --> textDocument/clangd.fileStatus
+I[08:53:03.775] --> textDocument/clangd.fileStatus
+I[08:53:03.808] --> workspace/semanticTokens/refresh(13)
+I[08:53:03.808] --> textDocument/clangd.fileStatus
+I[08:53:03.809] <-- reply(13)
+I[08:53:03.812] --> textDocument/publishDiagnostics
+I[08:53:03.812] --> textDocument/clangd.fileStatus
+I[08:53:03.813] <-- textDocument/semanticTokens/full/delta(64)
+I[08:53:03.813] --> reply:textDocument/semanticTokens/full/delta(64) 0 ms
+I[08:53:03.813] --> textDocument/clangd.fileStatus
+I[08:53:04.056] <-- textDocument/documentSymbol(65)
+I[08:53:04.056] --> reply:textDocument/documentSymbol(65) 0 ms
+I[08:53:04.056] --> textDocument/clangd.fileStatus
+I[08:53:04.319] <-- textDocument/didChange
+I[08:53:04.319] --> textDocument/clangd.fileStatus
+I[08:53:04.328] <-- textDocument/documentHighlight(66)
+I[08:53:04.328] <-- textDocument/completion(67)
+I[08:53:04.328] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:04.328] ASTWorker building file /home/thesynthax/test.c version 18 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:04.328] --> textDocument/clangd.fileStatus
+I[08:53:04.330] Code complete: sema context TopLevel, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:04.330] Code complete: 3 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 3 returned (incomplete).
+I[08:53:04.330] --> reply:textDocument/completion(67) 2 ms
+I[08:53:04.331] --> reply:textDocument/documentHighlight(66) 3 ms
+I[08:53:04.331] --> textDocument/clangd.fileStatus
+I[08:53:04.339] --> workspace/semanticTokens/refresh(14)
+I[08:53:04.339] --> textDocument/clangd.fileStatus
+I[08:53:04.339] <-- reply(14)
+I[08:53:04.341] --> textDocument/publishDiagnostics
+I[08:53:04.342] --> textDocument/clangd.fileStatus
+I[08:53:04.342] <-- textDocument/semanticTokens/full/delta(68)
+I[08:53:04.342] --> reply:textDocument/semanticTokens/full/delta(68) 0 ms
+I[08:53:04.342] --> textDocument/clangd.fileStatus
+I[08:53:04.368] <-- textDocument/didChange
+I[08:53:04.368] <-- textDocument/completion(69)
+I[08:53:04.368] --> textDocument/clangd.fileStatus
+I[08:53:04.370] Code complete: sema context TopLevel, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:04.370] Code complete: 2 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 2 returned.
+I[08:53:04.370] --> reply:textDocument/completion(69) 2 ms
+I[08:53:04.375] <-- textDocument/documentHighlight(70)
+I[08:53:04.375] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:04.375] ASTWorker building file /home/thesynthax/test.c version 19 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:04.376] --> textDocument/clangd.fileStatus
+I[08:53:04.378] --> reply:textDocument/documentHighlight(70) 3 ms
+I[08:53:04.378] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:04.378] --> textDocument/publishDiagnostics
+I[08:53:04.378] --> textDocument/clangd.fileStatus
+I[08:53:04.466] <-- textDocument/didChange
+I[08:53:04.466] <-- textDocument/completion(71)
+I[08:53:04.466] --> textDocument/clangd.fileStatus
+I[08:53:04.470] Code complete: sema context TopLevel, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:04.470] Code complete: 1 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 1 returned.
+I[08:53:04.470] --> reply:textDocument/completion(71) 3 ms
+I[08:53:04.472] <-- textDocument/documentHighlight(72)
+I[08:53:04.472] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:04.472] ASTWorker building file /home/thesynthax/test.c version 20 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:04.473] --> textDocument/clangd.fileStatus
+I[08:53:04.476] --> reply:textDocument/documentHighlight(72) 4 ms
+I[08:53:04.476] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:04.476] --> textDocument/publishDiagnostics
+I[08:53:04.476] --> textDocument/clangd.fileStatus
+I[08:53:04.550] <-- textDocument/didChange
+I[08:53:04.550] --> textDocument/clangd.fileStatus
+I[08:53:04.600] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:04.600] ASTWorker building file /home/thesynthax/test.c version 21 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:04.601] --> textDocument/clangd.fileStatus
+I[08:53:04.601] --> textDocument/clangd.fileStatus
+I[08:53:04.601] --> textDocument/clangd.fileStatus
+I[08:53:04.604] --> textDocument/publishDiagnostics
+I[08:53:04.604] --> textDocument/clangd.fileStatus
+I[08:53:04.669] <-- textDocument/semanticTokens/full/delta(73)
+I[08:53:04.669] --> reply:textDocument/semanticTokens/full/delta(73) 0 ms
+I[08:53:04.669] --> textDocument/clangd.fileStatus
+I[08:53:04.896] <-- textDocument/documentSymbol(74)
+I[08:53:04.896] --> reply:textDocument/documentSymbol(74) 0 ms
+I[08:53:04.897] --> textDocument/clangd.fileStatus
+I[08:53:05.129] <-- textDocument/didChange
+I[08:53:05.129] --> textDocument/clangd.fileStatus
+I[08:53:05.131] <-- textDocument/documentHighlight(75)
+I[08:53:05.131] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:05.131] ASTWorker building file /home/thesynthax/test.c version 22 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:05.131] --> textDocument/clangd.fileStatus
+I[08:53:05.134] --> reply:textDocument/documentHighlight(75) 2 ms
+I[08:53:05.134] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:05.134] --> textDocument/publishDiagnostics
+I[08:53:05.134] --> textDocument/clangd.fileStatus
+I[08:53:05.301] <-- textDocument/didChange
+I[08:53:05.301] --> textDocument/clangd.fileStatus
+I[08:53:05.313] <-- textDocument/documentHighlight(76)
+I[08:53:05.313] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:05.313] ASTWorker building file /home/thesynthax/test.c version 23 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:05.314] --> textDocument/clangd.fileStatus
+I[08:53:05.319] --> reply:textDocument/documentHighlight(76) 6 ms
+I[08:53:05.319] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:05.319] --> textDocument/publishDiagnostics
+I[08:53:05.319] --> textDocument/clangd.fileStatus
+I[08:53:05.426] <-- textDocument/didChange
+I[08:53:05.426] --> textDocument/clangd.fileStatus
+I[08:53:05.427] <-- textDocument/semanticTokens/full/delta(77)
+I[08:53:05.427] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:05.427] ASTWorker building file /home/thesynthax/test.c version 24 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:05.430] <-- textDocument/documentHighlight(78)
+I[08:53:05.430] --> textDocument/clangd.fileStatus
+I[08:53:05.442] --> reply:textDocument/semanticTokens/full/delta(77) 15 ms
+I[08:53:05.442] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:05.442] --> textDocument/publishDiagnostics
+I[08:53:05.442] --> reply:textDocument/documentHighlight(78) 12 ms
+I[08:53:05.442] --> textDocument/clangd.fileStatus
+I[08:53:05.596] <-- textDocument/didChange
+I[08:53:05.597] --> textDocument/clangd.fileStatus
+I[08:53:05.647] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:05.647] ASTWorker building file /home/thesynthax/test.c version 25 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:05.649] --> textDocument/clangd.fileStatus
+I[08:53:05.650] --> textDocument/clangd.fileStatus
+I[08:53:05.693] --> workspace/semanticTokens/refresh(15)
+I[08:53:05.693] --> textDocument/clangd.fileStatus
+I[08:53:05.694] <-- reply(15)
+I[08:53:05.696] <-- textDocument/semanticTokens/full/delta(79)
+I[08:53:05.697] --> textDocument/publishDiagnostics
+I[08:53:05.697] --> reply:textDocument/semanticTokens/full/delta(79) 1 ms
+I[08:53:05.697] --> textDocument/clangd.fileStatus
+I[08:53:05.836] <-- textDocument/didChange
+I[08:53:05.836] --> textDocument/clangd.fileStatus
+I[08:53:05.847] <-- textDocument/documentHighlight(80)
+I[08:53:05.847] <-- textDocument/completion(81)
+I[08:53:05.848] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:05.848] ASTWorker building file /home/thesynthax/test.c version 26 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:05.848] --> textDocument/clangd.fileStatus
+I[08:53:05.851] Code complete: sema context TopLevel, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:05.852] Code complete: 0 results from Sema, 1 from Index, 0 matched, 0 from identifiers, 1 returned.
+I[08:53:05.852] --> reply:textDocument/completion(81) 4 ms
+I[08:53:05.853] --> reply:textDocument/documentHighlight(80) 5 ms
+I[08:53:05.853] --> textDocument/clangd.fileStatus
+I[08:53:05.864] --> workspace/semanticTokens/refresh(16)
+I[08:53:05.864] --> textDocument/clangd.fileStatus
+I[08:53:05.868] --> textDocument/publishDiagnostics
+I[08:53:05.869] --> textDocument/clangd.fileStatus
+I[08:53:05.869] <-- reply(16)
+I[08:53:05.874] <-- textDocument/semanticTokens/full/delta(82)
+I[08:53:05.874] --> reply:textDocument/semanticTokens/full/delta(82) 0 ms
+I[08:53:05.874] --> textDocument/clangd.fileStatus
+I[08:53:06.128] <-- textDocument/codeAction(83)
+I[08:53:06.129] --> reply:textDocument/codeAction(83) 0 ms
+I[08:53:06.129] --> textDocument/clangd.fileStatus
+I[08:53:06.178] <-- textDocument/didChange
+I[08:53:06.178] --> textDocument/clangd.fileStatus
+I[08:53:06.178] <-- textDocument/completion(84)
+I[08:53:06.185] Code complete: sema context TopLevel, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:06.186] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[08:53:06.186] --> reply:textDocument/completion(84) 7 ms
+I[08:53:06.190] <-- textDocument/documentHighlight(85)
+I[08:53:06.190] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:06.191] ASTWorker building file /home/thesynthax/test.c version 27 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:06.192] --> textDocument/clangd.fileStatus
+I[08:53:06.196] --> reply:textDocument/documentHighlight(85) 5 ms
+I[08:53:06.196] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:06.196] --> textDocument/publishDiagnostics
+I[08:53:06.196] --> textDocument/clangd.fileStatus
+I[08:53:06.266] <-- textDocument/didChange
+I[08:53:06.266] --> textDocument/clangd.fileStatus
+I[08:53:06.268] <-- textDocument/completion(86)
+I[08:53:06.268] <-- textDocument/documentHighlight(87)
+I[08:53:06.268] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:06.268] ASTWorker building file /home/thesynthax/test.c version 28 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:06.269] --> textDocument/clangd.fileStatus
+I[08:53:06.272] Code complete: sema context TopLevel, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:06.272] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[08:53:06.272] --> reply:textDocument/completion(86) 3 ms
+I[08:53:06.273] --> reply:textDocument/documentHighlight(87) 5 ms
+I[08:53:06.273] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:06.273] --> textDocument/publishDiagnostics
+I[08:53:06.273] --> textDocument/clangd.fileStatus
+I[08:53:06.308] <-- textDocument/didChange
+I[08:53:06.308] --> textDocument/clangd.fileStatus
+I[08:53:06.310] <-- textDocument/documentHighlight(88)
+I[08:53:06.310] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:06.310] ASTWorker building file /home/thesynthax/test.c version 29 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:06.310] --> textDocument/clangd.fileStatus
+I[08:53:06.313] --> reply:textDocument/documentHighlight(88) 3 ms
+I[08:53:06.313] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:06.313] --> textDocument/publishDiagnostics
+I[08:53:06.313] --> textDocument/clangd.fileStatus
+I[08:53:06.323] <-- textDocument/completion(89)
+I[08:53:06.326] Code complete: sema context TopLevel, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:06.326] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[08:53:06.326] --> reply:textDocument/completion(89) 2 ms
+I[08:53:06.453] <-- textDocument/semanticTokens/full/delta(90)
+I[08:53:06.453] --> reply:textDocument/semanticTokens/full/delta(90) 0 ms
+I[08:53:06.453] --> textDocument/clangd.fileStatus
+I[08:53:06.570] <-- textDocument/codeAction(91)
+I[08:53:06.570] --> reply:textDocument/codeAction(91) 0 ms
+I[08:53:06.570] --> textDocument/clangd.fileStatus
+I[08:53:06.659] <-- textDocument/documentSymbol(92)
+I[08:53:06.660] --> reply:textDocument/documentSymbol(92) 0 ms
+I[08:53:06.660] --> textDocument/clangd.fileStatus
+I[08:53:06.792] <-- textDocument/didChange
+I[08:53:06.792] --> textDocument/clangd.fileStatus
+I[08:53:06.794] <-- textDocument/documentHighlight(93)
+I[08:53:06.794] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:06.794] ASTWorker building file /home/thesynthax/test.c version 30 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:06.795] --> textDocument/clangd.fileStatus
+I[08:53:06.797] --> reply:textDocument/documentHighlight(93) 3 ms
+I[08:53:06.797] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:06.797] --> textDocument/publishDiagnostics
+I[08:53:06.797] --> textDocument/clangd.fileStatus
+I[08:53:06.991] <-- textDocument/didChange
+I[08:53:06.991] --> textDocument/clangd.fileStatus
+I[08:53:07.000] <-- textDocument/documentHighlight(94)
+I[08:53:07.001] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:07.001] ASTWorker building file /home/thesynthax/test.c version 31 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:07.003] --> textDocument/clangd.fileStatus
+I[08:53:07.009] --> reply:textDocument/documentHighlight(94) 8 ms
+I[08:53:07.009] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:07.009] --> textDocument/publishDiagnostics
+I[08:53:07.009] --> textDocument/clangd.fileStatus
+I[08:53:07.089] <-- textDocument/semanticTokens/full/delta(95)
+I[08:53:07.089] --> reply:textDocument/semanticTokens/full/delta(95) 0 ms
+I[08:53:07.090] --> textDocument/clangd.fileStatus
+I[08:53:07.158] <-- textDocument/didChange
+I[08:53:07.158] --> textDocument/clangd.fileStatus
+I[08:53:07.163] <-- textDocument/documentHighlight(96)
+I[08:53:07.163] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:07.163] ASTWorker building file /home/thesynthax/test.c version 32 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:07.164] --> textDocument/clangd.fileStatus
+I[08:53:07.169] --> reply:textDocument/documentHighlight(96) 6 ms
+I[08:53:07.169] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:07.169] --> textDocument/publishDiagnostics
+I[08:53:07.169] --> textDocument/clangd.fileStatus
+I[08:53:07.276] <-- textDocument/didChange
+I[08:53:07.276] --> textDocument/clangd.fileStatus
+I[08:53:07.326] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:07.326] ASTWorker building file /home/thesynthax/test.c version 33 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:07.328] --> textDocument/clangd.fileStatus
+I[08:53:07.328] --> textDocument/clangd.fileStatus
+I[08:53:07.361] --> workspace/semanticTokens/refresh(17)
+I[08:53:07.361] --> textDocument/clangd.fileStatus
+I[08:53:07.361] <-- reply(17)
+I[08:53:07.364] --> textDocument/publishDiagnostics
+I[08:53:07.364] --> textDocument/clangd.fileStatus
+I[08:53:07.365] <-- textDocument/semanticTokens/full/delta(97)
+I[08:53:07.365] --> reply:textDocument/semanticTokens/full/delta(97) 0 ms
+I[08:53:07.365] --> textDocument/clangd.fileStatus
+I[08:53:07.624] <-- textDocument/documentSymbol(98)
+I[08:53:07.624] --> reply:textDocument/documentSymbol(98) 0 ms
+I[08:53:07.624] --> textDocument/clangd.fileStatus
+I[08:53:07.692] <-- textDocument/didChange
+I[08:53:07.692] --> textDocument/clangd.fileStatus
+I[08:53:07.698] <-- textDocument/completion(99)
+I[08:53:07.699] <-- textDocument/documentHighlight(100)
+I[08:53:07.699] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:07.699] ASTWorker building file /home/thesynthax/test.c version 34 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:07.700] --> textDocument/clangd.fileStatus
+I[08:53:07.703] Code complete: sema context TopLevel, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:07.703] Code complete: 3 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 3 returned.
+I[08:53:07.703] --> reply:textDocument/completion(99) 4 ms
+I[08:53:07.705] --> reply:textDocument/documentHighlight(100) 6 ms
+I[08:53:07.705] --> textDocument/clangd.fileStatus
+I[08:53:07.716] --> workspace/semanticTokens/refresh(18)
+I[08:53:07.716] --> textDocument/clangd.fileStatus
+I[08:53:07.717] <-- reply(18)
+I[08:53:07.720] --> textDocument/publishDiagnostics
+I[08:53:07.720] --> textDocument/clangd.fileStatus
+I[08:53:07.725] <-- textDocument/semanticTokens/full/delta(101)
+I[08:53:07.725] --> reply:textDocument/semanticTokens/full/delta(101) 0 ms
+I[08:53:07.725] --> textDocument/clangd.fileStatus
+I[08:53:07.769] <-- textDocument/didChange
+I[08:53:07.769] <-- textDocument/completion(102)
+I[08:53:07.769] --> textDocument/clangd.fileStatus
+I[08:53:07.771] Code complete: sema context TopLevel, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:07.772] Code complete: 2 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 2 returned.
+I[08:53:07.772] --> reply:textDocument/completion(102) 2 ms
+I[08:53:07.775] <-- textDocument/documentHighlight(103)
+I[08:53:07.775] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:07.776] ASTWorker building file /home/thesynthax/test.c version 35 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:07.776] --> textDocument/clangd.fileStatus
+I[08:53:07.779] --> reply:textDocument/documentHighlight(103) 3 ms
+I[08:53:07.779] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:07.779] --> textDocument/publishDiagnostics
+I[08:53:07.779] --> textDocument/clangd.fileStatus
+I[08:53:07.796] <-- textDocument/didChange
+I[08:53:07.796] <-- textDocument/completion(104)
+I[08:53:07.796] --> textDocument/clangd.fileStatus
+I[08:53:07.798] <-- textDocument/documentHighlight(105)
+I[08:53:07.798] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:07.798] ASTWorker building file /home/thesynthax/test.c version 36 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:07.798] --> textDocument/clangd.fileStatus
+I[08:53:07.799] Code complete: sema context TopLevel, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:07.799] Code complete: 1 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 1 returned.
+I[08:53:07.799] --> reply:textDocument/completion(104) 2 ms
+I[08:53:07.801] --> reply:textDocument/documentHighlight(105) 3 ms
+I[08:53:07.801] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:07.801] --> textDocument/publishDiagnostics
+I[08:53:07.801] --> textDocument/clangd.fileStatus
+I[08:53:07.918] <-- textDocument/didChange
+I[08:53:07.918] --> textDocument/clangd.fileStatus
+I[08:53:07.968] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:07.968] ASTWorker building file /home/thesynthax/test.c version 37 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:07.971] --> textDocument/clangd.fileStatus
+I[08:53:07.971] --> textDocument/clangd.fileStatus
+I[08:53:07.971] --> textDocument/clangd.fileStatus
+I[08:53:07.981] --> textDocument/publishDiagnostics
+I[08:53:07.981] --> textDocument/clangd.fileStatus
+I[08:53:08.068] <-- textDocument/semanticTokens/full/delta(106)
+I[08:53:08.068] --> reply:textDocument/semanticTokens/full/delta(106) 0 ms
+I[08:53:08.068] --> textDocument/clangd.fileStatus
+I[08:53:08.135] <-- textDocument/didChange
+I[08:53:08.136] --> textDocument/clangd.fileStatus
+I[08:53:08.142] <-- textDocument/completion(107)
+I[08:53:08.142] <-- textDocument/documentHighlight(108)
+I[08:53:08.142] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:08.142] ASTWorker building file /home/thesynthax/test.c version 38 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:08.143] --> textDocument/clangd.fileStatus
+I[08:53:08.147] Code complete: sema context SymbolOrNewName, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:08.147] Code complete: 0 results from Sema, 1 from Index, 0 matched, 0 from identifiers, 1 returned.
+I[08:53:08.147] --> reply:textDocument/completion(107) 5 ms
+I[08:53:08.148] --> reply:textDocument/documentHighlight(108) 6 ms
+I[08:53:08.148] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:08.148] --> textDocument/publishDiagnostics
+I[08:53:08.148] --> textDocument/clangd.fileStatus
+I[08:53:08.229] <-- textDocument/didChange
+I[08:53:08.229] <-- textDocument/completion(109)
+I[08:53:08.229] --> textDocument/clangd.fileStatus
+I[08:53:08.231] <-- textDocument/documentHighlight(110)
+I[08:53:08.231] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:08.231] ASTWorker building file /home/thesynthax/test.c version 39 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:08.232] --> textDocument/clangd.fileStatus
+I[08:53:08.233] Code complete: sema context SymbolOrNewName, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:08.233] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[08:53:08.233] --> reply:textDocument/completion(109) 3 ms
+I[08:53:08.236] --> reply:textDocument/documentHighlight(110) 4 ms
+I[08:53:08.236] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:08.236] --> textDocument/publishDiagnostics
+I[08:53:08.236] --> textDocument/clangd.fileStatus
+I[08:53:08.332] <-- textDocument/didChange
+I[08:53:08.332] --> textDocument/clangd.fileStatus
+I[08:53:08.351] <-- textDocument/documentHighlight(111)
+I[08:53:08.351] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:08.352] ASTWorker building file /home/thesynthax/test.c version 40 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:08.353] --> textDocument/clangd.fileStatus
+I[08:53:08.357] <-- textDocument/completion(112)
+I[08:53:08.358] --> reply:textDocument/documentHighlight(111) 6 ms
+I[08:53:08.358] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:08.358] --> textDocument/publishDiagnostics
+I[08:53:08.358] --> textDocument/clangd.fileStatus
+I[08:53:08.360] Code complete: sema context SymbolOrNewName, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:08.360] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[08:53:08.360] --> reply:textDocument/completion(112) 3 ms
+I[08:53:08.364] <-- textDocument/didChange
+I[08:53:08.364] --> textDocument/clangd.fileStatus
+I[08:53:08.365] <-- textDocument/documentHighlight(113)
+I[08:53:08.365] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:08.366] ASTWorker building file /home/thesynthax/test.c version 41 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:08.366] --> textDocument/clangd.fileStatus
+I[08:53:08.370] --> reply:textDocument/documentHighlight(113) 4 ms
+I[08:53:08.370] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:08.370] --> textDocument/publishDiagnostics
+I[08:53:08.370] --> textDocument/clangd.fileStatus
+I[08:53:08.417] <-- textDocument/semanticTokens/full/delta(114)
+I[08:53:08.418] --> reply:textDocument/semanticTokens/full/delta(114) 0 ms
+I[08:53:08.418] --> textDocument/clangd.fileStatus
+I[08:53:08.630] <-- textDocument/codeAction(115)
+I[08:53:08.630] --> reply:textDocument/codeAction(115) 0 ms
+I[08:53:08.630] --> textDocument/clangd.fileStatus
+I[08:53:08.714] <-- textDocument/documentSymbol(116)
+I[08:53:08.714] --> reply:textDocument/documentSymbol(116) 0 ms
+I[08:53:08.714] --> textDocument/clangd.fileStatus
+I[08:53:09.030] <-- textDocument/didChange
+I[08:53:09.030] --> textDocument/clangd.fileStatus
+I[08:53:09.080] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:09.080] ASTWorker building file /home/thesynthax/test.c version 42 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:09.081] --> textDocument/clangd.fileStatus
+I[08:53:09.082] --> textDocument/clangd.fileStatus
+I[08:53:09.082] --> textDocument/clangd.fileStatus
+I[08:53:09.086] --> textDocument/publishDiagnostics
+I[08:53:09.086] --> textDocument/clangd.fileStatus
+I[08:53:09.096] <-- textDocument/didChange
+I[08:53:09.096] --> textDocument/clangd.fileStatus
+I[08:53:09.146] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:09.146] ASTWorker building file /home/thesynthax/test.c version 43 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:09.148] --> textDocument/clangd.fileStatus
+I[08:53:09.148] --> textDocument/clangd.fileStatus
+I[08:53:09.149] --> textDocument/clangd.fileStatus
+I[08:53:09.149] --> textDocument/clangd.fileStatus
+I[08:53:09.215] <-- textDocument/signatureHelp(117)
+I[08:53:09.225] --> reply:textDocument/signatureHelp(117) 9 ms
+I[08:53:09.306] <-- textDocument/semanticTokens/full/delta(118)
+I[08:53:09.306] --> reply:textDocument/semanticTokens/full/delta(118) 0 ms
+I[08:53:09.306] --> textDocument/clangd.fileStatus
+I[08:53:09.349] <-- textDocument/codeAction(119)
+I[08:53:09.349] --> reply:textDocument/codeAction(119) 0 ms
+I[08:53:09.350] --> textDocument/clangd.fileStatus
+I[08:53:09.438] <-- textDocument/didChange
+I[08:53:09.438] --> textDocument/clangd.fileStatus
+I[08:53:09.488] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:09.489] ASTWorker building file /home/thesynthax/test.c version 44 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:09.491] --> textDocument/clangd.fileStatus
+I[08:53:09.491] --> textDocument/clangd.fileStatus
+I[08:53:09.491] --> textDocument/clangd.fileStatus
+I[08:53:09.501] --> textDocument/publishDiagnostics
+I[08:53:09.501] --> textDocument/clangd.fileStatus
+I[08:53:09.717] <-- textDocument/semanticTokens/full/delta(120)
+I[08:53:09.718] --> reply:textDocument/semanticTokens/full/delta(120) 0 ms
+I[08:53:09.718] --> textDocument/clangd.fileStatus
+I[08:53:09.770] <-- textDocument/documentSymbol(121)
+I[08:53:09.770] --> reply:textDocument/documentSymbol(121) 0 ms
+I[08:53:09.770] --> textDocument/clangd.fileStatus
+I[08:53:10.421] <-- textDocument/documentLink(122)
+I[08:53:10.421] --> reply:textDocument/documentLink(122) 0 ms
+I[08:53:10.421] --> textDocument/clangd.fileStatus
+I[08:53:10.434] <-- textDocument/didChange
+I[08:53:10.434] --> textDocument/clangd.fileStatus
+I[08:53:10.484] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:10.484] ASTWorker building file /home/thesynthax/test.c version 45 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:10.487] --> textDocument/clangd.fileStatus
+I[08:53:10.487] --> textDocument/clangd.fileStatus
+I[08:53:10.487] --> textDocument/clangd.fileStatus
+I[08:53:10.497] --> textDocument/publishDiagnostics
+I[08:53:10.497] --> textDocument/clangd.fileStatus
+I[08:53:10.553] <-- textDocument/signatureHelp(123)
+I[08:53:10.558] --> reply:textDocument/signatureHelp(123) 4 ms
+I[08:53:10.733] <-- textDocument/semanticTokens/full/delta(124)
+I[08:53:10.733] --> reply:textDocument/semanticTokens/full/delta(124) 0 ms
+I[08:53:10.733] --> textDocument/clangd.fileStatus
+I[08:53:10.761] <-- textDocument/codeAction(125)
+I[08:53:10.762] --> reply:textDocument/codeAction(125) 0 ms
+I[08:53:10.762] --> textDocument/clangd.fileStatus
+I[08:53:10.783] <-- textDocument/documentSymbol(126)
+I[08:53:10.783] --> reply:textDocument/documentSymbol(126) 0 ms
+I[08:53:10.784] --> textDocument/clangd.fileStatus
+I[08:53:10.814] <-- textDocument/didChange
+I[08:53:10.814] --> textDocument/clangd.fileStatus
+I[08:53:10.864] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:10.864] ASTWorker building file /home/thesynthax/test.c version 46 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:10.866] --> textDocument/clangd.fileStatus
+I[08:53:10.866] --> textDocument/clangd.fileStatus
+I[08:53:10.866] --> textDocument/clangd.fileStatus
+I[08:53:10.874] --> textDocument/publishDiagnostics
+I[08:53:10.874] --> textDocument/clangd.fileStatus
+I[08:53:11.078] <-- textDocument/didChange
+I[08:53:11.078] --> textDocument/clangd.fileStatus
+I[08:53:11.111] <-- textDocument/semanticTokens/full/delta(127)
+I[08:53:11.111] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:11.112] ASTWorker building file /home/thesynthax/test.c version 47 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:11.114] --> textDocument/clangd.fileStatus
+I[08:53:11.126] --> reply:textDocument/semanticTokens/full/delta(127) 15 ms
+I[08:53:11.126] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:11.127] --> textDocument/publishDiagnostics
+I[08:53:11.127] --> textDocument/clangd.fileStatus
+I[08:53:11.410] <-- textDocument/documentSymbol(128)
+I[08:53:11.410] --> reply:textDocument/documentSymbol(128) 0 ms
+I[08:53:11.410] --> textDocument/clangd.fileStatus
+I[08:53:12.061] <-- textDocument/documentLink(129)
+I[08:53:12.061] --> reply:textDocument/documentLink(129) 0 ms
+I[08:53:12.061] --> textDocument/clangd.fileStatus
+I[08:53:12.107] <-- textDocument/didChange
+I[08:53:12.107] --> textDocument/clangd.fileStatus
+I[08:53:12.114] <-- textDocument/completion(130)
+I[08:53:12.114] <-- textDocument/documentHighlight(131)
+I[08:53:12.114] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:12.115] ASTWorker building file /home/thesynthax/test.c version 48 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:12.116] --> textDocument/clangd.fileStatus
+I[08:53:12.119] Code complete: sema context Statement, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:12.119] Code complete: 2 results from Sema, 5 from Index, 0 matched, 0 from identifiers, 7 returned.
+I[08:53:12.119] --> reply:textDocument/completion(130) 4 ms
+I[08:53:12.122] --> reply:textDocument/documentHighlight(131) 7 ms
+I[08:53:12.122] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:12.122] --> textDocument/publishDiagnostics
+I[08:53:12.122] --> textDocument/clangd.fileStatus
+I[08:53:12.172] <-- textDocument/didChange
+I[08:53:12.172] <-- textDocument/completion(132)
+I[08:53:12.172] --> textDocument/clangd.fileStatus
+I[08:53:12.174] <-- textDocument/documentHighlight(133)
+I[08:53:12.174] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:12.174] ASTWorker building file /home/thesynthax/test.c version 49 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:12.175] --> textDocument/clangd.fileStatus
+I[08:53:12.175] Code complete: sema context Statement, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:12.175] Code complete: 2 results from Sema, 4 from Index, 0 matched, 0 from identifiers, 6 returned.
+I[08:53:12.175] --> reply:textDocument/completion(132) 2 ms
+I[08:53:12.177] --> reply:textDocument/documentHighlight(133) 3 ms
+I[08:53:12.177] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:12.177] --> textDocument/publishDiagnostics
+I[08:53:12.177] --> textDocument/clangd.fileStatus
+I[08:53:12.339] <-- textDocument/didChange
+I[08:53:12.339] <-- textDocument/completion(134)
+I[08:53:12.339] --> textDocument/clangd.fileStatus
+I[08:53:12.345] Code complete: sema context Statement, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:12.345] Code complete: 1 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 1 returned.
+I[08:53:12.346] --> reply:textDocument/completion(134) 6 ms
+I[08:53:12.346] <-- textDocument/documentHighlight(135)
+I[08:53:12.346] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:12.347] ASTWorker building file /home/thesynthax/test.c version 50 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:12.348] --> textDocument/clangd.fileStatus
+I[08:53:12.353] --> reply:textDocument/documentHighlight(135) 7 ms
+I[08:53:12.353] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:12.353] --> textDocument/publishDiagnostics
+I[08:53:12.354] --> textDocument/clangd.fileStatus
+I[08:53:12.383] <-- textDocument/semanticTokens/full/delta(136)
+I[08:53:12.383] --> reply:textDocument/semanticTokens/full/delta(136) 0 ms
+I[08:53:12.383] --> textDocument/clangd.fileStatus
+I[08:53:12.430] <-- textDocument/didChange
+I[08:53:12.430] <-- textDocument/completion(137)
+I[08:53:12.430] --> textDocument/clangd.fileStatus
+I[08:53:12.433] <-- textDocument/documentHighlight(138)
+I[08:53:12.433] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:12.433] ASTWorker building file /home/thesynthax/test.c version 51 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:12.434] --> textDocument/clangd.fileStatus
+I[08:53:12.436] Code complete: sema context Statement, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:12.436] Code complete: 1 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 1 returned.
+I[08:53:12.436] --> reply:textDocument/completion(137) 5 ms
+I[08:53:12.440] --> reply:textDocument/documentHighlight(138) 7 ms
+I[08:53:12.440] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:12.440] --> textDocument/publishDiagnostics
+I[08:53:12.440] --> textDocument/clangd.fileStatus
+I[08:53:12.531] <-- textDocument/didChange
+I[08:53:12.531] <-- textDocument/completion(139)
+I[08:53:12.531] --> textDocument/clangd.fileStatus
+I[08:53:12.533] <-- textDocument/documentHighlight(140)
+I[08:53:12.533] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:12.534] ASTWorker building file /home/thesynthax/test.c version 52 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:12.535] --> textDocument/clangd.fileStatus
+I[08:53:12.536] Code complete: sema context Statement, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:12.536] Code complete: 1 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 1 returned.
+I[08:53:12.536] --> reply:textDocument/completion(139) 5 ms
+I[08:53:12.540] --> reply:textDocument/documentHighlight(140) 6 ms
+I[08:53:12.540] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:12.540] --> textDocument/publishDiagnostics
+I[08:53:12.540] --> textDocument/clangd.fileStatus
+I[08:53:12.653] <-- textDocument/didChange
+I[08:53:12.653] <-- textDocument/completion(141)
+I[08:53:12.653] --> textDocument/clangd.fileStatus
+I[08:53:12.664] Code complete: sema context Statement, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:12.664] Code complete: 1 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 1 returned.
+I[08:53:12.664] --> reply:textDocument/completion(141) 11 ms
+I[08:53:12.681] <-- textDocument/documentHighlight(142)
+I[08:53:12.682] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:12.682] ASTWorker building file /home/thesynthax/test.c version 53 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:12.683] --> textDocument/clangd.fileStatus
+I[08:53:12.689] --> reply:textDocument/documentHighlight(142) 7 ms
+I[08:53:12.689] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:12.689] --> textDocument/publishDiagnostics
+I[08:53:12.689] --> textDocument/clangd.fileStatus
+I[08:53:12.728] <-- textDocument/semanticTokens/full/delta(143)
+I[08:53:12.728] --> reply:textDocument/semanticTokens/full/delta(143) 0 ms
+I[08:53:12.728] --> textDocument/clangd.fileStatus
+I[08:53:12.854] <-- textDocument/didChange
+I[08:53:12.855] --> textDocument/clangd.fileStatus
+I[08:53:12.905] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:12.905] ASTWorker building file /home/thesynthax/test.c version 54 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:12.907] --> textDocument/clangd.fileStatus
+I[08:53:12.908] --> textDocument/clangd.fileStatus
+I[08:53:12.908] --> textDocument/clangd.fileStatus
+I[08:53:12.916] --> textDocument/publishDiagnostics
+I[08:53:12.916] --> textDocument/clangd.fileStatus
+I[08:53:13.135] <-- textDocument/semanticTokens/full/delta(144)
+I[08:53:13.135] --> reply:textDocument/semanticTokens/full/delta(144) 0 ms
+I[08:53:13.135] --> textDocument/clangd.fileStatus
+I[08:53:13.165] <-- textDocument/didChange
+I[08:53:13.165] --> textDocument/clangd.fileStatus
+I[08:53:13.178] <-- textDocument/documentHighlight(145)
+I[08:53:13.178] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:13.178] ASTWorker building file /home/thesynthax/test.c version 55 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:13.179] --> textDocument/clangd.fileStatus
+I[08:53:13.184] --> reply:textDocument/documentHighlight(145) 6 ms
+I[08:53:13.184] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:13.184] --> textDocument/publishDiagnostics
+I[08:53:13.184] --> textDocument/clangd.fileStatus
+I[08:53:13.443] <-- textDocument/codeAction(146)
+I[08:53:13.443] --> reply:textDocument/codeAction(146) 0 ms
+I[08:53:13.443] --> textDocument/clangd.fileStatus
+I[08:53:13.459] <-- textDocument/semanticTokens/full/delta(147)
+I[08:53:13.460] --> reply:textDocument/semanticTokens/full/delta(147) 0 ms
+I[08:53:13.460] --> textDocument/clangd.fileStatus
+I[08:53:13.512] <-- textDocument/didChange
+I[08:53:13.512] --> textDocument/clangd.fileStatus
+I[08:53:13.562] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:13.562] ASTWorker building file /home/thesynthax/test.c version 56 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:13.565] --> textDocument/clangd.fileStatus
+I[08:53:13.565] --> textDocument/clangd.fileStatus
+I[08:53:13.565] --> textDocument/clangd.fileStatus
+I[08:53:13.579] --> textDocument/publishDiagnostics
+I[08:53:13.579] --> textDocument/clangd.fileStatus
+I[08:53:13.807] <-- textDocument/semanticTokens/full/delta(148)
+I[08:53:13.807] --> reply:textDocument/semanticTokens/full/delta(148) 0 ms
+I[08:53:13.807] --> textDocument/clangd.fileStatus
+I[08:53:13.837] <-- textDocument/codeAction(149)
+I[08:53:13.837] --> reply:textDocument/codeAction(149) 0 ms
+I[08:53:13.837] --> textDocument/clangd.fileStatus
+I[08:53:13.857] <-- textDocument/documentSymbol(150)
+I[08:53:13.858] --> reply:textDocument/documentSymbol(150) 0 ms
+I[08:53:13.858] --> textDocument/clangd.fileStatus
+I[08:53:14.508] <-- textDocument/documentLink(151)
+I[08:53:14.508] --> reply:textDocument/documentLink(151) 0 ms
+I[08:53:14.509] --> textDocument/clangd.fileStatus
+I[08:53:14.759] <-- textDocument/inlayHint(152)
+I[08:53:14.759] --> reply:textDocument/inlayHint(152) 0 ms
+I[08:53:14.759] --> textDocument/clangd.fileStatus
+I[08:53:14.818] <-- textDocument/didChange
+I[08:53:14.818] --> textDocument/clangd.fileStatus
+I[08:53:14.868] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:14.868] ASTWorker building file /home/thesynthax/test.c version 57 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:14.871] --> textDocument/clangd.fileStatus
+I[08:53:14.871] --> textDocument/clangd.fileStatus
+I[08:53:14.871] --> textDocument/clangd.fileStatus
+I[08:53:14.880] --> textDocument/publishDiagnostics
+I[08:53:14.880] --> textDocument/clangd.fileStatus
+I[08:53:15.101] <-- textDocument/semanticTokens/full/delta(153)
+I[08:53:15.101] --> reply:textDocument/semanticTokens/full/delta(153) 0 ms
+I[08:53:15.101] --> textDocument/clangd.fileStatus
+I[08:53:15.153] <-- textDocument/documentSymbol(154)
+I[08:53:15.153] --> reply:textDocument/documentSymbol(154) 0 ms
+I[08:53:15.153] --> textDocument/clangd.fileStatus
+I[08:53:15.803] <-- textDocument/documentLink(155)
+I[08:53:15.803] --> reply:textDocument/documentLink(155) 0 ms
+I[08:53:15.803] --> textDocument/clangd.fileStatus
+I[08:53:16.053] <-- textDocument/inlayHint(156)
+I[08:53:16.053] --> reply:textDocument/inlayHint(156) 0 ms
+I[08:53:16.053] --> textDocument/clangd.fileStatus
+I[08:53:16.654] <-- textDocument/didChange
+I[08:53:16.654] --> textDocument/clangd.fileStatus
+I[08:53:16.665] <-- textDocument/completion(157)
+I[08:53:16.666] <-- textDocument/documentHighlight(158)
+I[08:53:16.666] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:16.666] ASTWorker building file /home/thesynthax/test.c version 58 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:16.668] --> textDocument/clangd.fileStatus
+I[08:53:16.672] Code complete: sema context Statement, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:16.673] Code complete: 1 results from Sema, 11 from Index, 0 matched, 0 from identifiers, 12 returned.
+I[08:53:16.673] --> reply:textDocument/completion(157) 7 ms
+I[08:53:16.675] --> reply:textDocument/documentHighlight(158) 8 ms
+I[08:53:16.675] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:16.675] --> textDocument/publishDiagnostics
+I[08:53:16.675] --> textDocument/clangd.fileStatus
+I[08:53:16.768] <-- textDocument/didChange
+I[08:53:16.768] <-- textDocument/completion(159)
+I[08:53:16.768] --> textDocument/clangd.fileStatus
+I[08:53:16.772] Code complete: sema context Statement, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:16.773] Code complete: 1 results from Sema, 1 from Index, 0 matched, 0 from identifiers, 2 returned.
+I[08:53:16.773] --> reply:textDocument/completion(159) 4 ms
+I[08:53:16.774] <-- textDocument/documentHighlight(160)
+I[08:53:16.775] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:16.775] ASTWorker building file /home/thesynthax/test.c version 59 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:16.776] --> textDocument/clangd.fileStatus
+I[08:53:16.780] --> reply:textDocument/documentHighlight(160) 5 ms
+I[08:53:16.780] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:16.780] --> textDocument/publishDiagnostics
+I[08:53:16.780] --> textDocument/clangd.fileStatus
+I[08:53:16.869] <-- textDocument/didChange
+I[08:53:16.869] --> textDocument/clangd.fileStatus
+I[08:53:16.869] <-- textDocument/completion(161)
+I[08:53:16.873] Code complete: sema context Statement, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:16.874] Code complete: 0 results from Sema, 1 from Index, 0 matched, 0 from identifiers, 1 returned.
+I[08:53:16.874] --> reply:textDocument/completion(161) 4 ms
+I[08:53:16.875] <-- textDocument/documentHighlight(162)
+I[08:53:16.875] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:16.875] ASTWorker building file /home/thesynthax/test.c version 60 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:16.876] --> textDocument/clangd.fileStatus
+I[08:53:16.880] --> reply:textDocument/documentHighlight(162) 5 ms
+I[08:53:16.880] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:16.880] --> textDocument/publishDiagnostics
+I[08:53:16.880] --> textDocument/clangd.fileStatus
+I[08:53:16.933] <-- textDocument/semanticTokens/full/delta(163)
+I[08:53:16.934] --> reply:textDocument/semanticTokens/full/delta(163) 0 ms
+I[08:53:16.934] --> textDocument/clangd.fileStatus
+I[08:53:16.999] <-- textDocument/didChange
+I[08:53:17.000] <-- textDocument/completion(164)
+I[08:53:17.000] --> textDocument/clangd.fileStatus
+I[08:53:17.009] Code complete: sema context Statement, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:17.009] Code complete: 0 results from Sema, 1 from Index, 0 matched, 0 from identifiers, 1 returned.
+I[08:53:17.010] --> reply:textDocument/completion(164) 9 ms
+I[08:53:17.017] <-- textDocument/documentHighlight(165)
+I[08:53:17.017] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:17.017] ASTWorker building file /home/thesynthax/test.c version 61 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:17.019] --> textDocument/clangd.fileStatus
+I[08:53:17.026] --> reply:textDocument/documentHighlight(165) 8 ms
+I[08:53:17.026] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:17.026] --> textDocument/publishDiagnostics
+I[08:53:17.026] --> textDocument/clangd.fileStatus
+I[08:53:17.058] <-- textDocument/didChange
+I[08:53:17.058] <-- textDocument/completion(166)
+I[08:53:17.058] --> textDocument/clangd.fileStatus
+I[08:53:17.059] <-- textDocument/documentHighlight(167)
+I[08:53:17.059] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:17.059] ASTWorker building file /home/thesynthax/test.c version 62 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:17.060] --> textDocument/clangd.fileStatus
+I[08:53:17.060] Code complete: sema context Statement, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:17.061] Code complete: 0 results from Sema, 1 from Index, 0 matched, 0 from identifiers, 1 returned.
+I[08:53:17.061] --> reply:textDocument/completion(166) 2 ms
+I[08:53:17.063] --> reply:textDocument/documentHighlight(167) 3 ms
+I[08:53:17.063] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:17.063] --> textDocument/publishDiagnostics
+I[08:53:17.063] --> textDocument/clangd.fileStatus
+I[08:53:17.299] <-- textDocument/didChange
+I[08:53:17.299] --> textDocument/clangd.fileStatus
+I[08:53:17.299] <-- textDocument/completion(168)
+I[08:53:17.301] <-- textDocument/semanticTokens/full/delta(169)
+I[08:53:17.301] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:17.301] ASTWorker building file /home/thesynthax/test.c version 63 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:17.305] --> textDocument/clangd.fileStatus
+I[08:53:17.313] Code complete: sema context Statement, query scopes [] (AnyScope=true), expected type <none>
+I[08:53:17.314] Code complete: 1 results from Sema, 1 from Index, 1 matched, 0 from identifiers, 1 returned.
+I[08:53:17.314] --> reply:textDocument/completion(168) 14 ms
+I[08:53:17.317] --> reply:textDocument/semanticTokens/full/delta(169) 16 ms
+I[08:53:17.318] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:17.318] --> textDocument/publishDiagnostics
+I[08:53:17.318] --> textDocument/clangd.fileStatus
+I[08:53:17.319] <-- textDocument/documentHighlight(170)
+I[08:53:17.319] --> reply:textDocument/documentHighlight(170) 0 ms
+I[08:53:17.319] --> textDocument/clangd.fileStatus
+I[08:53:17.584] <-- textDocument/codeAction(171)
+I[08:53:17.584] --> reply:textDocument/codeAction(171) 0 ms
+I[08:53:17.585] --> textDocument/clangd.fileStatus
+I[08:53:17.645] <-- textDocument/documentSymbol(172)
+I[08:53:17.645] --> reply:textDocument/documentSymbol(172) 0 ms
+I[08:53:17.645] --> textDocument/clangd.fileStatus
+I[08:53:17.837] <-- textDocument/didChange
+I[08:53:17.837] --> textDocument/clangd.fileStatus
+I[08:53:17.887] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:17.887] ASTWorker building file /home/thesynthax/test.c version 64 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:17.890] --> textDocument/clangd.fileStatus
+I[08:53:17.890] --> textDocument/clangd.fileStatus
+I[08:53:17.890] --> textDocument/clangd.fileStatus
+I[08:53:17.902] --> textDocument/publishDiagnostics
+I[08:53:17.902] --> textDocument/clangd.fileStatus
+I[08:53:17.917] <-- textDocument/signatureHelp(173)
+I[08:53:17.927] --> reply:textDocument/signatureHelp(173) 9 ms
+I[08:53:18.068] <-- textDocument/semanticTokens/full/delta(174)
+I[08:53:18.069] --> reply:textDocument/semanticTokens/full/delta(174) 0 ms
+I[08:53:18.069] --> textDocument/clangd.fileStatus
+I[08:53:18.120] <-- textDocument/documentSymbol(175)
+I[08:53:18.121] --> reply:textDocument/documentSymbol(175) 0 ms
+I[08:53:18.121] --> textDocument/clangd.fileStatus
+I[08:53:18.165] <-- textDocument/codeAction(176)
+I[08:53:18.166] --> reply:textDocument/codeAction(176) 0 ms
+I[08:53:18.166] --> textDocument/clangd.fileStatus
+I[08:53:18.436] <-- textDocument/didChange
+I[08:53:18.437] --> textDocument/clangd.fileStatus
+I[08:53:18.437] <-- textDocument/completion(177)
+I[08:53:18.437] --> reply:textDocument/completion(177) 0 ms
+I[08:53:18.487] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:18.487] ASTWorker building file /home/thesynthax/test.c version 65 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:18.489] --> textDocument/clangd.fileStatus
+I[08:53:18.490] --> textDocument/clangd.fileStatus
+I[08:53:18.490] --> textDocument/clangd.fileStatus
+I[08:53:18.501] --> textDocument/publishDiagnostics
+I[08:53:18.502] --> textDocument/clangd.fileStatus
+I[08:53:18.553] <-- textDocument/signatureHelp(178)
+I[08:53:18.562] --> reply:textDocument/signatureHelp(178) 8 ms
+I[08:53:18.734] <-- textDocument/didChange
+I[08:53:18.734] --> textDocument/clangd.fileStatus
+I[08:53:18.735] <-- textDocument/semanticTokens/full/delta(179)
+I[08:53:18.735] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:18.736] ASTWorker building file /home/thesynthax/test.c version 66 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:18.738] --> textDocument/clangd.fileStatus
+I[08:53:18.749] --> reply:textDocument/semanticTokens/full/delta(179) 13 ms
+I[08:53:18.749] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:18.749] --> textDocument/publishDiagnostics
+I[08:53:18.749] --> textDocument/clangd.fileStatus
+I[08:53:18.759] <-- textDocument/documentHighlight(180)
+I[08:53:18.760] --> reply:textDocument/documentHighlight(180) 0 ms
+I[08:53:18.760] --> textDocument/clangd.fileStatus
+I[08:53:18.849] <-- textDocument/signatureHelp(181)
+I[08:53:18.856] --> reply:textDocument/signatureHelp(181) 6 ms
+I[08:53:18.956] <-- textDocument/didChange
+I[08:53:18.956] --> textDocument/clangd.fileStatus
+I[08:53:18.962] <-- textDocument/documentHighlight(182)
+I[08:53:18.962] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:18.963] ASTWorker building file /home/thesynthax/test.c version 67 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:18.964] --> textDocument/clangd.fileStatus
+I[08:53:18.968] --> reply:textDocument/documentHighlight(182) 5 ms
+I[08:53:18.968] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:18.968] --> textDocument/publishDiagnostics
+I[08:53:18.968] --> textDocument/clangd.fileStatus
+I[08:53:19.064] <-- textDocument/signatureHelp(183)
+I[08:53:19.074] --> reply:textDocument/signatureHelp(183) 9 ms
+I[08:53:19.092] <-- textDocument/didChange
+I[08:53:19.093] --> textDocument/clangd.fileStatus
+I[08:53:19.106] <-- textDocument/documentHighlight(184)
+I[08:53:19.106] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:19.107] ASTWorker building file /home/thesynthax/test.c version 68 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:19.107] --> textDocument/clangd.fileStatus
+I[08:53:19.112] --> reply:textDocument/documentHighlight(184) 5 ms
+I[08:53:19.112] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:19.112] --> textDocument/publishDiagnostics
+I[08:53:19.112] --> textDocument/clangd.fileStatus
+I[08:53:19.190] <-- textDocument/signatureHelp(185)
+I[08:53:19.199] --> reply:textDocument/signatureHelp(185) 9 ms
+I[08:53:19.231] <-- textDocument/didChange
+I[08:53:19.231] --> textDocument/clangd.fileStatus
+I[08:53:19.234] <-- textDocument/documentHighlight(186)
+I[08:53:19.234] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:19.234] ASTWorker building file /home/thesynthax/test.c version 69 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:19.236] --> textDocument/clangd.fileStatus
+I[08:53:19.242] --> reply:textDocument/documentHighlight(186) 8 ms
+I[08:53:19.242] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:19.242] --> textDocument/publishDiagnostics
+I[08:53:19.243] --> textDocument/clangd.fileStatus
+I[08:53:19.247] <-- textDocument/semanticTokens/full/delta(187)
+I[08:53:19.248] --> reply:textDocument/semanticTokens/full/delta(187) 0 ms
+I[08:53:19.248] --> textDocument/clangd.fileStatus
+I[08:53:19.364] <-- textDocument/didChange
+I[08:53:19.364] --> textDocument/clangd.fileStatus
+I[08:53:19.414] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:19.414] ASTWorker building file /home/thesynthax/test.c version 70 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:19.416] --> textDocument/clangd.fileStatus
+I[08:53:19.416] --> textDocument/clangd.fileStatus
+I[08:53:19.416] --> textDocument/clangd.fileStatus
+I[08:53:19.422] --> textDocument/publishDiagnostics
+I[08:53:19.422] --> textDocument/clangd.fileStatus
+I[08:53:19.473] <-- textDocument/signatureHelp(188)
+I[08:53:19.482] --> reply:textDocument/signatureHelp(188) 9 ms
+I[08:53:19.536] <-- textDocument/didChange
+I[08:53:19.536] --> textDocument/clangd.fileStatus
+I[08:53:19.548] <-- textDocument/documentHighlight(189)
+I[08:53:19.548] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:19.548] ASTWorker building file /home/thesynthax/test.c version 71 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:19.549] --> textDocument/clangd.fileStatus
+I[08:53:19.553] --> reply:textDocument/documentHighlight(189) 5 ms
+I[08:53:19.553] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:19.553] --> textDocument/publishDiagnostics
+I[08:53:19.553] --> textDocument/clangd.fileStatus
+I[08:53:19.625] <-- textDocument/didChange
+I[08:53:19.625] --> textDocument/clangd.fileStatus
+I[08:53:19.628] <-- textDocument/documentHighlight(190)
+I[08:53:19.628] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:19.628] ASTWorker building file /home/thesynthax/test.c version 72 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:19.629] --> textDocument/clangd.fileStatus
+I[08:53:19.631] --> reply:textDocument/documentHighlight(190) 3 ms
+I[08:53:19.631] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:19.631] --> textDocument/publishDiagnostics
+I[08:53:19.631] --> textDocument/clangd.fileStatus
+I[08:53:19.650] <-- textDocument/semanticTokens/full/delta(191)
+I[08:53:19.650] --> reply:textDocument/semanticTokens/full/delta(191) 0 ms
+I[08:53:19.650] --> textDocument/clangd.fileStatus
+I[08:53:19.694] <-- textDocument/didChange
+I[08:53:19.695] --> textDocument/clangd.fileStatus
+I[08:53:19.696] <-- textDocument/documentHighlight(192)
+I[08:53:19.696] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:19.697] ASTWorker building file /home/thesynthax/test.c version 73 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:19.697] --> textDocument/clangd.fileStatus
+I[08:53:19.702] --> reply:textDocument/documentHighlight(192) 5 ms
+I[08:53:19.702] Skipping rebuild of the AST for /home/thesynthax/test.c, inputs are the same.
+I[08:53:19.702] --> textDocument/publishDiagnostics
+I[08:53:19.702] --> textDocument/clangd.fileStatus
+I[08:53:19.815] <-- textDocument/signatureHelp(193)
+I[08:53:19.824] --> reply:textDocument/signatureHelp(193) 9 ms
+I[08:53:19.962] <-- textDocument/codeAction(194)
+I[08:53:19.962] --> reply:textDocument/codeAction(194) 0 ms
+I[08:53:19.962] --> textDocument/clangd.fileStatus
+I[08:53:19.994] <-- textDocument/semanticTokens/full/delta(195)
+I[08:53:19.994] --> reply:textDocument/semanticTokens/full/delta(195) 0 ms
+I[08:53:19.994] --> textDocument/clangd.fileStatus
+I[08:53:20.045] <-- textDocument/documentSymbol(196)
+I[08:53:20.045] --> reply:textDocument/documentSymbol(196) 0 ms
+I[08:53:20.046] --> textDocument/clangd.fileStatus
+I[08:53:20.421] <-- textDocument/didChange
+I[08:53:20.421] --> textDocument/clangd.fileStatus
+I[08:53:20.471] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:20.471] ASTWorker building file /home/thesynthax/test.c version 74 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:20.474] --> textDocument/clangd.fileStatus
+I[08:53:20.474] --> textDocument/clangd.fileStatus
+I[08:53:20.474] --> textDocument/clangd.fileStatus
+I[08:53:20.485] --> textDocument/publishDiagnostics
+I[08:53:20.485] --> textDocument/clangd.fileStatus
+I[08:53:20.523] <-- textDocument/signatureHelp(197)
+I[08:53:20.532] --> reply:textDocument/signatureHelp(197) 9 ms
+I[08:53:20.711] <-- textDocument/semanticTokens/full/delta(198)
+I[08:53:20.711] --> reply:textDocument/semanticTokens/full/delta(198) 0 ms
+I[08:53:20.711] --> textDocument/clangd.fileStatus
+I[08:53:20.754] <-- textDocument/documentSymbol(199)
+I[08:53:20.754] --> reply:textDocument/documentSymbol(199) 0 ms
+I[08:53:20.754] --> textDocument/clangd.fileStatus
+I[08:53:20.805] <-- textDocument/signatureHelp(200)
+I[08:53:20.814] --> reply:textDocument/signatureHelp(200) 8 ms
+I[08:53:21.029] <-- textDocument/signatureHelp(201)
+I[08:53:21.038] --> reply:textDocument/signatureHelp(201) 9 ms
+I[08:53:21.158] <-- textDocument/codeAction(202)
+I[08:53:21.158] --> reply:textDocument/codeAction(202) 0 ms
+I[08:53:21.158] --> textDocument/clangd.fileStatus
+I[08:53:21.403] <-- textDocument/documentLink(203)
+I[08:53:21.403] --> reply:textDocument/documentLink(203) 0 ms
+I[08:53:21.403] --> textDocument/clangd.fileStatus
+I[08:53:21.641] <-- textDocument/didChange
+I[08:53:21.641] --> textDocument/clangd.fileStatus
+I[08:53:21.691] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:21.691] ASTWorker building file /home/thesynthax/test.c version 75 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:21.692] --> textDocument/clangd.fileStatus
+I[08:53:21.692] --> textDocument/clangd.fileStatus
+I[08:53:21.692] --> textDocument/clangd.fileStatus
+I[08:53:21.696] --> textDocument/publishDiagnostics
+I[08:53:21.696] --> textDocument/clangd.fileStatus
+I[08:53:21.942] <-- textDocument/semanticTokens/full/delta(204)
+I[08:53:21.942] --> reply:textDocument/semanticTokens/full/delta(204) 0 ms
+I[08:53:21.942] --> textDocument/clangd.fileStatus
+I[08:53:21.955] <-- textDocument/codeAction(205)
+I[08:53:21.955] --> reply:textDocument/codeAction(205) 0 ms
+I[08:53:21.955] --> textDocument/clangd.fileStatus
+I[08:53:21.992] <-- textDocument/documentSymbol(206)
+I[08:53:21.992] --> reply:textDocument/documentSymbol(206) 0 ms
+I[08:53:21.992] --> textDocument/clangd.fileStatus
+I[08:53:22.643] <-- textDocument/documentLink(207)
+I[08:53:22.644] --> reply:textDocument/documentLink(207) 0 ms
+I[08:53:22.644] --> textDocument/clangd.fileStatus
+I[08:53:22.892] <-- textDocument/inlayHint(208)
+I[08:53:22.892] --> reply:textDocument/inlayHint(208) 0 ms
+I[08:53:22.893] --> textDocument/clangd.fileStatus
+I[08:53:23.824] <-- textDocument/didSave
+I[08:53:23.824] File version went from 75 to 75
+I[08:53:23.824] --> textDocument/clangd.fileStatus
+I[08:53:23.874] Failed to find compilation database for /home/thesynthax/test.c
+I[08:53:23.874] ASTWorker building file /home/thesynthax/test.c version 75 with command clangd fallback
+[/home/thesynthax]
+/usr/bin/clang "-resource-dir=/home/thesynthax/dotfiles/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/lib/clang/15.0.6" -- /home/thesynthax/test.c
+I[08:53:23.874] --> textDocument/clangd.fileStatus
+I[08:53:23.874] --> textDocument/clangd.fileStatus
+I[08:53:23.874] --> textDocument/clangd.fileStatus
+I[08:53:23.874] --> textDocument/clangd.fileStatus
+I[08:54:15.409] <-- textDocument/codeAction(209)
+I[08:54:15.409] --> reply:textDocument/codeAction(209) 0 ms
+I[08:54:15.409] --> textDocument/clangd.fileStatus
+I[08:54:15.413] <-- textDocument/documentLink(210)
+I[08:54:15.413] <-- textDocument/inlayHint(211)
+I[08:54:15.413] --> reply:textDocument/documentLink(210) 0 ms
+I[08:54:15.413] --> reply:textDocument/inlayHint(211) 0 ms
+I[08:54:15.413] --> textDocument/clangd.fileStatus
+I[08:54:15.580] <-- $/setTrace
+I[08:54:15.580] unhandled notification $/setTrace
+I[08:54:15.638] <-- textDocument/codeAction(212)
+I[08:54:15.638] --> reply:textDocument/codeAction(212) 0 ms
+I[08:54:15.638] --> textDocument/clangd.fileStatus
+I[08:55:05.453] <-- $/setTrace
+I[08:55:05.453] unhandled notification $/setTrace
+I[08:56:04.680] <-- textDocument/codeAction(213)
+I[08:56:04.681] --> reply:textDocument/codeAction(213) 0 ms
+I[08:56:04.681] --> textDocument/clangd.fileStatus
+I[08:56:04.687] <-- textDocument/documentLink(214)
+I[08:56:04.687] <-- textDocument/inlayHint(215)
+I[08:56:04.687] --> reply:textDocument/documentLink(214) 0 ms
+I[08:56:04.687] --> reply:textDocument/inlayHint(215) 0 ms
+I[08:56:04.687] --> textDocument/clangd.fileStatus
+I[08:56:04.880] <-- textDocument/codeAction(216)
+I[08:56:04.881] --> reply:textDocument/codeAction(216) 0 ms
+I[08:56:04.881] --> textDocument/clangd.fileStatus
+I[08:56:14.342] <-- textDocument/codeAction(217)
+I[08:56:14.342] --> reply:textDocument/codeAction(217) 0 ms
+I[08:56:14.342] --> textDocument/clangd.fileStatus
+I[08:56:14.349] <-- textDocument/documentLink(218)
+I[08:56:14.350] <-- textDocument/inlayHint(219)
+I[08:56:14.350] --> reply:textDocument/documentLink(218) 0 ms
+I[08:56:14.350] --> reply:textDocument/inlayHint(219) 0 ms
+I[08:56:14.350] --> textDocument/clangd.fileStatus
+I[08:56:14.582] <-- textDocument/codeAction(220)
+I[08:56:14.582] --> reply:textDocument/codeAction(220) 0 ms
+I[08:56:14.583] --> textDocument/clangd.fileStatus

@@ -1,0 +1,49 @@
+{
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.colorCustomizations": {
+    
+        "editor.background": "#0D0303",
+        "editor.lineHighlightBackground": "#2e2d33",
+        "editorLineNumber.foreground": "#7b7985",
+
+        "sideBar.background": "#0D0303",
+        "list.hoverBackground": "#2e2d33",
+        "list.activeSelectionBackground": "#0D0303",
+        "list.inactiveSelectionBackground": "#0D0303",
+        "sideBarSectionHeader.background": "#0D0303",
+        
+
+        "titleBar.activeBackground": "#0D0303",
+        "titleBar.inactiveBackground": "#0D0303",
+
+        "activityBar.background": "#0D0303",
+
+        "statusBar.background": "#0D0303",
+        "statusBar.foreground": "#dfac9f",
+        "statusBar.noFolderBackground": "#0D0303",
+        
+        "button.background": "#2e2d33",
+
+        "menubar.selectionBorder": "#0D0303",
+
+        "tab.inactiveBackground": "#0D0303",
+        "editorGroupHeader.tabsBackground": "#0D0303",
+
+        "input.background": "#0D0303",
+        "input.border": "#0D0303",
+        "focusBorder": "#0D0303",
+
+        "terminal.background": "#0D0303",
+    },
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "omnisharp.path": "latest",
+    "omnisharp.useGlobalMono": "always",
+    "explorer.confirmDelete": false,
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 14.5,
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": true
+}

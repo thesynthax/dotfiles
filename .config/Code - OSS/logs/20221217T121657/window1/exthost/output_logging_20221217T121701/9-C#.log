@@ -1,0 +1,17 @@
+Installing C# dependencies...
+Platform: linux, x86_64, name=arch, version=unknown
+
+Downloading package 'OmniSharp for Linux (.NET 6 / x64)' (40810 KB).................... Done!
+Validating download...
+Integrity Check succeeded.
+Installing package 'OmniSharp for Linux (.NET 6 / x64)'
+
+Downloading package '.NET Core Debugger (linux / x64)' (3479 KB).................... Done!
+Installing package '.NET Core Debugger (linux / x64)'
+
+Downloading package 'Razor Language Server (Linux / x64)' (61682 KB).................... Done!
+Installing package 'Razor Language Server (Linux / x64)'
+
+Finished
+
+Failed to spawn 'dotnet --info'
