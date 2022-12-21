@@ -1,0 +1,341 @@
+2022-12-20 12:39:24.273 [error] Extension 'ms-vscode.cpptools CANNOT USE these API proposals 'terminalDataWriteEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2022-12-20 12:39:33.822 [info] [perf] Render performance baseline is 29ms
+2022-12-20 12:39:34.463 [error] Error while registering log channel file:///home/thesynthax/.config/Code%20-%20OSS/logs/20221220T123915/userDataSync.log Timed out while waiting for file to be created
+2022-12-20 12:44:07.836 [warning] [ms-dotnettools.csharp]: Cannot register 'csharp.format.enable'. This property is already registered.
+2022-12-20 12:44:07.836 [warning] [ms-dotnettools.csharp]: Cannot register 'csharp.suppressDotnetInstallWarning'. This property is already registered.
+2022-12-20 12:44:07.836 [warning] [ms-dotnettools.csharp]: Cannot register 'csharp.unitTestDebuggingOptions'. This property is already registered.
+2022-12-20 12:44:07.836 [warning] [ms-dotnettools.csharp]: Cannot register 'csharp.suppressDotnetRestoreNotification'. This property is already registered.
+2022-12-20 12:44:07.836 [warning] [ms-dotnettools.csharp]: Cannot register 'csharp.suppressProjectJsonWarning'. This property is already registered.
+2022-12-20 12:44:07.837 [warning] [ms-dotnettools.csharp]: Cannot register 'csharp.suppressBuildAssetsNotification'. This property is already registered.
+2022-12-20 12:44:07.837 [warning] [ms-dotnettools.csharp]: Cannot register 'csharp.suppressHiddenDiagnostics'. This property is already registered.
+2022-12-20 12:44:07.837 [warning] [ms-dotnettools.csharp]: Cannot register 'csharp.referencesCodeLens.enabled'. This property is already registered.
+2022-12-20 12:44:07.837 [warning] [ms-dotnettools.csharp]: Cannot register 'csharp.referencesCodeLens.filteredSymbols'. This property is already registered.
+2022-12-20 12:44:07.837 [warning] [ms-dotnettools.csharp]: Cannot register 'csharp.testsCodeLens.enabled'. This property is already registered.
+2022-12-20 12:44:07.838 [warning] [ms-dotnettools.csharp]: Cannot register 'csharp.maxProjectFileCountForDiagnosticAnalysis'. This property is already registered.
+2022-12-20 12:44:07.838 [warning] [ms-dotnettools.csharp]: Cannot register 'csharp.semanticHighlighting.enabled'. This property is already registered.
+2022-12-20 12:44:07.838 [warning] [ms-dotnettools.csharp]: Cannot register 'csharp.showOmnisharpLogOnError'. This property is already registered.
+2022-12-20 12:44:07.838 [warning] [ms-dotnettools.csharp]: Cannot register 'csharp.inlayHints.parameters.enabled'. This property is already registered.
+2022-12-20 12:44:07.838 [warning] [ms-dotnettools.csharp]: Cannot register 'csharp.inlayHints.parameters.forLiteralParameters'. This property is already registered.
+2022-12-20 12:44:07.839 [warning] [ms-dotnettools.csharp]: Cannot register 'csharp.inlayHints.parameters.forObjectCreationParameters'. This property is already registered.
+2022-12-20 12:44:07.839 [warning] [ms-dotnettools.csharp]: Cannot register 'csharp.inlayHints.parameters.forIndexerParameters'. This property is already registered.
+2022-12-20 12:44:07.839 [warning] [ms-dotnettools.csharp]: Cannot register 'csharp.inlayHints.parameters.forOtherParameters'. This property is already registered.
+2022-12-20 12:44:07.839 [warning] [ms-dotnettools.csharp]: Cannot register 'csharp.inlayHints.parameters.suppressForParametersThatDifferOnlyBySuffix'. This property is already registered.
+2022-12-20 12:44:07.839 [warning] [ms-dotnettools.csharp]: Cannot register 'csharp.inlayHints.parameters.suppressForParametersThatMatchMethodIntent'. This property is already registered.
+2022-12-20 12:44:07.839 [warning] [ms-dotnettools.csharp]: Cannot register 'csharp.inlayHints.parameters.suppressForParametersThatMatchArgumentName'. This property is already registered.
+2022-12-20 12:44:07.840 [warning] [ms-dotnettools.csharp]: Cannot register 'csharp.inlayHints.types.enabled'. This property is already registered.
+2022-12-20 12:44:07.840 [warning] [ms-dotnettools.csharp]: Cannot register 'csharp.inlayHints.types.forImplicitVariableTypes'. This property is already registered.
+2022-12-20 12:44:07.840 [warning] [ms-dotnettools.csharp]: Cannot register 'csharp.inlayHints.types.forLambdaParameterTypes'. This property is already registered.
+2022-12-20 12:44:07.840 [warning] [ms-dotnettools.csharp]: Cannot register 'csharp.inlayHints.types.forImplicitObjectCreation'. This property is already registered.
+2022-12-20 12:44:07.840 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.path'. This property is already registered.
+2022-12-20 12:44:07.841 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.useModernNet'. This property is already registered.
+2022-12-20 12:44:07.841 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.sdkPath'. This property is already registered.
+2022-12-20 12:44:07.841 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.sdkVersion'. This property is already registered.
+2022-12-20 12:44:07.841 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.sdkIncludePrereleases'. This property is already registered.
+2022-12-20 12:44:07.841 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.monoPath'. This property is already registered.
+2022-12-20 12:44:07.841 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.dotnetPath'. This property is already registered.
+2022-12-20 12:44:07.842 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.waitForDebugger'. This property is already registered.
+2022-12-20 12:44:07.842 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.loggingLevel'. This property is already registered.
+2022-12-20 12:44:07.842 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.autoStart'. This property is already registered.
+2022-12-20 12:44:07.842 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.projectLoadTimeout'. This property is already registered.
+2022-12-20 12:44:07.842 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.maxProjectResults'. This property is already registered.
+2022-12-20 12:44:07.842 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.defaultLaunchSolution'. This property is already registered.
+2022-12-20 12:44:07.843 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.useEditorFormattingSettings'. This property is already registered.
+2022-12-20 12:44:07.843 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.minFindSymbolsFilterLength'. This property is already registered.
+2022-12-20 12:44:07.843 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.maxFindSymbolsItems'. This property is already registered.
+2022-12-20 12:44:07.843 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.disableMSBuildDiagnosticWarning'. This property is already registered.
+2022-12-20 12:44:07.843 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.enableMsBuildLoadProjectsOnDemand'. This property is already registered.
+2022-12-20 12:44:07.843 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.enableRoslynAnalyzers'. This property is already registered.
+2022-12-20 12:44:07.844 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.enableEditorConfigSupport'. This property is already registered.
+2022-12-20 12:44:07.844 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.enableDecompilationSupport'. This property is already registered.
+2022-12-20 12:44:07.844 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.enableImportCompletion'. This property is already registered.
+2022-12-20 12:44:07.844 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.organizeImportsOnFormat'. This property is already registered.
+2022-12-20 12:44:07.844 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.enableAsyncCompletion'. This property is already registered.
+2022-12-20 12:44:07.844 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.analyzeOpenDocumentsOnly'. This property is already registered.
+2022-12-20 12:44:07.845 [warning] [ms-dotnettools.csharp]: Cannot register 'omnisharp.testRunSettings'. This property is already registered.
+2022-12-20 12:44:07.845 [warning] [ms-dotnettools.csharp]: Cannot register 'razor.plugin.path'. This property is already registered.
+2022-12-20 12:44:07.845 [warning] [ms-dotnettools.csharp]: Cannot register 'razor.devmode'. This property is already registered.
+2022-12-20 12:44:07.845 [warning] [ms-dotnettools.csharp]: Cannot register 'razor.disabled'. This property is already registered.
+2022-12-20 12:44:07.845 [warning] [ms-dotnettools.csharp]: Cannot register 'razor.languageServer.directory'. This property is already registered.
+2022-12-20 12:44:07.845 [warning] [ms-dotnettools.csharp]: Cannot register 'razor.languageServer.debug'. This property is already registered.
+2022-12-20 12:44:07.846 [warning] [ms-dotnettools.csharp]: Cannot register 'razor.trace'. This property is already registered.
+2022-12-20 12:44:07.846 [warning] [ms-dotnettools.csharp]: Cannot register 'razor.format.enable'. This property is already registered.
+2022-12-20 12:44:07.867 [info] [muhammad-sammy.csharp]: Command `o.restart` appears multiple times in the `commands` section.
+2022-12-20 12:44:07.868 [info] [muhammad-sammy.csharp]: Command `o.pickProjectAndStart` appears multiple times in the `commands` section.
+2022-12-20 12:44:07.868 [info] [muhammad-sammy.csharp]: Command `o.fixAll.solution` appears multiple times in the `commands` section.
+2022-12-20 12:44:07.868 [info] [muhammad-sammy.csharp]: Command `o.fixAll.project` appears multiple times in the `commands` section.
+2022-12-20 12:44:07.868 [info] [muhammad-sammy.csharp]: Command `o.fixAll.document` appears multiple times in the `commands` section.
+2022-12-20 12:44:07.868 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.allProjects` appears multiple times in the `commands` section.
+2022-12-20 12:44:07.869 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.currentProject` appears multiple times in the `commands` section.
+2022-12-20 12:44:07.869 [info] [muhammad-sammy.csharp]: Command `dotnet.generateAssets` appears multiple times in the `commands` section.
+2022-12-20 12:44:07.869 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.project` appears multiple times in the `commands` section.
+2022-12-20 12:44:07.869 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.all` appears multiple times in the `commands` section.
+2022-12-20 12:44:07.869 [info] [muhammad-sammy.csharp]: Command `csharp.downloadDebugger` appears multiple times in the `commands` section.
+2022-12-20 12:44:07.869 [info] [muhammad-sammy.csharp]: Command `csharp.listProcess` appears multiple times in the `commands` section.
+2022-12-20 12:44:07.870 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteProcess` appears multiple times in the `commands` section.
+2022-12-20 12:44:07.870 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteDockerProcess` appears multiple times in the `commands` section.
+2022-12-20 12:44:07.870 [info] [muhammad-sammy.csharp]: Command `csharp.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 12:44:07.871 [info] [muhammad-sammy.csharp]: Command `csharp.showDecompilationTerms` appears multiple times in the `commands` section.
+2022-12-20 12:44:07.871 [info] [muhammad-sammy.csharp]: Command `extension.showRazorCSharpWindow` appears multiple times in the `commands` section.
+2022-12-20 12:44:07.871 [info] [muhammad-sammy.csharp]: Command `extension.showRazorHtmlWindow` appears multiple times in the `commands` section.
+2022-12-20 12:44:07.871 [info] [muhammad-sammy.csharp]: Command `razor.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 12:44:07.871 [info] [muhammad-sammy.csharp]: Command `dotnet.test.runTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 12:44:07.872 [info] [muhammad-sammy.csharp]: Command `dotnet.test.debugTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 12:44:09.346 [error] a DebugAdapterDescriptorFactory can only be registered once per a type.: Error: a DebugAdapterDescriptorFactory can only be registered once per a type.
+    at w.registerDebugAdapterDescriptorFactory (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:8394)
+    at Object.registerDebugAdapterDescriptorFactory (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:49884)
+    at Object.<anonymous> (/home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-1.25.2-linux-x64/dist/extension.js:2:760957)
+    at Generator.next (<anonymous>)
+    at /home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-1.25.2-linux-x64/dist/extension.js:2:758246
+    at new Promise (<anonymous>)
+    at r (/home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-1.25.2-linux-x64/dist/extension.js:2:757991)
+    at Object.t.activate (/home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-1.25.2-linux-x64/dist/extension.js:2:760122)
+    at /home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-1.25.2-linux-x64/dist/extension.js:2:865733
+    at Generator.next (<anonymous>)
+    at s (/home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-1.25.2-linux-x64/dist/extension.js:2:861298)
+2022-12-20 12:44:09.346 [error] command 'omnisharp.registerLanguageMiddleware' already exists: Error: command 'omnisharp.registerLanguageMiddleware' already exists
+    at s.registerCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:106105)
+    at Object.registerCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:30012)
+    at t.LanguageMiddlewareFeature.register (/home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-1.25.2-linux-x64/dist/extension.js:2:904983)
+    at Object.<anonymous> (/home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-1.25.2-linux-x64/dist/extension.js:2:916830)
+    at Generator.next (<anonymous>)
+    at s (/home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-1.25.2-linux-x64/dist/extension.js:2:915738)
+2022-12-20 12:45:52.799 [info] [muhammad-sammy.csharp]: Command `o.restart` appears multiple times in the `commands` section.
+2022-12-20 12:45:52.800 [info] [muhammad-sammy.csharp]: Command `o.pickProjectAndStart` appears multiple times in the `commands` section.
+2022-12-20 12:45:52.800 [info] [muhammad-sammy.csharp]: Command `o.fixAll.solution` appears multiple times in the `commands` section.
+2022-12-20 12:45:52.800 [info] [muhammad-sammy.csharp]: Command `o.fixAll.project` appears multiple times in the `commands` section.
+2022-12-20 12:45:52.800 [info] [muhammad-sammy.csharp]: Command `o.fixAll.document` appears multiple times in the `commands` section.
+2022-12-20 12:45:52.800 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.allProjects` appears multiple times in the `commands` section.
+2022-12-20 12:45:52.800 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.currentProject` appears multiple times in the `commands` section.
+2022-12-20 12:45:52.800 [info] [muhammad-sammy.csharp]: Command `dotnet.generateAssets` appears multiple times in the `commands` section.
+2022-12-20 12:45:52.801 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.project` appears multiple times in the `commands` section.
+2022-12-20 12:45:52.801 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.all` appears multiple times in the `commands` section.
+2022-12-20 12:45:52.801 [info] [muhammad-sammy.csharp]: Command `csharp.downloadDebugger` appears multiple times in the `commands` section.
+2022-12-20 12:45:52.801 [info] [muhammad-sammy.csharp]: Command `csharp.listProcess` appears multiple times in the `commands` section.
+2022-12-20 12:45:52.801 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteProcess` appears multiple times in the `commands` section.
+2022-12-20 12:45:52.801 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteDockerProcess` appears multiple times in the `commands` section.
+2022-12-20 12:45:52.801 [info] [muhammad-sammy.csharp]: Command `csharp.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 12:45:52.801 [info] [muhammad-sammy.csharp]: Command `csharp.showDecompilationTerms` appears multiple times in the `commands` section.
+2022-12-20 12:45:52.802 [info] [muhammad-sammy.csharp]: Command `extension.showRazorCSharpWindow` appears multiple times in the `commands` section.
+2022-12-20 12:45:52.802 [info] [muhammad-sammy.csharp]: Command `extension.showRazorHtmlWindow` appears multiple times in the `commands` section.
+2022-12-20 12:45:52.802 [info] [muhammad-sammy.csharp]: Command `razor.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 12:45:52.802 [info] [muhammad-sammy.csharp]: Command `dotnet.test.runTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 12:45:52.802 [info] [muhammad-sammy.csharp]: Command `dotnet.test.debugTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 12:47:33.207 [error] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2022-12-20 12:47:33.228 [info] [muhammad-sammy.csharp]: Command `o.restart` appears multiple times in the `commands` section.
+2022-12-20 12:47:33.229 [info] [muhammad-sammy.csharp]: Command `o.pickProjectAndStart` appears multiple times in the `commands` section.
+2022-12-20 12:47:33.229 [info] [muhammad-sammy.csharp]: Command `o.fixAll.solution` appears multiple times in the `commands` section.
+2022-12-20 12:47:33.229 [info] [muhammad-sammy.csharp]: Command `o.fixAll.project` appears multiple times in the `commands` section.
+2022-12-20 12:47:33.229 [info] [muhammad-sammy.csharp]: Command `o.fixAll.document` appears multiple times in the `commands` section.
+2022-12-20 12:47:33.229 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.allProjects` appears multiple times in the `commands` section.
+2022-12-20 12:47:33.229 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.currentProject` appears multiple times in the `commands` section.
+2022-12-20 12:47:33.229 [info] [muhammad-sammy.csharp]: Command `dotnet.generateAssets` appears multiple times in the `commands` section.
+2022-12-20 12:47:33.229 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.project` appears multiple times in the `commands` section.
+2022-12-20 12:47:33.229 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.all` appears multiple times in the `commands` section.
+2022-12-20 12:47:33.230 [info] [muhammad-sammy.csharp]: Command `csharp.downloadDebugger` appears multiple times in the `commands` section.
+2022-12-20 12:47:33.230 [info] [muhammad-sammy.csharp]: Command `csharp.listProcess` appears multiple times in the `commands` section.
+2022-12-20 12:47:33.230 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteProcess` appears multiple times in the `commands` section.
+2022-12-20 12:47:33.230 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteDockerProcess` appears multiple times in the `commands` section.
+2022-12-20 12:47:33.230 [info] [muhammad-sammy.csharp]: Command `csharp.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 12:47:33.231 [info] [muhammad-sammy.csharp]: Command `csharp.showDecompilationTerms` appears multiple times in the `commands` section.
+2022-12-20 12:47:33.231 [info] [muhammad-sammy.csharp]: Command `extension.showRazorCSharpWindow` appears multiple times in the `commands` section.
+2022-12-20 12:47:33.231 [info] [muhammad-sammy.csharp]: Command `extension.showRazorHtmlWindow` appears multiple times in the `commands` section.
+2022-12-20 12:47:33.231 [info] [muhammad-sammy.csharp]: Command `razor.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 12:47:33.231 [info] [muhammad-sammy.csharp]: Command `dotnet.test.runTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 12:47:33.231 [info] [muhammad-sammy.csharp]: Command `dotnet.test.debugTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 12:47:33.409 [error] [Extension Host] /bin/sh: line 1: hostname: command not found
+2022-12-20 12:47:34.941 [error] [Extension Host] (node:58200) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+2022-12-20 12:47:43.698 [error] [Extension Host] validating /home/thesynthax/.config/Code - OSS/User/globalStorage/tabnine.tabnine-vscode/binaries/4.4.200/x86_64-unknown-linux-musl/TabNine timeout
+2022-12-20 12:49:22.464 [info] [muhammad-sammy.csharp]: Command `o.restart` appears multiple times in the `commands` section.
+2022-12-20 12:49:22.465 [info] [muhammad-sammy.csharp]: Command `o.pickProjectAndStart` appears multiple times in the `commands` section.
+2022-12-20 12:49:22.465 [info] [muhammad-sammy.csharp]: Command `o.fixAll.solution` appears multiple times in the `commands` section.
+2022-12-20 12:49:22.465 [info] [muhammad-sammy.csharp]: Command `o.fixAll.project` appears multiple times in the `commands` section.
+2022-12-20 12:49:22.466 [info] [muhammad-sammy.csharp]: Command `o.fixAll.document` appears multiple times in the `commands` section.
+2022-12-20 12:49:22.466 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.allProjects` appears multiple times in the `commands` section.
+2022-12-20 12:49:22.466 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.currentProject` appears multiple times in the `commands` section.
+2022-12-20 12:49:22.466 [info] [muhammad-sammy.csharp]: Command `dotnet.generateAssets` appears multiple times in the `commands` section.
+2022-12-20 12:49:22.466 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.project` appears multiple times in the `commands` section.
+2022-12-20 12:49:22.466 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.all` appears multiple times in the `commands` section.
+2022-12-20 12:49:22.466 [info] [muhammad-sammy.csharp]: Command `csharp.downloadDebugger` appears multiple times in the `commands` section.
+2022-12-20 12:49:22.467 [info] [muhammad-sammy.csharp]: Command `csharp.listProcess` appears multiple times in the `commands` section.
+2022-12-20 12:49:22.467 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteProcess` appears multiple times in the `commands` section.
+2022-12-20 12:49:22.467 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteDockerProcess` appears multiple times in the `commands` section.
+2022-12-20 12:49:22.467 [info] [muhammad-sammy.csharp]: Command `csharp.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 12:49:22.467 [info] [muhammad-sammy.csharp]: Command `csharp.showDecompilationTerms` appears multiple times in the `commands` section.
+2022-12-20 12:49:22.467 [info] [muhammad-sammy.csharp]: Command `extension.showRazorCSharpWindow` appears multiple times in the `commands` section.
+2022-12-20 12:49:22.467 [info] [muhammad-sammy.csharp]: Command `extension.showRazorHtmlWindow` appears multiple times in the `commands` section.
+2022-12-20 12:49:22.467 [info] [muhammad-sammy.csharp]: Command `razor.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 12:49:22.468 [info] [muhammad-sammy.csharp]: Command `dotnet.test.runTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 12:49:22.468 [info] [muhammad-sammy.csharp]: Command `dotnet.test.debugTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 12:49:54.211 [info] [muhammad-sammy.csharp]: Command `o.restart` appears multiple times in the `commands` section.
+2022-12-20 12:49:55.462 [info] [muhammad-sammy.csharp]: Command `o.pickProjectAndStart` appears multiple times in the `commands` section.
+2022-12-20 12:49:55.462 [info] [muhammad-sammy.csharp]: Command `o.fixAll.solution` appears multiple times in the `commands` section.
+2022-12-20 12:49:55.463 [info] [muhammad-sammy.csharp]: Command `o.fixAll.project` appears multiple times in the `commands` section.
+2022-12-20 12:49:55.464 [info] [muhammad-sammy.csharp]: Command `o.fixAll.document` appears multiple times in the `commands` section.
+2022-12-20 12:49:55.464 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.allProjects` appears multiple times in the `commands` section.
+2022-12-20 12:49:55.465 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.currentProject` appears multiple times in the `commands` section.
+2022-12-20 12:49:55.465 [info] [muhammad-sammy.csharp]: Command `dotnet.generateAssets` appears multiple times in the `commands` section.
+2022-12-20 12:49:55.466 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.project` appears multiple times in the `commands` section.
+2022-12-20 12:49:55.466 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.all` appears multiple times in the `commands` section.
+2022-12-20 12:49:55.466 [info] [muhammad-sammy.csharp]: Command `csharp.downloadDebugger` appears multiple times in the `commands` section.
+2022-12-20 12:49:55.466 [info] [muhammad-sammy.csharp]: Command `csharp.listProcess` appears multiple times in the `commands` section.
+2022-12-20 12:49:55.466 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteProcess` appears multiple times in the `commands` section.
+2022-12-20 12:49:55.466 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteDockerProcess` appears multiple times in the `commands` section.
+2022-12-20 12:49:55.466 [info] [muhammad-sammy.csharp]: Command `csharp.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 12:49:55.467 [info] [muhammad-sammy.csharp]: Command `csharp.showDecompilationTerms` appears multiple times in the `commands` section.
+2022-12-20 12:49:55.467 [info] [muhammad-sammy.csharp]: Command `extension.showRazorCSharpWindow` appears multiple times in the `commands` section.
+2022-12-20 12:49:55.467 [info] [muhammad-sammy.csharp]: Command `extension.showRazorHtmlWindow` appears multiple times in the `commands` section.
+2022-12-20 12:49:55.467 [info] [muhammad-sammy.csharp]: Command `razor.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 12:49:55.467 [info] [muhammad-sammy.csharp]: Command `dotnet.test.runTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 12:49:55.467 [info] [muhammad-sammy.csharp]: Command `dotnet.test.debugTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 12:51:09.560 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2022-12-20 12:51:09.589 [info] [muhammad-sammy.csharp]: Command `o.restart` appears multiple times in the `commands` section.
+2022-12-20 12:51:09.589 [info] [muhammad-sammy.csharp]: Command `o.pickProjectAndStart` appears multiple times in the `commands` section.
+2022-12-20 12:51:09.589 [info] [muhammad-sammy.csharp]: Command `o.fixAll.solution` appears multiple times in the `commands` section.
+2022-12-20 12:51:09.590 [info] [muhammad-sammy.csharp]: Command `o.fixAll.project` appears multiple times in the `commands` section.
+2022-12-20 12:51:09.590 [info] [muhammad-sammy.csharp]: Command `o.fixAll.document` appears multiple times in the `commands` section.
+2022-12-20 12:51:09.590 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.allProjects` appears multiple times in the `commands` section.
+2022-12-20 12:51:09.590 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.currentProject` appears multiple times in the `commands` section.
+2022-12-20 12:51:09.590 [info] [muhammad-sammy.csharp]: Command `dotnet.generateAssets` appears multiple times in the `commands` section.
+2022-12-20 12:51:09.590 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.project` appears multiple times in the `commands` section.
+2022-12-20 12:51:09.590 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.all` appears multiple times in the `commands` section.
+2022-12-20 12:51:09.590 [info] [muhammad-sammy.csharp]: Command `csharp.downloadDebugger` appears multiple times in the `commands` section.
+2022-12-20 12:51:09.591 [info] [muhammad-sammy.csharp]: Command `csharp.listProcess` appears multiple times in the `commands` section.
+2022-12-20 12:51:09.591 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteProcess` appears multiple times in the `commands` section.
+2022-12-20 12:51:09.591 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteDockerProcess` appears multiple times in the `commands` section.
+2022-12-20 12:51:09.591 [info] [muhammad-sammy.csharp]: Command `csharp.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 12:51:09.591 [info] [muhammad-sammy.csharp]: Command `csharp.showDecompilationTerms` appears multiple times in the `commands` section.
+2022-12-20 12:51:09.591 [info] [muhammad-sammy.csharp]: Command `extension.showRazorCSharpWindow` appears multiple times in the `commands` section.
+2022-12-20 12:51:09.591 [info] [muhammad-sammy.csharp]: Command `extension.showRazorHtmlWindow` appears multiple times in the `commands` section.
+2022-12-20 12:51:09.591 [info] [muhammad-sammy.csharp]: Command `razor.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 12:51:09.592 [info] [muhammad-sammy.csharp]: Command `dotnet.test.runTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 12:51:09.592 [info] [muhammad-sammy.csharp]: Command `dotnet.test.debugTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 17:06:49.280 [info] [muhammad-sammy.csharp]: Command `o.restart` appears multiple times in the `commands` section.
+2022-12-20 17:06:49.281 [info] [muhammad-sammy.csharp]: Command `o.pickProjectAndStart` appears multiple times in the `commands` section.
+2022-12-20 17:06:49.281 [info] [muhammad-sammy.csharp]: Command `o.fixAll.solution` appears multiple times in the `commands` section.
+2022-12-20 17:06:49.281 [info] [muhammad-sammy.csharp]: Command `o.fixAll.project` appears multiple times in the `commands` section.
+2022-12-20 17:06:49.282 [info] [muhammad-sammy.csharp]: Command `o.fixAll.document` appears multiple times in the `commands` section.
+2022-12-20 17:06:49.282 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.allProjects` appears multiple times in the `commands` section.
+2022-12-20 17:06:49.282 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.currentProject` appears multiple times in the `commands` section.
+2022-12-20 17:06:49.282 [info] [muhammad-sammy.csharp]: Command `dotnet.generateAssets` appears multiple times in the `commands` section.
+2022-12-20 17:06:49.282 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.project` appears multiple times in the `commands` section.
+2022-12-20 17:06:49.282 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.all` appears multiple times in the `commands` section.
+2022-12-20 17:06:49.283 [info] [muhammad-sammy.csharp]: Command `csharp.downloadDebugger` appears multiple times in the `commands` section.
+2022-12-20 17:06:49.283 [info] [muhammad-sammy.csharp]: Command `csharp.listProcess` appears multiple times in the `commands` section.
+2022-12-20 17:06:49.283 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteProcess` appears multiple times in the `commands` section.
+2022-12-20 17:06:49.283 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteDockerProcess` appears multiple times in the `commands` section.
+2022-12-20 17:06:49.283 [info] [muhammad-sammy.csharp]: Command `csharp.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 17:06:49.284 [info] [muhammad-sammy.csharp]: Command `csharp.showDecompilationTerms` appears multiple times in the `commands` section.
+2022-12-20 17:06:49.284 [info] [muhammad-sammy.csharp]: Command `extension.showRazorCSharpWindow` appears multiple times in the `commands` section.
+2022-12-20 17:06:49.284 [info] [muhammad-sammy.csharp]: Command `extension.showRazorHtmlWindow` appears multiple times in the `commands` section.
+2022-12-20 17:06:49.284 [info] [muhammad-sammy.csharp]: Command `razor.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 17:06:49.284 [info] [muhammad-sammy.csharp]: Command `dotnet.test.runTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 17:06:49.285 [info] [muhammad-sammy.csharp]: Command `dotnet.test.debugTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 17:07:29.623 [info] [muhammad-sammy.csharp]: Command `o.restart` appears multiple times in the `commands` section.
+2022-12-20 17:07:29.624 [info] [muhammad-sammy.csharp]: Command `o.pickProjectAndStart` appears multiple times in the `commands` section.
+2022-12-20 17:07:29.624 [info] [muhammad-sammy.csharp]: Command `o.fixAll.solution` appears multiple times in the `commands` section.
+2022-12-20 17:07:29.624 [info] [muhammad-sammy.csharp]: Command `o.fixAll.project` appears multiple times in the `commands` section.
+2022-12-20 17:07:29.624 [info] [muhammad-sammy.csharp]: Command `o.fixAll.document` appears multiple times in the `commands` section.
+2022-12-20 17:07:29.624 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.allProjects` appears multiple times in the `commands` section.
+2022-12-20 17:07:29.625 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.currentProject` appears multiple times in the `commands` section.
+2022-12-20 17:07:29.625 [info] [muhammad-sammy.csharp]: Command `dotnet.generateAssets` appears multiple times in the `commands` section.
+2022-12-20 17:07:29.625 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.project` appears multiple times in the `commands` section.
+2022-12-20 17:07:29.625 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.all` appears multiple times in the `commands` section.
+2022-12-20 17:07:29.625 [info] [muhammad-sammy.csharp]: Command `csharp.downloadDebugger` appears multiple times in the `commands` section.
+2022-12-20 17:07:29.625 [info] [muhammad-sammy.csharp]: Command `csharp.listProcess` appears multiple times in the `commands` section.
+2022-12-20 17:07:29.626 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteProcess` appears multiple times in the `commands` section.
+2022-12-20 17:07:29.626 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteDockerProcess` appears multiple times in the `commands` section.
+2022-12-20 17:07:29.626 [info] [muhammad-sammy.csharp]: Command `csharp.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 17:07:29.626 [info] [muhammad-sammy.csharp]: Command `csharp.showDecompilationTerms` appears multiple times in the `commands` section.
+2022-12-20 17:07:29.626 [info] [muhammad-sammy.csharp]: Command `extension.showRazorCSharpWindow` appears multiple times in the `commands` section.
+2022-12-20 17:07:29.626 [info] [muhammad-sammy.csharp]: Command `extension.showRazorHtmlWindow` appears multiple times in the `commands` section.
+2022-12-20 17:07:29.626 [info] [muhammad-sammy.csharp]: Command `razor.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 17:07:29.627 [info] [muhammad-sammy.csharp]: Command `dotnet.test.runTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 17:07:29.627 [info] [muhammad-sammy.csharp]: Command `dotnet.test.debugTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 17:07:32.739 [error] Extension 'ms-vscode.cpptools CANNOT USE these API proposals 'terminalDataWriteEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2022-12-20 17:07:32.740 [error] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2022-12-20 17:07:32.771 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.format.enable'. This property is already registered.
+2022-12-20 17:07:32.771 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressDotnetInstallWarning'. This property is already registered.
+2022-12-20 17:07:32.771 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.unitTestDebuggingOptions'. This property is already registered.
+2022-12-20 17:07:32.771 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressDotnetRestoreNotification'. This property is already registered.
+2022-12-20 17:07:32.771 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressProjectJsonWarning'. This property is already registered.
+2022-12-20 17:07:32.772 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressBuildAssetsNotification'. This property is already registered.
+2022-12-20 17:07:32.772 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressHiddenDiagnostics'. This property is already registered.
+2022-12-20 17:07:32.772 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.referencesCodeLens.enabled'. This property is already registered.
+2022-12-20 17:07:32.772 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.referencesCodeLens.filteredSymbols'. This property is already registered.
+2022-12-20 17:07:32.772 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.testsCodeLens.enabled'. This property is already registered.
+2022-12-20 17:07:32.772 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.maxProjectFileCountForDiagnosticAnalysis'. This property is already registered.
+2022-12-20 17:07:32.772 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.semanticHighlighting.enabled'. This property is already registered.
+2022-12-20 17:07:32.772 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.showOmnisharpLogOnError'. This property is already registered.
+2022-12-20 17:07:32.772 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.enabled'. This property is already registered.
+2022-12-20 17:07:32.773 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.forLiteralParameters'. This property is already registered.
+2022-12-20 17:07:32.773 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.forObjectCreationParameters'. This property is already registered.
+2022-12-20 17:07:32.773 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.forIndexerParameters'. This property is already registered.
+2022-12-20 17:07:32.773 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.forOtherParameters'. This property is already registered.
+2022-12-20 17:07:32.773 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.suppressForParametersThatDifferOnlyBySuffix'. This property is already registered.
+2022-12-20 17:07:32.773 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.suppressForParametersThatMatchMethodIntent'. This property is already registered.
+2022-12-20 17:07:32.773 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.suppressForParametersThatMatchArgumentName'. This property is already registered.
+2022-12-20 17:07:32.773 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.types.enabled'. This property is already registered.
+2022-12-20 17:07:32.773 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.types.forImplicitVariableTypes'. This property is already registered.
+2022-12-20 17:07:32.773 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.types.forLambdaParameterTypes'. This property is already registered.
+2022-12-20 17:07:32.774 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.types.forImplicitObjectCreation'. This property is already registered.
+2022-12-20 17:07:32.774 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.path'. This property is already registered.
+2022-12-20 17:07:32.774 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.useModernNet'. This property is already registered.
+2022-12-20 17:07:32.774 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.sdkPath'. This property is already registered.
+2022-12-20 17:07:32.774 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.sdkVersion'. This property is already registered.
+2022-12-20 17:07:32.774 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.sdkIncludePrereleases'. This property is already registered.
+2022-12-20 17:07:32.774 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.monoPath'. This property is already registered.
+2022-12-20 17:07:32.774 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.dotnetPath'. This property is already registered.
+2022-12-20 17:07:32.774 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.waitForDebugger'. This property is already registered.
+2022-12-20 17:07:32.775 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.loggingLevel'. This property is already registered.
+2022-12-20 17:07:32.775 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.autoStart'. This property is already registered.
+2022-12-20 17:07:32.775 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.projectLoadTimeout'. This property is already registered.
+2022-12-20 17:07:32.775 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.maxProjectResults'. This property is already registered.
+2022-12-20 17:07:32.775 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.defaultLaunchSolution'. This property is already registered.
+2022-12-20 17:07:32.775 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.useEditorFormattingSettings'. This property is already registered.
+2022-12-20 17:07:32.775 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.minFindSymbolsFilterLength'. This property is already registered.
+2022-12-20 17:07:32.775 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.maxFindSymbolsItems'. This property is already registered.
+2022-12-20 17:07:32.775 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.disableMSBuildDiagnosticWarning'. This property is already registered.
+2022-12-20 17:07:32.775 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableMsBuildLoadProjectsOnDemand'. This property is already registered.
+2022-12-20 17:07:32.776 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableRoslynAnalyzers'. This property is already registered.
+2022-12-20 17:07:32.776 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableEditorConfigSupport'. This property is already registered.
+2022-12-20 17:07:32.776 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableDecompilationSupport'. This property is already registered.
+2022-12-20 17:07:32.776 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableImportCompletion'. This property is already registered.
+2022-12-20 17:07:32.776 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.organizeImportsOnFormat'. This property is already registered.
+2022-12-20 17:07:32.776 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableAsyncCompletion'. This property is already registered.
+2022-12-20 17:07:32.776 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.analyzeOpenDocumentsOnly'. This property is already registered.
+2022-12-20 17:07:32.776 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.testRunSettings'. This property is already registered.
+2022-12-20 17:07:32.776 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.plugin.path'. This property is already registered.
+2022-12-20 17:07:32.777 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.devmode'. This property is already registered.
+2022-12-20 17:07:32.777 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.disabled'. This property is already registered.
+2022-12-20 17:07:32.777 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.languageServer.directory'. This property is already registered.
+2022-12-20 17:07:32.777 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.languageServer.debug'. This property is already registered.
+2022-12-20 17:07:32.777 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.trace'. This property is already registered.
+2022-12-20 17:07:32.777 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.format.enable'. This property is already registered.
+2022-12-20 17:07:32.777 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2022-12-20 17:07:32.837 [info] [muhammad-sammy.csharp]: Command `o.restart` appears multiple times in the `commands` section.
+2022-12-20 17:07:32.837 [info] [muhammad-sammy.csharp]: Command `o.pickProjectAndStart` appears multiple times in the `commands` section.
+2022-12-20 17:07:32.838 [info] [muhammad-sammy.csharp]: Command `o.fixAll.solution` appears multiple times in the `commands` section.
+2022-12-20 17:07:32.838 [info] [muhammad-sammy.csharp]: Command `o.fixAll.project` appears multiple times in the `commands` section.
+2022-12-20 17:07:32.838 [info] [muhammad-sammy.csharp]: Command `o.fixAll.document` appears multiple times in the `commands` section.
+2022-12-20 17:07:32.839 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.allProjects` appears multiple times in the `commands` section.
+2022-12-20 17:07:32.839 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.currentProject` appears multiple times in the `commands` section.
+2022-12-20 17:07:32.839 [info] [muhammad-sammy.csharp]: Command `dotnet.generateAssets` appears multiple times in the `commands` section.
+2022-12-20 17:07:32.839 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.project` appears multiple times in the `commands` section.
+2022-12-20 17:07:32.839 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.all` appears multiple times in the `commands` section.
+2022-12-20 17:07:32.839 [info] [muhammad-sammy.csharp]: Command `csharp.downloadDebugger` appears multiple times in the `commands` section.
+2022-12-20 17:07:32.840 [info] [muhammad-sammy.csharp]: Command `csharp.listProcess` appears multiple times in the `commands` section.
+2022-12-20 17:07:32.840 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteProcess` appears multiple times in the `commands` section.
+2022-12-20 17:07:32.840 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteDockerProcess` appears multiple times in the `commands` section.
+2022-12-20 17:07:32.840 [info] [muhammad-sammy.csharp]: Command `csharp.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 17:07:32.840 [info] [muhammad-sammy.csharp]: Command `csharp.showDecompilationTerms` appears multiple times in the `commands` section.
+2022-12-20 17:07:32.841 [info] [muhammad-sammy.csharp]: Command `extension.showRazorCSharpWindow` appears multiple times in the `commands` section.
+2022-12-20 17:07:32.841 [info] [muhammad-sammy.csharp]: Command `extension.showRazorHtmlWindow` appears multiple times in the `commands` section.
+2022-12-20 17:07:32.841 [info] [muhammad-sammy.csharp]: Command `razor.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 17:07:32.841 [info] [muhammad-sammy.csharp]: Command `dotnet.test.runTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 17:07:32.841 [info] [muhammad-sammy.csharp]: Command `dotnet.test.debugTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 17:07:35.017 [info] [perf] Render performance baseline is 30ms
+2022-12-20 17:07:36.473 [error] [Extension Host] /bin/sh: line 1: hostname: command not found
+2022-12-20 17:07:42.280 [error] Error while registering log channel file:///home/thesynthax/.config/Code%20-%20OSS/logs/20221220T123915/userDataSync.log Timed out while waiting for file to be created
+2022-12-20 17:08:05.825 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2022-12-20 17:29:46.574 [error] Git error

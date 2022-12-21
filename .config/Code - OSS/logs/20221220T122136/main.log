@@ -1,0 +1,5 @@
+2022-12-20 12:21:37.414 [info] update#ctor - updates are disabled as there is no update URL
+2022-12-20 12:21:39.771 [info] Starting extension host with pid 5725 (fork() took 5 ms).
+2022-12-20 12:21:46.836 [info] Enabling inspect port on extension host with pid 5725.
+2022-12-20 12:39:12.738 [info] Waiting for extension host with pid 5725 to exit.
+2022-12-20 12:39:12.795 [info] Extension host with pid 5725 exited with code: 0, signal: null.

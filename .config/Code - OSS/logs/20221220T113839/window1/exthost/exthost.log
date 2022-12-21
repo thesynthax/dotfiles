@@ -1,0 +1,29 @@
+2022-12-20 11:38:42.798 [info] Extension host with pid 149947 started
+2022-12-20 11:38:42.798 [info] Skipping acquiring lock for /home/thesynthax/.config/Code - OSS/User/workspaceStorage/f00c5ea68d63123e21da25dc56f26bca.
+2022-12-20 11:38:42.902 [info] ExtensionService#_doActivateExtension muhammad-sammy.csharp, startup: false, activationEvent: 'onLanguage:csharp'
+2022-12-20 11:38:42.903 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-12-20 11:38:42.903 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2022-12-20 11:38:42.903 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: true, activationEvent: 'workspaceContains:/.vscode/c_cpp_properties.json'
+2022-12-20 11:38:43.358 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-12-20 11:38:43.358 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-20 11:38:43.443 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: true, activationEvent: 'workspaceContains:*.h,*.c,*.hh,*.cc,*.hxx,*.cxx,*.hpp,*.cpp', root cause: franneck94.c-cpp-runner
+2022-12-20 11:38:43.562 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onLanguage:code-runner-output'
+2022-12-20 11:38:45.480 [info] ExtensionService#_doActivateExtension franneck94.c-cpp-runner, startup: true, activationEvent: 'workspaceContains:*.h,*.c,*.hh,*.cc,*.hxx,*.cxx,*.hpp,*.cpp'
+2022-12-20 11:38:45.603 [info] Eager extensions activated
+2022-12-20 11:38:45.606 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2022-12-20 11:38:45.606 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2022-12-20 11:38:45.607 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2022-12-20 11:38:45.607 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2022-12-20 11:38:45.607 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 11:38:45.607 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 11:38:45.607 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 11:38:45.607 [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 11:38:45.607 [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 11:38:45.607 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 11:38:46.223 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-20 11:41:01.980 [warning] TextEditor is closed/disposed
+2022-12-20 11:41:01.980 [warning] TextEditor is closed/disposed
+2022-12-20 11:41:12.929 [warning] TextEditor is closed/disposed
+2022-12-20 11:41:12.929 [warning] TextEditor is closed/disposed
+2022-12-20 11:44:25.519 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3695
+2022-12-20 11:48:55.949 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3695

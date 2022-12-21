@@ -2,22 +2,21 @@
     "telemetry.machineId": "7af6a5b38a410bb4d2f7134d2233689a66f77f6e2b50b65f7eb4a2b121364a9a",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [
+        "folders": [],
+        "emptyWindows": [
             {
-                "folderUri": "file:///home/thesynthax/test"
+                "backupFolder": "1671537828116"
             }
-        ],
-        "emptyWindows": []
+        ]
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/thesynthax/test",
-            "backupPath": "/home/thesynthax/.config/Code - OSS/Backups/a9128ae7ebcf4e8cd8c38a7d920a348f",
+            "backupPath": "/home/thesynthax/.config/Code - OSS/Backups/1671537828116",
             "uiState": {
                 "mode": 1,
                 "x": 10,
                 "y": 40,
-                "width": 850,
+                "width": 1900,
                 "height": 1030
             }
         },
@@ -66,6 +65,17 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/thesynthax/k",
+                                        "path": "/home/thesynthax/k",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/k"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -182,13 +192,6 @@
                         "submenu": {
                             "items": [
                                 {
-                                    "id": "github.copyVscodeDevLinkFile",
-                                    "label": "Copy vscode.dev Link"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)...",
                                     "enabled": false
@@ -276,10 +279,6 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
-                    },
-                    {
-                        "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -723,7 +722,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -956,7 +956,8 @@
                     },
                     {
                         "id": "workbench.action.debug.configure",
-                        "label": "Open &&Configurations"
+                        "label": "Open &&Configurations",
+                        "enabled": false
                     },
                     {
                         "id": "debug.addConfiguration",
@@ -1048,8 +1049,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1232,11 +1232,6 @@
             "workbench.action.closeActiveEditor": {
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
-            },
-            "workbench.action.closeFolder": {
-                "label": "Ctrl+K F",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k f"
             },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
@@ -1542,8 +1537,8 @@
                 "userSettingsLabel": "shift+alt+f3"
             },
             "workbench.action.debug.start": {
-                "label": "F5",
-                "userSettingsLabel": "f5"
+                "label": "Ctrl+Alt+N",
+                "userSettingsLabel": "ctrl+alt+n"
             },
             "workbench.action.debug.run": {
                 "label": "Ctrl+F5",
@@ -1570,8 +1565,8 @@
                 "userSettingsLabel": "shift+f11"
             },
             "workbench.action.debug.continue": {
-                "label": "F5",
-                "userSettingsLabel": "f5"
+                "label": "Ctrl+Alt+N",
+                "userSettingsLabel": "ctrl+alt+n"
             },
             "editor.debug.action.toggleBreakpoint": {
                 "label": "F9",
@@ -1623,7 +1618,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 170,
+            "sideBarWidth": 276,
             "statusBarHeight": 22,
             "windowBorder": false
         }

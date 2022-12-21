@@ -1,0 +1,26 @@
+2022-12-20 12:21:50.165 [info] Log level: Info
+2022-12-20 12:21:50.165 [info] Validating found git in: "git"
+2022-12-20 12:21:50.165 [info] Using git "2.39.0" from "git"
+2022-12-20 12:21:50.169 [info] > git rev-parse --show-toplevel [522ms]
+2022-12-20 12:21:50.191 [info] > git rev-parse --git-dir --git-common-dir [17ms]
+2022-12-20 12:21:50.197 [info] Open repository: /home/thesynthax
+2022-12-20 12:21:50.225 [info] > git config --get commit.template [12ms]
+2022-12-20 12:21:50.542 [info] > git rev-parse --show-toplevel [340ms]
+2022-12-20 12:21:50.556 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2022-12-20 12:21:50.558 [info] Open repository: /home/thesynthax/Unity Projects/Unity-Projects
+2022-12-20 12:21:50.562 [info] > git rev-parse --show-toplevel [1ms]
+2022-12-20 12:21:50.577 [info] > git config --get commit.template [1ms]
+2022-12-20 12:21:51.594 [info] > git check-ignore -v -z --stdin [503ms]
+2022-12-20 12:21:51.656 [info] > git ls-files --stage -- /home/thesynthax/Unity Projects/Unity-Projects/two point five D platformer/Assets/Scripts/New/Character Controller/PlayerMovementBase.cs [1084ms]
+2022-12-20 12:21:51.670 [info] > git check-ignore -v -z --stdin [566ms]
+2022-12-20 12:21:58.183 [info] > git show --textconv :two point five D platformer/Assets/Scripts/New/Character Controller/PlayerMovementBase.cs [7616ms]
+2022-12-20 12:21:58.185 [info] > git cat-file -s 14472db642e226152ec9e34afc05a7a66424b44a [6516ms]
+2022-12-20 12:21:58.186 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/refactorScratch refs/remotes/refactorScratch [7605ms]
+2022-12-20 12:21:58.207 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7979ms]
+2022-12-20 12:21:58.217 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2022-12-20 12:21:59.476 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1269ms]
+2022-12-20 12:30:21.547 [info] > git status -z -uall [503344ms]
+2022-12-20 12:30:21.959 [info] > git config --get commit.template [9ms]
+2022-12-20 12:30:21.966 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/refactorScratch refs/remotes/refactorScratch [1ms]
+2022-12-20 12:30:21.981 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2022-12-20 12:35:43.899 [info] > git status -z -uall [321928ms]

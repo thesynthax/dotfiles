@@ -103,6 +103,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 echo "i use arch btw"
+figlet "thesynthax"
 
 ## Advanced Tab Completion
 autoload -U compinit
@@ -128,6 +129,7 @@ alias clr-cache="doas pacman -Scc"
 alias unlock="doas rm /var/lib/pacman/db.lck"
 alias remove="doas pacman -R"
 alias autoremove="doas pacman -Rns"
+alias mpv="devour mpv"
 alias irc="weechat"
 . "$HOME/.cargo/env"
 alias cat="bat"

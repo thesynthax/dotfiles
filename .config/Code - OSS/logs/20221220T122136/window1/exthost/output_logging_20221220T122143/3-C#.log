@@ -1,0 +1,1 @@
+Failed to spawn 'dotnet --info'

@@ -1,0 +1,3 @@
+2022-12-20 12:39:23.723 [error] Extension 'ms-vscode.cpptools CANNOT USE these API proposals 'terminalDataWriteEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2022-12-20 12:39:26.666 [info] [perf] Render performance baseline is 65ms
+2022-12-20 12:39:33.587 [error] Error while registering log channel file:///home/thesynthax/.config/Code%20-%20OSS/logs/20221220T123915/userDataSync.log Timed out while waiting for file to be created

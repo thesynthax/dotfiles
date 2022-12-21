@@ -1,0 +1,105 @@
+2022-12-20 18:18:43.191 [info] Extension host with pid 1455 started
+2022-12-20 18:18:43.250 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2022-12-20 18:18:43.250 [info] ExtensionService#_doActivateExtension wix.vscode-import-cost, startup: false, activationEvent: 'onLanguage:javascript'
+2022-12-20 18:18:43.250 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-12-20 18:18:43.250 [info] ExtensionService#_doActivateExtension donjayamanne.githistory, startup: true, activationEvent: '*'
+2022-12-20 18:18:43.251 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2022-12-20 18:18:43.251 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2022-12-20 18:18:43.251 [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock, startup: true, activationEvent: '*'
+2022-12-20 18:18:43.251 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2022-12-20 18:18:43.251 [info] ExtensionService#_doActivateExtension standard.vscode-standard, startup: true, activationEvent: '*'
+2022-12-20 18:18:43.251 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+2022-12-20 18:18:43.251 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2022-12-20 18:18:43.252 [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: true, activationEvent: '*'
+2022-12-20 18:18:49.063 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-12-20 18:18:49.063 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-20 18:18:50.480 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-20 18:18:50.480 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-20 18:18:50.480 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-20 18:18:51.716 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onLanguage:code-runner-output'
+2022-12-20 18:18:54.522 [info] Eager extensions activated
+2022-12-20 18:18:54.547 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 18:18:54.547 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 18:18:54.547 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 18:18:54.547 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 18:18:54.548 [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 18:18:54.548 [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 18:18:54.548 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+2022-12-20 18:18:54.548 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 18:18:54.548 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 18:18:54.548 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 18:18:54.548 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 18:18:54.548 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 18:19:01.468 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 18:32:46.753 [error] Error: Illegal value for `line`
+    at E.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:93:966)
+    at Object.lineAt (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:93:90)
+    at t.default.isIndentOutChange (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:83170)
+    at /home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:83820
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at P.$acceptModelChanged (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:11193)
+    at u.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:11208)
+    at u.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:10926)
+    at u.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:10019)
+    at u.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:9000)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:7788
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at h.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14314)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:15804
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at h.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14314)
+    at c.y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:17324)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:15795
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at g.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12045)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11332
+    at Socket.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:19792)
+    at Socket.emit (node:events:526:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2022-12-20 18:51:16.980 [error] Error: Illegal value for `line`
+    at E.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:93:966)
+    at Object.lineAt (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:93:90)
+    at t.default.isIndentOutChange (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:83170)
+    at /home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:83820
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at P.$acceptModelChanged (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:11193)
+    at u.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:11208)
+    at u.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:10926)
+    at u.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:10019)
+    at u.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:9000)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:7788
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at h.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14314)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:15804
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at h.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14314)
+    at c.y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:17324)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:15795
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at g.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12045)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11332
+    at Socket.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:19792)
+    at Socket.emit (node:events:526:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)

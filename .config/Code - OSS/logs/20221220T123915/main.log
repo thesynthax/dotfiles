@@ -1,0 +1,10 @@
+2022-12-20 12:39:17.440 [info] update#ctor - updates are disabled as there is no update URL
+2022-12-20 12:39:23.437 [info] Starting extension host with pid 58183 (fork() took 5 ms).
+2022-12-20 12:39:24.120 [info] Starting extension host with pid 58200 (fork() took 4 ms).
+2022-12-20 12:39:37.008 [info] Enabling inspect port on extension host with pid 58200.
+2022-12-20 12:39:53.290 [info] Extension host with pid 58183 exited with code: 0, signal: null.
+2022-12-20 17:02:15.354 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2022-12-20 17:07:31.971 [info] Extension host with pid 58200 exited with code: 0, signal: null.
+2022-12-20 17:07:32.025 [info] Starting extension host with pid 144639 (fork() took 8 ms).
+2022-12-20 17:29:48.013 [info] Waiting for extension host with pid 144639 to exit.
+2022-12-20 17:29:49.030 [info] Extension host with pid 144639 exited with code: 0, signal: null.

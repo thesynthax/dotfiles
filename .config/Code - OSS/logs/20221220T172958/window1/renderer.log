@@ -1,0 +1,1156 @@
+2022-12-20 17:30:02.785 [error] Extension 'ms-vscode.cpptools CANNOT USE these API proposals 'terminalDataWriteEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2022-12-20 17:30:02.785 [error] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2022-12-20 17:30:02.809 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.format.enable'. This property is already registered.
+2022-12-20 17:30:02.809 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressDotnetInstallWarning'. This property is already registered.
+2022-12-20 17:30:02.809 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.unitTestDebuggingOptions'. This property is already registered.
+2022-12-20 17:30:02.809 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressDotnetRestoreNotification'. This property is already registered.
+2022-12-20 17:30:02.809 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressProjectJsonWarning'. This property is already registered.
+2022-12-20 17:30:02.810 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressBuildAssetsNotification'. This property is already registered.
+2022-12-20 17:30:02.810 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressHiddenDiagnostics'. This property is already registered.
+2022-12-20 17:30:02.810 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.referencesCodeLens.enabled'. This property is already registered.
+2022-12-20 17:30:02.810 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.referencesCodeLens.filteredSymbols'. This property is already registered.
+2022-12-20 17:30:02.810 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.testsCodeLens.enabled'. This property is already registered.
+2022-12-20 17:30:02.811 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.maxProjectFileCountForDiagnosticAnalysis'. This property is already registered.
+2022-12-20 17:30:02.811 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.semanticHighlighting.enabled'. This property is already registered.
+2022-12-20 17:30:02.811 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.showOmnisharpLogOnError'. This property is already registered.
+2022-12-20 17:30:02.811 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.enabled'. This property is already registered.
+2022-12-20 17:30:02.811 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.forLiteralParameters'. This property is already registered.
+2022-12-20 17:30:02.812 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.forObjectCreationParameters'. This property is already registered.
+2022-12-20 17:30:02.812 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.forIndexerParameters'. This property is already registered.
+2022-12-20 17:30:02.812 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.forOtherParameters'. This property is already registered.
+2022-12-20 17:30:02.812 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.suppressForParametersThatDifferOnlyBySuffix'. This property is already registered.
+2022-12-20 17:30:02.813 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.suppressForParametersThatMatchMethodIntent'. This property is already registered.
+2022-12-20 17:30:02.813 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.suppressForParametersThatMatchArgumentName'. This property is already registered.
+2022-12-20 17:30:02.813 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.types.enabled'. This property is already registered.
+2022-12-20 17:30:02.813 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.types.forImplicitVariableTypes'. This property is already registered.
+2022-12-20 17:30:02.813 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.types.forLambdaParameterTypes'. This property is already registered.
+2022-12-20 17:30:02.813 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.types.forImplicitObjectCreation'. This property is already registered.
+2022-12-20 17:30:02.813 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.path'. This property is already registered.
+2022-12-20 17:30:02.814 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.useModernNet'. This property is already registered.
+2022-12-20 17:30:02.814 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.sdkPath'. This property is already registered.
+2022-12-20 17:30:02.814 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.sdkVersion'. This property is already registered.
+2022-12-20 17:30:02.814 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.sdkIncludePrereleases'. This property is already registered.
+2022-12-20 17:30:02.814 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.monoPath'. This property is already registered.
+2022-12-20 17:30:02.815 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.dotnetPath'. This property is already registered.
+2022-12-20 17:30:02.815 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.waitForDebugger'. This property is already registered.
+2022-12-20 17:30:02.815 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.loggingLevel'. This property is already registered.
+2022-12-20 17:30:02.815 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.autoStart'. This property is already registered.
+2022-12-20 17:30:02.816 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.projectLoadTimeout'. This property is already registered.
+2022-12-20 17:30:02.816 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.maxProjectResults'. This property is already registered.
+2022-12-20 17:30:02.816 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.defaultLaunchSolution'. This property is already registered.
+2022-12-20 17:30:02.816 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.useEditorFormattingSettings'. This property is already registered.
+2022-12-20 17:30:02.816 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.minFindSymbolsFilterLength'. This property is already registered.
+2022-12-20 17:30:02.816 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.maxFindSymbolsItems'. This property is already registered.
+2022-12-20 17:30:02.817 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.disableMSBuildDiagnosticWarning'. This property is already registered.
+2022-12-20 17:30:02.817 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableMsBuildLoadProjectsOnDemand'. This property is already registered.
+2022-12-20 17:30:02.817 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableRoslynAnalyzers'. This property is already registered.
+2022-12-20 17:30:02.817 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableEditorConfigSupport'. This property is already registered.
+2022-12-20 17:30:02.817 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableDecompilationSupport'. This property is already registered.
+2022-12-20 17:30:02.817 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableImportCompletion'. This property is already registered.
+2022-12-20 17:30:02.818 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.organizeImportsOnFormat'. This property is already registered.
+2022-12-20 17:30:02.818 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableAsyncCompletion'. This property is already registered.
+2022-12-20 17:30:02.818 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.analyzeOpenDocumentsOnly'. This property is already registered.
+2022-12-20 17:30:02.818 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.testRunSettings'. This property is already registered.
+2022-12-20 17:30:02.818 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.plugin.path'. This property is already registered.
+2022-12-20 17:30:02.818 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.devmode'. This property is already registered.
+2022-12-20 17:30:02.818 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.disabled'. This property is already registered.
+2022-12-20 17:30:02.819 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.languageServer.directory'. This property is already registered.
+2022-12-20 17:30:02.819 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.languageServer.debug'. This property is already registered.
+2022-12-20 17:30:02.819 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.trace'. This property is already registered.
+2022-12-20 17:30:02.819 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.format.enable'. This property is already registered.
+2022-12-20 17:30:02.819 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2022-12-20 17:30:02.871 [info] [muhammad-sammy.csharp]: Command `o.restart` appears multiple times in the `commands` section.
+2022-12-20 17:30:02.871 [info] [muhammad-sammy.csharp]: Command `o.pickProjectAndStart` appears multiple times in the `commands` section.
+2022-12-20 17:30:02.871 [info] [muhammad-sammy.csharp]: Command `o.fixAll.solution` appears multiple times in the `commands` section.
+2022-12-20 17:30:02.871 [info] [muhammad-sammy.csharp]: Command `o.fixAll.project` appears multiple times in the `commands` section.
+2022-12-20 17:30:02.872 [info] [muhammad-sammy.csharp]: Command `o.fixAll.document` appears multiple times in the `commands` section.
+2022-12-20 17:30:02.872 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.allProjects` appears multiple times in the `commands` section.
+2022-12-20 17:30:02.872 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.currentProject` appears multiple times in the `commands` section.
+2022-12-20 17:30:02.872 [info] [muhammad-sammy.csharp]: Command `dotnet.generateAssets` appears multiple times in the `commands` section.
+2022-12-20 17:30:02.872 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.project` appears multiple times in the `commands` section.
+2022-12-20 17:30:02.872 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.all` appears multiple times in the `commands` section.
+2022-12-20 17:30:02.872 [info] [muhammad-sammy.csharp]: Command `csharp.downloadDebugger` appears multiple times in the `commands` section.
+2022-12-20 17:30:02.873 [info] [muhammad-sammy.csharp]: Command `csharp.listProcess` appears multiple times in the `commands` section.
+2022-12-20 17:30:02.873 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteProcess` appears multiple times in the `commands` section.
+2022-12-20 17:30:02.873 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteDockerProcess` appears multiple times in the `commands` section.
+2022-12-20 17:30:02.873 [info] [muhammad-sammy.csharp]: Command `csharp.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 17:30:02.873 [info] [muhammad-sammy.csharp]: Command `csharp.showDecompilationTerms` appears multiple times in the `commands` section.
+2022-12-20 17:30:02.873 [info] [muhammad-sammy.csharp]: Command `extension.showRazorCSharpWindow` appears multiple times in the `commands` section.
+2022-12-20 17:30:02.873 [info] [muhammad-sammy.csharp]: Command `extension.showRazorHtmlWindow` appears multiple times in the `commands` section.
+2022-12-20 17:30:02.873 [info] [muhammad-sammy.csharp]: Command `razor.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 17:30:02.874 [info] [muhammad-sammy.csharp]: Command `dotnet.test.runTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 17:30:02.874 [info] [muhammad-sammy.csharp]: Command `dotnet.test.debugTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 17:30:03.115 [warning] No search provider registered for scheme: file, waiting
+2022-12-20 17:30:03.644 [error] [Extension Host] /bin/sh: line 1: hostname: command not found
+2022-12-20 17:30:03.818 [info] [perf] Render performance baseline is 28ms
+2022-12-20 17:30:11.306 [error] Error while registering log channel file:///home/thesynthax/.config/Code%20-%20OSS/logs/20221220T172958/userDataSync.log Timed out while waiting for file to be created
+2022-12-20 17:30:30.283 [info] UNRESPONSIVE extension host: starting to profile NOW
+2022-12-20 17:30:30.911 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2022-12-20 17:33:48.854 [error] Extension 'ms-vscode.cpptools CANNOT USE these API proposals 'terminalDataWriteEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2022-12-20 17:33:48.867 [error] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2022-12-20 17:33:48.901 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.format.enable'. This property is already registered.
+2022-12-20 17:33:48.901 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressDotnetInstallWarning'. This property is already registered.
+2022-12-20 17:33:48.901 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.unitTestDebuggingOptions'. This property is already registered.
+2022-12-20 17:33:48.902 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressDotnetRestoreNotification'. This property is already registered.
+2022-12-20 17:33:48.902 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressProjectJsonWarning'. This property is already registered.
+2022-12-20 17:33:48.902 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressBuildAssetsNotification'. This property is already registered.
+2022-12-20 17:33:48.902 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressHiddenDiagnostics'. This property is already registered.
+2022-12-20 17:33:48.902 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.referencesCodeLens.enabled'. This property is already registered.
+2022-12-20 17:33:48.902 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.referencesCodeLens.filteredSymbols'. This property is already registered.
+2022-12-20 17:33:48.903 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.testsCodeLens.enabled'. This property is already registered.
+2022-12-20 17:33:48.903 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.maxProjectFileCountForDiagnosticAnalysis'. This property is already registered.
+2022-12-20 17:33:48.903 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.semanticHighlighting.enabled'. This property is already registered.
+2022-12-20 17:33:48.903 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.showOmnisharpLogOnError'. This property is already registered.
+2022-12-20 17:33:48.903 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.enabled'. This property is already registered.
+2022-12-20 17:33:48.903 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.forLiteralParameters'. This property is already registered.
+2022-12-20 17:33:48.903 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.forObjectCreationParameters'. This property is already registered.
+2022-12-20 17:33:48.903 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.forIndexerParameters'. This property is already registered.
+2022-12-20 17:33:48.904 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.forOtherParameters'. This property is already registered.
+2022-12-20 17:33:48.904 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.suppressForParametersThatDifferOnlyBySuffix'. This property is already registered.
+2022-12-20 17:33:48.904 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.suppressForParametersThatMatchMethodIntent'. This property is already registered.
+2022-12-20 17:33:48.904 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.suppressForParametersThatMatchArgumentName'. This property is already registered.
+2022-12-20 17:33:48.904 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.types.enabled'. This property is already registered.
+2022-12-20 17:33:48.904 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.types.forImplicitVariableTypes'. This property is already registered.
+2022-12-20 17:33:48.904 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.types.forLambdaParameterTypes'. This property is already registered.
+2022-12-20 17:33:48.904 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.types.forImplicitObjectCreation'. This property is already registered.
+2022-12-20 17:33:48.905 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.path'. This property is already registered.
+2022-12-20 17:33:48.905 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.useModernNet'. This property is already registered.
+2022-12-20 17:33:48.905 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.sdkPath'. This property is already registered.
+2022-12-20 17:33:48.905 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.sdkVersion'. This property is already registered.
+2022-12-20 17:33:48.905 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.sdkIncludePrereleases'. This property is already registered.
+2022-12-20 17:33:48.905 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.monoPath'. This property is already registered.
+2022-12-20 17:33:48.905 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.dotnetPath'. This property is already registered.
+2022-12-20 17:33:48.905 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.waitForDebugger'. This property is already registered.
+2022-12-20 17:33:48.905 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.loggingLevel'. This property is already registered.
+2022-12-20 17:33:48.906 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.autoStart'. This property is already registered.
+2022-12-20 17:33:48.906 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.projectLoadTimeout'. This property is already registered.
+2022-12-20 17:33:48.906 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.maxProjectResults'. This property is already registered.
+2022-12-20 17:33:48.906 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.defaultLaunchSolution'. This property is already registered.
+2022-12-20 17:33:48.906 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.useEditorFormattingSettings'. This property is already registered.
+2022-12-20 17:33:48.906 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.minFindSymbolsFilterLength'. This property is already registered.
+2022-12-20 17:33:48.906 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.maxFindSymbolsItems'. This property is already registered.
+2022-12-20 17:33:48.906 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.disableMSBuildDiagnosticWarning'. This property is already registered.
+2022-12-20 17:33:48.907 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableMsBuildLoadProjectsOnDemand'. This property is already registered.
+2022-12-20 17:33:48.907 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableRoslynAnalyzers'. This property is already registered.
+2022-12-20 17:33:48.907 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableEditorConfigSupport'. This property is already registered.
+2022-12-20 17:33:48.907 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableDecompilationSupport'. This property is already registered.
+2022-12-20 17:33:48.907 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableImportCompletion'. This property is already registered.
+2022-12-20 17:33:48.907 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.organizeImportsOnFormat'. This property is already registered.
+2022-12-20 17:33:48.907 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableAsyncCompletion'. This property is already registered.
+2022-12-20 17:33:48.907 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.analyzeOpenDocumentsOnly'. This property is already registered.
+2022-12-20 17:33:48.907 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.testRunSettings'. This property is already registered.
+2022-12-20 17:33:48.908 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.plugin.path'. This property is already registered.
+2022-12-20 17:33:48.908 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.devmode'. This property is already registered.
+2022-12-20 17:33:48.908 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.disabled'. This property is already registered.
+2022-12-20 17:33:48.908 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.languageServer.directory'. This property is already registered.
+2022-12-20 17:33:48.908 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.languageServer.debug'. This property is already registered.
+2022-12-20 17:33:48.908 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.trace'. This property is already registered.
+2022-12-20 17:33:48.908 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.format.enable'. This property is already registered.
+2022-12-20 17:33:48.908 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2022-12-20 17:33:48.973 [info] [muhammad-sammy.csharp]: Command `o.restart` appears multiple times in the `commands` section.
+2022-12-20 17:33:48.974 [info] [muhammad-sammy.csharp]: Command `o.pickProjectAndStart` appears multiple times in the `commands` section.
+2022-12-20 17:33:48.974 [info] [muhammad-sammy.csharp]: Command `o.fixAll.solution` appears multiple times in the `commands` section.
+2022-12-20 17:33:48.974 [info] [muhammad-sammy.csharp]: Command `o.fixAll.project` appears multiple times in the `commands` section.
+2022-12-20 17:33:48.974 [info] [muhammad-sammy.csharp]: Command `o.fixAll.document` appears multiple times in the `commands` section.
+2022-12-20 17:33:48.974 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.allProjects` appears multiple times in the `commands` section.
+2022-12-20 17:33:48.974 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.currentProject` appears multiple times in the `commands` section.
+2022-12-20 17:33:48.974 [info] [muhammad-sammy.csharp]: Command `dotnet.generateAssets` appears multiple times in the `commands` section.
+2022-12-20 17:33:48.974 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.project` appears multiple times in the `commands` section.
+2022-12-20 17:33:48.975 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.all` appears multiple times in the `commands` section.
+2022-12-20 17:33:48.975 [info] [muhammad-sammy.csharp]: Command `csharp.downloadDebugger` appears multiple times in the `commands` section.
+2022-12-20 17:33:48.975 [info] [muhammad-sammy.csharp]: Command `csharp.listProcess` appears multiple times in the `commands` section.
+2022-12-20 17:33:48.975 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteProcess` appears multiple times in the `commands` section.
+2022-12-20 17:33:48.975 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteDockerProcess` appears multiple times in the `commands` section.
+2022-12-20 17:33:48.975 [info] [muhammad-sammy.csharp]: Command `csharp.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 17:33:48.975 [info] [muhammad-sammy.csharp]: Command `csharp.showDecompilationTerms` appears multiple times in the `commands` section.
+2022-12-20 17:33:48.975 [info] [muhammad-sammy.csharp]: Command `extension.showRazorCSharpWindow` appears multiple times in the `commands` section.
+2022-12-20 17:33:48.976 [info] [muhammad-sammy.csharp]: Command `extension.showRazorHtmlWindow` appears multiple times in the `commands` section.
+2022-12-20 17:33:48.976 [info] [muhammad-sammy.csharp]: Command `razor.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 17:33:48.976 [info] [muhammad-sammy.csharp]: Command `dotnet.test.runTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 17:33:48.976 [info] [muhammad-sammy.csharp]: Command `dotnet.test.debugTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 17:33:49.760 [error] [Extension Host] /bin/sh: line 1: hostname: command not found
+2022-12-20 17:33:51.673 [info] [perf] Render performance baseline is 35ms
+2022-12-20 17:33:58.684 [error] Error while registering log channel file:///home/thesynthax/.config/Code%20-%20OSS/logs/20221220T172958/userDataSync.log Timed out while waiting for file to be created
+2022-12-20 17:34:54.297 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"c","after":"","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":1,"line":0,"character":1,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:34:57.921 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"console","after":"console.log","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":0,"line":0,"character":0,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:35:01.281 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"console.log(\"Hello","after":"\")","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":18,"line":0,"character":18,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:35:23.386 [error] Extension 'ms-vscode.cpptools CANNOT USE these API proposals 'terminalDataWriteEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2022-12-20 17:35:23.386 [error] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2022-12-20 17:35:23.409 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.format.enable'. This property is already registered.
+2022-12-20 17:35:23.409 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressDotnetInstallWarning'. This property is already registered.
+2022-12-20 17:35:23.409 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.unitTestDebuggingOptions'. This property is already registered.
+2022-12-20 17:35:23.409 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressDotnetRestoreNotification'. This property is already registered.
+2022-12-20 17:35:23.409 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressProjectJsonWarning'. This property is already registered.
+2022-12-20 17:35:23.410 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressBuildAssetsNotification'. This property is already registered.
+2022-12-20 17:35:23.410 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressHiddenDiagnostics'. This property is already registered.
+2022-12-20 17:35:23.410 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.referencesCodeLens.enabled'. This property is already registered.
+2022-12-20 17:35:23.410 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.referencesCodeLens.filteredSymbols'. This property is already registered.
+2022-12-20 17:35:23.410 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.testsCodeLens.enabled'. This property is already registered.
+2022-12-20 17:35:23.410 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.maxProjectFileCountForDiagnosticAnalysis'. This property is already registered.
+2022-12-20 17:35:23.410 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.semanticHighlighting.enabled'. This property is already registered.
+2022-12-20 17:35:23.411 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.showOmnisharpLogOnError'. This property is already registered.
+2022-12-20 17:35:23.411 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.enabled'. This property is already registered.
+2022-12-20 17:35:23.411 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.forLiteralParameters'. This property is already registered.
+2022-12-20 17:35:23.411 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.forObjectCreationParameters'. This property is already registered.
+2022-12-20 17:35:23.411 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.forIndexerParameters'. This property is already registered.
+2022-12-20 17:35:23.411 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.forOtherParameters'. This property is already registered.
+2022-12-20 17:35:23.411 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.suppressForParametersThatDifferOnlyBySuffix'. This property is already registered.
+2022-12-20 17:35:23.411 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.suppressForParametersThatMatchMethodIntent'. This property is already registered.
+2022-12-20 17:35:23.412 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.suppressForParametersThatMatchArgumentName'. This property is already registered.
+2022-12-20 17:35:23.412 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.types.enabled'. This property is already registered.
+2022-12-20 17:35:23.412 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.types.forImplicitVariableTypes'. This property is already registered.
+2022-12-20 17:35:23.412 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.types.forLambdaParameterTypes'. This property is already registered.
+2022-12-20 17:35:23.412 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.types.forImplicitObjectCreation'. This property is already registered.
+2022-12-20 17:35:23.412 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.path'. This property is already registered.
+2022-12-20 17:35:23.412 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.useModernNet'. This property is already registered.
+2022-12-20 17:35:23.412 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.sdkPath'. This property is already registered.
+2022-12-20 17:35:23.413 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.sdkVersion'. This property is already registered.
+2022-12-20 17:35:23.413 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.sdkIncludePrereleases'. This property is already registered.
+2022-12-20 17:35:23.413 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.monoPath'. This property is already registered.
+2022-12-20 17:35:23.413 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.dotnetPath'. This property is already registered.
+2022-12-20 17:35:23.413 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.waitForDebugger'. This property is already registered.
+2022-12-20 17:35:23.413 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.loggingLevel'. This property is already registered.
+2022-12-20 17:35:23.413 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.autoStart'. This property is already registered.
+2022-12-20 17:35:23.413 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.projectLoadTimeout'. This property is already registered.
+2022-12-20 17:35:23.413 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.maxProjectResults'. This property is already registered.
+2022-12-20 17:35:23.414 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.defaultLaunchSolution'. This property is already registered.
+2022-12-20 17:35:23.414 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.useEditorFormattingSettings'. This property is already registered.
+2022-12-20 17:35:23.414 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.minFindSymbolsFilterLength'. This property is already registered.
+2022-12-20 17:35:23.414 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.maxFindSymbolsItems'. This property is already registered.
+2022-12-20 17:35:23.414 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.disableMSBuildDiagnosticWarning'. This property is already registered.
+2022-12-20 17:35:23.414 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableMsBuildLoadProjectsOnDemand'. This property is already registered.
+2022-12-20 17:35:23.414 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableRoslynAnalyzers'. This property is already registered.
+2022-12-20 17:35:23.414 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableEditorConfigSupport'. This property is already registered.
+2022-12-20 17:35:23.414 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableDecompilationSupport'. This property is already registered.
+2022-12-20 17:35:23.415 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableImportCompletion'. This property is already registered.
+2022-12-20 17:35:23.415 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.organizeImportsOnFormat'. This property is already registered.
+2022-12-20 17:35:23.415 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableAsyncCompletion'. This property is already registered.
+2022-12-20 17:35:23.415 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.analyzeOpenDocumentsOnly'. This property is already registered.
+2022-12-20 17:35:23.415 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.testRunSettings'. This property is already registered.
+2022-12-20 17:35:23.415 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.plugin.path'. This property is already registered.
+2022-12-20 17:35:23.415 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.devmode'. This property is already registered.
+2022-12-20 17:35:23.415 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.disabled'. This property is already registered.
+2022-12-20 17:35:23.416 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.languageServer.directory'. This property is already registered.
+2022-12-20 17:35:23.416 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.languageServer.debug'. This property is already registered.
+2022-12-20 17:35:23.416 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.trace'. This property is already registered.
+2022-12-20 17:35:23.416 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.format.enable'. This property is already registered.
+2022-12-20 17:35:23.416 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2022-12-20 17:35:23.470 [info] [muhammad-sammy.csharp]: Command `o.restart` appears multiple times in the `commands` section.
+2022-12-20 17:35:23.471 [info] [muhammad-sammy.csharp]: Command `o.pickProjectAndStart` appears multiple times in the `commands` section.
+2022-12-20 17:35:23.471 [info] [muhammad-sammy.csharp]: Command `o.fixAll.solution` appears multiple times in the `commands` section.
+2022-12-20 17:35:23.471 [info] [muhammad-sammy.csharp]: Command `o.fixAll.project` appears multiple times in the `commands` section.
+2022-12-20 17:35:23.471 [info] [muhammad-sammy.csharp]: Command `o.fixAll.document` appears multiple times in the `commands` section.
+2022-12-20 17:35:23.471 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.allProjects` appears multiple times in the `commands` section.
+2022-12-20 17:35:23.472 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.currentProject` appears multiple times in the `commands` section.
+2022-12-20 17:35:23.472 [info] [muhammad-sammy.csharp]: Command `dotnet.generateAssets` appears multiple times in the `commands` section.
+2022-12-20 17:35:23.472 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.project` appears multiple times in the `commands` section.
+2022-12-20 17:35:23.472 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.all` appears multiple times in the `commands` section.
+2022-12-20 17:35:23.472 [info] [muhammad-sammy.csharp]: Command `csharp.downloadDebugger` appears multiple times in the `commands` section.
+2022-12-20 17:35:23.472 [info] [muhammad-sammy.csharp]: Command `csharp.listProcess` appears multiple times in the `commands` section.
+2022-12-20 17:35:23.472 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteProcess` appears multiple times in the `commands` section.
+2022-12-20 17:35:23.472 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteDockerProcess` appears multiple times in the `commands` section.
+2022-12-20 17:35:23.473 [info] [muhammad-sammy.csharp]: Command `csharp.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 17:35:23.473 [info] [muhammad-sammy.csharp]: Command `csharp.showDecompilationTerms` appears multiple times in the `commands` section.
+2022-12-20 17:35:23.473 [info] [muhammad-sammy.csharp]: Command `extension.showRazorCSharpWindow` appears multiple times in the `commands` section.
+2022-12-20 17:35:23.473 [info] [muhammad-sammy.csharp]: Command `extension.showRazorHtmlWindow` appears multiple times in the `commands` section.
+2022-12-20 17:35:23.473 [info] [muhammad-sammy.csharp]: Command `razor.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 17:35:23.473 [info] [muhammad-sammy.csharp]: Command `dotnet.test.runTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 17:35:23.473 [info] [muhammad-sammy.csharp]: Command `dotnet.test.debugTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 17:35:24.829 [error] [Extension Host] /bin/sh: line 1: hostname: command not found
+2022-12-20 17:35:25.346 [info] [perf] Render performance baseline is 50ms
+2022-12-20 17:35:32.632 [error] Error while registering log channel file:///home/thesynthax/.config/Code%20-%20OSS/logs/20221220T172958/userDataSync.log Timed out while waiting for file to be created
+2022-12-20 17:35:57.665 [error] Extension 'ms-vscode.js-debug-nightly CANNOT USE these API proposals 'portsAttributes, findTextInFiles, workspaceTrust, tunnels'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2022-12-20 17:35:57.665 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.codelens.npmScripts'. This property is already registered.
+2022-12-20 17:35:57.666 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.terminalOptions'. This property is already registered.
+2022-12-20 17:35:57.666 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.automaticallyTunnelRemoteServer'. This property is already registered.
+2022-12-20 17:35:57.666 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.debugByLinkOptions'. This property is already registered.
+2022-12-20 17:35:57.666 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.pickAndAttachOptions'. This property is already registered.
+2022-12-20 17:35:57.666 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.autoAttachFilter'. This property is already registered.
+2022-12-20 17:35:57.666 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.autoAttachSmartPattern'. This property is already registered.
+2022-12-20 17:35:57.667 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.breakOnConditionalError'. This property is already registered.
+2022-12-20 17:35:57.667 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.unmapMissingSources'. This property is already registered.
+2022-12-20 17:35:57.667 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.defaultRuntimeExecutable'. This property is already registered.
+2022-12-20 17:35:57.667 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.resourceRequestOptions'. This property is already registered.
+2022-12-20 17:35:57.689 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.prettyPrint` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.689 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.toggleSkippingFile` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.689 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.addCustomBreakpoints` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.690 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.removeCustomBreakpoint` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.690 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.removeAllCustomBreakpoints` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.690 [info] [ms-vscode.js-debug-nightly]: Command `extension.pwa-node-debug.attachNodeProcess` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.690 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.npmScript` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.690 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.createDebuggerTerminal` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.690 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.startProfile` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.691 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.stopProfile` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.691 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.revealPage` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.691 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.debugLink` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.691 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.createDiagnostics` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.691 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.getDiagnosticLogs` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.692 [info] [ms-vscode.js-debug-nightly]: Command `extension.node-debug.startWithStopOnEntry` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.692 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.openEdgeDevTools` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.692 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.add` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.692 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.remove` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.692 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.removeAll` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.692 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.goToCaller` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.692 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.gotToTarget` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.692 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.enableSourceMapStepping` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.693 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.disableSourceMapStepping` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.693 [info] [muhammad-sammy.csharp]: Command `o.restart` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.693 [info] [muhammad-sammy.csharp]: Command `o.pickProjectAndStart` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.693 [info] [muhammad-sammy.csharp]: Command `o.fixAll.solution` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.693 [info] [muhammad-sammy.csharp]: Command `o.fixAll.project` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.693 [info] [muhammad-sammy.csharp]: Command `o.fixAll.document` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.693 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.allProjects` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.693 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.currentProject` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.693 [info] [muhammad-sammy.csharp]: Command `dotnet.generateAssets` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.694 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.project` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.694 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.all` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.694 [info] [muhammad-sammy.csharp]: Command `csharp.downloadDebugger` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.694 [info] [muhammad-sammy.csharp]: Command `csharp.listProcess` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.694 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteProcess` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.694 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteDockerProcess` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.694 [info] [muhammad-sammy.csharp]: Command `csharp.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.694 [info] [muhammad-sammy.csharp]: Command `csharp.showDecompilationTerms` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.694 [info] [muhammad-sammy.csharp]: Command `extension.showRazorCSharpWindow` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.695 [info] [muhammad-sammy.csharp]: Command `extension.showRazorHtmlWindow` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.695 [info] [muhammad-sammy.csharp]: Command `razor.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.695 [info] [muhammad-sammy.csharp]: Command `dotnet.test.runTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.695 [info] [muhammad-sammy.csharp]: Command `dotnet.test.debugTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 17:35:57.704 [error] [ms-vscode.js-debug-nightly]: A view with id `jsBrowserBreakpoints` is already registered.
+2022-12-20 17:35:57.704 [error] [ms-vscode.js-debug-nightly]: A view with id `jsExcludedCallers` is already registered.
+2022-12-20 17:36:41.527 [error] Extension 'ms-vscode.cpptools CANNOT USE these API proposals 'terminalDataWriteEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2022-12-20 17:36:41.528 [error] Extension 'ms-vscode.js-debug-nightly CANNOT USE these API proposals 'portsAttributes, findTextInFiles, workspaceTrust, tunnels'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2022-12-20 17:36:41.529 [error] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2022-12-20 17:36:41.567 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.codelens.npmScripts'. This property is already registered.
+2022-12-20 17:36:41.567 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.terminalOptions'. This property is already registered.
+2022-12-20 17:36:41.567 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.automaticallyTunnelRemoteServer'. This property is already registered.
+2022-12-20 17:36:41.567 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.debugByLinkOptions'. This property is already registered.
+2022-12-20 17:36:41.567 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.pickAndAttachOptions'. This property is already registered.
+2022-12-20 17:36:41.567 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.autoAttachFilter'. This property is already registered.
+2022-12-20 17:36:41.567 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.autoAttachSmartPattern'. This property is already registered.
+2022-12-20 17:36:41.568 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.breakOnConditionalError'. This property is already registered.
+2022-12-20 17:36:41.568 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.unmapMissingSources'. This property is already registered.
+2022-12-20 17:36:41.568 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.defaultRuntimeExecutable'. This property is already registered.
+2022-12-20 17:36:41.568 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.resourceRequestOptions'. This property is already registered.
+2022-12-20 17:36:41.568 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.format.enable'. This property is already registered.
+2022-12-20 17:36:41.568 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressDotnetInstallWarning'. This property is already registered.
+2022-12-20 17:36:41.568 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.unitTestDebuggingOptions'. This property is already registered.
+2022-12-20 17:36:41.568 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressDotnetRestoreNotification'. This property is already registered.
+2022-12-20 17:36:41.569 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressProjectJsonWarning'. This property is already registered.
+2022-12-20 17:36:41.569 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressBuildAssetsNotification'. This property is already registered.
+2022-12-20 17:36:41.569 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressHiddenDiagnostics'. This property is already registered.
+2022-12-20 17:36:41.569 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.referencesCodeLens.enabled'. This property is already registered.
+2022-12-20 17:36:41.569 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.referencesCodeLens.filteredSymbols'. This property is already registered.
+2022-12-20 17:36:41.569 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.testsCodeLens.enabled'. This property is already registered.
+2022-12-20 17:36:41.569 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.maxProjectFileCountForDiagnosticAnalysis'. This property is already registered.
+2022-12-20 17:36:41.569 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.semanticHighlighting.enabled'. This property is already registered.
+2022-12-20 17:36:41.569 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.showOmnisharpLogOnError'. This property is already registered.
+2022-12-20 17:36:41.570 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.enabled'. This property is already registered.
+2022-12-20 17:36:41.570 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.forLiteralParameters'. This property is already registered.
+2022-12-20 17:36:41.570 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.forObjectCreationParameters'. This property is already registered.
+2022-12-20 17:36:41.570 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.forIndexerParameters'. This property is already registered.
+2022-12-20 17:36:41.570 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.forOtherParameters'. This property is already registered.
+2022-12-20 17:36:41.571 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.suppressForParametersThatDifferOnlyBySuffix'. This property is already registered.
+2022-12-20 17:36:41.571 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.suppressForParametersThatMatchMethodIntent'. This property is already registered.
+2022-12-20 17:36:41.571 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.suppressForParametersThatMatchArgumentName'. This property is already registered.
+2022-12-20 17:36:41.571 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.types.enabled'. This property is already registered.
+2022-12-20 17:36:41.571 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.types.forImplicitVariableTypes'. This property is already registered.
+2022-12-20 17:36:41.571 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.types.forLambdaParameterTypes'. This property is already registered.
+2022-12-20 17:36:41.571 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.types.forImplicitObjectCreation'. This property is already registered.
+2022-12-20 17:36:41.571 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.path'. This property is already registered.
+2022-12-20 17:36:41.572 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.useModernNet'. This property is already registered.
+2022-12-20 17:36:41.572 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.sdkPath'. This property is already registered.
+2022-12-20 17:36:41.572 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.sdkVersion'. This property is already registered.
+2022-12-20 17:36:41.572 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.sdkIncludePrereleases'. This property is already registered.
+2022-12-20 17:36:41.572 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.monoPath'. This property is already registered.
+2022-12-20 17:36:41.572 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.dotnetPath'. This property is already registered.
+2022-12-20 17:36:41.572 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.waitForDebugger'. This property is already registered.
+2022-12-20 17:36:41.572 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.loggingLevel'. This property is already registered.
+2022-12-20 17:36:41.572 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.autoStart'. This property is already registered.
+2022-12-20 17:36:41.573 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.projectLoadTimeout'. This property is already registered.
+2022-12-20 17:36:41.573 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.maxProjectResults'. This property is already registered.
+2022-12-20 17:36:41.573 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.defaultLaunchSolution'. This property is already registered.
+2022-12-20 17:36:41.573 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.useEditorFormattingSettings'. This property is already registered.
+2022-12-20 17:36:41.573 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.minFindSymbolsFilterLength'. This property is already registered.
+2022-12-20 17:36:41.573 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.maxFindSymbolsItems'. This property is already registered.
+2022-12-20 17:36:41.573 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.disableMSBuildDiagnosticWarning'. This property is already registered.
+2022-12-20 17:36:41.573 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableMsBuildLoadProjectsOnDemand'. This property is already registered.
+2022-12-20 17:36:41.573 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableRoslynAnalyzers'. This property is already registered.
+2022-12-20 17:36:41.574 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableEditorConfigSupport'. This property is already registered.
+2022-12-20 17:36:41.574 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableDecompilationSupport'. This property is already registered.
+2022-12-20 17:36:41.574 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableImportCompletion'. This property is already registered.
+2022-12-20 17:36:41.574 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.organizeImportsOnFormat'. This property is already registered.
+2022-12-20 17:36:41.574 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableAsyncCompletion'. This property is already registered.
+2022-12-20 17:36:41.574 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.analyzeOpenDocumentsOnly'. This property is already registered.
+2022-12-20 17:36:41.574 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.testRunSettings'. This property is already registered.
+2022-12-20 17:36:41.574 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.plugin.path'. This property is already registered.
+2022-12-20 17:36:41.575 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.devmode'. This property is already registered.
+2022-12-20 17:36:41.575 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.disabled'. This property is already registered.
+2022-12-20 17:36:41.575 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.languageServer.directory'. This property is already registered.
+2022-12-20 17:36:41.575 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.languageServer.debug'. This property is already registered.
+2022-12-20 17:36:41.575 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.trace'. This property is already registered.
+2022-12-20 17:36:41.575 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.format.enable'. This property is already registered.
+2022-12-20 17:36:41.575 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2022-12-20 17:36:41.625 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.prettyPrint` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.625 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.toggleSkippingFile` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.625 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.addCustomBreakpoints` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.625 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.removeCustomBreakpoint` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.625 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.removeAllCustomBreakpoints` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.625 [info] [ms-vscode.js-debug-nightly]: Command `extension.pwa-node-debug.attachNodeProcess` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.625 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.npmScript` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.625 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.createDebuggerTerminal` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.626 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.startProfile` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.626 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.stopProfile` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.626 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.revealPage` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.626 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.debugLink` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.626 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.createDiagnostics` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.626 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.getDiagnosticLogs` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.626 [info] [ms-vscode.js-debug-nightly]: Command `extension.node-debug.startWithStopOnEntry` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.627 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.openEdgeDevTools` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.627 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.add` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.627 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.remove` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.627 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.removeAll` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.627 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.goToCaller` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.628 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.gotToTarget` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.628 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.enableSourceMapStepping` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.628 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.disableSourceMapStepping` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.628 [info] [muhammad-sammy.csharp]: Command `o.restart` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.628 [info] [muhammad-sammy.csharp]: Command `o.pickProjectAndStart` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.628 [info] [muhammad-sammy.csharp]: Command `o.fixAll.solution` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.629 [info] [muhammad-sammy.csharp]: Command `o.fixAll.project` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.629 [info] [muhammad-sammy.csharp]: Command `o.fixAll.document` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.629 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.allProjects` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.629 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.currentProject` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.630 [info] [muhammad-sammy.csharp]: Command `dotnet.generateAssets` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.630 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.project` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.630 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.all` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.630 [info] [muhammad-sammy.csharp]: Command `csharp.downloadDebugger` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.630 [info] [muhammad-sammy.csharp]: Command `csharp.listProcess` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.630 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteProcess` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.630 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteDockerProcess` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.630 [info] [muhammad-sammy.csharp]: Command `csharp.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.630 [info] [muhammad-sammy.csharp]: Command `csharp.showDecompilationTerms` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.631 [info] [muhammad-sammy.csharp]: Command `extension.showRazorCSharpWindow` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.631 [info] [muhammad-sammy.csharp]: Command `extension.showRazorHtmlWindow` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.631 [info] [muhammad-sammy.csharp]: Command `razor.reportIssue` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.631 [info] [muhammad-sammy.csharp]: Command `dotnet.test.runTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.631 [info] [muhammad-sammy.csharp]: Command `dotnet.test.debugTestsInContext` appears multiple times in the `commands` section.
+2022-12-20 17:36:41.681 [error] [ms-vscode.js-debug-nightly]: Cannot register multiple views with same id `jsBrowserBreakpoints`
+2022-12-20 17:36:41.681 [error] [ms-vscode.js-debug-nightly]: Cannot register multiple views with same id `jsExcludedCallers`
+2022-12-20 17:36:42.857 [error] [Extension Host] /bin/sh: line 1: hostname: command not found
+2022-12-20 17:36:43.144 [info] [perf] Render performance baseline is 48ms
+2022-12-20 17:36:50.541 [error] Error while registering log channel file:///home/thesynthax/.config/Code%20-%20OSS/logs/20221220T172958/userDataSync.log Timed out while waiting for file to be created
+2022-12-20 17:36:58.529 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"console.log(\"Hello, world\")\nconfirm","after":"co","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":28,"line":1,"character":0,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:40:53.355 [error] Illegal value for `line`: Error: Illegal value for `line`
+    at E.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:93:966)
+    at Object.lineAt (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:93:90)
+    at t.default.isIndentOutChange (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:83170)
+    at /home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:83820
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at P.$acceptModelChanged (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:11193)
+    at u.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:11208)
+    at u.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:10926)
+    at u.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:10019)
+    at u.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:9000)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:7788
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at h.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14314)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:15804
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at h.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14314)
+    at c.y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:17324)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:15795
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at g.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12045)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11332
+    at Socket.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:19792)
+    at Socket.emit (node:events:526:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2022-12-20 17:40:58.075 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let","after":"let","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":0,"line":0,"character":0,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:40:59.128 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"length","after":"le","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":0,"line":0,"character":0,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:41:02.894 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let","after":"let ","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":0,"line":0,"character":0,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:41:10.251 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let a=\"sex\"\nlet b","after":"","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":17,"line":1,"character":5,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:41:14.121 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let a = \"sex\"\nlet b = ","after":"","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":22,"line":1,"character":8,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:41:18.134 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let a = \"sex\"\nlet b = \"fuck\"\n\nconfirm","after":"co","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":30,"line":3,"character":0,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:41:21.813 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let a = \"sex\"\nlet b = \"fuck\"\n\nconsole.log","after":".log","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":37,"line":3,"character":7,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:41:25.392 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let a = \"sex\"\nlet b = \"fuck\"\n\nconsole.log(a + b","after":"b)","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":46,"line":3,"character":16,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:42:21.969 [error] Illegal value for `line`: Error: Illegal value for `line`
+    at E.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:93:966)
+    at Object.lineAt (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:93:90)
+    at t.default.isIndentOutChange (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:83170)
+    at /home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:83820
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at P.$acceptModelChanged (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:11193)
+    at u.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:11208)
+    at u.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:10926)
+    at u.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:10019)
+    at u.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:9000)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:7788
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at h.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14314)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:15804
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at h.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14314)
+    at c.y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:17324)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:15795
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at g.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12045)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11332
+    at Socket.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:19792)
+    at Socket.emit (node:events:526:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2022-12-20 17:42:24.186 [error] Illegal value for `line`: Error: Illegal value for `line`
+    at E.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:93:966)
+    at Object.lineAt (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:93:90)
+    at t.default.isIndentOutChange (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:83170)
+    at /home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:83820
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at P.$acceptModelChanged (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:11193)
+    at u.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:11208)
+    at u.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:10926)
+    at u.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:10019)
+    at u.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:9000)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:7788
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at h.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14314)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:15804
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at h.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14314)
+    at c.y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:17324)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:15795
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at g.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12045)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11332
+    at Socket.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:19792)
+    at Socket.emit (node:events:526:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2022-12-20 17:42:33.049 [error] Illegal value for `line`: Error: Illegal value for `line`
+    at E.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:93:966)
+    at Object.lineAt (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:93:90)
+    at t.default.isIndentOutChange (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:83170)
+    at /home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:83820
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at P.$acceptModelChanged (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:11193)
+    at u.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:11208)
+    at u.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:10926)
+    at u.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:10019)
+    at u.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:9000)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:7788
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at h.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14314)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:15804
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at h.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14314)
+    at c.y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:17324)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:15795
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at g.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12045)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11332
+    at Socket.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:19792)
+    at Socket.emit (node:events:526:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2022-12-20 17:42:53.167 [error] Cannot read properties of null (reading 'id'): TypeError: Cannot read properties of null (reading 'id')
+    at b.h (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:616:43216)
+    at b.update (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:616:43399)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:769:488
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+2022-12-20 17:43:05.599 [error] Illegal value for `line`: Error: Illegal value for `line`
+    at E.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:93:966)
+    at Object.lineAt (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:93:90)
+    at t.default.isIndentOutChange (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:83170)
+    at /home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:83820
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at P.$acceptModelChanged (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:11193)
+    at u.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:11208)
+    at u.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:10926)
+    at u.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:10019)
+    at u.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:9000)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:7788
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at h.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14314)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:15804
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at h.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14314)
+    at c.y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:17324)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:15795
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at g.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12045)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11332
+    at Socket.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:19792)
+    at Socket.emit (node:events:526:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2022-12-20 17:44:10.109 [error] Illegal value for `line`: Error: Illegal value for `line`
+    at E.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:93:966)
+    at Object.lineAt (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:93:90)
+    at t.default.isIndentOutChange (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:83170)
+    at /home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:83820
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at P.$acceptModelChanged (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:11193)
+    at u.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:11208)
+    at u.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:10926)
+    at u.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:10019)
+    at u.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:9000)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:7788
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at h.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14314)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:15804
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at h.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14314)
+    at c.y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:17324)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:15795
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at g.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12045)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11332
+    at Socket.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:19792)
+    at Socket.emit (node:events:526:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2022-12-20 17:45:11.547 [error] Illegal value for `line`: Error: Illegal value for `line`
+    at E.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:93:966)
+    at Object.lineAt (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:93:90)
+    at t.default.isIndentOutChange (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:83170)
+    at /home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:83820
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at P.$acceptModelChanged (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:11193)
+    at u.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:11208)
+    at u.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:10926)
+    at u.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:10019)
+    at u.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:9000)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:7788
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at h.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14314)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:15804
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at h.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14314)
+    at c.y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:17324)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:15795
+    at d.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at g.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12045)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11332
+    at Socket.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:19792)
+    at Socket.emit (node:events:526:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2022-12-20 17:45:13.939 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let","after":"let","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":0,"line":0,"character":0,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:45:16.550 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let num =","after":"","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":9,"line":0,"character":9,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:45:20.461 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let num = [1,2","after":"]","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":14,"line":0,"character":14,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:45:30.897 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let num = [1,2,3,4,5,6]\n\nnum.join","after":".","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":28,"line":2,"character":3,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:46:34.078 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let num = [1,2,3,4,5,6]\n\nnum.forEach(i) ","after":"","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":40,"line":2,"character":15,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:46:39.657 [error] [Extension Host] Error: Binary request timed out. {"SetState":{"state_type":{"Selection":{"language":"js","length":2,"net_length":2,"strength":"33%","origin":"LOCAL","index":0,"line_prefix_length":17,"line_net_prefix_length":17,"line_suffix_length":0,"num_of_suggestions":5,"num_of_vanilla_suggestions":0,"num_of_deep_local_suggestions":5,"num_of_deep_cloud_suggestions":0,"num_of_lsp_suggestions":0,"num_of_vanilla_keyword_suggestions":0,"suggestions":[{"length":2,"strength":"33%","origin":"LOCAL"},{"length":8,"strength":" 1%","origin":"LOCAL"},{"length":4,"strength":" 3%","origin":"LOCAL"},{"length":5,"strength":" 1%","origin":"LOCAL"},{"length":10,"strength":" 1%","origin":"LOCAL"}],"is_locked":false,"completion_kind":"Classic","suggestion_trigger":"DocumentChanged"}}}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:46:40.659 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let num = [1,2,3,4,5,6]\n\nnum.forEach(i) => {`","after":"`","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":45,"line":2,"character":20,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:46:41.668 [error] [Extension Host] Error: Binary request timed out. {"Notifications":{}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:46:42.661 [error] [Extension Host] Error: Binary request timed out. {"StatusBar":{}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:46:44.168 [error] [Extension Host] Error: Binary request timed out. {"SetState":{"state_type":{"HintShown":{"id":"default-first-selection-hint","text":"✨Congrats on your first Tabnine code completion!","state":null}}}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:46:49.814 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let num = [1,2,3,4,5,6]\n\nnum.forEach(i) => \n","after":"{\n}","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":44,"line":3,"character":0,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:46:54.737 [error] Missing semicolon. (3:14): SyntaxError: Missing semicolon. (3:14)
+    at instantiate (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:72:32)
+    at toParseError (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:358:12)
+    at St.raise (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:3335:19)
+    at St.semicolon (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:3996:10)
+    at St.parseExpressionStatement (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:15134:10)
+    at St.parseExpressionStatement (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:5849:18)
+    at St.parseStatementContent (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14681:19)
+    at St.parseStatement (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14533:17)
+    at St.parseStatement (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:5823:24)
+    at St.parseBlockOrModuleBlockBody (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:15176:25)
+    at St.parseBlockBody (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:15167:10)
+    at St.parseProgram (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14451:10)
+    at St.parseTopLevel (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14438:25)
+    at St.parseTopLevel (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:6827:28)
+    at St.parse (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:16401:10)
+    at jsParse (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:16453:38)
+    at parse (/home/thesynthax/.vscode-oss/extensions/import-cost/src/babel-parser.js:65:10)
+    at getPackagesFromJS (/home/thesynthax/.vscode-oss/extensions/import-cost/src/babel-parser.js:57:15)
+    at getPackages (/home/thesynthax/.vscode-oss/extensions/import-cost/src/parser.js:37:12)
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/import-cost/src/index.js:21:21)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:47:00.129 [error] Missing semicolon. (3:14): SyntaxError: Missing semicolon. (3:14)
+    at instantiate (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:72:32)
+    at toParseError (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:358:12)
+    at St.raise (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:3335:19)
+    at St.semicolon (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:3996:10)
+    at St.parseExpressionStatement (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:15134:10)
+    at St.parseExpressionStatement (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:5849:18)
+    at St.parseStatementContent (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14681:19)
+    at St.parseStatement (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14533:17)
+    at St.parseStatement (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:5823:24)
+    at St.parseBlockOrModuleBlockBody (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:15176:25)
+    at St.parseBlockBody (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:15167:10)
+    at St.parseProgram (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14451:10)
+    at St.parseTopLevel (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14438:25)
+    at St.parseTopLevel (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:6827:28)
+    at St.parse (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:16401:10)
+    at jsParse (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:16453:38)
+    at parse (/home/thesynthax/.vscode-oss/extensions/import-cost/src/babel-parser.js:65:10)
+    at getPackagesFromJS (/home/thesynthax/.vscode-oss/extensions/import-cost/src/babel-parser.js:57:15)
+    at getPackages (/home/thesynthax/.vscode-oss/extensions/import-cost/src/parser.js:37:12)
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/import-cost/src/index.js:21:21)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:47:16.483 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let num = [1,2,3,4,5,6]\n\nnum.forEach((i) => {\n    console","after":"conso\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":50,"line":3,"character":4,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:47:20.037 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let num = [1,2,3,4,5,6]\n\nnum.forEach((i) => {\n    console.log(i","after":")\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":63,"line":3,"character":17,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:47:21.037 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let num = [1,2,3,4,5,6]\n\nnum.forEach((i) => {\n    console.log(i","after":"i)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":62,"line":3,"character":16,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:47:22.037 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let num = [1,2,3,4,5,6]\n\nnum.forEach((i) => {\n    console.log(i);","after":"\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":65,"line":3,"character":19,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:47:40.961 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let num = [1,2,3,4,5,6]\n\nnum.forEach((element) => {\n    console.log(element","after":"e)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":68,"line":3,"character":16,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:48:38.918 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let num = [1,2,3,4,5,6]\n\nnum.forEach((i) => {\n    console.log(i","after":"i)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":62,"line":3,"character":16,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:48:39.920 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let num = [1,2,3,4,5,6]\n\nnum.forEach((i) => {\n    console.log(i","after":"i)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":62,"line":3,"character":16,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 17:48:52.511 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let num = [1,2,3,4,5,6]\n\nnum.forEach((i) => {\n    console.log(i**3","after":")\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":66,"line":3,"character":20,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:04:11.912 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let num = [1,2,3,4,5,6]\nlength","after":"le\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":24,"line":1,"character":0,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:04:12.914 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let num = [1,2,3,4,5,6]\nlet","after":"let\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":24,"line":1,"character":0,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:04:13.913 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let num = [1,2,3,4,5,6]\nlet ","after":"\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":28,"line":1,"character":4,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:04:16.859 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let num = [1,2,3,4,5,6]\nlet a = prompt","after":"pro\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":32,"line":1,"character":8,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:04:17.861 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let num = [1,2,3,4,5,6]\nlet a = prompt","after":"prom\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":32,"line":1,"character":8,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:04:22.170 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let num = [1,2,3,4,5,6]\nlet a = prompt(\"FUCK ","after":"\")\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":45,"line":1,"character":21,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:04:23.172 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let num = [1,2,3,4,5,6]\nlet a = prompt(\"FUCK Y","after":"\")\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":46,"line":1,"character":22,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:06:45.035 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let num = [1,2,3,4,5,6]\nlet a = readLine(\"Hello:","after":"\")\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":48,"line":1,"character":24,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:07:01.392 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let num = [1,2,3,4,5,6]\nlet a = p","after":"\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":33,"line":1,"character":9,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:07:04.432 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"let num = [1,2,3,4,5,6]\nlet a = prompt","after":"prom\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":32,"line":1,"character":8,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:11:40.715 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"confirm","after":"co\nlet num = [1,2,3,4,5,6]\na = prompt();\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":0,"line":0,"character":0,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:11:41.716 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const","after":"const\nlet num = [1,2,3,4,5,6]\na = prompt();\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":0,"line":0,"character":0,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:11:42.716 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const ","after":"\nlet num = [1,2,3,4,5,6]\na = prompt();\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":6,"line":0,"character":6,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:11:43.718 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt","after":"p\nlet num = [1,2,3,4,5,6]\na = prompt();\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":6,"line":0,"character":6,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:11:44.718 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt","after":"pr\nlet num = [1,2,3,4,5,6]\na = prompt();\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":6,"line":0,"character":6,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:11:45.719 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt","after":"pro\nlet num = [1,2,3,4,5,6]\na = prompt();\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":6,"line":0,"character":6,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:11:52.720 [error] [Extension Host] Error: Binary request timed out. {"Features":{}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:11:52.721 [error] [Extension Host] Error: Could not get enabled capabilities
+    at Object.t.getCapabilities (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:44520)
+    at l (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:51023)
+2022-12-20 18:11:53.721 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"confirm","after":"const prom\nlet num = [1,2,3,4,5,6]\na = prompt();\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":0,"line":0,"character":0,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:11:55.631 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"prompt","after":"\nlet num = [1,2,3,4,5,6]\na = prompt();\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":0,"line":0,"character":6,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:11:56.633 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"prompt","after":"\nlet num = [1,2,3,4,5,6]\na = prompt();\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":0,"line":0,"character":6,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:11:59.355 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"console","after":"cons\nlet num = [1,2,3,4,5,6]\na = prompt();\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":0,"line":0,"character":0,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:12:00.354 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const","after":"const\nlet num = [1,2,3,4,5,6]\na = prompt();\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":0,"line":0,"character":0,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:12:01.357 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const ","after":"\nlet num = [1,2,3,4,5,6]\na = prompt();\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":6,"line":0,"character":6,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:12:02.357 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt","after":"p\nlet num = [1,2,3,4,5,6]\na = prompt();\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":6,"line":0,"character":6,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:12:03.358 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt","after":"pr\nlet num = [1,2,3,4,5,6]\na = prompt();\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":6,"line":0,"character":6,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:12:07.457 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt = requestAnimationFrame","after":"requ\nlet num = [1,2,3,4,5,6]\na = prompt();\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":15,"line":0,"character":15,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:12:09.378 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt = require(\"prompt-sync","after":"\")\nlet num = [1,2,3,4,5,6]\na = prompt();\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":24,"line":0,"character":24,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:12:14.548 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt = requestAnimationFrame","after":"require(\"prompt-sync\")\nlet num = [1,2,3,4,5,6]\na = prompt();\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":15,"line":0,"character":15,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:12:15.547 [error] [Extension Host] Error: Binary request timed out. {"State":{}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:12:17.065 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt = require(\"prompt-sync","after":"prompt-sync\")\nlet num = [1,2,3,4,5,6]\na = prompt();\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":24,"line":0,"character":24,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:12:20.647 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt = require(\"prompt-sync\")\nlet num = [1,2,3,4,5,6]\na = prompt(\"","after":"\");\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":74,"line":2,"character":12,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:12:21.648 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt = require(\"prompt-sync\")\nlet num = [1,2,3,4,5,6]\na = prompt(\"H","after":"\");\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":75,"line":2,"character":13,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:12:23.601 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt = require(\"prompt-sync\")\nlet num = [1,2,3,4,5,6]\na = prompt(\"Hey ","after":"\");\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":78,"line":2,"character":16,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:12:26.231 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt = require(\"prompt-sync\")\nlet num = [1,2,3,4,5,6]\na = prompt(\"Hey f","after":"\");\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":79,"line":2,"character":17,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:12:27.714 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt = require(\"prompt-sync\")\nlet num = [1,2,3,4,5,6]\na = prompt(\"Hey fuc","after":"\");\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":81,"line":2,"character":19,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:12:28.715 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt = require(\"prompt-sync\")\nlet num = [1,2,3,4,5,6]\na = prompt(\"Hey fuck","after":"\");\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":82,"line":2,"character":20,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:12:51.041 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt = require(\"prompt-sync\")(","after":")\nlet num = [1,2,3,4,5,6]\na = prompt(\"Hey fuck you: \");\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":38,"line":0,"character":38,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:12:52.232 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt = require(\"prompt-sync\")({","after":"})\nlet num = [1,2,3,4,5,6]\na = prompt(\"Hey fuck you: \");\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":39,"line":0,"character":39,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:12:53.810 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt = require(\"prompt-sync\")({ sigint","after":"s})\nlet num = [1,2,3,4,5,6]\na = prompt(\"Hey fuck you: \");\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":40,"line":0,"character":40,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:12:57.195 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt = require(\"prompt-sync\")({ sigint=true","after":"true})\nlet num = [1,2,3,4,5,6]\na = prompt(\"Hey fuck you: \");\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":47,"line":0,"character":47,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:12:58.195 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt = require(\"prompt-sync\")({ sigint=true ","after":"})\nlet num = [1,2,3,4,5,6]\na = prompt(\"Hey fuck you: \");\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":52,"line":0,"character":52,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:12:58.343 [error] Invalid shorthand property initializer. (1:46): SyntaxError: Invalid shorthand property initializer. (1:46)
+    at instantiate (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:72:32)
+    at toParseError (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:358:12)
+    at St.raise (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:3335:19)
+    at St.checkExpressionErrors (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:4079:12)
+    at St.parseMaybeAssign (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12251:12)
+    at St.parseMaybeAssign (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:6662:18)
+    at callback (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12172:39)
+    at St.allowInAnd (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14242:12)
+    at St.parseMaybeAssignAllowIn (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12172:17)
+    at St.parseExprListItem (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:13947:18)
+    at St.parseCallExpressionArguments (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12766:22)
+    at St.parseCoverCallAndAsyncArrowHead (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12663:29)
+    at St.parseSubscript (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12588:19)
+    at St.parseSubscript (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:6781:18)
+    at St.parseSubscripts (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12557:19)
+    at St.parseSubscripts (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:6744:18)
+    at St.parseExprSubscripts (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12546:17)
+    at St.parseUpdate (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12519:21)
+    at St.parseMaybeUnary (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12490:23)
+    at St.parseMaybeUnaryOrPrivate (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12284:61)
+    at St.parseExprOps (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12291:23)
+    at St.parseMaybeConditional (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12261:23)
+    at St.parseMaybeAssign (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12214:21)
+    at St.parseMaybeAssign (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:6662:18)
+    at callback (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12172:39)
+    at St.allowInAnd (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14236:16)
+    at St.parseMaybeAssignAllowIn (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12172:17)
+    at St.parseVar (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:15264:91)
+    at St.parseVarStatement (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:15066:10)
+    at St.parseStatementContent (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14608:21)
+    at St.parseStatement (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14533:17)
+    at St.parseStatement (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:5823:24)
+    at St.parseBlockOrModuleBlockBody (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:15176:25)
+    at St.parseBlockBody (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:15167:10)
+    at St.parseProgram (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14451:10)
+    at St.parseTopLevel (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14438:25)
+    at St.parseTopLevel (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:6827:28)
+    at St.parse (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:16401:10)
+    at jsParse (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:16453:38)
+    at parse (/home/thesynthax/.vscode-oss/extensions/import-cost/src/babel-parser.js:65:10)
+    at getPackagesFromJS (/home/thesynthax/.vscode-oss/extensions/import-cost/src/babel-parser.js:57:15)
+    at getPackages (/home/thesynthax/.vscode-oss/extensions/import-cost/src/parser.js:37:12)
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/import-cost/src/index.js:21:21)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:12:59.927 [error] Invalid shorthand property initializer. (1:46): SyntaxError: Invalid shorthand property initializer. (1:46)
+    at instantiate (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:72:32)
+    at toParseError (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:358:12)
+    at St.raise (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:3335:19)
+    at St.checkExpressionErrors (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:4079:12)
+    at St.parseMaybeAssign (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12251:12)
+    at St.parseMaybeAssign (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:6662:18)
+    at callback (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12172:39)
+    at St.allowInAnd (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14242:12)
+    at St.parseMaybeAssignAllowIn (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12172:17)
+    at St.parseExprListItem (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:13947:18)
+    at St.parseCallExpressionArguments (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12766:22)
+    at St.parseCoverCallAndAsyncArrowHead (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12663:29)
+    at St.parseSubscript (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12588:19)
+    at St.parseSubscript (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:6781:18)
+    at St.parseSubscripts (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12557:19)
+    at St.parseSubscripts (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:6744:18)
+    at St.parseExprSubscripts (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12546:17)
+    at St.parseUpdate (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12519:21)
+    at St.parseMaybeUnary (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12490:23)
+    at St.parseMaybeUnaryOrPrivate (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12284:61)
+    at St.parseExprOps (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12291:23)
+    at St.parseMaybeConditional (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12261:23)
+    at St.parseMaybeAssign (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12214:21)
+    at St.parseMaybeAssign (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:6662:18)
+    at callback (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12172:39)
+    at St.allowInAnd (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14236:16)
+    at St.parseMaybeAssignAllowIn (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12172:17)
+    at St.parseVar (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:15264:91)
+    at St.parseVarStatement (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:15066:10)
+    at St.parseStatementContent (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14608:21)
+    at St.parseStatement (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14533:17)
+    at St.parseStatement (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:5823:24)
+    at St.parseBlockOrModuleBlockBody (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:15176:25)
+    at St.parseBlockBody (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:15167:10)
+    at St.parseProgram (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14451:10)
+    at St.parseTopLevel (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14438:25)
+    at St.parseTopLevel (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:6827:28)
+    at St.parse (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:16401:10)
+    at jsParse (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:16453:38)
+    at parse (/home/thesynthax/.vscode-oss/extensions/import-cost/src/babel-parser.js:65:10)
+    at getPackagesFromJS (/home/thesynthax/.vscode-oss/extensions/import-cost/src/babel-parser.js:57:15)
+    at getPackages (/home/thesynthax/.vscode-oss/extensions/import-cost/src/parser.js:37:12)
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/import-cost/src/index.js:21:21)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:13:01.451 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt = require(\"prompt-sync\")({ sigint:","after":"})\nlet num = [1,2,3,4,5,6]\na = prompt(\"Hey fuck you: \");\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":47,"line":0,"character":47,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:13:02.448 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt = require(\"prompt-sync\")({ sigint: ","after":"})\nlet num = [1,2,3,4,5,6]\na = prompt(\"Hey fuck you: \");\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":48,"line":0,"character":48,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:13:03.449 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt = require(\"prompt-sync\")({ sigint: this","after":"t})\nlet num = [1,2,3,4,5,6]\na = prompt(\"Hey fuck you: \");\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":48,"line":0,"character":48,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:15:45.208 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt = require(\"prompt-sync\")({ sigint: true })\nlet num = [1,2,3,4,5,6]\nlet x = prompt","after":"pr\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":88,"line":2,"character":8,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:16:01.292 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt = require(\"prompt-sync\")({ sigint: true })\nlet num = [1,2,3,4,5,6]\nlet x = prompt();\nconsole.log","after":".l\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":105,"line":3,"character":7,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:16:02.293 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt = require(\"prompt-sync\")({ sigint: true })\nlet num = [1,2,3,4,5,6]\nlet x = prompt();\nconsole.log","after":".lo\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":105,"line":3,"character":7,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:16:03.295 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt = require(\"prompt-sync\")({ sigint: true })\nlet num = [1,2,3,4,5,6]\nlet x = prompt();\nconsole.log","after":".log\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":105,"line":3,"character":7,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:16:04.298 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/test/test.js","before":"const prompt = require(\"prompt-sync\")({ sigint: true })\nlet num = [1,2,3,4,5,6]\nlet x = prompt();\nconfirm","after":"console.log\nnum.forEach((i) => {\n    console.log(i**3)\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":98,"line":3,"character":0,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
