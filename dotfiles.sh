@@ -11,7 +11,7 @@ ln -sf /home/$USER/dotfiles/.oh-my-zsh/ /home/$USER/
 ln -sf /home/$USER/dotfiles/.conky/ /home/$USER/
 ln -sf /home/$USER/dotfiles/.wallpaper/ /home/$USER/
 ln -sf /home/$USER/dotfiles/.config/Code\ -\ OSS/ /home/$USER/.config
-ln -sf /home/$USER/dotfiles/.config/picom/picom.conf /home/$USER/.config/picom/picom.conf
+ln -sf /home/$USER/dotfiles/.config/picom/ /home/$USER/.config/
 #ln -sf /home/$USER/dotfiles/.config/nvim /home/$USER/.config/
 ln -sf /home/$USER/dotfiles/.config/dunst /home/$USER/.config/
 #ln -sf /home/$USER/dotfiles/.local/share/nvim/ /home/$USER/.local/share/
