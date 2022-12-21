@@ -1,0 +1,8 @@
+#!/bin/bash
+limit=50
+cupd=$(checkupdates-with-aur | wc -l)
+printf "$cupd \n"
+
+if [ $cupd -gt $limit ] then
+	exec $HOME/archupdate.sh
+fi
