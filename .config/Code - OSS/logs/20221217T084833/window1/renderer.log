@@ -1,0 +1,4 @@
+2022-12-17 08:48:39.325 [info] [perf] Render performance baseline is 33ms
+2022-12-17 08:48:46.364 [error] Error while registering log channel file:///home/thesynthax/.config/Code%20-%20OSS/logs/20221217T084833/userDataSync.log Timed out while waiting for file to be created
+2022-12-17 08:49:04.871 [error] [Extension Host] Can't glibc version from ldd --version output: ldd (GNU libc) 2.36
+2022-12-17 08:49:09.917 [error] [Extension Host] Can't glibc version from ldd --version output: ldd (GNU libc) 2.36

@@ -1,6 +1,0 @@
-2022-12-20 12:21:43.281 [error] Extension 'ms-vscode.cpptools CANNOT USE these API proposals 'terminalDataWriteEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
-2022-12-20 12:21:44.834 [info] [perf] Render performance baseline is 69ms
-2022-12-20 12:21:47.489 [info] UNRESPONSIVE extension host: starting to profile NOW
-2022-12-20 12:21:49.197 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
-2022-12-20 12:21:56.627 [info] UNRESPONSIVE extension host: starting to profile NOW
-2022-12-20 12:21:57.616 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session

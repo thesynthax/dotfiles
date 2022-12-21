@@ -1,6 +1,6 @@
 #!/bin/sh
 
-case "$(echo -e "Shutdown\nReboot\nHibernate\nLogout\nSuspend\nLock" | dmenu -p "POWER MENU:")" in
+case "$(echo -e "Shutdown\nReboot\nHibernate\nSuspend\nLock" | dmenu -p "POWER MENU:")" in
 	Shutdown)
 		case "$(echo -e "Yes\nNo" | dmenu -p "Are you sure?")" in
 			Yes) Shutdown now ;;
@@ -16,12 +16,6 @@ case "$(echo -e "Shutdown\nReboot\nHibernate\nLogout\nSuspend\nLock" | dmenu -p 
 	Hibernate)
 		case "$(echo -e "Yes\nNo" | dmenu -p "Are you sure?")" in
 			Yes) systemctl hibernate ;;
-			No) exit ;;
-		esac
-		;;
-	Logout)
-		case "$(echo -e "Yes\nNo" | dmenu -p "Are you sure?")" in
-			Yes) kill -9 -1 ;;
 			No) exit ;;
 		esac
 		;;

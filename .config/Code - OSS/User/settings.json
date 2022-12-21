@@ -36,7 +36,7 @@
         "terminal.background": "#0D0303",
     },
     "editor.fontFamily": "JetBrains Mono",
-    "editor.fontLigatures": false,
+    "editor.fontLigatures": true,
     "omnisharp.path": "latest",
     "omnisharp.useGlobalMono": "always",
     "explorer.confirmDelete": false,
@@ -47,8 +47,5 @@
     "editor.cursorBlinking": "phase",
     "editor.cursorSmoothCaretAnimation": true,
     "clangd.path": "/home/thesynthax/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/bin/clangd",
-    "C_Cpp.intelliSenseEngine": "disabled",
-    "workbench.iconTheme": "vscode-icons",
-    "tabnine.experimentalAutoImports": true,
-    "code-runner.runInTerminal": true
+    "C_Cpp.intelliSenseEngine": "disabled"
 }
