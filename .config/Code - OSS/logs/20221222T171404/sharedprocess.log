@@ -1,0 +1,89 @@
+2022-12-22 17:14:08.441 [info] Starting worker process with pid 569695 (type: fileWatcher, window: 1).
+2022-12-22 17:14:12.821 [info] Getting Manifest... formulahendry.code-runner
+2022-12-22 17:14:12.823 [info] Getting Manifest... llvm-vs-code-extensions.vscode-clangd
+2022-12-22 17:14:12.826 [info] Getting Manifest... ms-vscode.vscode-typescript-next
+2022-12-22 17:14:12.828 [info] Getting Manifest... vadimcn.vscode-lldb
+2022-12-22 17:14:12.830 [info] Getting Manifest... vscodevim.vim
+2022-12-22 17:14:12.832 [info] Getting Manifest... zhuangtongfa.material-theme
+2022-12-22 17:14:14.122 [info] Installing extension: ms-vscode.vscode-typescript-next
+2022-12-22 17:14:14.345 [info] Installing extension: llvm-vs-code-extensions.vscode-clangd
+2022-12-22 17:14:14.348 [info] Installing extension: vscodevim.vim
+2022-12-22 17:14:14.382 [info] Installing extension: zhuangtongfa.material-theme
+2022-12-22 17:14:14.386 [info] Installing extension: formulahendry.code-runner
+2022-12-22 17:14:14.465 [info] Installing extension: vadimcn.vscode-lldb
+2022-12-22 17:14:16.618 [info] Extension installed successfully: formulahendry.code-runner
+2022-12-22 17:14:17.143 [info] Extension installed successfully: llvm-vs-code-extensions.vscode-clangd
+2022-12-22 17:14:17.643 [info] Extension installed successfully: vscodevim.vim
+2022-12-22 17:14:18.010 [info] Extension installed successfully: zhuangtongfa.material-theme
+2022-12-22 17:14:18.400 [info] Extension installed successfully: vadimcn.vscode-lldb
+2022-12-22 17:14:19.978 [info] Extracted extension to /home/thesynthax/.vscode-oss/extensions/.af4cb8a6-d26f-4894-9569-8732acf32ecc: ms-vscode.vscode-typescript-next
+2022-12-22 17:14:20.449 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-vscode.vscode-typescript-next-5.0.202212210
+2022-12-22 17:14:20.450 [info] Extracting completed. ms-vscode.vscode-typescript-next
+2022-12-22 17:14:20.725 [info] Extension installed successfully: ms-vscode.vscode-typescript-next
+2022-12-22 17:14:20.780 [info] Marked extension as uninstalled ms-vscode.vscode-typescript-next-5.0.202212190
+2022-12-22 17:15:38.901 [info] Getting Manifest... llvm-vs-code-extensions.vscode-clangd
+2022-12-22 17:15:38.937 [info] Installing extension: llvm-vs-code-extensions.vscode-clangd
+2022-12-22 17:15:39.602 [info] Getting Manifest... formulahendry.code-runner
+2022-12-22 17:15:40.353 [info] Getting Manifest... vadimcn.vscode-lldb
+2022-12-22 17:15:40.649 [info] Installing extension: formulahendry.code-runner
+2022-12-22 17:15:40.797 [info] Installing extension: vadimcn.vscode-lldb
+2022-12-22 17:15:40.913 [info] Getting Manifest... zhuangtongfa.material-theme
+2022-12-22 17:15:41.030 [info] Installing extension: zhuangtongfa.material-theme
+2022-12-22 17:15:41.118 [info] Extension installed successfully: llvm-vs-code-extensions.vscode-clangd
+2022-12-22 17:15:41.493 [info] Extension installed successfully: formulahendry.code-runner
+2022-12-22 17:15:41.534 [info] Extension installed successfully: vadimcn.vscode-lldb
+2022-12-22 17:15:41.569 [info] Getting Manifest... vscodevim.vim
+2022-12-22 17:15:41.579 [info] Extension installed successfully: zhuangtongfa.material-theme
+2022-12-22 17:15:41.602 [info] Installing extension: vscodevim.vim
+2022-12-22 17:15:41.890 [info] Extension installed successfully: vscodevim.vim
+2022-12-22 17:15:48.100 [info] Getting Manifest... formulahendry.code-runner
+2022-12-22 17:15:48.103 [info] Installing extension: formulahendry.code-runner
+2022-12-22 17:15:49.108 [info] Getting Manifest... vadimcn.vscode-lldb
+2022-12-22 17:15:49.121 [info] Installing extension: vadimcn.vscode-lldb
+2022-12-22 17:15:49.850 [info] Getting Manifest... zhuangtongfa.material-theme
+2022-12-22 17:15:49.862 [info] Installing extension: zhuangtongfa.material-theme
+2022-12-22 17:15:50.342 [info] Extension installed successfully: formulahendry.code-runner
+2022-12-22 17:15:50.485 [info] Extension installed successfully: vadimcn.vscode-lldb
+2022-12-22 17:15:50.512 [info] Getting Manifest... vscodevim.vim
+2022-12-22 17:15:50.516 [info] Installing extension: vscodevim.vim
+2022-12-22 17:15:50.731 [info] Extension installed successfully: zhuangtongfa.material-theme
+2022-12-22 17:15:50.928 [info] Extension installed successfully: vscodevim.vim
+2022-12-22 17:15:51.229 [info] Getting Manifest... llvm-vs-code-extensions.vscode-clangd
+2022-12-22 17:15:51.240 [info] Installing extension: llvm-vs-code-extensions.vscode-clangd
+2022-12-22 17:15:52.727 [info] Extension installed successfully: llvm-vs-code-extensions.vscode-clangd
+2022-12-22 17:16:02.455 [info] Worker process with pid 569695 terminated normally (type: fileWatcher, window: 1).
+2022-12-22 17:16:03.549 [info] Starting worker process with pid 571959 (type: fileWatcher, window: 1).
+2022-12-22 17:16:06.626 [info] Getting Manifest... formulahendry.code-runner
+2022-12-22 17:16:06.627 [info] Getting Manifest... llvm-vs-code-extensions.vscode-clangd
+2022-12-22 17:16:06.628 [info] Getting Manifest... vadimcn.vscode-lldb
+2022-12-22 17:16:06.628 [info] Getting Manifest... vscodevim.vim
+2022-12-22 17:16:06.629 [info] Getting Manifest... zhuangtongfa.material-theme
+2022-12-22 17:16:06.633 [info] Installing extension: formulahendry.code-runner
+2022-12-22 17:16:06.671 [info] Installing extension: llvm-vs-code-extensions.vscode-clangd
+2022-12-22 17:16:06.673 [info] Installing extension: vscodevim.vim
+2022-12-22 17:16:06.676 [info] Installing extension: zhuangtongfa.material-theme
+2022-12-22 17:16:06.678 [info] Installing extension: vadimcn.vscode-lldb
+2022-12-22 17:16:08.092 [info] Extension installed successfully: formulahendry.code-runner
+2022-12-22 17:16:08.303 [info] Extension installed successfully: llvm-vs-code-extensions.vscode-clangd
+2022-12-22 17:16:08.479 [info] Extension installed successfully: vadimcn.vscode-lldb
+2022-12-22 17:16:08.730 [info] Extension installed successfully: vscodevim.vim
+2022-12-22 17:16:08.960 [info] Extension installed successfully: zhuangtongfa.material-theme
+2022-12-22 17:20:17.846 [info] Worker process with pid 571959 terminated normally (type: fileWatcher, window: 1).
+2022-12-22 17:20:18.959 [info] Starting worker process with pid 576099 (type: fileWatcher, window: 1).
+2022-12-22 17:20:28.114 [info] Getting Manifest... formulahendry.code-runner
+2022-12-22 17:20:28.116 [info] Getting Manifest... llvm-vs-code-extensions.vscode-clangd
+2022-12-22 17:20:28.117 [info] Getting Manifest... vadimcn.vscode-lldb
+2022-12-22 17:20:28.119 [info] Getting Manifest... vscodevim.vim
+2022-12-22 17:20:28.121 [info] Getting Manifest... zhuangtongfa.material-theme
+2022-12-22 17:20:28.127 [info] Installing extension: formulahendry.code-runner
+2022-12-22 17:20:28.129 [info] Installing extension: llvm-vs-code-extensions.vscode-clangd
+2022-12-22 17:20:28.144 [info] Installing extension: zhuangtongfa.material-theme
+2022-12-22 17:20:28.145 [info] Installing extension: vadimcn.vscode-lldb
+2022-12-22 17:20:28.146 [info] Installing extension: vscodevim.vim
+2022-12-22 17:20:29.301 [info] Extension installed successfully: formulahendry.code-runner
+2022-12-22 17:20:29.347 [info] Extension installed successfully: llvm-vs-code-extensions.vscode-clangd
+2022-12-22 17:20:29.398 [info] Extension installed successfully: vscodevim.vim
+2022-12-22 17:20:29.449 [info] Extension installed successfully: vadimcn.vscode-lldb
+2022-12-22 17:20:29.482 [info] Extension installed successfully: zhuangtongfa.material-theme
+2022-12-22 21:53:30.307 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {"name":"Offline"}
+2022-12-22 22:45:21.511 [warning] No ptyHost heartbeat after 6 seconds

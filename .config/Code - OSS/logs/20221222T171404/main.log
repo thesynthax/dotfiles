@@ -1,0 +1,8 @@
+2022-12-22 17:14:04.450 [info] update#ctor - updates are disabled as there is no update URL
+2022-12-22 17:14:06.779 [info] Starting extension host with pid 569628 (fork() took 5 ms).
+2022-12-22 17:14:13.666 [info] Enabling inspect port on extension host with pid 569628.
+2022-12-22 17:14:13.711 [info] Enabling inspect port on extension host with pid 569628.
+2022-12-22 17:16:02.872 [info] Extension host with pid 569628 exited with code: 0, signal: null.
+2022-12-22 17:16:03.383 [info] Starting extension host with pid 571929 (fork() took 5 ms).
+2022-12-22 17:20:18.862 [info] Extension host with pid 571929 exited with code: 0, signal: null.
+2022-12-22 17:20:18.932 [info] Starting extension host with pid 576098 (fork() took 6 ms).

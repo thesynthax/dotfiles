@@ -47,5 +47,10 @@
     "editor.cursorBlinking": "phase",
     "editor.cursorSmoothCaretAnimation": true,
     "clangd.path": "/home/thesynthax/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/bin/clangd",
-    "C_Cpp.intelliSenseEngine": "disabled"
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "tabnine.experimentalAutoImports": true,
+    "workbench.iconTheme": "vscode-icons",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
 }

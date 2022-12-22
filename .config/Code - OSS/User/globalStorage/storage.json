@@ -4,20 +4,20 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/thesynthax/test"
+                "folderUri": "file:///home/thesynthax/Downloads/node%20crash%20course"
             }
         ],
         "emptyWindows": []
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/thesynthax/test",
-            "backupPath": "/home/thesynthax/.config/Code - OSS/Backups/a9128ae7ebcf4e8cd8c38a7d920a348f",
+            "folder": "file:///home/thesynthax/Downloads/node%20crash%20course",
+            "backupPath": "/home/thesynthax/.config/Code - OSS/Backups/1f1c49a62e6728d6ec3b4fbf58541ee0",
             "uiState": {
                 "mode": 1,
-                "x": 10,
+                "x": -3800,
                 "y": 40,
-                "width": 850,
+                "width": 1900,
                 "height": 1030
             }
         },
@@ -66,6 +66,17 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/thesynthax/Downloads/node%20crash%20course",
+                                        "path": "/home/thesynthax/Downloads/node crash course",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/node crash course"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -181,13 +192,6 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
-                                {
-                                    "id": "github.copyVscodeDevLinkFile",
-                                    "label": "Copy vscode.dev Link"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)...",
@@ -494,8 +498,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "&&Panel",
-                                    "checked": true
+                                    "label": "&&Panel"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -732,7 +735,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -956,7 +960,8 @@
                     },
                     {
                         "id": "workbench.action.debug.configure",
-                        "label": "Open &&Configurations"
+                        "label": "Open &&Configurations",
+                        "enabled": false
                     },
                     {
                         "id": "debug.addConfiguration",
