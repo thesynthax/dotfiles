@@ -1,0 +1,118 @@
+#!/usr/bin/env bash
+#
+# Script name: dm-translate
+# Description: Translate using Google Translate (through Lingva Translate)
+# Dependencies: dmenu, curl, and jq
+# GitLab: https://www.gitlab.com/dwt1/dmscripts
+# License: https://www.gitlab.com/dwt1/dmscripts/LICENSE
+# Contributors: ifrendas, Simon Ingelsson
+
+# Set with the flags "-e", "-u","-o pipefail" cause the script to fail
+# if certain things happen, which is a good thing.  Otherwise, we can
+# get hidden bugs that are hard to discover.
+set -euo pipefail
+
+_path="$(cd "$(dirname "${BASH_SOURCE[0]}")" && cd "$(dirname "$(readlink "${BASH_SOURCE[0]}" || echo ".")")" && pwd)"
+if [[  -f "${_path}/_dm-helper.sh" ]]; then
+  # shellcheck disable=SC1090,SC1091
+  source "${_path}/_dm-helper.sh"
+else
+  # shellcheck disable=SC1090
+  echo "No helper-script found"
+fi
+
+# script will not hit this if there is no config-file to load
+# shellcheck disable=SC1090
+source "$(get_config)"
+
+
+main() {
+  # Declare Services and their 
+  declare -A translate_services
+  translate_services[libretranslate]="https://libretranslate.de"
+  translate_services[lingva]="https://lingva.ml"
+
+  declare -A translate_languages_url    
+  translate_languages_url[libretranslate]="https://libretranslate.de/languages"
+  translate_languages_url[lingva]="https://lingva.ml/api/v1/languages/source"
+
+  declare -A translate_languages_jq
+  translate_languages_jq[libretranslate]="to_entries[] | .value | [.code,.name] | @sh"
+  translate_languages_jq[lingva]=".languages | to_entries[] | .value | [.code,.name] | @sh"
+
+
+  # Sanity checks.
+
+  # Declare lang_map if not in config to populate automatically
+  if [[ ! -v lang_map[@] ]]; then
+    declare -A lang_map
+    translate_list='auto'
+  fi
+
+  if [[ ! -v translate_service ]]; then
+    echo 'translate_service not defined defaulting to "lingva"'
+    declare translate_service="lingva"
+  else 
+    found=0
+    for i in "${!translate_services[@]}"; do
+      # Check if translate_service is in translate_services
+      if [[ "${translate_service}" == "${i}" ]]; then
+        found=1
+      fi
+    done
+    if [[ ${found} -eq 0 ]]; then
+      echo "Invalid language service ${translate_service}"
+      echo "${!translate_services[@]}"
+      exit 1
+    fi
+  fi
+  
+  # check variable before lang_map check?
+  if [[ "${translate_list:-auto}" != "manual" ]]; then
+    local url=${translate_languages_url["${translate_service}"]} 
+    local jq=${translate_languages_jq["${translate_service}"]}
+    mapfile -t data < <(curl -Ss "${url}" | jq -cr "${jq}" )
+    for ((i=0; i < ${#data[@]}; ++i)); do
+      # shellcheck disable=SC2086
+      lang_map[$(echo ${data[$i]} | cut -d"'" -f4)]="$(echo ${data[$i]} | cut -d"'" -f2)"
+    done
+    unset data
+  fi
+
+  # Get the languages to translate from and to
+  from_name=$(printf '%s\n' "${!lang_map[@]}" | sort | ${DMENU} 'Translate from:') "$@" || exit 1
+  from_code=${lang_map[$from_name]}
+
+  to_name=$(printf '%s\n' "${!lang_map[@]}" | sort | ${DMENU} 'Translate to:') "$@" || exit 1
+  to_code=${lang_map[$to_name]}
+
+  # Get text to translate and url encode 
+  query=$(echo "" | ${DMENU} "Translate (${from_code} -> ${to_code}):")
+  query="$(echo "${query}" | jq -s -R -r @uri)"
+
+  declare -A translate_query translate_query_jq translate_method
+
+  translate_method[libretranslate]="POST"
+  translate_query[libretranslate]="https://libretranslate.de/translate?q=${query}&source=${from_code}&target=${to_code}"
+  translate_query_jq[libretranslate]=".translatedText"
+  
+  translate_method[lingva]="GET"
+  translate_query[lingva]="https://lingva.ml/api/v1/${from_code}/${to_code}/${query}"
+  translate_query_jq[lingva]=".translation"
+
+  translation_url=${translate_query[${translate_service}]}
+  translation_jq=${translate_query_jq[${translate_service}]}
+  translation_method=${translate_method[${translate_service}]}
+
+  if [[ "${translation_method}" == "POST" ]]; then
+    translation=$(curl -X "${translation_method}" -Ss "${translation_url}" | jq -r "${translation_jq}")
+  else 
+    translation=$(curl -Ss "${translation_url}" | jq -r "${translation_jq}")
+  fi
+
+  # Copy translation to clipboard and send notification
+  echo "${translation}" | cp2cb 
+  notify-send "Translation (in clipboard)" "$translation"
+}
+
+[[ "${BASH_SOURCE[0]}" == "${0}" ]] && main "$@"

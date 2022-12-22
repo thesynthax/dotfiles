@@ -1,0 +1,64 @@
+#!/usr/bin/env bash
+#
+# Script name: dm-radio
+# Description: Choose between online radio stations with dmenu.
+# Dependencies: dmenu, mpv, notify-send, youtube-dl
+# GitLab: https://www.gitlab.com/dwt1/dmscripts
+# License: https://www.gitlab.com/dwt1/dmscripts/LICENSE
+# Contributors: Derek Taylor
+
+# Set with the flags "-e", "-u","-o pipefail" cause the script to fail
+# if certain things happen, which is a good thing.  Otherwise, we can
+# get hidden bugs that are hard to discover.
+set -euo pipefail
+
+_path="$(cd "$(dirname "${BASH_SOURCE[0]}")" && cd "$(dirname "$(readlink "${BASH_SOURCE[0]}" || echo ".")")" && pwd)"
+if [[  -f "${_path}/_dm-helper.sh" ]]; then
+  # shellcheck disable=SC1090,SC1091
+  source "${_path}/_dm-helper.sh"
+else
+  # shellcheck disable=SC1090
+  echo "No helper-script found"
+fi
+
+# script will not hit this if there is no config-file to load
+# shellcheck disable=SC1090
+source "$(get_config)"
+
+menu() {
+  printf '%s\n' "Quit"
+  # As this is loaded from other file it is technically not defined.
+  # shellcheck disable=SC2154
+  printf '%s\n' "${!radio_stations[@]}" | sort
+}
+
+# Functions for sending notification messages
+start_radio() {
+  notify-send "Starting dm-radio" "Playing station: $1. 🎶"
+}
+
+end_radio() {
+  notify-send "Stopping dm-radio" "You have quit dm-radio. 🎶"
+}
+
+main() {
+  # Choosing a radio station from array sourced in 'config'.
+  choice=$(menu | ${DMENU} 'Choose radio station:' "$@") || exit 1
+
+  case $choice in
+    Quit)
+      end_radio ;
+      pkill -f http
+      exit
+      ;;
+    *)
+      pkill -f http || echo "mpv not running."
+      start_radio "$choice" ;
+      mpv "${radio_stations["${choice}"]}"
+      return
+      ;;
+  esac
+
+}
+
+[[ "${BASH_SOURCE[0]}" == "${0}" ]] && main "$@"
