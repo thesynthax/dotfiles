@@ -12,7 +12,7 @@ ln -sf /home/$USER/dotfiles/.conky/ /home/$USER/
 ln -sf /home/$USER/dotfiles/.wallpaper/ /home/$USER/
 ln -sf /home/$USER/dotfiles/.config/Code\ -\ OSS/ /home/$USER/.config
 ln -sf /home/$USER/dotfiles/.config/picom/ /home/$USER/.config/
-#ln -sf /home/$USER/dotfiles/.config/nvim /home/$USER/.config/
+ln -sf /home/$USER/dotfiles/.config/nvim /home/$USER/.config/
 ln -sf /home/$USER/dotfiles/.config/dunst /home/$USER/.config/
 ln -sf /home/$USER/dotfiles/.config/bwm /home/$USER/.config/
 #ln -sf /home/$USER/dotfiles/.local/share/nvim/ /home/$USER/.local/share/

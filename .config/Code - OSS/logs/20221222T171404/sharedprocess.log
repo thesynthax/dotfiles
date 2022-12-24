@@ -87,3 +87,4 @@
 2022-12-22 17:20:29.482 [info] Extension installed successfully: zhuangtongfa.material-theme
 2022-12-22 21:53:30.307 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {"name":"Offline"}
 2022-12-22 22:45:21.511 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-23 10:03:50.529 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {"name":"Offline"}

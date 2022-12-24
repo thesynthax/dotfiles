@@ -1,0 +1,15 @@
+2022-12-23 16:51:49.331 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2022-12-23 16:51:49.331 [info] Added views:workbench.panel.output in workbench.panel.output
+2022-12-23 16:51:49.331 [info] Added views:terminal in terminal
+2022-12-23 16:51:49.331 [info] Added views:outline in workbench.view.explorer
+2022-12-23 16:51:49.331 [info] Added views:workbench.scm in workbench.view.scm
+2022-12-23 16:51:49.331 [info] Added views:workbench.view.search in workbench.view.search
+2022-12-23 16:51:49.331 [info] Added views:timeline in workbench.view.explorer
+2022-12-23 16:51:49.331 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2022-12-23 16:51:49.421 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2022-12-23 16:51:51.413 [info] Added views:dockerContainers,dockerImages,dockerRegistries,dockerNetworks,dockerVolumes,vscode-docker.views.dockerContexts,vscode-docker.views.help in workbench.view.extension.dockerView
+2022-12-23 16:51:52.882 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2022-12-23 16:52:05.030 [info] Added views:workbench.panel.comments in workbench.panel.comments
+2022-12-23 16:52:15.809 [info] Added views:tabnine-home in workbench.view.extension.tabnine-access
+2022-12-23 16:52:15.810 [info] Added views:tabnine-notifications in workbench.view.extension.tabnine-access
+2022-12-23 16:52:15.811 [info] Added views:tabnine-today in workbench.view.extension.tabnine-access

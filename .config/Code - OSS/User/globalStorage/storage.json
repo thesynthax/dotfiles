@@ -15,10 +15,10 @@
             "backupPath": "/home/thesynthax/.config/Code - OSS/Backups/1f1c49a62e6728d6ec3b4fbf58541ee0",
             "uiState": {
                 "mode": 1,
-                "x": -3800,
-                "y": 40,
-                "width": 1900,
-                "height": 1030
+                "x": 10,
+                "y": 43,
+                "width": 1039,
+                "height": 1027
             }
         },
         "openedWindows": []
@@ -726,7 +726,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",

@@ -3,7 +3,7 @@
 case "$(echo -e "Shutdown\nReboot\nHibernate\nLogout\nSuspend\nLock" | dmenu -p "POWER MENU:")" in
 	Shutdown)
 		case "$(echo -e "Yes\nNo" | dmenu -p "Are you sure?")" in
-			Yes) Shutdown now ;;
+			Yes) shutdown now ;;
 	  		No) exit ;;
 	  	esac
 	  	;;

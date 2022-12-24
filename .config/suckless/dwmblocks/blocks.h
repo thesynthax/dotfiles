@@ -7,11 +7,11 @@ static const Block blocks[] = {
 	
     {" ", "/home/thesynthax/dotfiles/.config/suckless/dwmblocks/Scripts/battery",                          5,      0},
 
-    {"  ", "/home/thesynthax/dotfiles/.config/suckless/dwmblocks/Scripts/clock",                          30,      0},
+    {" ", "/home/thesynthax/dotfiles/.config/suckless/dwmblocks/Scripts/web",                             30,      0},
 
     {"  ", "/home/thesynthax/dotfiles/.config/suckless/dwmblocks/Scripts/pacupdate",					            3600,		9},
     
-    {" ", "/home/thesynthax/dotfiles/.config/suckless/dwmblocks/Scripts/web",                             30,      0},
+    {"  ", "/home/thesynthax/dotfiles/.config/suckless/dwmblocks/Scripts/clock",                          30,      0},
 
 };
 
