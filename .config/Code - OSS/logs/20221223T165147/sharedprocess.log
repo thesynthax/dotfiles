@@ -36,3 +36,5 @@
 2022-12-25 01:05:46.970 [info] Extracting completed. ms-vscode.vscode-typescript-next
 2022-12-25 01:05:47.037 [info] Extension installed successfully: ms-vscode.vscode-typescript-next
 2022-12-25 01:05:47.077 [info] Marked extension as uninstalled ms-vscode.vscode-typescript-next-5.0.202212220
+2022-12-25 02:56:12.889 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {"name":"Offline"}
+2022-12-25 09:44:10.114 [warning] No ptyHost heartbeat after 6 seconds
