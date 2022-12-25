@@ -305,6 +305,7 @@ static const char *brdown[] = {"brightnessctl", "s", "15%-", NULL};
 static const char *killblocks[] = {"killall", "-9", "dwmblocks", NULL};
 
 static const char *powermenu[] = {"/home/thesynthax/.local/bin/powermenu", NULL};
+static const char *pass[] = {"/home/thesynthax/.local/bin/pass", NULL};
 
 static const char *ss[] = {"scrot", "/home/thesynthax/Pictures/screenshots/ss.png", NULL};
 static const char *ssp[] = {"scrot", "-s", "/home/thesynthax/Pictures/screenshots/ss.png", NULL};
@@ -321,7 +322,8 @@ static const Key keys[] = {
 	{ MODKEY|ShiftMask,             XK_e,          spawn,                  {.v = filemanager2 } },
 	{ MODKEY,             		XK_Return,     spawn,                  {.v = termcmd } },
 	{ MODKEY,             		XK_c,          spawn,                  {.v = slock } },
-	{ MODKEY|ShiftMask,   		XK_p,          spawn,                  {.v = powermenu } },
+    { MODKEY|ShiftMask,   		XK_p,          spawn,                  {.v = powermenu } },
+	{ MODKEY|ControlMask,  		XK_p,          spawn,                  {.v = pass } },
 	{ 0,             		XK_Print,          spawn,                  {.v = ss } },
 	{ MODKEY,	    		XK_Print,          spawn,                  {.v = ssp } },
 	{ 0,             		XF86XK_AudioLowerVolume,     spawn,                  {.v = downvol } },
