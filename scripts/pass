@@ -1,22 +1,40 @@
 #!/bin/sh
+filepath="$HOME/.tmp/bwtmp"
+filepath2="$HOME/.tmp/bwtmp2"
+while (( $# )); do
+	case "$1" in
+		-r)
+            if [ -e "$filepath2" ]
+            then
+                shred -uz $filepath $filepath2 
+                echo "shredded!"
+            else
+                echo "no file to shred!"
+            fi
+			shift
+			;;
+		*)
+			echo "Ignoring unknown argument ($1)"
+			shift
+			;;
+	esac
+done
+
 pass=$(dmenu -P -p "Enter BitWarden Master Password: ")
 export BW_SESSION=$(bw unlock --raw "$pass")
-filepath="$HOME/bwtmp"
-#(bw list items --pretty | sed '/object/d'| sed '/organizationId/d'| sed '/folderId/d'| sed '/type/d'| sed '/reprompt/d'| sed '/password/d') > $filepath
+endline="\n"
 if [ ! -e "$filepath" ]
 then
-    echo "file not exist"
     (bw list items --pretty | sed '/object/d' | sed '/organizationId/d' | sed '/folderId/d' | sed '/type/d' | sed '/http/d' | sed '/match/d' | sed '/reprompt/d' | sed '/notes/d' | sed '/favorite/d' | sed '/password/d' | sed 's/\"totp\": null\,/\"totp\": null/g' | sed '/favorite/d' | sed '/collectionIds/d' | sed '/revisionDate/d' | sed '/creationDate/d') > $filepath
+    #bw list items --pretty > $filepath
+    n=$(jq '.[].name' $filepath | wc -l)
+    for (( i=0; i < $n; i++ )) 
+    do
+        printf "%s - URL:%s - Username:%s\n" "$i" "$(jq ".[$i].name" $filepath)" "$(jq ".[$i].login.username" $filepath)" | sed 's/[\",]//g' >> $filepath2
+        echo -e $endline >> filepath2
+    done
 fi
-#(bw list items --pretty | sed '/object/d' | sed '/organizationId/d' | sed '/folderId/d' | sed '/type/d' | sed '/reprompt/d' | sed '/notes/d' | sed '/http/d' | sed '/match/d' | sed '/favorite/d' | sed '/password/d' | sed 's/\"totp\": null\,/\"totp\": null/g' ) > $filepath
-n=$(jq '.[].name' $filepath | wc -l)
-details=""
-endline="\n"
-for (( i=0; i < $n; i++ )) 
-do
-    details+="$(printf "%s - URL:%s - Username:%s\n" "$i" "$(jq ".[$i].name" $filepath)" "$(jq ".[$i].login.username" $filepath)" | sed 's/[\",]//g')$(echo $endline)"
-done
-choice=$(echo -e $details | dmenu -i -l 10)
+choice=$(cat $filepath2 | dmenu -i -l 10)
 id=$(jq ".[$(echo $choice | awk '{print $1}')].id" $filepath | sed 's/[\",]//g')
 pass=$(bw get password $id)
 echo $pass | xclip -selection clipboard
