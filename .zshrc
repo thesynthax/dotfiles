@@ -2,16 +2,18 @@
 export PATH=$HOME/bin:/usr/local/bin:$HOME/.local/bin:$PATH
 export XDG_CONFIG_HOME="$HOME/.config"
 # Path to your oh-my-zsh installation.
-export ZSH="$HOME/.oh-my-zsh"
+#export ZSH="$HOME/.oh-my-zsh"
 export TERM="st"
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 #ZSH_THEME="intheloop"
-ZSH_THEME="refined" # set by `omz`
+#ZSH_THEME="refined" # set by `omz`
 #ZSH_THEME="linuxonly"
-
+source ~/.config/zsh/refined.zsh-theme
+source ~/.config/zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+source ~/.config/zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
 # a theme from this variable instead of looking in $ZSH/themes/
@@ -74,7 +76,7 @@ ZSH_THEME="refined" # set by `omz`
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(zsh-autosuggestions zsh-syntax-highlighting)
 
-source $ZSH/oh-my-zsh.sh
+#source $ZSH/oh-my-zsh.sh
 
 # User configuration
 

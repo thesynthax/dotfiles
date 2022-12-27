@@ -5,9 +5,9 @@ static const Block blocks[] = {
 
     {"", "/home/thesynthax/dotfiles/.config/suckless/dwmblocks/Scripts/volume",                           1,     3},
 	
-    {" ", "/home/thesynthax/dotfiles/.config/suckless/dwmblocks/Scripts/battery",                          5,      0},
+    {" ", "/home/thesynthax/dotfiles/.config/suckless/dwmblocks/Scripts/battery",                          10,      0},
 
-    {" ", "/home/thesynthax/dotfiles/.config/suckless/dwmblocks/Scripts/web",                             30,      0},
+    {" ", "/home/thesynthax/dotfiles/.config/suckless/dwmblocks/Scripts/web",                             10,      0},
 
     {"  ", "/home/thesynthax/dotfiles/.config/suckless/dwmblocks/Scripts/pacupdate",					            3600,		9},
     
