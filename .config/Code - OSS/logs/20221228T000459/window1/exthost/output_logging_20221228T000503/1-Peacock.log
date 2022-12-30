@@ -1,0 +1,8 @@
+Peacock Mementos
+  [
+  {
+    "name": "peacock.favoritesVersion",
+    "type": "globalState"
+  }
+]
+Peacock is in a workspace, so Peacock functionality is available.

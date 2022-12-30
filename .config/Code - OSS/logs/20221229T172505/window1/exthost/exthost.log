@@ -1,0 +1,128 @@
+2022-12-29 17:25:09.292 [info] Extension host with pid 142161 started
+2022-12-29 17:25:09.328 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-12-29 17:25:09.328 [info] ExtensionService#_doActivateExtension donjayamanne.githistory, startup: true, activationEvent: '*'
+2022-12-29 17:25:09.328 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2022-12-29 17:25:09.328 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2022-12-29 17:25:09.328 [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock, startup: true, activationEvent: '*'
+2022-12-29 17:25:09.328 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2022-12-29 17:25:09.329 [info] ExtensionService#_doActivateExtension standard.vscode-standard, startup: true, activationEvent: '*'
+2022-12-29 17:25:09.329 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+2022-12-29 17:25:09.329 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2022-12-29 17:25:09.329 [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: true, activationEvent: '*'
+2022-12-29 17:25:13.490 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-12-29 17:25:13.490 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-29 17:25:13.634 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-29 17:25:13.635 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-29 17:25:13.635 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-29 17:25:13.635 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-29 17:25:14.323 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onLanguage:code-runner-output'
+2022-12-29 17:25:22.066 [info] Extension host terminating: renderer closed the socket
+2022-12-29 17:25:22.073 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+    at Object.R [as canceled] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:7:1054)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:7869
+    at Array.forEach (<anonymous>)
+    at u.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:7834)
+    at d.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:9540)
+    at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:110:1397)
+    at b (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:17815)
+    at Socket.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:15524)
+    at Socket.emit (node:events:538:35)
+    at Pipe.<anonymous> (node:net:687:12) 
+2022-12-29 17:25:22.085 [info] Eager extensions activated
+2022-12-29 17:25:22.096 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+    at new k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:87831)
+    at u.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:11245)
+    at Proxy.G.<computed>.O.charCodeAt.G.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:8535)
+    at U.resolveProxy (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:20116)
+    at Object.resolveProxy (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:59336)
+    at useProxySettings (/usr/lib/code/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+    at /usr/lib/code/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+    at /usr/lib/code/node_modules.asar/vscode-proxy-agent/out/index.js:336:13
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+2022-12-29 17:25:22.935 [info] Extension host with pid 142554 started
+2022-12-29 17:25:22.935 [info] Skipping acquiring lock for /home/thesynthax/.config/Code - OSS/User/workspaceStorage/4c663d87a268772b8b725fe575b8e04b.
+2022-12-29 17:25:23.065 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2022-12-29 17:25:23.066 [info] ExtensionService#_doActivateExtension wix.vscode-import-cost, startup: false, activationEvent: 'onLanguage:javascript'
+2022-12-29 17:25:23.066 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-12-29 17:25:23.066 [info] ExtensionService#_doActivateExtension donjayamanne.githistory, startup: true, activationEvent: '*'
+2022-12-29 17:25:23.066 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2022-12-29 17:25:23.066 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2022-12-29 17:25:23.067 [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock, startup: true, activationEvent: '*'
+2022-12-29 17:25:23.067 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2022-12-29 17:25:23.067 [info] ExtensionService#_doActivateExtension standard.vscode-standard, startup: true, activationEvent: '*'
+2022-12-29 17:25:23.067 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+2022-12-29 17:25:23.067 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2022-12-29 17:25:23.067 [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: true, activationEvent: '*'
+2022-12-29 17:25:23.086 [error] Canceled (FileSystemError): Canceled
+    at Function.c (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+    at Object.createDirectory (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+    at m.o (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2022-12-29 17:25:23.086 [error] Canceled (FileSystemError): Canceled
+    at Function.c (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+    at Object.createDirectory (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+    at m.o (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2022-12-29 17:25:23.086 [error] Canceled (FileSystemError): Canceled
+    at Function.c (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+    at Object.createDirectory (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+    at m.o (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2022-12-29 17:25:23.086 [error] Canceled (FileSystemError): Canceled
+    at Function.c (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+    at Object.createDirectory (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+    at m.o (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2022-12-29 17:25:23.086 [error] Canceled (FileSystemError): Canceled
+    at Function.c (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+    at Object.createDirectory (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+    at m.o (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2022-12-29 17:25:23.086 [error] Canceled (FileSystemError): Canceled
+    at Function.c (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+    at Object.createDirectory (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+    at m.o (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2022-12-29 17:25:23.086 [error] Canceled (FileSystemError): Canceled
+    at Function.c (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+    at Object.createDirectory (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+    at m.o (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2022-12-29 17:25:23.086 [error] Canceled (FileSystemError): Canceled
+    at Function.c (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+    at Object.createDirectory (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+    at m.o (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2022-12-29 17:25:24.112 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2022-12-29 17:25:24.365 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-29 17:25:24.365 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-29 17:25:24.365 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-29 17:25:24.366 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-12-29 17:25:24.366 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-29 17:25:24.451 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onLanguage:code-runner-output'
+2022-12-29 17:25:24.622 [info] Eager extensions activated
+2022-12-29 17:25:24.626 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-29 17:25:24.626 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-29 17:25:24.626 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-29 17:25:24.626 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2022-12-29 17:25:24.626 [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+2022-12-29 17:25:24.627 [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+2022-12-29 17:25:24.627 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2022-12-29 17:25:24.627 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2022-12-29 17:25:24.627 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2022-12-29 17:25:24.627 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2022-12-29 17:25:24.627 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2022-12-29 17:25:24.627 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2022-12-29 17:25:24.969 [info] Extension host with pid 142161 exiting with code 0
+2022-12-29 17:25:37.262 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2022-12-29 17:25:41.617 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2022-12-29 17:26:17.063 [info] Extension host terminating: received terminate message from renderer
+2022-12-29 17:26:17.462 [info] Extension host with pid 142554 exiting with code 0

@@ -1,0 +1,37 @@
+[Info  - 5:25:24 PM] ESLint server is starting
+[Info  - 5:25:29 PM] ESLint server running in node v16.14.2
+[Info  - 5:25:29 PM] ESLint server is running.
+[Info  - 5:25:30 PM] ESLint library loaded from: /usr/lib/node_modules/eslint/lib/api.js
+[Info  - 5:25:30 PM] No ESLint configuration found in /home/thesynthax/Downloads/node crash course.
+[Info  - 5:25:34 PM] No ESLint configuration found in /home/thesynthax/Downloads/node crash course.
+[Info  - 5:25:34 PM] No ESLint configuration found in /home/thesynthax/Downloads/node crash course.
+[Info  - 5:25:36 PM] No ESLint configuration found in /home/thesynthax/Downloads/node crash course.
+Uncaught exception received.
+Error: No ESLint configuration found in /home/thesynthax/Downloads/node crash course.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3977:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3768:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:667:26)
+    at /home/thesynthax/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/thesynthax/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/thesynthax/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+Uncaught exception received.
+Error: No ESLint configuration found in /home/thesynthax/Downloads/node crash course.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3977:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3768:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:667:26)
+    at /home/thesynthax/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/thesynthax/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/thesynthax/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+[Info  - 5:25:38 PM] No ESLint configuration found in /home/thesynthax/Downloads/node crash course.
+[Info  - 5:25:38 PM] No ESLint configuration found in /home/thesynthax/Downloads/node crash course.
+[Info  - 5:25:39 PM] No ESLint configuration found in /home/thesynthax/Downloads/node crash course.
+[Info  - 5:25:39 PM] No ESLint configuration found in /home/thesynthax/Downloads/node crash course.
+[Info  - 5:25:40 PM] No ESLint configuration found in /home/thesynthax/Downloads/node crash course.
+[Info  - 5:25:44 PM] No ESLint configuration found in /home/thesynthax/Downloads/node crash course.
+[Info  - 5:25:45 PM] No ESLint configuration found in /home/thesynthax/Downloads/node crash course.
+[Info  - 5:25:46 PM] No ESLint configuration found in /home/thesynthax/Downloads/node crash course.
+[Info  - 5:26:17 PM] ESLint server stopped.

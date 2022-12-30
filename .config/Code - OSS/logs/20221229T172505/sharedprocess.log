@@ -1,0 +1,40 @@
+2022-12-29 17:25:08.213 [info] Starting worker process with pid 142202 (type: fileWatcher, window: 1).
+2022-12-29 17:25:11.848 [info] Getting Manifest... formulahendry.code-runner
+2022-12-29 17:25:11.849 [info] Getting Manifest... llvm-vs-code-extensions.vscode-clangd
+2022-12-29 17:25:11.851 [info] Getting Manifest... ms-vscode.vscode-typescript-next
+2022-12-29 17:25:11.852 [info] Getting Manifest... vadimcn.vscode-lldb
+2022-12-29 17:25:11.854 [info] Getting Manifest... vscodevim.vim
+2022-12-29 17:25:11.855 [info] Getting Manifest... zhuangtongfa.material-theme
+2022-12-29 17:25:13.019 [info] Installing extension: ms-vscode.vscode-typescript-next
+2022-12-29 17:25:13.176 [info] Installing extension: llvm-vs-code-extensions.vscode-clangd
+2022-12-29 17:25:13.177 [info] Installing extension: vscodevim.vim
+2022-12-29 17:25:13.180 [info] Installing extension: formulahendry.code-runner
+2022-12-29 17:25:13.214 [info] Installing extension: vadimcn.vscode-lldb
+2022-12-29 17:25:13.216 [info] Installing extension: zhuangtongfa.material-theme
+2022-12-29 17:25:15.126 [info] Extension installed successfully: formulahendry.code-runner
+2022-12-29 17:25:16.189 [info] Extension installed successfully: llvm-vs-code-extensions.vscode-clangd
+2022-12-29 17:25:16.525 [info] Extension installed successfully: vadimcn.vscode-lldb
+2022-12-29 17:25:16.842 [info] Extension installed successfully: vscodevim.vim
+2022-12-29 17:25:17.025 [info] Extension installed successfully: zhuangtongfa.material-theme
+2022-12-29 17:25:17.952 [info] Extracted extension to /home/thesynthax/.vscode-oss/extensions/.5a5e6142-46d7-45ff-9dbf-a075f2657f89: ms-vscode.vscode-typescript-next
+2022-12-29 17:25:18.685 [info] Worker process with pid 142202 terminated normally (type: fileWatcher, window: 1).
+2022-12-29 17:25:18.825 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-vscode.vscode-typescript-next-5.0.202212280
+2022-12-29 17:25:18.827 [info] Extracting completed. ms-vscode.vscode-typescript-next
+2022-12-29 17:25:20.093 [info] Extension installed successfully: ms-vscode.vscode-typescript-next
+2022-12-29 17:25:20.138 [info] Marked extension as uninstalled ms-vscode.vscode-typescript-next-5.0.202212260
+2022-12-29 17:25:21.179 [info] Starting worker process with pid 142542 (type: fileWatcher, window: 1).
+2022-12-29 17:25:24.354 [info] Getting Manifest... formulahendry.code-runner
+2022-12-29 17:25:24.355 [info] Getting Manifest... llvm-vs-code-extensions.vscode-clangd
+2022-12-29 17:25:24.355 [info] Getting Manifest... vadimcn.vscode-lldb
+2022-12-29 17:25:24.356 [info] Getting Manifest... vscodevim.vim
+2022-12-29 17:25:24.357 [info] Getting Manifest... zhuangtongfa.material-theme
+2022-12-29 17:25:24.360 [info] Installing extension: formulahendry.code-runner
+2022-12-29 17:25:24.361 [info] Installing extension: llvm-vs-code-extensions.vscode-clangd
+2022-12-29 17:25:24.364 [info] Installing extension: vadimcn.vscode-lldb
+2022-12-29 17:25:24.366 [info] Installing extension: vscodevim.vim
+2022-12-29 17:25:24.367 [info] Installing extension: zhuangtongfa.material-theme
+2022-12-29 17:25:26.694 [info] Extension installed successfully: formulahendry.code-runner
+2022-12-29 17:25:26.917 [info] Extension installed successfully: vadimcn.vscode-lldb
+2022-12-29 17:25:27.163 [info] Extension installed successfully: zhuangtongfa.material-theme
+2022-12-29 17:25:28.277 [info] Extension installed successfully: vscodevim.vim
+2022-12-29 17:25:28.540 [info] Extension installed successfully: llvm-vs-code-extensions.vscode-clangd

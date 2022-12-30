@@ -1,0 +1,253 @@
+2022-12-27 17:31:02.081 [error] Extension 'ms-vscode.cpptools CANNOT USE these API proposals 'terminalDataWriteEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2022-12-27 17:31:02.081 [error] Extension 'ms-vscode.js-debug-nightly CANNOT USE these API proposals 'portsAttributes, findTextInFiles, workspaceTrust, tunnels'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2022-12-27 17:31:02.081 [error] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2022-12-27 17:31:02.103 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.codelens.npmScripts'. This property is already registered.
+2022-12-27 17:31:02.103 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.terminalOptions'. This property is already registered.
+2022-12-27 17:31:02.104 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.automaticallyTunnelRemoteServer'. This property is already registered.
+2022-12-27 17:31:02.104 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.debugByLinkOptions'. This property is already registered.
+2022-12-27 17:31:02.104 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.pickAndAttachOptions'. This property is already registered.
+2022-12-27 17:31:02.104 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.autoAttachFilter'. This property is already registered.
+2022-12-27 17:31:02.104 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.autoAttachSmartPattern'. This property is already registered.
+2022-12-27 17:31:02.104 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.breakOnConditionalError'. This property is already registered.
+2022-12-27 17:31:02.104 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.unmapMissingSources'. This property is already registered.
+2022-12-27 17:31:02.105 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.defaultRuntimeExecutable'. This property is already registered.
+2022-12-27 17:31:02.105 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.resourceRequestOptions'. This property is already registered.
+2022-12-27 17:31:02.105 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.format.enable'. This property is already registered.
+2022-12-27 17:31:02.105 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressDotnetInstallWarning'. This property is already registered.
+2022-12-27 17:31:02.105 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.unitTestDebuggingOptions'. This property is already registered.
+2022-12-27 17:31:02.105 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressDotnetRestoreNotification'. This property is already registered.
+2022-12-27 17:31:02.105 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressProjectJsonWarning'. This property is already registered.
+2022-12-27 17:31:02.105 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressBuildAssetsNotification'. This property is already registered.
+2022-12-27 17:31:02.106 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressHiddenDiagnostics'. This property is already registered.
+2022-12-27 17:31:02.106 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.referencesCodeLens.enabled'. This property is already registered.
+2022-12-27 17:31:02.106 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.referencesCodeLens.filteredSymbols'. This property is already registered.
+2022-12-27 17:31:02.106 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.testsCodeLens.enabled'. This property is already registered.
+2022-12-27 17:31:02.106 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.maxProjectFileCountForDiagnosticAnalysis'. This property is already registered.
+2022-12-27 17:31:02.106 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.semanticHighlighting.enabled'. This property is already registered.
+2022-12-27 17:31:02.106 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.showOmnisharpLogOnError'. This property is already registered.
+2022-12-27 17:31:02.107 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.enabled'. This property is already registered.
+2022-12-27 17:31:02.107 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.forLiteralParameters'. This property is already registered.
+2022-12-27 17:31:02.107 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.forObjectCreationParameters'. This property is already registered.
+2022-12-27 17:31:02.107 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.forIndexerParameters'. This property is already registered.
+2022-12-27 17:31:02.107 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.forOtherParameters'. This property is already registered.
+2022-12-27 17:31:02.107 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.suppressForParametersThatDifferOnlyBySuffix'. This property is already registered.
+2022-12-27 17:31:02.107 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.suppressForParametersThatMatchMethodIntent'. This property is already registered.
+2022-12-27 17:31:02.107 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.parameters.suppressForParametersThatMatchArgumentName'. This property is already registered.
+2022-12-27 17:31:02.107 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.types.enabled'. This property is already registered.
+2022-12-27 17:31:02.108 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.types.forImplicitVariableTypes'. This property is already registered.
+2022-12-27 17:31:02.108 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.types.forLambdaParameterTypes'. This property is already registered.
+2022-12-27 17:31:02.108 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.types.forImplicitObjectCreation'. This property is already registered.
+2022-12-27 17:31:02.108 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.path'. This property is already registered.
+2022-12-27 17:31:02.108 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.useModernNet'. This property is already registered.
+2022-12-27 17:31:02.108 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.sdkPath'. This property is already registered.
+2022-12-27 17:31:02.108 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.sdkVersion'. This property is already registered.
+2022-12-27 17:31:02.108 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.sdkIncludePrereleases'. This property is already registered.
+2022-12-27 17:31:02.109 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.monoPath'. This property is already registered.
+2022-12-27 17:31:02.109 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.dotnetPath'. This property is already registered.
+2022-12-27 17:31:02.109 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.waitForDebugger'. This property is already registered.
+2022-12-27 17:31:02.109 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.loggingLevel'. This property is already registered.
+2022-12-27 17:31:02.109 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.autoStart'. This property is already registered.
+2022-12-27 17:31:02.109 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.projectLoadTimeout'. This property is already registered.
+2022-12-27 17:31:02.109 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.maxProjectResults'. This property is already registered.
+2022-12-27 17:31:02.109 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.defaultLaunchSolution'. This property is already registered.
+2022-12-27 17:31:02.109 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.useEditorFormattingSettings'. This property is already registered.
+2022-12-27 17:31:02.110 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.minFindSymbolsFilterLength'. This property is already registered.
+2022-12-27 17:31:02.110 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.maxFindSymbolsItems'. This property is already registered.
+2022-12-27 17:31:02.110 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.disableMSBuildDiagnosticWarning'. This property is already registered.
+2022-12-27 17:31:02.110 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableMsBuildLoadProjectsOnDemand'. This property is already registered.
+2022-12-27 17:31:02.110 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableRoslynAnalyzers'. This property is already registered.
+2022-12-27 17:31:02.110 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableEditorConfigSupport'. This property is already registered.
+2022-12-27 17:31:02.110 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableDecompilationSupport'. This property is already registered.
+2022-12-27 17:31:02.110 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableImportCompletion'. This property is already registered.
+2022-12-27 17:31:02.111 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.organizeImportsOnFormat'. This property is already registered.
+2022-12-27 17:31:02.111 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableAsyncCompletion'. This property is already registered.
+2022-12-27 17:31:02.111 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.analyzeOpenDocumentsOnly'. This property is already registered.
+2022-12-27 17:31:02.111 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.testRunSettings'. This property is already registered.
+2022-12-27 17:31:02.111 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.plugin.path'. This property is already registered.
+2022-12-27 17:31:02.111 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.devmode'. This property is already registered.
+2022-12-27 17:31:02.111 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.disabled'. This property is already registered.
+2022-12-27 17:31:02.111 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.languageServer.directory'. This property is already registered.
+2022-12-27 17:31:02.112 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.languageServer.debug'. This property is already registered.
+2022-12-27 17:31:02.112 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.trace'. This property is already registered.
+2022-12-27 17:31:02.112 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.format.enable'. This property is already registered.
+2022-12-27 17:31:02.112 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2022-12-27 17:31:02.162 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.prettyPrint` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.162 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.toggleSkippingFile` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.162 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.addCustomBreakpoints` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.162 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.removeCustomBreakpoint` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.162 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.removeAllCustomBreakpoints` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.162 [info] [ms-vscode.js-debug-nightly]: Command `extension.pwa-node-debug.attachNodeProcess` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.162 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.npmScript` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.162 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.createDebuggerTerminal` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.163 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.startProfile` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.163 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.stopProfile` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.163 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.revealPage` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.163 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.debugLink` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.163 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.createDiagnostics` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.163 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.getDiagnosticLogs` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.163 [info] [ms-vscode.js-debug-nightly]: Command `extension.node-debug.startWithStopOnEntry` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.164 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.openEdgeDevTools` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.164 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.add` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.164 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.remove` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.164 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.removeAll` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.164 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.goToCaller` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.164 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.gotToTarget` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.164 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.enableSourceMapStepping` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.164 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.disableSourceMapStepping` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.165 [info] [muhammad-sammy.csharp]: Command `o.restart` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.165 [info] [muhammad-sammy.csharp]: Command `o.pickProjectAndStart` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.165 [info] [muhammad-sammy.csharp]: Command `o.fixAll.solution` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.165 [info] [muhammad-sammy.csharp]: Command `o.fixAll.project` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.165 [info] [muhammad-sammy.csharp]: Command `o.fixAll.document` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.165 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.allProjects` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.165 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.currentProject` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.165 [info] [muhammad-sammy.csharp]: Command `dotnet.generateAssets` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.165 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.project` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.166 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.all` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.166 [info] [muhammad-sammy.csharp]: Command `csharp.downloadDebugger` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.166 [info] [muhammad-sammy.csharp]: Command `csharp.listProcess` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.166 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteProcess` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.166 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteDockerProcess` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.166 [info] [muhammad-sammy.csharp]: Command `csharp.reportIssue` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.166 [info] [muhammad-sammy.csharp]: Command `csharp.showDecompilationTerms` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.166 [info] [muhammad-sammy.csharp]: Command `extension.showRazorCSharpWindow` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.167 [info] [muhammad-sammy.csharp]: Command `extension.showRazorHtmlWindow` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.167 [info] [muhammad-sammy.csharp]: Command `razor.reportIssue` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.167 [info] [muhammad-sammy.csharp]: Command `dotnet.test.runTestsInContext` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.167 [info] [muhammad-sammy.csharp]: Command `dotnet.test.debugTestsInContext` appears multiple times in the `commands` section.
+2022-12-27 17:31:02.225 [error] [ms-vscode.js-debug-nightly]: Cannot register multiple views with same id `jsBrowserBreakpoints`
+2022-12-27 17:31:02.226 [error] [ms-vscode.js-debug-nightly]: Cannot register multiple views with same id `jsExcludedCallers`
+2022-12-27 17:31:03.851 [info] [perf] Render performance baseline is 30ms
+2022-12-27 17:31:05.589 [error] [Extension Host] /bin/sh: line 1: hostname: command not found
+2022-12-27 17:31:10.971 [error] Error while registering log channel file:///home/thesynthax/.config/Code%20-%20OSS/logs/20221227T173059/userDataSync.log Timed out while waiting for file to be created
+2022-12-27 17:31:16.914 [info] UNRESPONSIVE extension host: starting to profile NOW
+2022-12-27 17:31:20.586 [error] [Extension Host] Error: Binary request timed out. {"Features":{}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-27 17:31:20.586 [error] [Extension Host] Error: Could not get enabled capabilities
+    at Object.t.getCapabilities (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:44520)
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at processTimers (node:internal/timers:499:9)
+    at l (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:51023)
+2022-12-27 17:31:20.610 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2022-12-27 17:31:27.669 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/Downloads/node crash course/pathmodule.js","before":"const path = require('path');\r\nconst ","after":"\r\n\r\nconst a1 = path.basename('C:\\\\temp\\\\myfile.html');\r\nconst a2 = path.dirname('C:\\\\temp\\\\myfile.html');\r\nconsole.log(a1)\r\nconsole.log(a2)\r\nconst a3 = path.extname(__filename)\r\nconsole.log(__filename, a3)","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":37,"line":1,"character":6,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-27 17:31:28.927 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/Downloads/node crash course/pathmodule.js","before":"const path = require('path');\r\nconst read","after":"\r\n\r\nconst a1 = path.basename('C:\\\\temp\\\\myfile.html');\r\nconst a2 = path.dirname('C:\\\\temp\\\\myfile.html');\r\nconsole.log(a1)\r\nconsole.log(a2)\r\nconst a3 = path.extname(__filename)\r\nconsole.log(__filename, a3)","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":41,"line":1,"character":10,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-27 17:31:30.003 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/Downloads/node crash course/pathmodule.js","before":"const path = require('path');\r\nconst readli","after":"\r\n\r\nconst a1 = path.basename('C:\\\\temp\\\\myfile.html');\r\nconst a2 = path.dirname('C:\\\\temp\\\\myfile.html');\r\nconsole.log(a1)\r\nconsole.log(a2)\r\nconst a3 = path.extname(__filename)\r\nconsole.log(__filename, a3)","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":43,"line":1,"character":12,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-27 17:31:31.695 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/Downloads/node crash course/pathmodule.js","before":"const path = require('path');\r\nconst readline =","after":"\r\n\r\nconst a1 = path.basename('C:\\\\temp\\\\myfile.html');\r\nconst a2 = path.dirname('C:\\\\temp\\\\myfile.html');\r\nconsole.log(a1)\r\nconsole.log(a2)\r\nconst a3 = path.extname(__filename)\r\nconsole.log(__filename, a3)","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":47,"line":1,"character":16,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-27 17:31:32.697 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/Downloads/node crash course/pathmodule.js","before":"const path = require('path');\r\nconst readline = ","after":"\r\n\r\nconst a1 = path.basename('C:\\\\temp\\\\myfile.html');\r\nconst a2 = path.dirname('C:\\\\temp\\\\myfile.html');\r\nconsole.log(a1)\r\nconsole.log(a2)\r\nconst a3 = path.extname(__filename)\r\nconsole.log(__filename, a3)","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":48,"line":1,"character":17,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-27 17:31:38.108 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/Downloads/node crash course/pathmodule.js","before":"const path = require('path');\r\nconst readline = require('readline","after":"re')\r\n\r\nconst a1 = path.basename('C:\\\\temp\\\\myfile.html');\r\nconst a2 = path.dirname('C:\\\\temp\\\\myfile.html');\r\nconsole.log(a1)\r\nconsole.log(a2)\r\nconst a3 = path.extname(__filename)\r\nconsole.log(__filename, a3)","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":57,"line":1,"character":26,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-27 17:31:39.106 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/Downloads/node crash course/pathmodule.js","before":"const path = require('path');\r\nconst readline = require('readline","after":"rea')\r\n\r\nconst a1 = path.basename('C:\\\\temp\\\\myfile.html');\r\nconst a2 = path.dirname('C:\\\\temp\\\\myfile.html');\r\nconsole.log(a1)\r\nconsole.log(a2)\r\nconst a3 = path.extname(__filename)\r\nconsole.log(__filename, a3)","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":57,"line":1,"character":26,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-27 17:31:40.915 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/Downloads/node crash course/pathmodule.js","before":"const path = require('path');\r\nconst readline = require('assert","after":"read')\r\n\r\nconst a1 = path.basename('C:\\\\temp\\\\myfile.html');\r\nconst a2 = path.dirname('C:\\\\temp\\\\myfile.html');\r\nconsole.log(a1)\r\nconsole.log(a2)\r\nconst a3 = path.extname(__filename)\r\nconsole.log(__filename, a3)","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":57,"line":1,"character":26,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-27 17:31:41.916 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/Downloads/node crash course/pathmodule.js","before":"const path = require('path');\r\nconst readline = require('path","after":"read')\r\n\r\nconst a1 = path.basename('C:\\\\temp\\\\myfile.html');\r\nconst a2 = path.dirname('C:\\\\temp\\\\myfile.html');\r\nconsole.log(a1)\r\nconsole.log(a2)\r\nconst a3 = path.extname(__filename)\r\nconsole.log(__filename, a3)","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":57,"line":1,"character":26,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-27 17:31:49.291 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/Downloads/node crash course/pathmodule.js","before":"const path = require('path');\r\nconst readLine = require('re","after":"')\r\n\r\nconst a1 = path.basename('C:\\\\temp\\\\myfile.html');\r\nconst a2 = path.dirname('C:\\\\temp\\\\myfile.html');\r\nconsole.log(a1)\r\nconsole.log(a2)\r\nconst a3 = path.extname(__filename)\r\nconsole.log(__filename, a3)","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":59,"line":1,"character":28,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-27 17:31:50.294 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/Downloads/node crash course/pathmodule.js","before":"const path = require('path');\r\nconst readLine = require('rea","after":"')\r\n\r\nconst a1 = path.basename('C:\\\\temp\\\\myfile.html');\r\nconst a2 = path.dirname('C:\\\\temp\\\\myfile.html');\r\nconsole.log(a1)\r\nconsole.log(a2)\r\nconst a3 = path.extname(__filename)\r\nconsole.log(__filename, a3)","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":60,"line":1,"character":29,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-27 17:31:54.072 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/Downloads/node crash course/pathmodule.js","before":"const path = require('path');\r\nconst readLine = require(","after":")\r\n\r\nconst a1 = path.basename('C:\\\\temp\\\\myfile.html');\r\nconst a2 = path.dirname('C:\\\\temp\\\\myfile.html');\r\nconsole.log(a1)\r\nconsole.log(a2)\r\nconst a3 = path.extname(__filename)\r\nconsole.log(__filename, a3)","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":56,"line":1,"character":25,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-27 17:32:03.159 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/Downloads/node crash course/pathmodule.js","before":"const path = require('path');\r\nconst readLine = require('readline')\r\n\r\nreadLine","after":"re\r\n\r\nconst a1 = path.basename('C:\\\\temp\\\\myfile.html');\r\nconst a2 = path.dirname('C:\\\\temp\\\\myfile.html');\r\nconsole.log(a1)\r\nconsole.log(a2)\r\nconst a3 = path.extname(__filename)\r\nconsole.log(__filename, a3)","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":71,"line":3,"character":0,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-27 17:32:06.368 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/Downloads/node crash course/pathmodule.js","before":"const path = require('path');\r\nconst readLine = require('readline')\r\n\r\nlet a1","after":"a\r\n\r\nconst a1 = path.basename('C:\\\\temp\\\\myfile.html');\r\nconst a2 = path.dirname('C:\\\\temp\\\\myfile.html');\r\nconsole.log(a1)\r\nconsole.log(a2)\r\nconst a3 = path.extname(__filename)\r\nconsole.log(__filename, a3)","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":75,"line":3,"character":4,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-27 17:32:10.212 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/Downloads/node crash course/pathmodule.js","before":"const path = require('path');\r\nconst readLine = require('readline')\r\n\r\nlength","after":"let a = readLine.q\r\n\r\nconst a1 = path.basename('C:\\\\temp\\\\myfile.html');\r\nconst a2 = path.dirname('C:\\\\temp\\\\myfile.html');\r\nconsole.log(a1)\r\nconsole.log(a2)\r\nconst a3 = path.extname(__filename)\r\nconsole.log(__filename, a3)","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":71,"line":3,"character":0,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-27 17:32:34.010 [error] Missing semicolon. (6:5): SyntaxError: Missing semicolon. (6:5)
+    at instantiate (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:72:32)
+    at toParseError (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:358:12)
+    at St.raise (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:3335:19)
+    at St.semicolon (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:3996:10)
+    at St.parseVarStatement (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:15067:10)
+    at St.parseStatementContent (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14608:21)
+    at St.parseStatement (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14533:17)
+    at St.parseStatement (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:5823:24)
+    at St.parseBlockOrModuleBlockBody (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:15176:25)
+    at St.parseBlockBody (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:15167:10)
+    at St.parseProgram (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14451:10)
+    at St.parseTopLevel (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14438:25)
+    at St.parseTopLevel (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:6827:28)
+    at St.parse (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:16401:10)
+    at jsParse (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:16453:38)
+    at parse (/home/thesynthax/.vscode-oss/extensions/import-cost/src/babel-parser.js:65:10)
+    at getPackagesFromJS (/home/thesynthax/.vscode-oss/extensions/import-cost/src/babel-parser.js:57:15)
+    at getPackages (/home/thesynthax/.vscode-oss/extensions/import-cost/src/parser.js:37:12)
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/import-cost/src/index.js:21:21)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-27 17:33:39.219 [error] Missing semicolon. (6:5): SyntaxError: Missing semicolon. (6:5)
+    at instantiate (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:72:32)
+    at toParseError (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:358:12)
+    at St.raise (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:3335:19)
+    at St.semicolon (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:3996:10)
+    at St.parseVarStatement (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:15067:10)
+    at St.parseStatementContent (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14608:21)
+    at St.parseStatement (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14533:17)
+    at St.parseStatement (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:5823:24)
+    at St.parseBlockOrModuleBlockBody (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:15176:25)
+    at St.parseBlockBody (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:15167:10)
+    at St.parseProgram (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14451:10)
+    at St.parseTopLevel (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14438:25)
+    at St.parseTopLevel (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:6827:28)
+    at St.parse (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:16401:10)
+    at jsParse (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:16453:38)
+    at parse (/home/thesynthax/.vscode-oss/extensions/import-cost/src/babel-parser.js:65:10)
+    at getPackagesFromJS (/home/thesynthax/.vscode-oss/extensions/import-cost/src/babel-parser.js:57:15)
+    at getPackages (/home/thesynthax/.vscode-oss/extensions/import-cost/src/parser.js:37:12)
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/import-cost/src/index.js:21:21)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-27 17:33:39.288 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/Downloads/node crash course/pathmodule.js","before":"const path = require('path');\r\nconst readLine = require('readLine')\r\n\r\nlet a = readLine.console","after":"c\r\n\r\nconst a1 = path.basename('C:\\\\temp\\\\myfile.html');\r\nconst a2 = path.dirname('C:\\\\temp\\\\myfile.html');\r\nconsole.log(a1)\r\nconsole.log(a2)\r\nconst a3 = path.extname(__filename)\r\nconsole.log(__filename, a3)","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":88,"line":3,"character":17,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-27 17:33:40.289 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/Downloads/node crash course/pathmodule.js","before":"const path = require('path');\r\nconst readLine = require('readLine')\r\n\r\nlet a = readLine.console","after":"cre\r\n\r\nconst a1 = path.basename('C:\\\\temp\\\\myfile.html');\r\nconst a2 = path.dirname('C:\\\\temp\\\\myfile.html');\r\nconsole.log(a1)\r\nconsole.log(a2)\r\nconst a3 = path.extname(__filename)\r\nconsole.log(__filename, a3)","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":88,"line":3,"character":17,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-27 17:33:53.988 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/Downloads/node crash course/pathmodule.js","before":"const path = require('path');\r\nconst readline = require('readline')\r\n\r\nlet a = readline.Interface","after":".\r\n\r\nconst a1 = path.basename('C:\\\\temp\\\\myfile.html');\r\nconst a2 = path.dirname('C:\\\\temp\\\\myfile.html');\r\nconsole.log(a1)\r\nconsole.log(a2)\r\nconst a3 = path.extname(__filename)\r\nconsole.log(__filename, a3)","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":87,"line":3,"character":16,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-27 17:33:56.051 [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/Downloads/node crash course/pathmodule.js","before":"const path = require('path');\r\nconst readline = require('readline')\r\n\r\nlet a = readline.clearLine","after":".c\r\n\r\nconst a1 = path.basename('C:\\\\temp\\\\myfile.html');\r\nconst a2 = path.dirname('C:\\\\temp\\\\myfile.html');\r\nconsole.log(a1)\r\nconsole.log(a2)\r\nconst a3 = path.extname(__filename)\r\nconsole.log(__filename, a3)","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":87,"line":3,"character":16,"indentation_size":4}}
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.31/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)

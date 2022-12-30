@@ -10,6 +10,7 @@ ln -sf /home/$USER/dotfiles/.bash_history /home/$USER/.bash_history
 ln -sf /home/$USER/dotfiles/.conky/ /home/$USER/
 ln -sf /home/$USER/dotfiles/.wallpaper/ /home/$USER/
 ln -sf /home/$USER/dotfiles/.config/zsh /home/$USER/.config
+ln -sf /home/$USER/dotfiles/.config/oh-my-zsh /home/$USER/.config
 ln -sf /home/$USER/dotfiles/.config/Code\ -\ OSS/ /home/$USER/.config
 ln -sf /home/$USER/dotfiles/.config/picom/ /home/$USER/.config/
 ln -sf /home/$USER/dotfiles/.config/nvim /home/$USER/.config/

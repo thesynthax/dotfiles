@@ -2,18 +2,19 @@
 export PATH=$HOME/bin:/usr/local/bin:$HOME/.local/bin:$PATH
 export XDG_CONFIG_HOME="$HOME/.config"
 # Path to your oh-my-zsh installation.
-#export ZSH="$HOME/.oh-my-zsh"
+export ZSH="$HOME/.config/oh-my-zsh"
+#export ZSH=/usr/share/oh-my-zsh/
 export TERM="st"
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 #ZSH_THEME="intheloop"
-#ZSH_THEME="refined" # set by `omz`
+ZSH_THEME="refined" # set by `omz`
 #ZSH_THEME="linuxonly"
-source ~/.config/zsh/refined.zsh-theme
-source ~/.config/zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
-source ~/.config/zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+#source ~/.config/zsh/refined.zsh-theme
+#source ~/.config/zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+#source ~/.config/zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
 # a theme from this variable instead of looking in $ZSH/themes/
@@ -29,7 +30,7 @@ source ~/.config/zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # Uncomment one of the following lines to change the auto-update behavior
 # zstyle ':omz:update' mode disabled  # disable automatic updates
-# zstyle ':omz:update' mode auto      # update automatically without asking
+zstyle ':omz:update' mode auto      # update automatically without asking
 # zstyle ':omz:update' mode reminder  # just remind me to update when it's time
 
 # Uncomment the following line to change how often to auto-update (in days).
@@ -74,9 +75,9 @@ source ~/.config/zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(zsh-autosuggestions zsh-syntax-highlighting)
+plugins=(zsh-autosuggestions fast-syntax-highlighting zsh-completions)
 
-#source $ZSH/oh-my-zsh.sh
+source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
@@ -107,7 +108,8 @@ plugins=(zsh-autosuggestions zsh-syntax-highlighting)
 echo "i use arch btw"
 
 ## Advanced Tab Completion
-autoload -U compinit
+autoload -Uz compinit
+#zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}'
 zstyle ':completion*' menu select
 compinit
 
@@ -115,7 +117,9 @@ if [ -f /etc/bash.command-not-found ]; then
     . /etc/bash.command-not-found
 fi
 alias sudo="doas "
-alias vim="nvim"
+#alias vim="bash -c nvim "
+alias "nvim $1"='bash -c "nvim $1"'
+alias "nv"='bash -c nvim'
 export EDITOR="nvim"
 export VISUAL="nvim"
 #Pacman Shortcuts
@@ -131,8 +135,11 @@ alias unlock="doas rm /var/lib/pacman/db.lck"
 alias remove="doas pacman -R"
 alias autoremove="doas pacman -Rns"
 alias irc="weechat"
+alias l="exa"
+alias la="exa -la"
 . "$HOME/.cargo/env"
 alias cat="bat"
+alias mpv="devour mpv"
 if [ -f /etc/bash.command-not-found ]; then
     . /etc/bash.command-not-found
 fi

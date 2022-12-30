@@ -219,6 +219,7 @@ then
             button("g", "  Open Last Session",     ':source ~/.config/nvim/session.vim<CR>'),
             button("m", "  Word Finder",           ':Telescope live_grep<CR>'),
             button("l", "  Marks",                 ':Telescope marks<CR>'),
+            button("q", "  Quit",                  ':q<CR>'),
         },
         opts = {
             spacing = 1
