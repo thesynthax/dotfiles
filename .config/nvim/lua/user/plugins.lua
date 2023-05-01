@@ -46,6 +46,7 @@ return packer.startup(function(use)
     use "nvim-lua/plenary.nvim" -- Useful lua functions used ny lots of plugins
     use {'iamcco/markdown-preview.nvim', run = 'cd app && yarn install', cmd = 'MarkdownPreview'}
     use "navarasu/onedark.nvim"
+    use "thesynthax/thesynthax-dark"
     use "hrsh7th/nvim-cmp" -- The completion plugin
     use "hrsh7th/cmp-buffer" -- buffer completions
     use "hrsh7th/cmp-path" -- path completions
@@ -61,6 +62,7 @@ return packer.startup(function(use)
     use 'mfussenegger/nvim-lint'
     use "hrsh7th/cmp-nvim-lua"
     use "hrsh7th/cmp-nvim-lsp"
+    use 'mattn/emmet-vim'
     use "nvim-telescope/telescope.nvim"
     use 'nvim-telescope/telescope-media-files.nvim'
     use {
@@ -77,6 +79,11 @@ return packer.startup(function(use)
     use "kyazdani42/nvim-tree.lua"
     use "goolord/alpha-nvim"
     use "liuchengxu/vim-which-key"
+    --use "SirVer/ultisnips"
+    use "mlaursen/vim-react-snippets"
+    use {'akinsho/bufferline.nvim', tag = "v3.*", requires = 'nvim-tree/nvim-web-devicons'}
+    use {'nvim-lualine/lualine.nvim', requires = { 'kyazdani42/nvim-web-devicons', opt = true}}
+    --use "OmniSharp/omnisharp-vim"
     -- Automatically set up your configuration after cloning packer.nvim
     -- Put this at the end after all plugins
     if PACKER_BOOTSTRAP then

@@ -132,6 +132,7 @@ static char *colors[][ColCount] = {
 
 
 static const char *const autostart[] = {
+    "xrandr", "--output", "eDP-1-1", "--right-of", "HDMI-1-2", NULL,
 	"xset", "r", "rate", "300", "40", NULL,
 	"xhost", "si:localuser:root", NULL,
 	"wal", "-n", "-i", "/home/thesynthax/.wallpaper/12.jpg", NULL,

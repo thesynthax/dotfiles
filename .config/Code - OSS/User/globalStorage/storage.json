@@ -7,11 +7,7 @@
                 "folderUri": "file:///home/thesynthax/Downloads/node%20crash%20course"
             }
         ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1672314906055"
-            }
-        ]
+        "emptyWindows": []
     },
     "windowsState": {
         "lastActiveWindow": {
@@ -21,7 +17,7 @@
                 "mode": 1,
                 "x": 10,
                 "y": 43,
-                "width": 1039,
+                "width": 1900,
                 "height": 1027
             }
         },
@@ -65,7 +61,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"

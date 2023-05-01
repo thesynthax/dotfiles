@@ -1,10 +1,15 @@
 
 local servers = {
     "clangd",
-	"sumneko_lua",
+    "lua_ls",
 	"pyright",
 	"jsonls",
     "tsserver",
+    "emmet_ls",
+    "html",
+    "tailwindcss",
+    "rust_analyzer",
+    "omnisharp"
 }
 
 local settings = {
@@ -48,3 +53,9 @@ for _, server in pairs(servers) do
 
 	lspconfig[server].setup(opts)
 end
+
+require "lspconfig".emmet_ls.setup {
+    capabilities = require("user.lsp.handlers").capabilities,
+    on_attach = require("user.lsp.handlers").on_attach,
+    filetypes = { "html", "css", "typescriptreact", "javascriptreact", "javascript" },
+}

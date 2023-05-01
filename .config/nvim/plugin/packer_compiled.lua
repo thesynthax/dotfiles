@@ -89,6 +89,11 @@ _G.packer_plugins = {
     path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/alpha-nvim",
     url = "https://github.com/goolord/alpha-nvim"
   },
+  ["bufferline.nvim"] = {
+    loaded = true,
+    path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/bufferline.nvim",
+    url = "https://github.com/akinsho/bufferline.nvim"
+  },
   ["cmp-buffer"] = {
     loaded = true,
     path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/cmp-buffer",
@@ -124,6 +129,11 @@ _G.packer_plugins = {
     path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/cmp_luasnip",
     url = "https://github.com/saadparwaiz1/cmp_luasnip"
   },
+  ["emmet-vim"] = {
+    loaded = true,
+    path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/emmet-vim",
+    url = "https://github.com/mattn/emmet-vim"
+  },
   ["friendly-snippets"] = {
     loaded = true,
     path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/friendly-snippets",
@@ -133,6 +143,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/gitsigns.nvim",
     url = "https://github.com/lewis6991/gitsigns.nvim"
+  },
+  ["lualine.nvim"] = {
+    loaded = true,
+    path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/lualine.nvim",
+    url = "https://github.com/nvim-lualine/lualine.nvim"
   },
   ["markdown-preview.nvim"] = {
     commands = { "MarkdownPreview" },
@@ -237,6 +252,16 @@ _G.packer_plugins = {
     path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/telescope.nvim",
     url = "https://github.com/nvim-telescope/telescope.nvim"
   },
+  ["thesynthax-dark"] = {
+    loaded = true,
+    path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/thesynthax-dark",
+    url = "https://github.com/thesynthax/thesynthax-dark"
+  },
+  ["vim-react-snippets"] = {
+    loaded = true,
+    path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/vim-react-snippets",
+    url = "https://github.com/mlaursen/vim-react-snippets"
+  },
   ["vim-which-key"] = {
     loaded = true,
     path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/vim-which-key",
@@ -252,7 +277,7 @@ pcall(vim.api.nvim_create_user_command, 'MarkdownPreview', function(cmdargs)
           require('packer.load')({'markdown-preview.nvim'}, { cmd = 'MarkdownPreview', l1 = cmdargs.line1, l2 = cmdargs.line2, bang = cmdargs.bang, args = cmdargs.args, mods = cmdargs.mods }, _G.packer_plugins)
         end,
         {nargs = '*', range = true, bang = true, complete = function()
-          require('packer.load')({'markdown-preview.nvim'}, { cmd = 'MarkdownPreview' }, _G.packer_plugins)
+          require('packer.load')({'markdown-preview.nvim'}, {}, _G.packer_plugins)
           return vim.fn.getcompletion('MarkdownPreview ', 'cmdline')
       end})
 time([[Defining lazy-load commands]], false)
