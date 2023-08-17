@@ -16,5 +16,6 @@ ln -sf /home/$USER/dotfiles/.config/picom/ /home/$USER/.config/
 ln -sf /home/$USER/dotfiles/.config/nvim /home/$USER/.config/
 ln -sf /home/$USER/dotfiles/.config/dunst /home/$USER/.config/
 ln -sf /home/$USER/dotfiles/.config/X11 /home/$USER/.config/
+ln -sf /home/$USER/dotfiles/.config/lf /home/$USER/.config/
 #ln -sf /home/$USER/dotfiles/.local/share/nvim/ /home/$USER/.local/share/
 ln -sf /home/$USER/dotfiles/scripts/* /home/$USER/.local/bin
