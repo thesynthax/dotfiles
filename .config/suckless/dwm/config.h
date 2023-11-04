@@ -310,8 +310,8 @@ static const char *killblocks[] = {"killall", "-9", "dwmblocks", NULL};
 static const char *powermenu[] = {"/home/thesynthax/.local/bin/powermenu", NULL};
 static const char *pass[] = {"/home/thesynthax/.local/bin/pass", NULL};
 
-static const char *ss[] = {"scrot", "/home/thesynthax/Pictures/screenshots/ss.png", NULL};
-static const char *ssp[] = {"scrot", "-s", "/home/thesynthax/Pictures/screenshots/ss.png", NULL};
+static const char *ss[] = {"scrot", "/home/thesynthax/pics/screenshots/ss.png", NULL};
+static const char *ssp[] = {"scrot", "-s", "/home/thesynthax/pics/screenshots/ss.png", NULL};
 
 /* This defines the name of the executable that handles the bar (used for signalling purposes) */
 #define STATUSBAR "dwmblocks"
@@ -344,7 +344,7 @@ static const Key keys[] = {
 	{ MODKEY,                       XK_l,          setmfact,               {.f = +0.05} },
 	{ MODKEY|ShiftMask,             XK_j,          movestack,              {.i = +1 } },
 	{ MODKEY|ShiftMask,             XK_k,          movestack,              {.i = -1 } },
-	{ MODKEY|ShiftMask,             XK_Return,     zoom,                   {0} },
+	//{ MODKEY|ShiftMask,             XK_Return,     zoom,                   {0} },
 	{ MODKEY|Mod1Mask,              XK_u,          incrgaps,               {.i = +1 } },
 	{ MODKEY|Mod1Mask|ShiftMask,    XK_u,          incrgaps,               {.i = -1 } },
 	{ MODKEY|Mod1Mask,              XK_i,          incrigaps,              {.i = +1 } },

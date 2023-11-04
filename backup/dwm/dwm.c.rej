@@ -1,0 +1,61 @@
+--- dwm.c
++++ dwm.c
+@@ -170,6 +171,7 @@ static void focus(Client *c);
+ static void focusin(XEvent *e);
+ static void focusmon(const Arg *arg);
+ static void focusstack(const Arg *arg);
++static int getdwmblockspid();
+ static int getrootptr(int *x, int *y);
+ static long getstate(Window w);
+ static int gettextprop(Window w, Atom atom, char *text, unsigned int size);
+@@ -239,6 +242,9 @@ static void zoom(const Arg *arg);
+ /* variables */
+ static const char broken[] = "broken";
+ static char stext[256];
++static char rawstext[256];
++static int dwmblockssig;
++pid_t dwmblockspid = 0;
+ static int screen;
+ static int sw, sh;           /* X display screen geometry width, height */
+ static int bh, blw = 0;      /* bar geometry */
+@@ -441,9 +447,26 @@ buttonpress(XEvent *e)
+ 			arg.ui = 1 << i;
+ 		} else if (ev->x < x + blw)
+ 			click = ClkLtSymbol;
+-		else if (ev->x > selmon->ww - TEXTW(stext))
++		else if (ev->x > (x = selmon->ww - TEXTW(stext) + lrpad)) {
+ 			click = ClkStatusText;
+-		else
++
++			char *text = rawstext;
++			int i = -1;
++			char ch;
++			dwmblockssig = 0;
++			while (text[++i]) {
++				if ((unsigned char)text[i] < ' ') {
++					ch = text[i];
++					text[i] = '\0';
++					x += TEXTW(text) - lrpad;
++					text[i] = ch;
++					text += i+1;
++					i = -1;
++					if (x >= ev->x) break;
++					dwmblockssig = ch;
++				}
++			}
++		} else
+ 			click = ClkWinTitle;
+ 	} else if ((c = wintoclient(ev->window))) {
+ 		focus(c);
+@@ -2031,8 +2096,10 @@ updatesizehints(Client *c)
+ void
+ updatestatus(void)
+ {
+-	if (!gettextprop(root, XA_WM_NAME, stext, sizeof(stext)))
++	if (!gettextprop(root, XA_WM_NAME, rawstext, sizeof(rawstext)))
+ 		strcpy(stext, "dwm-"VERSION);
++	else
++		copyvalidchars(stext, rawstext);
+ 	drawbar(selmon);
+ }
+ 

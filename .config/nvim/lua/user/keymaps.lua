@@ -38,7 +38,7 @@ keymap("n", "<S-l>", ":bnext<CR>", opts)
 keymap("n", "<S-h>", ":bprevious<CR>", opts)
 
 --wrap
-keymap("n", "<C-w>", ":set wrap<CR>", opts)
+keymap("n", "<C-w>", ":set wrap!<CR>", opts)
 
 -- Insert --
 -- Press jk fast to enter

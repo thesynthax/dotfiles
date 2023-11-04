@@ -4,18 +4,18 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/thesynthax/Downloads/node%20crash%20course"
+                "folderUri": "file:///home/thesynthax/projects/unity/Unity-Projects/two%20point%20five%20D%20platformer"
             }
         ],
         "emptyWindows": []
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/thesynthax/Downloads/node%20crash%20course",
-            "backupPath": "/home/thesynthax/.config/Code - OSS/Backups/1f1c49a62e6728d6ec3b4fbf58541ee0",
+            "folder": "file:///home/thesynthax/projects/unity/Unity-Projects/two%20point%20five%20D%20platformer",
+            "backupPath": "/home/thesynthax/.config/Code - OSS/Backups/a8f453f1cf77b3a46fbd9a5d04e9b067",
             "uiState": {
                 "mode": 1,
-                "x": 2979,
+                "x": 1059,
                 "y": 43,
                 "width": 851,
                 "height": 508
@@ -71,6 +71,17 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/thesynthax/projects/unity/Unity-Projects/two%20point%20five%20D%20platformer",
+                                        "path": "/home/thesynthax/projects/unity/Unity-Projects/two point five D platformer",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/projects/unity/Unity-Projects/two point five D platformer"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/thesynthax/Downloads/node%20crash%20course",
                                         "path": "/home/thesynthax/Downloads/node crash course",
                                         "scheme": "file"
@@ -91,6 +102,17 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/thesynthax/projects/unity/Unity-Projects/two%20point%20five%20D%20platformer/Assets/Scripts/New/Ragdoll/RagdollControl.cs",
+                                        "path": "/home/thesynthax/projects/unity/Unity-Projects/two point five D platformer/Assets/Scripts/New/Ragdoll/RagdollControl.cs",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/projects/unity/Unity-Projects/two point five D platformer/Assets/Scripts/New/Ragdoll/RagdollControl.cs"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -231,7 +253,7 @@
                                             },
                                             {
                                                 "id": "workbench.profiles.actions.showProfileContents",
-                                                "label": "Show Contents..."
+                                                "label": "Show Profile Contents"
                                             },
                                             {
                                                 "id": "vscode.menubar.separator"
@@ -1485,7 +1507,8 @@
     "userDataProfilesMigration": true,
     "profileAssociations": {
         "workspaces": {
-            "file:///home/thesynthax/Downloads/node%20crash%20course": "__default__profile__"
+            "file:///home/thesynthax/Downloads/node%20crash%20course": "__default__profile__",
+            "file:///home/thesynthax/projects/unity/Unity-Projects/two%20point%20five%20D%20platformer": "__default__profile__"
         },
         "emptyWindows": {}
     },

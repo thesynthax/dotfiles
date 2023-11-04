@@ -26,7 +26,7 @@ case "$(echo -e "Shutdown\nReboot\nHibernate\nLogout\nSuspend\nLock" | dmenu -p 
 		esac
 		;;
 	Suspend)
-		systemctl suspend
+		slock & systemctl suspend
 		;;
 	Lock) 
 		slock 

@@ -137,6 +137,11 @@ alias autoremove="doas pacman -Rns"
 alias irc="weechat"
 alias l="exa"
 alias la="exa -la"
+alias vpnon="doas wg-quick up arch"
+alias vpnoff="doas wg-quick down arch"
+alias vpnrestart="vpnoff; vpnon"
+alias fastkey="xset r rate 300 40"
+alias mirror-update="doas reflector --verbose --country 'India' -l 5 --sort rate --save /etc/pacman.d/mirrorlist"
 . "$HOME/.cargo/env"
 alias cat="bat"
 alias mpv="devour mpv"
@@ -150,3 +155,5 @@ export PATH="$PATH:$HOME/Applications/JetBrains Rider-2021.3/bin"
 export NVM_DIR="$HOME/.config/nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+source /usr/local/gromacs/bin/GMXRC

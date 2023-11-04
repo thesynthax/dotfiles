@@ -9,7 +9,7 @@ local servers = {
     "html",
     "tailwindcss",
     "rust_analyzer",
-    "omnisharp",
+    --"omnisharp",
     "dockerls",
     "docker_compose_language_service"
     --"csharp_ls"
