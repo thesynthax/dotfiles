@@ -308,7 +308,7 @@ static const char *brdown[] = {"brightnessctl", "s", "15%-", NULL};
 static const char *killblocks[] = {"killall", "-9", "dwmblocks", NULL};
 
 static const char *powermenu[] = {"/home/thesynthax/.local/bin/powermenu", NULL};
-static const char *pass[] = {"/home/thesynthax/.local/bin/pass", NULL};
+static const char *pass[] = {"/usr/bin/passmenu", NULL};
 
 static const char *ss[] = {"scrot", "/home/thesynthax/pics/screenshots/ss.png", NULL};
 static const char *ssp[] = {"scrot", "-s", "/home/thesynthax/pics/screenshots/ss.png", NULL};

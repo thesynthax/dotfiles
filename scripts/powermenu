@@ -1,6 +1,6 @@
 #!/bin/sh
 
-case "$(echo -e "Shutdown\nReboot\nHibernate\nLogout\nSuspend\nLock" | dmenu -p "POWER MENU:")" in
+case "$(echo -e "Shutdown\nReboot\nHibernate\nLogout\nSuspend\nLock\nKill-X" | dmenu -p "POWER MENU:")" in
 	Shutdown)
 		case "$(echo -e "Yes\nNo" | dmenu -p "Are you sure?")" in
 			Yes) shutdown now ;;
@@ -30,5 +30,8 @@ case "$(echo -e "Shutdown\nReboot\nHibernate\nLogout\nSuspend\nLock" | dmenu -p 
 		;;
 	Lock) 
 		slock 
+		;;
+	Kill-X) 
+		killall dwm 
 		;;
 esac
