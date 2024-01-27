@@ -105,6 +105,7 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+figlet -f ANSI-shadow "chad-arch" | lolcat -p 6 -F 0.01
 echo "i use arch btw"
 
 ## Advanced Tab Completion
@@ -157,3 +158,6 @@ export NVM_DIR="$HOME/.config/nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 source /usr/local/gromacs/bin/GMXRC
+export PATH=/home/thesynthax/.meteor:$PATH
+export VOLTA_HOME="$HOME/.volta"
+export PATH="$VOLTA_HOME/bin:$PATH"

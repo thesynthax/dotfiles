@@ -1,0 +1,347 @@
+2024-01-27 12:36:54.177 [info] Getting Manifest... dbaeumer.vscode-eslint
+2024-01-27 12:36:54.179 [info] Getting Manifest... donjayamanne.githistory
+2024-01-27 12:36:54.180 [info] Getting Manifest... eliverlara.andromeda
+2024-01-27 12:36:54.181 [info] Getting Manifest... esbenp.prettier-vscode
+2024-01-27 12:36:54.183 [info] Getting Manifest... formulahendry.auto-close-tag
+2024-01-27 12:36:54.184 [info] Getting Manifest... formulahendry.code-runner
+2024-01-27 12:36:54.185 [info] Getting Manifest... franneck94.c-cpp-runner
+2024-01-27 12:36:54.186 [info] Getting Manifest... llvm-vs-code-extensions.vscode-clangd
+2024-01-27 12:36:54.187 [info] Getting Manifest... mgmcdermott.vscode-language-babel
+2024-01-27 12:36:54.188 [info] Getting Manifest... ms-azuretools.vscode-docker
+2024-01-27 12:36:54.189 [info] Getting Manifest... ms-dotnettools.csharp
+2024-01-27 12:36:54.190 [info] Getting Manifest... ms-vscode.cmake-tools
+2024-01-27 12:36:54.191 [info] Getting Manifest... ms-vscode.cpptools
+2024-01-27 12:36:54.191 [info] Getting Manifest... ms-vscode.js-debug-nightly
+2024-01-27 12:36:54.192 [info] Getting Manifest... ms-vscode.vscode-typescript-next
+2024-01-27 12:36:54.193 [info] Getting Manifest... tabnine.tabnine-vscode
+2024-01-27 12:36:54.194 [info] Getting Manifest... usernamehw.errorlens
+2024-01-27 12:36:54.194 [info] Getting Manifest... vadimcn.vscode-lldb
+2024-01-27 12:36:54.196 [info] Getting Manifest... vscode-icons-team.vscode-icons
+2024-01-27 12:36:54.196 [info] Getting Manifest... vscodevim.vim
+2024-01-27 12:36:54.197 [info] Getting Manifest... zhuangtongfa.material-theme
+2024-01-27 12:36:54.922 [info] Installing extension: dbaeumer.vscode-eslint
+2024-01-27 12:36:54.943 [info] Installing extension: formulahendry.auto-close-tag
+2024-01-27 12:36:54.964 [info] Installing extension: formulahendry.code-runner
+2024-01-27 12:36:54.972 [info] Installing extension: tabnine.tabnine-vscode
+2024-01-27 12:36:54.973 [info] Installing extension: ms-azuretools.vscode-docker
+2024-01-27 12:36:54.973 [info] Installing extension: ms-vscode.vscode-typescript-next
+2024-01-27 12:36:54.975 [info] Installing extension: ms-vscode.cmake-tools
+2024-01-27 12:36:55.048 [info] Installing extension: ms-vscode.cpptools
+2024-01-27 12:36:55.063 [info] Installing extension: ms-vscode.js-debug-nightly
+2024-01-27 12:36:55.065 [info] Installing extension: ms-dotnettools.csharp
+2024-01-27 12:36:55.086 [info] Installing extension: donjayamanne.githistory
+2024-01-27 12:36:55.091 [info] Installing extension: esbenp.prettier-vscode
+2024-01-27 12:36:55.236 [info] Installing extension: zhuangtongfa.material-theme
+2024-01-27 12:36:55.237 [info] Installing extension: vscode-icons-team.vscode-icons
+2024-01-27 12:36:55.239 [info] Installing extension: vscodevim.vim
+2024-01-27 12:36:55.240 [info] Installing extension: usernamehw.errorlens
+2024-01-27 12:36:55.242 [info] Installing extension: vadimcn.vscode-lldb
+2024-01-27 12:36:55.243 [info] Installing extension: mgmcdermott.vscode-language-babel
+2024-01-27 12:36:55.244 [info] Installing extension: llvm-vs-code-extensions.vscode-clangd
+2024-01-27 12:36:55.245 [info] Installing extension: franneck94.c-cpp-runner
+2024-01-27 12:36:55.245 [info] Installing extension: eliverlara.andromeda
+2024-01-27 12:36:56.765 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2024-01-27 12:36:57.860 [info] Installing extension: ms-dotnettools.vscode-dotnet-runtime ms-dotnettools.csharp
+2024-01-27 12:36:58.516 [info] Getting Manifest... ms-vscode.cpptools
+2024-01-27 12:36:58.581 [info] Getting Manifest... vadimcn.vscode-lldb
+2024-01-27 12:37:00.438 [info] Extension signature verification is not done: dbaeumer.vscode-eslint
+2024-01-27 12:37:00.572 [info] Waiting for already requested installing extension ms-vscode.cpptools franneck94.c-cpp-runner
+2024-01-27 12:37:00.573 [info] Waiting for already requested installing extension vadimcn.vscode-lldb franneck94.c-cpp-runner
+2024-01-27 12:37:01.506 [info] Extension signature verification is not done: formulahendry.code-runner
+2024-01-27 12:37:01.507 [info] Extension signature verification is not done: usernamehw.errorlens
+2024-01-27 12:37:02.287 [info] Extension signature verification is not done: zhuangtongfa.material-theme
+2024-01-27 12:37:02.469 [info] Extension signature verification is not done: donjayamanne.githistory
+2024-01-27 12:37:02.469 [info] Extension signature verification is not done: vadimcn.vscode-lldb
+2024-01-27 12:37:02.470 [info] Extension signature verification is not done: formulahendry.auto-close-tag
+2024-01-27 12:37:03.394 [info] Getting Manifest... dbaeumer.vscode-eslint
+2024-01-27 12:37:03.395 [info] Getting Manifest... donjayamanne.githistory
+2024-01-27 12:37:03.395 [info] Getting Manifest... eliverlara.andromeda
+2024-01-27 12:37:03.396 [info] Getting Manifest... esbenp.prettier-vscode
+2024-01-27 12:37:03.396 [info] Getting Manifest... formulahendry.auto-close-tag
+2024-01-27 12:37:03.397 [info] Getting Manifest... formulahendry.code-runner
+2024-01-27 12:37:03.398 [info] Getting Manifest... franneck94.c-cpp-runner
+2024-01-27 12:37:03.398 [info] Getting Manifest... llvm-vs-code-extensions.vscode-clangd
+2024-01-27 12:37:03.398 [info] Getting Manifest... mgmcdermott.vscode-language-babel
+2024-01-27 12:37:03.399 [info] Getting Manifest... ms-azuretools.vscode-docker
+2024-01-27 12:37:03.399 [info] Getting Manifest... ms-dotnettools.csharp
+2024-01-27 12:37:03.400 [info] Getting Manifest... ms-vscode.cmake-tools
+2024-01-27 12:37:03.400 [info] Getting Manifest... ms-vscode.cpptools
+2024-01-27 12:37:03.401 [info] Getting Manifest... ms-vscode.js-debug-nightly
+2024-01-27 12:37:03.401 [info] Getting Manifest... ms-vscode.vscode-typescript-next
+2024-01-27 12:37:03.401 [info] Getting Manifest... tabnine.tabnine-vscode
+2024-01-27 12:37:03.402 [info] Getting Manifest... usernamehw.errorlens
+2024-01-27 12:37:03.403 [info] Getting Manifest... vadimcn.vscode-lldb
+2024-01-27 12:37:03.403 [info] Getting Manifest... vscode-icons-team.vscode-icons
+2024-01-27 12:37:03.404 [info] Getting Manifest... vscodevim.vim
+2024-01-27 12:37:03.404 [info] Getting Manifest... zhuangtongfa.material-theme
+2024-01-27 12:37:03.417 [info] Extensions is already requested to install dbaeumer.vscode-eslint
+2024-01-27 12:37:03.420 [info] Extensions is already requested to install donjayamanne.githistory
+2024-01-27 12:37:03.423 [info] Extensions is already requested to install eliverlara.andromeda
+2024-01-27 12:37:03.425 [info] Extensions is already requested to install esbenp.prettier-vscode
+2024-01-27 12:37:03.425 [info] Extensions is already requested to install formulahendry.auto-close-tag
+2024-01-27 12:37:03.429 [info] Extensions is already requested to install formulahendry.code-runner
+2024-01-27 12:37:03.432 [info] Extensions is already requested to install franneck94.c-cpp-runner
+2024-01-27 12:37:03.432 [info] Extensions is already requested to install llvm-vs-code-extensions.vscode-clangd
+2024-01-27 12:37:03.432 [info] Extensions is already requested to install mgmcdermott.vscode-language-babel
+2024-01-27 12:37:03.435 [info] Extensions is already requested to install ms-azuretools.vscode-docker
+2024-01-27 12:37:03.435 [info] Extensions is already requested to install ms-vscode.vscode-typescript-next
+2024-01-27 12:37:03.435 [info] Extensions is already requested to install ms-dotnettools.csharp
+2024-01-27 12:37:03.437 [info] Extensions is already requested to install ms-vscode.js-debug-nightly
+2024-01-27 12:37:03.437 [info] Extensions is already requested to install tabnine.tabnine-vscode
+2024-01-27 12:37:03.437 [info] Extensions is already requested to install usernamehw.errorlens
+2024-01-27 12:37:03.437 [info] Extensions is already requested to install ms-vscode.cmake-tools
+2024-01-27 12:37:03.439 [info] Extensions is already requested to install ms-vscode.cpptools
+2024-01-27 12:37:03.440 [info] Extensions is already requested to install vadimcn.vscode-lldb
+2024-01-27 12:37:03.440 [info] Extensions is already requested to install vscode-icons-team.vscode-icons
+2024-01-27 12:37:03.440 [info] Extensions is already requested to install vscodevim.vim
+2024-01-27 12:37:03.441 [info] Extensions is already requested to install zhuangtongfa.material-theme
+2024-01-27 12:37:04.891 [info] Extension signature verification is not done: tabnine.tabnine-vscode
+2024-01-27 12:37:05.038 [info] Extension signature verification is not done: ms-vscode.cmake-tools
+2024-01-27 12:37:05.039 [info] Extension signature verification is not done: ms-vscode.js-debug-nightly
+2024-01-27 12:37:05.838 [info] Extension signature verification is not done: vscodevim.vim
+2024-01-27 12:37:05.840 [info] Extension signature verification is not done: vscode-icons-team.vscode-icons
+2024-01-27 12:37:05.841 [info] Extension signature verification is not done: esbenp.prettier-vscode
+2024-01-27 12:37:05.977 [info] Extension signature verification is not done: mgmcdermott.vscode-language-babel
+2024-01-27 12:37:07.474 [info] Extension signature verification is not done: llvm-vs-code-extensions.vscode-clangd
+2024-01-27 12:37:07.482 [info] Extension signature verification is not done: ms-azuretools.vscode-docker
+2024-01-27 12:37:07.482 [info] Extension signature verification is not done: ms-dotnettools.vscode-dotnet-runtime
+2024-01-27 12:37:07.688 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/vadimcn.vscode-lldb-1.10.0: vadimcn.vscode-lldb
+2024-01-27 12:37:07.832 [info] Extension signature verification is not done: ms-vscode.vscode-typescript-next
+2024-01-27 12:37:07.833 [info] Extension signature verification is not done: franneck94.c-cpp-runner
+2024-01-27 12:37:07.855 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.4.4: dbaeumer.vscode-eslint
+2024-01-27 12:37:07.891 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/usernamehw.errorlens-3.16.0: usernamehw.errorlens
+2024-01-27 12:37:08.209 [info] Extension signature verification is not done: eliverlara.andromeda
+2024-01-27 12:37:08.218 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/formulahendry.auto-close-tag-0.5.15: formulahendry.auto-close-tag
+2024-01-27 12:37:08.604 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/vadimcn.vscode-lldb-1.10.0
+2024-01-27 12:37:08.604 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.4.4
+2024-01-27 12:37:08.604 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/usernamehw.errorlens-3.16.0
+2024-01-27 12:37:08.611 [info] Extracting extension completed. vadimcn.vscode-lldb
+2024-01-27 12:37:08.611 [info] Extracting extension completed. dbaeumer.vscode-eslint
+2024-01-27 12:37:08.612 [info] Extracting extension completed. usernamehw.errorlens
+2024-01-27 12:37:08.639 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.26: llvm-vs-code-extensions.vscode-clangd
+2024-01-27 12:37:08.660 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/mgmcdermott.vscode-language-babel-0.0.40: mgmcdermott.vscode-language-babel
+2024-01-27 12:37:08.689 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/vscodevim.vim-1.27.2: vscodevim.vim
+2024-01-27 12:37:08.996 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/formulahendry.auto-close-tag-0.5.15
+2024-01-27 12:37:08.999 [info] Extracting extension completed. formulahendry.auto-close-tag
+2024-01-27 12:37:09.014 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/donjayamanne.githistory-0.6.20: donjayamanne.githistory
+2024-01-27 12:37:09.545 [info] Extension installed successfully: vadimcn.vscode-lldb
+2024-01-27 12:37:09.547 [info] Finished waiting for already requested installing extension vadimcn.vscode-lldb franneck94.c-cpp-runner
+2024-01-27 12:37:09.552 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.26
+2024-01-27 12:37:09.553 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/vscodevim.vim-1.27.2
+2024-01-27 12:37:09.553 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/mgmcdermott.vscode-language-babel-0.0.40
+2024-01-27 12:37:09.558 [info] Extracting extension completed. llvm-vs-code-extensions.vscode-clangd
+2024-01-27 12:37:09.558 [info] Extracting extension completed. vscodevim.vim
+2024-01-27 12:37:09.558 [info] Extracting extension completed. mgmcdermott.vscode-language-babel
+2024-01-27 12:37:09.559 [info] Marked extension as uninstalled vadimcn.vscode-lldb-1.8.1
+2024-01-27 12:37:09.572 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-dotnettools.vscode-dotnet-runtime-2.0.1: ms-dotnettools.vscode-dotnet-runtime
+2024-01-27 12:37:09.575 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/eliverlara.andromeda-1.8.1: eliverlara.andromeda
+2024-01-27 12:37:09.942 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/donjayamanne.githistory-0.6.20
+2024-01-27 12:37:09.957 [info] Extracting extension completed. donjayamanne.githistory
+2024-01-27 12:37:10.021 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/franneck94.c-cpp-runner-9.4.7: franneck94.c-cpp-runner
+2024-01-27 12:37:10.312 [info] Extension installed successfully: dbaeumer.vscode-eslint
+2024-01-27 12:37:10.313 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/eliverlara.andromeda-1.8.1
+2024-01-27 12:37:10.313 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-dotnettools.vscode-dotnet-runtime-2.0.1
+2024-01-27 12:37:10.318 [info] Extracting extension completed. eliverlara.andromeda
+2024-01-27 12:37:10.318 [info] Extracting extension completed. ms-dotnettools.vscode-dotnet-runtime
+2024-01-27 12:37:10.319 [info] Marked extension as uninstalled dbaeumer.vscode-eslint-2.2.6
+2024-01-27 12:37:10.322 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/zhuangtongfa.material-theme-3.16.2: zhuangtongfa.material-theme
+2024-01-27 12:37:10.322 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-vscode.js-debug-nightly-2024.1.2217: ms-vscode.js-debug-nightly
+2024-01-27 12:37:10.709 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/franneck94.c-cpp-runner-9.4.7
+2024-01-27 12:37:10.712 [info] Extracting extension completed. franneck94.c-cpp-runner
+2024-01-27 12:37:10.787 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.63.0: tabnine.tabnine-vscode
+2024-01-27 12:37:11.122 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/zhuangtongfa.material-theme-3.16.2
+2024-01-27 12:37:11.125 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-vscode.js-debug-nightly-2024.1.2217
+2024-01-27 12:37:11.132 [info] Extension installed successfully: usernamehw.errorlens
+2024-01-27 12:37:11.171 [info] Extracting extension completed. zhuangtongfa.material-theme
+2024-01-27 12:37:11.173 [info] Extracting extension completed. ms-vscode.js-debug-nightly
+2024-01-27 12:37:11.175 [info] Marked extension as uninstalled usernamehw.errorlens-3.6.0
+2024-01-27 12:37:11.188 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.28.0: ms-azuretools.vscode-docker
+2024-01-27 12:37:11.197 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/esbenp.prettier-vscode-10.1.0: esbenp.prettier-vscode
+2024-01-27 12:37:11.569 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.63.0
+2024-01-27 12:37:11.571 [info] Extracting extension completed. tabnine.tabnine-vscode
+2024-01-27 12:37:11.599 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/formulahendry.code-runner-0.12.1: formulahendry.code-runner
+2024-01-27 12:37:12.279 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.28.0
+2024-01-27 12:37:12.283 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/esbenp.prettier-vscode-10.1.0
+2024-01-27 12:37:12.287 [info] Extension installed successfully: formulahendry.auto-close-tag
+2024-01-27 12:37:12.298 [info] Extracting extension completed. ms-azuretools.vscode-docker
+2024-01-27 12:37:12.299 [info] Extracting extension completed. esbenp.prettier-vscode
+2024-01-27 12:37:12.299 [info] Marked extension as uninstalled formulahendry.auto-close-tag-0.5.14
+2024-01-27 12:37:12.375 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-vscode.cmake-tools-1.16.32: ms-vscode.cmake-tools
+2024-01-27 12:37:12.516 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-vscode.vscode-typescript-next-5.4.20240124: ms-vscode.vscode-typescript-next
+2024-01-27 12:37:12.849 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/formulahendry.code-runner-0.12.1
+2024-01-27 12:37:12.853 [info] Extracting extension completed. formulahendry.code-runner
+2024-01-27 12:37:13.856 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-vscode.cmake-tools-1.16.32
+2024-01-27 12:37:13.858 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-vscode.vscode-typescript-next-5.4.20240124
+2024-01-27 12:37:13.860 [info] Extension installed successfully: llvm-vs-code-extensions.vscode-clangd
+2024-01-27 12:37:13.864 [info] Extracting extension completed. ms-vscode.vscode-typescript-next
+2024-01-27 12:37:13.868 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:13.869 [info] Extracting extension completed. ms-vscode.cmake-tools
+2024-01-27 12:37:13.869 [info] Marked extension as uninstalled llvm-vs-code-extensions.vscode-clangd-0.1.23
+2024-01-27 12:37:15.720 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/vscode-icons-team.vscode-icons-12.7.0: vscode-icons-team.vscode-icons
+2024-01-27 12:37:21.218 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/vscode-icons-team.vscode-icons-12.7.0
+2024-01-27 12:37:21.218 [info] Extracting extension completed. vscode-icons-team.vscode-icons
+2024-01-27 12:37:23.350 [info] Extension installed successfully: vscodevim.vim
+2024-01-27 12:37:23.354 [info] Marked extension as uninstalled vscodevim.vim-1.24.3
+2024-01-27 12:37:25.436 [info] Extension installed successfully: mgmcdermott.vscode-language-babel
+2024-01-27 12:37:25.548 [info] Marked extension as uninstalled mgmcdermott.vscode-language-babel-0.0.36
+2024-01-27 12:37:26.568 [info] Extension installed successfully: donjayamanne.githistory
+2024-01-27 12:37:26.573 [info] Marked extension as uninstalled donjayamanne.githistory-0.6.19
+2024-01-27 12:37:27.189 [info] Extension installed successfully: eliverlara.andromeda
+2024-01-27 12:37:27.190 [info] Marked extension as uninstalled eliverlara.andromeda-1.7.1
+2024-01-27 12:37:27.896 [info] Marked extension as uninstalled franneck94.c-cpp-runner-5.0.0
+2024-01-27 12:37:28.175 [info] Extension installed successfully: zhuangtongfa.material-theme
+2024-01-27 12:37:28.179 [info] Marked extension as uninstalled zhuangtongfa.material-theme-3.15.6
+2024-01-27 12:37:28.422 [info] Extension installed successfully: ms-vscode.js-debug-nightly
+2024-01-27 12:37:28.432 [info] Marked extension as uninstalled ms-vscode.js-debug-nightly-2023.1.917
+2024-01-27 12:37:28.864 [info] Extension installed successfully: tabnine.tabnine-vscode
+2024-01-27 12:37:28.867 [info] Marked extension as uninstalled tabnine.tabnine-vscode-3.6.35
+2024-01-27 12:37:29.284 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2024-01-27 12:37:29.289 [info] Marked extension as uninstalled ms-azuretools.vscode-docker-1.23.3
+2024-01-27 12:37:29.801 [info] Extension installed successfully: esbenp.prettier-vscode
+2024-01-27 12:37:29.804 [info] Marked extension as uninstalled esbenp.prettier-vscode-9.10.3
+2024-01-27 12:37:30.030 [info] Extension installed successfully: formulahendry.code-runner
+2024-01-27 12:37:30.033 [info] Marked extension as uninstalled formulahendry.code-runner-0.11.8
+2024-01-27 12:37:30.338 [info] Extension installed successfully: ms-vscode.vscode-typescript-next
+2024-01-27 12:37:30.341 [info] Marked extension as uninstalled ms-vscode.vscode-typescript-next-5.0.202301090
+2024-01-27 12:37:30.365 [info] Getting Manifest... ms-dotnettools.csharp
+2024-01-27 12:37:30.365 [info] Getting Manifest... ms-vscode.cmake-tools
+2024-01-27 12:37:30.366 [info] Getting Manifest... ms-vscode.cpptools
+2024-01-27 12:37:30.366 [info] Getting Manifest... vscode-icons-team.vscode-icons
+2024-01-27 12:37:30.374 [info] Extensions is already requested to install ms-dotnettools.csharp
+2024-01-27 12:37:30.374 [info] Extensions is already requested to install ms-vscode.cmake-tools
+2024-01-27 12:37:30.375 [info] Extensions is already requested to install vscode-icons-team.vscode-icons
+2024-01-27 12:37:30.376 [info] Extensions is already requested to install ms-vscode.cpptools
+2024-01-27 12:37:30.745 [info] Extension installed successfully: ms-vscode.cmake-tools
+2024-01-27 12:37:30.749 [info] Marked extension as uninstalled ms-vscode.cmake-tools-1.12.27
+2024-01-27 12:37:31.030 [info] Extension installed successfully: vscode-icons-team.vscode-icons
+2024-01-27 12:37:31.035 [info] Marked extension as uninstalled vscode-icons-team.vscode-icons-12.0.1
+2024-01-27 12:37:31.090 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:31.158 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:31.267 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:31.373 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:31.474 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:31.597 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:36.238 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:37.216 [info] Extension signature verification is not done: ms-vscode.cpptools
+2024-01-27 12:37:38.959 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-vscode.cpptools-1.18.5-linux-x64: ms-vscode.cpptools
+2024-01-27 12:37:39.205 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-vscode.cpptools-1.18.5-linux-x64
+2024-01-27 12:37:39.212 [info] Extracting extension completed. ms-vscode.cpptools
+2024-01-27 12:37:39.379 [info] Extension installed successfully: ms-vscode.cpptools
+2024-01-27 12:37:39.380 [info] Finished waiting for already requested installing extension ms-vscode.cpptools franneck94.c-cpp-runner
+2024-01-27 12:37:39.381 [info] Extension installed successfully: franneck94.c-cpp-runner
+2024-01-27 12:37:39.387 [info] Marked extension as uninstalled ms-vscode.cpptools-1.13.9-linux-x64
+2024-01-27 12:37:46.771 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:46.786 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:46.794 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:47.177 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:48.778 [info] Getting Manifest... ms-vscode.vscode-typescript-tslint-plugin
+2024-01-27 12:37:48.779 [info] Getting Manifest... eamodio.gitlens
+2024-01-27 12:37:48.780 [info] Getting Manifest... minhthai.vscode-todo-parser
+2024-01-27 12:37:48.780 [info] Getting Manifest... editorconfig.editorconfig
+2024-01-27 12:37:48.780 [info] Getting Manifest... eg2.vscode-npm-script
+2024-01-27 12:37:48.781 [info] Getting Manifest... rbbit.typescript-hero
+2024-01-27 12:37:48.816 [info] Installing extension: ms-vscode.vscode-typescript-tslint-plugin
+2024-01-27 12:37:48.816 [info] Installing extension: minhthai.vscode-todo-parser
+2024-01-27 12:37:48.816 [info] Installing extension: editorconfig.editorconfig
+2024-01-27 12:37:48.816 [info] Installing extension: eg2.vscode-npm-script
+2024-01-27 12:37:48.816 [info] Installing extension: rbbit.typescript-hero
+2024-01-27 12:37:48.816 [info] Installing extension: eamodio.gitlens
+2024-01-27 12:37:49.060 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:49.089 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:49.112 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:49.138 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:49.155 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:49.181 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:49.310 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:49.391 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:49.438 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:49.463 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:49.509 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:49.540 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:49.641 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:49.699 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:49.779 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:49.806 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:49.839 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:49.866 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:37:52.806 [info] Extension signature verification is not done: editorconfig.editorconfig
+2024-01-27 12:37:52.807 [info] Extension signature verification is not done: eg2.vscode-npm-script
+2024-01-27 12:37:52.844 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/eg2.vscode-npm-script-0.3.29: eg2.vscode-npm-script
+2024-01-27 12:37:52.849 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/editorconfig.editorconfig-0.16.4: editorconfig.editorconfig
+2024-01-27 12:37:53.249 [info] Extension signature verification is not done: ms-vscode.vscode-typescript-tslint-plugin
+2024-01-27 12:37:53.308 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.3.4: ms-vscode.vscode-typescript-tslint-plugin
+2024-01-27 12:37:53.678 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/eg2.vscode-npm-script-0.3.29
+2024-01-27 12:37:53.678 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/editorconfig.editorconfig-0.16.4
+2024-01-27 12:37:53.679 [info] Extracting extension completed. eg2.vscode-npm-script
+2024-01-27 12:37:53.680 [info] Extracting extension completed. editorconfig.editorconfig
+2024-01-27 12:37:54.057 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.3.4
+2024-01-27 12:37:54.062 [info] Extracting extension completed. ms-vscode.vscode-typescript-tslint-plugin
+2024-01-27 12:37:54.462 [info] Extension installed successfully: eg2.vscode-npm-script
+2024-01-27 12:37:55.741 [info] Extension installed successfully: editorconfig.editorconfig
+2024-01-27 12:37:56.589 [info] Extension installed successfully: ms-vscode.vscode-typescript-tslint-plugin
+2024-01-27 12:37:58.929 [info] Extension signature verification is not done: minhthai.vscode-todo-parser
+2024-01-27 12:37:59.446 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/minhthai.vscode-todo-parser-1.9.1: minhthai.vscode-todo-parser
+2024-01-27 12:38:00.774 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/minhthai.vscode-todo-parser-1.9.1
+2024-01-27 12:38:00.775 [info] Extracting extension completed. minhthai.vscode-todo-parser
+2024-01-27 12:38:02.019 [info] Extension installed successfully: minhthai.vscode-todo-parser
+2024-01-27 12:38:06.559 [info] Extension signature verification is not done: eamodio.gitlens
+2024-01-27 12:38:06.741 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0: eamodio.gitlens
+2024-01-27 12:38:07.081 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0
+2024-01-27 12:38:07.085 [info] Extracting extension completed. eamodio.gitlens
+2024-01-27 12:38:07.827 [info] Extension installed successfully: eamodio.gitlens
+2024-01-27 12:38:08.786 [info] Extension signature verification is not done: rbbit.typescript-hero
+2024-01-27 12:38:19.647 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:38:19.655 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:38:21.091 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/rbbit.typescript-hero-3.0.0: rbbit.typescript-hero
+2024-01-27 12:38:21.312 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/rbbit.typescript-hero-3.0.0
+2024-01-27 12:38:21.319 [info] Extracting extension completed. rbbit.typescript-hero
+2024-01-27 12:38:21.838 [info] Extension installed successfully: rbbit.typescript-hero
+2024-01-27 12:38:29.987 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:38:30.088 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:38:30.187 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:38:30.323 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:38:30.389 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:38:30.452 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:38:30.495 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:38:30.539 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:38:30.694 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:38:30.970 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:38:31.129 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:38:31.265 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:38:31.385 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:38:32.295 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:38:32.408 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:38:32.412 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:38:34.347 [info] Getting Manifest... ms-dotnettools.csharp
+2024-01-27 12:38:34.352 [info] Extensions is already requested to install ms-dotnettools.csharp
+2024-01-27 12:38:37.491 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:38:47.858 [info] Extension signature verification is not done: ms-dotnettools.csharp
+2024-01-27 12:38:51.381 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-2.15.30-linux-x64: ms-dotnettools.csharp
+2024-01-27 12:38:52.312 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-2.15.30-linux-x64
+2024-01-27 12:38:52.339 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-27 12:38:52.341 [info] Extracting extension completed. ms-dotnettools.csharp
+2024-01-27 12:38:53.267 [info] Extension installed successfully: ms-dotnettools.vscode-dotnet-runtime
+2024-01-27 12:38:53.267 [info] Extension installed successfully: ms-dotnettools.csharp
+2024-01-27 12:38:53.286 [info] Marked extension as uninstalled ms-dotnettools.csharp-1.25.2-linux-x64
+2024-01-27 12:41:39.099 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:41:39.107 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-27 12:43:33.232 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:43:33.240 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-27 12:44:36.982 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:44:36.987 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-27 12:44:36.997 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:44:37.000 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-27 12:45:10.981 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:45:10.984 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-27 12:45:11.006 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:45:11.008 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-27 12:48:33.416 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:48:33.429 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-27 12:53:34.428 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-27 12:53:34.484 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:58:34.614 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 12:58:34.618 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-27 13:03:34.754 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 13:03:34.756 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-01-27 13:08:34.876 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-27 13:08:34.885 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.

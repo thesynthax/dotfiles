@@ -1,0 +1,140 @@
+12:38:30 GMT+0530 (India Standard Time) [INFO]: spawning binary with command: /home/thesynthax/.config/Code - OSS/User/globalStorage/tabnine.tabnine-vscode/binaries/4.75.0/x86_64-unknown-linux-musl/TabNine args: --tls_config insecure=false --no-lsp=true --client=vscode --client-metadata clientVersion=1.85.2 pluginVersion=3.63.0 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-extension-kind=1 vscode-theme-name=One Dark Pro Darker vscode-theme-kind=Dark vscode-machine-id=someValue.machineId vscode-is-new-app-install=false vscode-session-id=someValue.sessionId vscode-language=en vscode-app-name=Code - OSS vscode-beta-channel-enabled=false vscode-status-customization=#0D0303 vscode-inline-api-enabled=true vscode-code-lens-enabled=true vscode-found-intellicode=false ide-restart-counter=0 
+
+12:38:30 GMT+0530 (India Standard Time) [DEBUG]: capabilities resolved immediately 
+
+12:38:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:39:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:39:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:40:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:40:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:41:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:41:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:41:46 GMT+0530 (India Standard Time) [ERROR]: Error: Binary request timed out. {"Prefetch":{"filename":"/home/thesynthax/projects/node-ts/kushagrawelcomebot/GetInfo.ts"}} 
+
+12:42:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:42:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:43:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:43:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:43:52 GMT+0530 (India Standard Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/thesynthax/projects/node-ts/kushagrawelcomebot/GetInfo.ts","before":"import type { ISlashCommand, SlashCommandContext } from '@rocket.chat/apps-engine/definition/slashcommands'\nimport type { IRead, IModify, IHttp, IPersistence } from '@rocket.chat/apps-engine/definition/accessors'\n\nclass GetInfo implements ISlashCommand\n{\n    ","after":"\n    public command = 'kushagra-getinfo';\n    public i18nParamsExample: string = 'getinfo';\n    public i18nDescription: string = 'Get information about the app';\n    public providesPreview = false;\n\n    async executor(context: SlashCommandContext, read: IRead, modify: IModify, http: IHttp, persis: IPersistence): Promise<void> {\n        const room = context.getRoom();\n        const messageBuilder = modify.getCreator()\n            .startMessage()\n            .setRoom(room)\n            .setText('Describe GSoC: https://summerofcode.withgoogle.com/how-it-works');\n\n        await modify.getCreator().finish(messageBuilder);\n    }\n}\n","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":259,"line":5,"character":4,"indentation_size":4,"cached_only":true}} 
+
+12:44:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:44:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:45:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:45:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:46:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:46:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:47:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:47:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:48:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:48:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:49:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:49:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:50:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:50:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:51:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:51:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:52:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:52:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:53:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:53:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:54:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:54:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:55:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:55:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:56:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:56:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:57:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:57:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:58:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:58:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:59:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+12:59:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+13:00:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+13:00:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+13:01:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+13:01:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+13:02:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+13:02:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+13:03:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+13:03:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+13:04:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+13:04:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+13:05:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+13:05:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+13:06:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+13:06:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+13:07:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+13:07:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+13:08:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+13:08:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+13:09:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+13:09:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+13:10:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+13:10:33 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+
+13:11:03 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project kushagrawelcomebot: ["/home/thesynthax/projects/node-ts/kushagrawelcomebot"] 
+

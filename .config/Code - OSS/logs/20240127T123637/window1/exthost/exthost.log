@@ -1,0 +1,351 @@
+2024-01-27 12:36:49.058 [info] Extension host with pid 742534 started
+2024-01-27 12:36:49.058 [info] Skipping acquiring lock for /home/thesynthax/.config/Code - OSS/User/workspaceStorage/03048d5cb1535d572d61b7fa942f2a59.
+2024-01-27 12:36:49.492 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-27 12:36:49.508 [info] ExtensionService#_doActivateExtension ms-dotnettools.csharp, startup: false, activationEvent: 'onLanguage:csharp'
+2024-01-27 12:36:49.683 [info] ExtensionService#_doActivateExtension muhammad-sammy.csharp, startup: false, activationEvent: 'onLanguage:csharp'
+2024-01-27 12:36:50.211 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-27 12:36:50.214 [info] ExtensionService#_doActivateExtension donjayamanne.githistory, startup: true, activationEvent: '*'
+2024-01-27 12:36:50.522 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-01-27 12:36:50.674 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-01-27 12:36:50.801 [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock, startup: true, activationEvent: '*'
+2024-01-27 12:36:50.862 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2024-01-27 12:36:50.974 [info] ExtensionService#_doActivateExtension standard.vscode-standard, startup: true, activationEvent: '*'
+2024-01-27 12:36:55.756 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+2024-01-27 12:36:55.848 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2024-01-27 12:36:56.009 [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: true, activationEvent: '*'
+2024-01-27 12:36:56.063 [error] Error: a DebugAdapterDescriptorFactory can only be registered once per a type.
+    at i.registerDebugAdapterDescriptorFactory (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:156:6706)
+    at Object.registerDebugAdapterDescriptorFactory (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:158:41885)
+    at Object.<anonymous> (/home/thesynthax/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0-universal/dist/extension.js:2:486300)
+    at Generator.next (<anonymous>)
+    at /home/thesynthax/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0-universal/dist/extension.js:2:483359
+    at new Promise (<anonymous>)
+    at r (/home/thesynthax/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0-universal/dist/extension.js:2:483104)
+    at Object.t.activate (/home/thesynthax/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0-universal/dist/extension.js:2:485479)
+    at /home/thesynthax/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0-universal/dist/extension.js:2:588740
+    at Generator.next (<anonymous>)
+    at s (/home/thesynthax/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0-universal/dist/extension.js:2:584469)
+2024-01-27 12:36:56.064 [error] Error: command 'omnisharp.registerLanguageMiddleware' already exists
+    at d.registerCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:138700)
+    at Object.registerCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:158:20536)
+    at t.LanguageMiddlewareFeature.register (/home/thesynthax/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0-universal/dist/extension.js:2:623432)
+    at Object.<anonymous> (/home/thesynthax/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0-universal/dist/extension.js:2:635656)
+    at Generator.next (<anonymous>)
+    at s (/home/thesynthax/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0-universal/dist/extension.js:2:634567)
+2024-01-27 12:36:56.235 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-27 12:36:56.295 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-27 12:36:56.322 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-27 12:36:56.367 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-27 12:36:57.285 [info] Eager extensions activated
+2024-01-27 12:36:57.294 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:36:57.296 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:36:57.315 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:36:58.128 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:36:58.234 [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:36:58.633 [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:36:59.620 [info] Extension host with pid 742855 started
+2024-01-27 12:36:59.771 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-27 12:36:59.776 [info] ExtensionService#_doActivateExtension donjayamanne.githistory, startup: true, activationEvent: '*'
+2024-01-27 12:36:59.813 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-01-27 12:36:59.815 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-01-27 12:36:59.841 [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock, startup: true, activationEvent: '*'
+2024-01-27 12:36:59.848 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2024-01-27 12:36:59.849 [info] ExtensionService#_doActivateExtension standard.vscode-standard, startup: true, activationEvent: '*'
+2024-01-27 12:36:59.904 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+2024-01-27 12:36:59.964 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2024-01-27 12:37:00.067 [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: true, activationEvent: '*'
+2024-01-27 12:37:00.147 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+2024-01-27 12:37:00.148 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-27 12:37:00.185 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:00.211 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-27 12:37:00.332 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-27 12:37:00.380 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-27 12:37:00.441 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-27 12:37:00.556 [info] Eager extensions activated
+2024-01-27 12:37:00.557 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:00.558 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:00.574 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:00.577 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:00.604 [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:00.608 [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:00.624 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+2024-01-27 12:37:00.650 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:03.283 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:03.283 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:03.887 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:03.887 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:04.022 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:04.022 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:04.062 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:04.062 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:04.204 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:04.204 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:04.867 [info] Extension host terminating: renderer closed the MessagePort
+2024-01-27 12:37:04.879 [error] Canceled: Canceled
+    at Object.C [as $6] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:7675
+    at Array.forEach (<anonymous>)
+    at l.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:7613)
+    at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:8044)
+    at s.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:158:1513)
+    at a (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:171:9802)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:171:6227)
+    at MessagePortMain.emit (node:events:513:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-01-27 12:37:04.887 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:04.905 [error] Canceled: Canceled
+    at new g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
+    at l.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
+    at Proxy.P.<computed>.j.charCodeAt.P.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
+    at d.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:139555)
+    at d.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+    at p.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:138317)
+    at d.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:140094)
+    at d.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:139086)
+    at d.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+    at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:158:21333)
+    at p.setState (/usr/lib/code/extensions/git/dist/main.js:2:930583)
+    at /usr/lib/code/extensions/git/dist/main.js:2:932470
+    at <anonymous> setContext undefined
+2024-01-27 12:37:05.907 [error] Error: Channel has been closed
+    at l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:2880)
+    at Object.trace (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:3145)
+    at p.openRepository (/usr/lib/code/extensions/git/dist/main.js:2:938149)
+    at r (/usr/lib/code/extensions/git/dist/main.js:2:875085)
+2024-01-27 12:37:09.877 [info] Extension host with pid 742534 exiting with code 0
+2024-01-27 12:37:15.658 [info] Extension host terminating: renderer closed the MessagePort
+2024-01-27 12:37:18.322 [info] Extension host with pid 742855 exiting with code 0
+2024-01-27 12:37:26.799 [info] Extension host with pid 743643 started
+2024-01-27 12:37:26.799 [info] Skipping acquiring lock for /home/thesynthax/.config/Code - OSS/User/workspaceStorage/d6103a2d61dcb5f804a2eb92e76b5ded.
+2024-01-27 12:37:27.025 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-27 12:37:27.029 [info] ExtensionService#_doActivateExtension donjayamanne.githistory, startup: true, activationEvent: '*'
+2024-01-27 12:37:27.064 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-01-27 12:37:27.065 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-01-27 12:37:27.089 [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock, startup: true, activationEvent: '*'
+2024-01-27 12:37:27.095 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2024-01-27 12:37:27.096 [info] ExtensionService#_doActivateExtension standard.vscode-standard, startup: true, activationEvent: '*'
+2024-01-27 12:37:27.142 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+2024-01-27 12:37:27.196 [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: true, activationEvent: '*'
+2024-01-27 12:37:27.200 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-01-27 12:37:27.321 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-27 12:37:27.380 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-27 12:37:27.408 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-27 12:37:27.459 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-27 12:37:27.536 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-27 12:37:27.656 [info] Eager extensions activated
+2024-01-27 12:37:27.671 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:27.673 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:27.688 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:27.691 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:27.721 [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:27.724 [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:27.737 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:27.800 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:27.813 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:27.818 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:27.825 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:27.840 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:27.890 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:37:27.988 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:38:22.456 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: '*'
+2024-01-27 12:38:22.472 [info] ExtensionService#_doActivateExtension minhthai.vscode-todo-parser, startup: false, activationEvent: '*'
+2024-01-27 12:38:22.492 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:38:27.559 [info] Extension host terminating: renderer closed the MessagePort
+2024-01-27 12:38:27.597 [error] Canceled: Canceled
+    at new g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
+    at l.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
+    at Proxy.P.<computed>.j.charCodeAt.P.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
+    at d.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:139555)
+    at d.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+    at p.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:138317)
+    at d.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:140094)
+    at d.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:139086)
+    at d.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+    at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:158:21333)
+    at w (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1077:40655)
+    at h (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1077:45702)
+    at ActionRunners._updateContextKeys (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:17573)
+    at s (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:16017)
+    at RegisteredActionRunner.unregister (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:16160)
+    at RegisteredActionRunner.dispose (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:14813)
+    at ActionRunners.dispose (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:15600)
+    at /home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1037:19287
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1037:19269)
+    at s (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+    at f.cb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:9873)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:7808
+    at Array.map (<anonymous>)
+    at f.Y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:7795)
+    at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:8068)
+    at s.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:158:1513)
+    at a (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:171:9802)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:171:6227)
+    at MessagePortMain.emit (node:events:513:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-01-27 12:38:27.597 [error] Canceled: Canceled
+    at new g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
+    at l.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
+    at Proxy.P.<computed>.j.charCodeAt.P.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
+    at d.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:139555)
+    at d.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+    at p.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:138317)
+    at d.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:140094)
+    at d.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:139086)
+    at d.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+    at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:158:21333)
+    at w (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1077:40655)
+    at h (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1077:45702)
+    at ActionRunners._updateContextKeys (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:17573)
+    at s (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:16017)
+    at RegisteredActionRunner.unregister (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:16160)
+    at RegisteredActionRunner.dispose (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:14813)
+    at ActionRunners.dispose (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:15600)
+    at /home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1037:19287
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1037:19269)
+    at s (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+    at f.cb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:9873)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:7808
+    at Array.map (<anonymous>)
+    at f.Y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:7795)
+    at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:8068)
+    at s.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:158:1513)
+    at a (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:171:9802)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:171:6227)
+    at MessagePortMain.emit (node:events:513:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-01-27 12:38:27.598 [error] Canceled: Canceled
+    at new g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
+    at l.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
+    at Proxy.P.<computed>.j.charCodeAt.P.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
+    at d.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:139555)
+    at d.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+    at p.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:138317)
+    at d.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:140094)
+    at d.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:139086)
+    at d.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+    at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:158:21333)
+    at w (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1077:40655)
+    at h (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1077:45702)
+    at ActionRunners._updateContextKeys (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:17573)
+    at s (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:16017)
+    at RegisteredActionRunner.unregister (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:16160)
+    at RegisteredActionRunner.dispose (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:14813)
+    at ActionRunners.dispose (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:15600)
+    at /home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1037:19287
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1037:19269)
+    at s (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+    at f.cb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:9873)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:7808
+    at Array.map (<anonymous>)
+    at f.Y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:7795)
+    at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:8068)
+    at s.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:158:1513)
+    at a (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:171:9802)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:171:6227)
+    at MessagePortMain.emit (node:events:513:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-01-27 12:38:27.601 [error] Canceled: Canceled
+    at new g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
+    at l.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
+    at Proxy.P.<computed>.j.charCodeAt.P.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
+    at d.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:139555)
+    at d.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+    at p.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:138317)
+    at d.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:140094)
+    at d.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:139086)
+    at d.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+    at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:158:21333)
+    at Object.dispose (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.35/out/extension.js:17:99149)
+    at /home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.35/out/extension.js:17:30255
+    at Array.forEach (<anonymous>)
+    at d (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.35/out/extension.js:17:30240)
+    at Object.dispose (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.35/out/extension.js:17:29683)
+    at s (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+    at f.cb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:9873)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:7808
+    at Array.map (<anonymous>)
+    at f.Y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:7795)
+    at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:8068)
+    at s.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:158:1513)
+    at a (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:171:9802)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:171:6227)
+    at MessagePortMain.emit (node:events:513:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-01-27 12:38:27.959 [info] Extension host with pid 743643 exiting with code 0
+2024-01-27 12:38:29.004 [info] Extension host with pid 745381 started
+2024-01-27 12:38:29.005 [info] Skipping acquiring lock for /home/thesynthax/.config/Code - OSS/User/workspaceStorage/d6103a2d61dcb5f804a2eb92e76b5ded.
+2024-01-27 12:38:29.096 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-27 12:38:29.115 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onWebviewPanel:gitlens.welcome'
+2024-01-27 12:38:29.327 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'api', root cause: eamodio.gitlens
+2024-01-27 12:38:29.337 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: true, activationEvent: '*'
+2024-01-27 12:38:29.345 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-01-27 12:38:29.346 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-01-27 12:38:29.371 [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock, startup: true, activationEvent: '*'
+2024-01-27 12:38:29.377 [info] ExtensionService#_doActivateExtension minhthai.vscode-todo-parser, startup: true, activationEvent: '*'
+2024-01-27 12:38:29.388 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2024-01-27 12:38:29.389 [info] ExtensionService#_doActivateExtension standard.vscode-standard, startup: true, activationEvent: '*'
+2024-01-27 12:38:29.499 [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: true, activationEvent: '*'
+2024-01-27 12:38:29.522 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-01-27 12:38:29.570 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: eamodio.gitlens
+2024-01-27 12:38:29.626 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-27 12:38:29.764 [info] Eager extensions activated
+2024-01-27 12:38:29.766 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:38:29.767 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:38:29.786 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:38:29.790 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:38:29.828 [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:38:29.833 [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:38:29.869 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:38:29.954 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:38:29.976 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:38:29.980 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:38:30.052 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:38:30.058 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:38:30.070 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:38:30.139 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:38:30.257 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 12:38:30.478 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-27 12:38:30.550 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-27 12:41:43.245 [info] ExtensionService#_doActivateExtension vscode.media-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+2024-01-27 12:41:44.616 [info] ExtensionService#_doActivateExtension ms-vscode.vscode-typescript-tslint-plugin, startup: false, activationEvent: 'onLanguage:typescript'
+2024-01-27 12:41:44.618 [info] ExtensionService#_doActivateExtension rbbit.typescript-hero, startup: false, activationEvent: 'onLanguage:typescript'
+2024-01-27 12:41:44.810 [info] ExtensionService#_doActivateExtension wix.vscode-import-cost, startup: false, activationEvent: 'onLanguage:typescript'
+2024-01-27 12:42:03.452 [error] SyntaxError: Invalid regular expression flag. (2:68)
+    at instantiate (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:72:32)
+    at toParseError (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:358:12)
+    at St.raise (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:3335:19)
+    at St.readRegexp (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:2763:14)
+    at St.parseExprAtom (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12840:16)
+    at St.parseExprAtom (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:8034:20)
+    at St.parseExprSubscripts (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12540:23)
+    at St.parseUpdate (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12519:21)
+    at St.parseMaybeUnary (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12490:23)
+    at St.parseMaybeUnary (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:10708:20)
+    at St.parseMaybeUnaryOrPrivate (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12284:61)
+    at St.parseExprOps (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12291:23)
+    at St.parseMaybeConditional (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12261:23)
+    at St.parseMaybeAssign (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12214:21)
+    at St.parseMaybeAssign (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:10631:20)
+    at St.parseExpressionBase (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12150:23)
+    at callback (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12144:39)
+    at St.allowInAnd (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14236:16)
+    at St.parseExpression (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:12144:17)
+    at St.parseStatementContent (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14676:23)
+    at St.parseStatementContent (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:10267:18)
+    at St.parseStatement (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14533:17)
+    at St.parseBlockOrModuleBlockBody (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:15176:25)
+    at St.parseBlockBody (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:15167:10)
+    at St.parseProgram (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14451:10)
+    at St.parseTopLevel (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:14438:25)
+    at St.parse (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:16401:10)
+    at St.parse (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:11054:18)
+    at jsParse (/home/thesynthax/.vscode-oss/node_modules/@babel/parser/lib/index.js:16453:38)
+    at parse (/home/thesynthax/.vscode-oss/extensions/import-cost/src/babel-parser.js:65:10)
+    at getPackagesFromJS (/home/thesynthax/.vscode-oss/extensions/import-cost/src/babel-parser.js:57:15)
+    at getPackages (/home/thesynthax/.vscode-oss/extensions/import-cost/src/parser.js:37:12)
+    at Timeout._onTimeout (/home/thesynthax/.vscode-oss/extensions/import-cost/src/index.js:21:21)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)

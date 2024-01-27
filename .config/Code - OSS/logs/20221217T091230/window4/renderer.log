@@ -1,1 +1,0 @@
-2022-12-17 09:14:58.772 [error] Extension 'ms-vscode.cpptools CANNOT USE these API proposals 'terminalDataWriteEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag

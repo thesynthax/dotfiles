@@ -313,6 +313,9 @@ static const char *pass[] = {"/usr/bin/passmenu", NULL};
 static const char *ss[] = {"scrot", "/home/thesynthax/pics/screenshots/ss.png", NULL};
 static const char *ssp[] = {"scrot", "-s", "/home/thesynthax/pics/screenshots/ss.png", NULL};
 
+//static const char *vpnrestart[] = {"doas", "wg-quick", "down", "arch;", "doas", "wg-quick", "up", "arch", NULL};
+static const char *vpnrestart[] = {"sudo", "wg-quick", "down", "arch", NULL};
+
 /* This defines the name of the executable that handles the bar (used for signalling purposes) */
 #define STATUSBAR "dwmblocks"
 
@@ -365,7 +368,8 @@ static const Key keys[] = {
 	{ MODKEY|ShiftMask,             XK_q,          killclient,             {0} },
 	{ MODKEY|ControlMask,           XK_q,          quit,                   {0} },
 	{ MODKEY|ControlMask,           XK_q,          spawn,                  { .v = killblocks } },
-	{ MODKEY|ShiftMask,		XK_r,          quit,                   {1} },
+	{ MODKEY|ShiftMask,		        XK_r,          quit,                   {1} },
+	{ MODKEY|ControlMask,	        XK_r,          spawn,                  {.v = vpnrestart} },
 	{ MODKEY|ShiftMask,             XK_F5,         xrdb,                   {.v = NULL } },
 	{ MODKEY|ControlMask,           XK_t,          setlayout,              {.v = &layouts[0]} },
 	{ MODKEY|ControlMask,           XK_f,          setlayout,              {.v = &layouts[1]} },

@@ -5,20 +5,27 @@
         "folders": [
             {
                 "folderUri": "file:///home/thesynthax/projects/unity/Unity-Projects/two%20point%20five%20D%20platformer"
+            },
+            {
+                "folderUri": "file:///home/thesynthax/projects/node-ts/kushagrawelcomebot"
             }
         ],
-        "emptyWindows": []
+        "emptyWindows": [
+            {
+                "backupFolder": "1706339218105"
+            }
+        ]
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/thesynthax/projects/unity/Unity-Projects/two%20point%20five%20D%20platformer",
-            "backupPath": "/home/thesynthax/.config/Code - OSS/Backups/a8f453f1cf77b3a46fbd9a5d04e9b067",
+            "folder": "file:///home/thesynthax/projects/node-ts/kushagrawelcomebot",
+            "backupPath": "/home/thesynthax/.config/Code - OSS/Backups/d1f1af3195fc7e703d5cbeccbc3dd7b1",
             "uiState": {
                 "mode": 1,
-                "x": 1059,
+                "x": -3800,
                 "y": 43,
-                "width": 851,
-                "height": 508
+                "width": 1900,
+                "height": 1027
             }
         },
         "openedWindows": []
@@ -61,11 +68,21 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/thesynthax/projects/node-ts/kushagrawelcomebot",
+                                        "path": "/home/thesynthax/projects/node-ts/kushagrawelcomebot",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/projects/node-ts/kushagrawelcomebot"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -170,7 +187,7 @@
                                 },
                                 {
                                     "id": "workbench.action.clearRecentFiles",
-                                    "label": "&&Clear Recently Opened"
+                                    "label": "&&Clear Recently Opened..."
                                 }
                             ]
                         }
@@ -282,9 +299,6 @@
                                     }
                                 },
                                 {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
                                     "id": "workbench.action.openSettings",
                                     "label": "&&Settings"
                                 },
@@ -299,6 +313,10 @@
                                 {
                                     "id": "workbench.action.openSnippets",
                                     "label": "Configure User Snippets"
+                                },
+                                {
+                                    "id": "workbench.action.tasks.openUserTasks",
+                                    "label": "User Tasks"
                                 },
                                 {
                                     "id": "submenuitem.ThemesSubMenu",
@@ -552,13 +570,9 @@
                                     "checked": true
                                 },
                                 {
-                                    "id": "workbench.action.toggleActivityBarVisibility",
-                                    "label": "&&Activity Bar",
-                                    "checked": true
-                                },
-                                {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "&&Panel"
+                                    "label": "&&Panel",
+                                    "checked": true
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -566,6 +580,23 @@
                                 {
                                     "id": "workbench.action.toggleSidebarPosition",
                                     "label": "&&Move Primary Side Bar Right"
+                                },
+                                {
+                                    "id": "submenuitem.ActivityBarPositionMenu",
+                                    "label": "Activity Bar Position",
+                                    "submenu": {
+                                        "items": [
+                                            {
+                                                "id": "workbench.action.activityBarLocation.side",
+                                                "label": "&&Side",
+                                                "checked": true
+                                            },
+                                            {
+                                                "id": "workbench.action.activityBarLocation.hide",
+                                                "label": "&&Hidden"
+                                            }
+                                        ]
+                                    }
                                 },
                                 {
                                     "id": "submenuitem.PanelPositionMenu",
@@ -614,6 +645,44 @@
                                     }
                                 },
                                 {
+                                    "id": "submenuitem.EditorTabsBarShowTabsSubmenu",
+                                    "label": "Tab Bar",
+                                    "submenu": {
+                                        "items": [
+                                            {
+                                                "id": "workbench.action.showMultipleEditorTabs",
+                                                "label": "Multiple Tabs",
+                                                "checked": true
+                                            },
+                                            {
+                                                "id": "workbench.action.showEditorTab",
+                                                "label": "Single Tab"
+                                            },
+                                            {
+                                                "id": "workbench.action.hideEditorTabs",
+                                                "label": "Hidden"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "submenuitem.EditorActionsPositionSubmenu",
+                                    "label": "Editor Actions Position",
+                                    "submenu": {
+                                        "items": [
+                                            {
+                                                "id": "workbench.action.editorActionsDefault",
+                                                "label": "Tab Bar",
+                                                "checked": true
+                                            },
+                                            {
+                                                "id": "workbench.action.hideEditorActions",
+                                                "label": "Hidden"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
@@ -625,6 +694,10 @@
                                     "id": "breadcrumbs.toggle",
                                     "label": "&&Breadcrumbs",
                                     "checked": true
+                                },
+                                {
+                                    "id": "editor.action.toggleStickyScroll",
+                                    "label": "&&Sticky Scroll"
                                 },
                                 {
                                     "id": "editor.action.toggleRenderWhitespace",
@@ -681,6 +754,17 @@
                                 {
                                     "id": "workbench.action.splitEditorInGroup",
                                     "label": "Split in &&Group"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.action.moveEditorToNewWindow",
+                                    "label": "&&Move Editor into New Window"
+                                },
+                                {
+                                    "id": "workbench.action.copyEditorToNewWindow",
+                                    "label": "&&Copy Editor into New Window"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -762,6 +846,10 @@
                         "label": "&&Output"
                     },
                     {
+                        "id": "workbench.debug.action.toggleRepl",
+                        "label": "De&&bug Console"
+                    },
+                    {
                         "id": "workbench.action.terminal.toggleTerminal",
                         "label": "&&Terminal"
                     },
@@ -771,10 +859,6 @@
                     {
                         "id": "editor.action.toggleWordWrap",
                         "label": "&&Word Wrap"
-                    },
-                    {
-                        "id": "editor.action.toggleStickyScroll",
-                        "label": "&&Sticky Scroll"
                     }
                 ]
             },
@@ -782,8 +866,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -792,8 +875,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -990,6 +1072,112 @@
             "Run": {
                 "items": [
                     {
+                        "id": "workbench.action.debug.start",
+                        "label": "&&Start Debugging"
+                    },
+                    {
+                        "id": "workbench.action.debug.run",
+                        "label": "Run &&Without Debugging"
+                    },
+                    {
+                        "id": "workbench.action.debug.stop",
+                        "label": "&&Stop Debugging",
+                        "enabled": false
+                    },
+                    {
+                        "id": "workbench.action.debug.restart",
+                        "label": "&&Restart Debugging",
+                        "enabled": false
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.action.debug.configure",
+                        "label": "Open &&Configurations",
+                        "enabled": false
+                    },
+                    {
+                        "id": "debug.addConfiguration",
+                        "label": "A&&dd Configuration..."
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.action.debug.stepOver",
+                        "label": "Step &&Over",
+                        "enabled": false
+                    },
+                    {
+                        "id": "workbench.action.debug.stepInto",
+                        "label": "Step &&Into",
+                        "enabled": false
+                    },
+                    {
+                        "id": "workbench.action.debug.stepOut",
+                        "label": "Step O&&ut",
+                        "enabled": false
+                    },
+                    {
+                        "id": "workbench.action.debug.continue",
+                        "label": "&&Continue",
+                        "enabled": false
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "editor.debug.action.toggleBreakpoint",
+                        "label": "Toggle &&Breakpoint"
+                    },
+                    {
+                        "id": "submenuitem.MenubarNewBreakpointMenu",
+                        "label": "&&New Breakpoint",
+                        "submenu": {
+                            "items": [
+                                {
+                                    "id": "editor.debug.action.conditionalBreakpoint",
+                                    "label": "&&Conditional Breakpoint..."
+                                },
+                                {
+                                    "id": "editor.debug.action.editBreakpoint",
+                                    "label": "&&Edit Breakpoint"
+                                },
+                                {
+                                    "id": "editor.debug.action.toggleInlineBreakpoint",
+                                    "label": "Inline Breakp&&oint"
+                                },
+                                {
+                                    "id": "workbench.debug.viewlet.action.addFunctionBreakpointAction",
+                                    "label": "&&Function Breakpoint..."
+                                },
+                                {
+                                    "id": "editor.debug.action.addLogPoint",
+                                    "label": "&&Logpoint..."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.debug.viewlet.action.enableAllBreakpoints",
+                        "label": "&&Enable All Breakpoints"
+                    },
+                    {
+                        "id": "workbench.debug.viewlet.action.disableAllBreakpoints",
+                        "label": "Disable A&&ll Breakpoints"
+                    },
+                    {
+                        "id": "workbench.debug.viewlet.action.removeAllBreakpoints",
+                        "label": "Remove &&All Breakpoints"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
                         "id": "debug.installAdditionalDebuggers",
                         "label": "&&Install Additional Debuggers..."
                     }
@@ -1010,12 +1198,49 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
+                        "id": "workbench.action.tasks.runTask",
+                        "label": "&&Run Task..."
+                    },
+                    {
+                        "id": "workbench.action.tasks.build",
+                        "label": "Run &&Build Task..."
+                    },
+                    {
                         "id": "workbench.action.terminal.runActiveFile",
                         "label": "Run &&Active File"
                     },
                     {
                         "id": "workbench.action.terminal.runSelectedText",
                         "label": "Run &&Selected Text"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.action.tasks.showTasks",
+                        "label": "Show Runnin&&g Tasks...",
+                        "enabled": false
+                    },
+                    {
+                        "id": "workbench.action.tasks.restartTask",
+                        "label": "R&&estart Running Task...",
+                        "enabled": false
+                    },
+                    {
+                        "id": "workbench.action.tasks.terminate",
+                        "label": "&&Terminate Task...",
+                        "enabled": false
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.action.tasks.configureTaskRunner",
+                        "label": "&&Configure Tasks..."
+                    },
+                    {
+                        "id": "workbench.action.tasks.configureDefaultBuildTask",
+                        "label": "Configure De&&fault Build Task..."
                     }
                 ]
             },
@@ -1337,6 +1562,10 @@
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+h"
             },
+            "workbench.debug.action.toggleRepl": {
+                "label": "Ctrl+Shift+Y",
+                "userSettingsLabel": "ctrl+shift+y"
+            },
             "workbench.action.terminal.toggleTerminal": {
                 "label": "Ctrl+`",
                 "userSettingsLabel": "ctrl+`"
@@ -1464,6 +1693,46 @@
                 "label": "Shift+Alt+F3",
                 "userSettingsLabel": "shift+alt+f3"
             },
+            "workbench.action.debug.start": {
+                "label": "F5",
+                "userSettingsLabel": "f5"
+            },
+            "workbench.action.debug.run": {
+                "label": "Ctrl+F5",
+                "userSettingsLabel": "ctrl+f5"
+            },
+            "workbench.action.debug.stop": {
+                "label": "Shift+F5",
+                "userSettingsLabel": "shift+f5"
+            },
+            "workbench.action.debug.restart": {
+                "label": "Ctrl+Shift+F5",
+                "userSettingsLabel": "ctrl+shift+f5"
+            },
+            "workbench.action.debug.stepOver": {
+                "label": "F10",
+                "userSettingsLabel": "f10"
+            },
+            "workbench.action.debug.stepInto": {
+                "label": "F11",
+                "userSettingsLabel": "f11"
+            },
+            "workbench.action.debug.stepOut": {
+                "label": "Shift+F11",
+                "userSettingsLabel": "shift+f11"
+            },
+            "workbench.action.debug.continue": {
+                "label": "F5",
+                "userSettingsLabel": "f5"
+            },
+            "editor.debug.action.toggleBreakpoint": {
+                "label": "F9",
+                "userSettingsLabel": "f9"
+            },
+            "editor.debug.action.toggleInlineBreakpoint": {
+                "label": "Shift+F9",
+                "userSettingsLabel": "shift+f9"
+            },
             "workbench.action.terminal.new": {
                 "label": "Ctrl+Shift+`",
                 "userSettingsLabel": "ctrl+shift+`"
@@ -1471,6 +1740,10 @@
             "workbench.action.terminal.split": {
                 "label": "Ctrl+Shift+5",
                 "userSettingsLabel": "ctrl+shift+5"
+            },
+            "workbench.action.tasks.build": {
+                "label": "Ctrl+Shift+B",
+                "userSettingsLabel": "ctrl+shift+b"
             },
             "workbench.action.keybindingsReference": {
                 "label": "Ctrl+K Ctrl+R",
@@ -1508,9 +1781,13 @@
     "profileAssociations": {
         "workspaces": {
             "file:///home/thesynthax/Downloads/node%20crash%20course": "__default__profile__",
-            "file:///home/thesynthax/projects/unity/Unity-Projects/two%20point%20five%20D%20platformer": "__default__profile__"
+            "file:///home/thesynthax/projects/unity/Unity-Projects/two%20point%20five%20D%20platformer": "__default__profile__",
+            "file:///home/thesynthax/projects/node-ts/kushagrawelcomebot": "__default__profile__"
         },
-        "emptyWindows": {}
+        "emptyWindows": {
+            "1706339218105": "__default__profile__"
+        }
     },
-    "profileAssociationsMigration": true
+    "profileAssociationsMigration": true,
+    "telemetry.sqmId": ""
 }
