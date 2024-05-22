@@ -1,0 +1,2 @@
+GitLens v14.7.0 activating in Code - OSS (1.86.0) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (someValue.machineId|someValue.sessionId)
+To enable debug logging, set `"gitlens.outputLevel: "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette

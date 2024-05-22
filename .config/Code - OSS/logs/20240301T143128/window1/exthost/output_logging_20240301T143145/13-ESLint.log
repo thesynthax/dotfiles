@@ -1,0 +1,6 @@
+[Info  - 3:50:13 PM] ESLint server is starting.
+[Info  - 3:50:13 PM] ESLint server running in node v18.17.1
+[Info  - 3:50:13 PM] ESLint server is running.
+[Info  - 3:59:57 PM] ESLint library loaded from: /home/thesynthax/projects/web/RocketChat-tour/apps/meteor/node_modules/eslint/lib/api.js
+[Warn  - 8:26:32 PM] Linting file file:///home/thesynthax/projects/web/RocketChat-tour/apps/meteor/app/ui/client/lib/ChatMessages.ts took 6980ms. Please check the ESLint rules for performance issues.
+[Info  - 8:36:25 PM] ESLint server stopped.

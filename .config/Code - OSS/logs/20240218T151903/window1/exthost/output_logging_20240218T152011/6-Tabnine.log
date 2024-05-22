@@ -1,0 +1,84 @@
+15:20:13 GMT+0530 (India Standard Time) [INFO]: spawning binary with command: /home/thesynthax/.config/Code - OSS/User/globalStorage/tabnine.tabnine-vscode/binaries/4.107.0/x86_64-unknown-linux-musl/TabNine args: --tls_config insecure=false --no-lsp=true --client=vscode --client-metadata clientVersion=1.86.0 pluginVersion=3.69.0 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-extension-kind=1 vscode-theme-name=One Dark Pro Darker vscode-theme-kind=Dark vscode-machine-id=someValue.machineId vscode-is-new-app-install=false vscode-session-id=someValue.sessionId vscode-language=en vscode-app-name=Code - OSS vscode-beta-channel-enabled=false vscode-status-customization=#0D0303 vscode-inline-api-enabled=true vscode-code-lens-enabled=true vscode-found-intellicode=false ide-restart-counter=0 
+
+15:20:13 GMT+0530 (India Standard Time) [DEBUG]: capabilities resolved immediately 
+
+15:20:17 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:20:47 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:21:17 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:21:47 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:22:17 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:22:47 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:23:17 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:23:47 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:24:17 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:24:47 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:25:17 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:25:47 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:26:17 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:26:47 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:27:17 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:27:47 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:28:17 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:28:47 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:29:17 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:29:47 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:30:17 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:30:47 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:31:17 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:31:47 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:32:17 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:32:47 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:33:17 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:33:47 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:34:17 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:34:47 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:35:17 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:35:47 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:36:17 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:36:47 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:37:17 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:37:47 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:38:17 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:38:47 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:39:17 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:39:41 GMT+0530 (India Standard Time) [WARN]: assistant is closing 
+

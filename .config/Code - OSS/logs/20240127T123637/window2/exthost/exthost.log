@@ -1,0 +1,12 @@
+2024-01-27 13:17:29.783 [info] Extension host with pid 769172 started
+2024-01-27 13:17:30.149 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-27 13:17:30.153 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: true, activationEvent: '*'
+2024-01-27 13:17:31.106 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-01-27 13:17:31.229 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-01-27 13:17:31.443 [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock, startup: true, activationEvent: '*'
+2024-01-27 13:17:31.585 [info] ExtensionService#_doActivateExtension minhthai.vscode-todo-parser, startup: true, activationEvent: '*'
+2024-01-27 13:17:32.493 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2024-01-27 13:17:32.620 [info] ExtensionService#_doActivateExtension standard.vscode-standard, startup: true, activationEvent: '*'
+2024-01-27 13:17:39.253 [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: true, activationEvent: '*'
+2024-01-27 13:17:39.351 [info] Extension host terminating: renderer closed the MessagePort
+2024-01-27 13:17:39.357 [info] Extension host with pid 769172 exiting with code 0

@@ -1,0 +1,21 @@
+2024-03-01 11:40:52.110 [warning] /home/thesynthax/.ssh/config: ENOENT: no such file or directory, open '/home/thesynthax/.ssh/config'
+2024-03-01 11:40:52.110 [info] Activation> Extension version: 0.80.1
+2024-03-01 11:40:52.126 [info] Looking for git repository
+2024-03-01 11:40:52.126 [info] Found 0 repositories during activation
+2024-03-01 11:40:52.126 [info] Git repository found, initializing review manager and pr tree view.
+2024-03-01 11:40:52.131 [info] Registering git provider
+2024-03-01 11:40:53.696 [info] Review+0> Validate state in progress
+2024-03-01 11:40:53.696 [info] Review+0> Validating state...
+2024-03-01 11:40:53.696 [info] Cannot updates repositories as git is uninitialized
+2024-03-01 11:40:53.696 [info] Repo state for file:///home/thesynthax/projects/web/RocketChat-tour changed.
+2024-03-01 11:40:53.696 [info] Repo file:///home/thesynthax/projects/web/RocketChat-tour has already been setup.
+2024-03-01 11:40:53.741 [info] Review+0> No matching pull request metadata found locally for current branch PRTour2
+2024-03-01 11:40:53.773 [info] Review+0> No matching pull request metadata found on GitHub for current branch PRTour2
+2024-03-01 11:41:08.263 [info] Git initialization state changed: state=initialized
+2024-03-01 11:41:08.263 [info] Review+0> Validate state in progress
+2024-03-01 11:41:08.263 [info] Review+0> Validating state...
+2024-03-01 11:41:08.296 [info] Found GitHub remote for folder /home/thesynthax/projects/web/RocketChat-tour
+2024-03-01 11:41:08.297 [info] Trying to use globalState for assignableUsers.
+2024-03-01 11:41:08.310 [info] GlobalState does not exist for assignableUsers.
+2024-03-01 11:41:08.322 [info] Review+0> No matching pull request metadata found locally for current branch PRTour2
+2024-03-01 11:41:08.348 [info] Review+0> No matching pull request metadata found on GitHub for current branch PRTour2

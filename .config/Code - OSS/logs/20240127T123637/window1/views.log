@@ -86,3 +86,7 @@
 2024-01-27 12:45:06.654 [info] Added views:workbench.views.extensions.marketplace in workbench.view.extensions
 2024-01-27 12:45:10.850 [info] Removed views:workbench.views.extensions.marketplace from workbench.view.extensions
 2024-01-27 12:45:10.862 [info] Added views:workbench.views.extensions.installed,extensions.recommendedList in workbench.view.extensions
+2024-01-27 13:18:13.028 [info] Removed views:extensions.recommendedList,workbench.views.extensions.installed from workbench.view.extensions
+2024-01-27 13:18:13.034 [info] Added views:workbench.views.extensions.marketplace in workbench.view.extensions
+2024-01-27 13:18:20.249 [info] Removed views:workbench.views.extensions.marketplace from workbench.view.extensions
+2024-01-27 13:18:20.261 [info] Added views:workbench.views.extensions.searchEnabled in workbench.view.extensions

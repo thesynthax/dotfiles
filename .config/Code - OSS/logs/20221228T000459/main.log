@@ -1,9 +1,0 @@
-2022-12-28 00:05:00.007 [info] update#ctor - updates are disabled as there is no update URL
-2022-12-28 00:05:01.630 [info] Starting extension host with pid 106245 (fork() took 5 ms).
-2022-12-28 00:05:07.032 [info] Enabling inspect port on extension host with pid 106245.
-2022-12-28 00:05:17.545 [info] Starting extension host with pid 106901 (fork() took 7 ms).
-2022-12-28 00:05:22.802 [info] Enabling inspect port on extension host with pid 106901.
-2022-12-28 00:13:55.424 [info] Waiting for extension host with pid 106245 to exit.
-2022-12-28 00:13:55.424 [info] Waiting for extension host with pid 106901 to exit.
-2022-12-28 00:13:55.484 [info] Extension host with pid 106245 exited with code: 0, signal: null.
-2022-12-28 00:13:56.431 [info] Extension host with pid 106901 exited with code: 0, signal: null.

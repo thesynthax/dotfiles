@@ -159,5 +159,7 @@ export NVM_DIR="$HOME/.config/nvm"
 
 source /usr/local/gromacs/bin/GMXRC
 export PATH=/home/thesynthax/.meteor:$PATH
-export VOLTA_HOME="$HOME/.volta"
-export PATH="$VOLTA_HOME/bin:$PATH"
+export ANDROID_HOME=/opt/android-sdk
+export PATH=$PATH:$ANDROID_HOME/emulator
+export PATH=$PATH:$ANDROID_HOME/platform-tools
+export OLLAMA_MODELS=/home/thesynthax/.ollama/models

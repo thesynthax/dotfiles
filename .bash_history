@@ -9,3 +9,6 @@ exit
 /usr/bin/hollywood 
 edex-ui 
 exit
+ls
+doas wg-quick arch down
+doas wg-quick down arch
