@@ -1,0 +1,7 @@
+2024-03-01 11:39:15.302 [info] update#setState disabled
+2024-03-01 11:39:15.304 [info] update#ctor - updates are disabled as there is no update URL
+2024-03-01 14:29:07.704 [error] ptyHost terminated unexpectedly with code 15
+2024-03-01 14:29:07.708 [warning] [UtilityProcess type: ptyHost, pid: 21661]: unable to kill the process
+2024-03-01 14:29:07.754 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 21617]: crashed with code 15 and reason 'killed'
+2024-03-01 14:29:07.767 [info] Extension host with pid 21600 exited with code: 0, signal: unknown.
+2024-03-01 14:29:07.767 [error] ptyHost terminated unexpectedly with code 0

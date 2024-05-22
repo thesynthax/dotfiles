@@ -1,0 +1,688 @@
+2024-02-18 15:19:10.314 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:10.325 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:10.327 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:10.333 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:10.335 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:10.337 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:10.340 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:10.344 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:10.346 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:10.350 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:10.545 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:10.546 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:10.825 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:10.828 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:11.080 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:11.082 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:11.091 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:11.107 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:11.112 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:11.115 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:11.118 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:11.122 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:11.123 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:11.126 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:11.229 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:11.232 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:12.128 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:12.130 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:12.131 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:12.131 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:17.137 [info] Getting Manifest... eamodio.gitlens
+2024-02-18 15:19:17.138 [info] Getting Manifest... ms-azuretools.vscode-docker
+2024-02-18 15:19:17.138 [info] Getting Manifest... ms-vscode.cmake-tools
+2024-02-18 15:19:17.139 [info] Getting Manifest... ms-vscode.js-debug-nightly
+2024-02-18 15:19:17.139 [info] Getting Manifest... ms-vscode.vscode-typescript-next
+2024-02-18 15:19:17.140 [info] Getting Manifest... tabnine.tabnine-vscode
+2024-02-18 15:19:18.085 [info] Installing extension: tabnine.tabnine-vscode
+2024-02-18 15:19:18.091 [info] Installing extension: ms-vscode.vscode-typescript-next
+2024-02-18 15:19:18.092 [info] Installing extension: ms-azuretools.vscode-docker
+2024-02-18 15:19:18.093 [info] Installing extension: ms-vscode.cmake-tools
+2024-02-18 15:19:18.096 [info] Installing extension: ms-vscode.js-debug-nightly
+2024-02-18 15:19:18.182 [info] Installing extension: eamodio.gitlens
+2024-02-18 15:19:18.382 [info] Deleted uninstalled extension from disk eliverlara.andromeda /home/thesynthax/.vscode-oss/extensions/eliverlara.andromeda-1.7.1
+2024-02-18 15:19:18.557 [info] Deleted uninstalled extension from disk llvm-vs-code-extensions.vscode-clangd /home/thesynthax/.vscode-oss/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.23-universal
+2024-02-18 15:19:18.559 [info] Deleted uninstalled extension from disk tabnine.tabnine-vscode /home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.6.35
+2024-02-18 15:19:19.251 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:19.254 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:19.258 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:19.260 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:19.939 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/thesynthax/.vscode-oss/extensions/eliverlara.andromeda-1.7.1.722a7851.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/thesynthax/.vscode-oss/extensions/eliverlara.andromeda-1.7.1.722a7851.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-18 15:19:19.939 [info] Deleted uninstalled extension from disk vscodevim.vim /home/thesynthax/.vscode-oss/extensions/vscodevim.vim-1.24.3-universal
+2024-02-18 15:19:19.940 [info] Deleted uninstalled extension from disk dbaeumer.vscode-eslint /home/thesynthax/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.2.6
+2024-02-18 15:19:19.940 [info] Deleted uninstalled extension from disk esbenp.prettier-vscode /home/thesynthax/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.3
+2024-02-18 15:19:19.941 [info] Deleted uninstalled extension from disk formulahendry.auto-close-tag /home/thesynthax/.vscode-oss/extensions/formulahendry.auto-close-tag-0.5.14
+2024-02-18 15:19:19.944 [info] Deleted uninstalled extension from disk usernamehw.errorlens /home/thesynthax/.vscode-oss/extensions/usernamehw.errorlens-3.6.0
+2024-02-18 15:19:19.948 [info] Deleted uninstalled extension from disk vscode-icons-team.vscode-icons /home/thesynthax/.vscode-oss/extensions/vscode-icons-team.vscode-icons-12.0.1
+2024-02-18 15:19:19.951 [info] Deleted uninstalled extension from disk mgmcdermott.vscode-language-babel /home/thesynthax/.vscode-oss/extensions/mgmcdermott.vscode-language-babel-0.0.36
+2024-02-18 15:19:20.368 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:20.371 [info] Deleted uninstalled extension from disk donjayamanne.githistory /home/thesynthax/.vscode-oss/extensions/donjayamanne.githistory-0.6.19
+2024-02-18 15:19:20.374 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:20.389 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:20.390 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:20.390 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:20.392 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:20.392 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:20.399 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:20.399 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:20.404 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:20.415 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:20.418 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:20.423 [info] Deleted uninstalled extension from disk franneck94.c-cpp-runner /home/thesynthax/.vscode-oss/extensions/franneck94.c-cpp-runner-5.0.0
+2024-02-18 15:19:20.445 [info] Deleted uninstalled extension from disk ms-vscode.js-debug-nightly /home/thesynthax/.vscode-oss/extensions/ms-vscode.js-debug-nightly-2023.1.917
+2024-02-18 15:19:20.563 [info] Deleted uninstalled extension from disk ms-dotnettools.csharp /home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-1.25.2-linux-x64
+2024-02-18 15:19:20.682 [info] Deleted uninstalled extension from disk zhuangtongfa.material-theme /home/thesynthax/.vscode-oss/extensions/zhuangtongfa.material-theme-3.15.6-universal
+2024-02-18 15:19:20.770 [info] Deleted uninstalled extension from disk ms-vscode.cmake-tools /home/thesynthax/.vscode-oss/extensions/ms-vscode.cmake-tools-1.12.27
+2024-02-18 15:19:21.011 [info] Deleted uninstalled extension from disk ms-vscode.cpptools /home/thesynthax/.vscode-oss/extensions/ms-vscode.cpptools-1.13.9-linux-x64
+2024-02-18 15:19:22.329 [info] Deleted uninstalled extension from disk ms-azuretools.vscode-docker /home/thesynthax/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.23.3
+2024-02-18 15:19:22.330 [info] Deleted uninstalled extension from disk ms-vscode.vscode-typescript-next /home/thesynthax/.vscode-oss/extensions/ms-vscode.vscode-typescript-next-5.0.202301090
+2024-02-18 15:19:22.337 [info] Deleted uninstalled extension from disk formulahendry.code-runner /home/thesynthax/.vscode-oss/extensions/formulahendry.code-runner-0.11.8-universal
+2024-02-18 15:19:22.404 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:22.405 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:22.807 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:22.814 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:22.824 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:22.828 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:22.883 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:22.884 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:22.890 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:22.892 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:22.894 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:22.902 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:22.932 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:22.934 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:22.936 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:22.938 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:22.940 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:22.944 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:22.948 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:22.953 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:22.953 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:22.956 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:23.383 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:23.384 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:23.480 [info] Deleted uninstalled extension from disk vadimcn.vscode-lldb /home/thesynthax/.vscode-oss/extensions/vadimcn.vscode-lldb-1.8.1-universal
+2024-02-18 15:19:23.559 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:23.561 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:23.595 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:23.596 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:23.671 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:23.673 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:23.726 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:23.728 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:23.791 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:23.793 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:23.880 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:23.880 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:23.932 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:23.937 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:23.979 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:23.980 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:24.032 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:24.034 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:24.110 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:24.112 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:24.221 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:24.223 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:24.377 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:24.381 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:24.553 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:24.554 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:24.690 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:24.691 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:25.440 [info] Getting Manifest... eamodio.gitlens
+2024-02-18 15:19:25.440 [info] Getting Manifest... ms-azuretools.vscode-docker
+2024-02-18 15:19:25.441 [info] Getting Manifest... ms-vscode.cmake-tools
+2024-02-18 15:19:25.441 [info] Getting Manifest... ms-vscode.js-debug-nightly
+2024-02-18 15:19:25.442 [info] Getting Manifest... ms-vscode.vscode-typescript-next
+2024-02-18 15:19:25.443 [info] Getting Manifest... tabnine.tabnine-vscode
+2024-02-18 15:19:25.452 [info] Extensions is already requested to install ms-vscode.vscode-typescript-next
+2024-02-18 15:19:25.456 [info] Extensions is already requested to install ms-azuretools.vscode-docker
+2024-02-18 15:19:25.458 [info] Extensions is already requested to install tabnine.tabnine-vscode
+2024-02-18 15:19:25.459 [info] Extensions is already requested to install eamodio.gitlens
+2024-02-18 15:19:25.461 [info] Extensions is already requested to install ms-vscode.js-debug-nightly
+2024-02-18 15:19:25.462 [info] Extensions is already requested to install ms-vscode.cmake-tools
+2024-02-18 15:19:27.531 [error] Could not load vsce-sign module Cannot find module 'node-vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-02-18 15:19:27.531 [error] Could not load vsce-sign module Cannot find module 'node-vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-02-18 15:19:27.535 [info] Extension signature verification is not done: ms-vscode.js-debug-nightly
+2024-02-18 15:19:27.535 [info] Extension signature verification is not done: ms-azuretools.vscode-docker
+2024-02-18 15:19:27.808 [error] Could not load vsce-sign module Cannot find module 'node-vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-02-18 15:19:27.808 [info] Extension signature verification is not done: ms-vscode.cmake-tools
+2024-02-18 15:19:28.114 [error] Could not load vsce-sign module Cannot find module 'node-vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-02-18 15:19:28.115 [info] Extension signature verification is not done: tabnine.tabnine-vscode
+2024-02-18 15:19:28.932 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:28.938 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:28.968 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:28.970 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:28.985 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:28.987 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:29.351 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:29.354 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:30.048 [error] Could not load vsce-sign module Cannot find module 'node-vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-02-18 15:19:30.048 [info] Extension signature verification is not done: ms-vscode.vscode-typescript-next
+2024-02-18 15:19:30.837 [error] Could not load vsce-sign module Cannot find module 'node-vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-02-18 15:19:30.838 [info] Extension signature verification is not done: eamodio.gitlens
+2024-02-18 15:19:30.841 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-vscode.js-debug-nightly-2024.2.817: ms-vscode.js-debug-nightly
+2024-02-18 15:19:30.880 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.29.0: ms-azuretools.vscode-docker
+2024-02-18 15:19:30.889 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.69.0: tabnine.tabnine-vscode
+2024-02-18 15:19:31.034 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-vscode.cmake-tools-1.17.15: ms-vscode.cmake-tools
+2024-02-18 15:19:31.171 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.69.0
+2024-02-18 15:19:31.171 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-vscode.js-debug-nightly-2024.2.817
+2024-02-18 15:19:31.171 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.29.0
+2024-02-18 15:19:31.176 [info] Extracting extension completed. tabnine.tabnine-vscode
+2024-02-18 15:19:31.181 [info] Extracting extension completed. ms-vscode.js-debug-nightly
+2024-02-18 15:19:31.182 [info] Extracting extension completed. ms-azuretools.vscode-docker
+2024-02-18 15:19:31.279 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-vscode.vscode-typescript-next-5.4.20240217: ms-vscode.vscode-typescript-next
+2024-02-18 15:19:31.315 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2: eamodio.gitlens
+2024-02-18 15:19:31.338 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-vscode.cmake-tools-1.17.15
+2024-02-18 15:19:31.340 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:31.340 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:31.340 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:31.340 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:31.340 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:31.340 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:31.340 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:31.340 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:31.340 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:31.341 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:31.341 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:31.341 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:31.341 [info] Extracting extension completed. ms-vscode.cmake-tools
+2024-02-18 15:19:31.538 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2
+2024-02-18 15:19:31.538 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-vscode.vscode-typescript-next-5.4.20240217
+2024-02-18 15:19:31.540 [info] Extension installed successfully: tabnine.tabnine-vscode
+2024-02-18 15:19:31.546 [info] Extracting extension completed. ms-vscode.vscode-typescript-next
+2024-02-18 15:19:31.548 [info] Extracting extension completed. eamodio.gitlens
+2024-02-18 15:19:31.550 [info] Marked extension as uninstalled tabnine.tabnine-vscode-3.63.0
+2024-02-18 15:19:31.710 [info] Extension installed successfully: ms-vscode.js-debug-nightly
+2024-02-18 15:19:31.720 [info] Marked extension as uninstalled ms-vscode.js-debug-nightly-2024.1.2217
+2024-02-18 15:19:32.052 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2024-02-18 15:19:32.057 [info] Marked extension as uninstalled ms-azuretools.vscode-docker-1.28.0
+2024-02-18 15:19:33.573 [info] Extension installed successfully: ms-vscode.cmake-tools
+2024-02-18 15:19:33.577 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-18 15:19:33.579 [info] Marked extension as uninstalled ms-vscode.cmake-tools-1.16.32
+2024-02-18 15:19:34.037 [info] Extension installed successfully: ms-vscode.vscode-typescript-next
+2024-02-18 15:19:34.042 [info] Marked extension as uninstalled ms-vscode.vscode-typescript-next-5.4.20240124
+2024-02-18 15:19:34.353 [info] Extension installed successfully: eamodio.gitlens
+2024-02-18 15:19:34.363 [info] Marked extension as uninstalled eamodio.gitlens-14.7.0
+2024-02-18 15:19:39.512 [info] Getting Manifest... equinusocio.vsc-material-theme
+2024-02-18 15:19:39.609 [info] Installing extension: equinusocio.vsc-material-theme
+2024-02-18 15:19:39.684 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:39.684 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:39.684 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:39.684 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:39.684 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:39.685 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:39.685 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:39.685 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:39.685 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:39.685 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:39.685 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:39.685 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:39.686 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:40.087 [info] Getting Manifest... equinusocio.vsc-material-theme-icons
+2024-02-18 15:19:40.248 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:40.249 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:40.249 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:40.249 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:40.249 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:40.249 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:40.249 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:40.249 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:40.250 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:40.250 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:40.250 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:40.250 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:40.250 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:40.717 [info] Installing extension: equinusocio.vsc-material-theme-icons equinusocio.vsc-material-theme
+2024-02-18 15:19:40.772 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:19:40.773 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:40.773 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:40.774 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:40.774 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:40.774 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:40.774 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:40.774 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:40.774 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:40.774 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:40.774 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:40.774 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:19:40.775 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:03.011 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:03.011 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:03.012 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:03.012 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:03.012 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:03.012 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:03.012 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:03.012 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:03.012 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:03.012 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:03.013 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:03.013 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:03.014 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:20:03.031 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:20:03.032 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:03.032 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:03.032 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:03.032 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:03.032 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:03.032 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:03.032 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:03.032 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:03.033 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:03.033 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:03.033 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:03.033 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.916 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:20:07.922 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.922 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.923 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.923 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.923 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.923 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.923 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.923 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.923 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.923 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.923 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.924 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.944 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.944 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.945 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.945 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.945 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.945 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.945 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.945 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.946 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.946 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.946 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.946 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.947 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:20:07.968 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:20:07.971 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.971 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.972 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.972 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.972 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.972 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.972 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.972 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.972 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.972 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.973 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:07.973 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:09.802 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:20:09.806 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:09.806 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:09.806 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:09.806 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:09.806 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:09.806 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:09.807 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:09.807 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:09.807 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:09.807 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:09.807 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:09.807 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.129 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:20:11.131 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.131 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.131 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.131 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.132 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.132 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.132 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.132 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.132 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.132 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.132 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.133 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.212 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.212 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.212 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.213 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.213 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.213 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.213 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.213 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.214 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.214 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.214 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.214 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.216 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:20:11.256 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.256 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.256 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.256 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.256 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.257 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.257 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.257 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.257 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.257 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.258 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.258 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.259 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:20:11.320 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:20:11.326 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.326 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.327 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.327 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.328 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.328 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.328 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.329 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.329 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.329 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.330 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.330 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.399 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.400 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.400 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.400 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.400 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.400 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.400 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.401 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.401 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.401 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.401 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.401 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.401 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:20:11.588 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:20:11.590 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.590 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.590 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.590 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.590 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.591 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.591 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.591 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.591 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.591 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.591 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.591 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.700 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.700 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.701 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.701 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.701 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.701 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.701 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.701 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.701 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.701 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.701 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.701 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:11.703 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:20:12.902 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:20:12.909 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:12.910 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:12.910 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:12.910 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:12.910 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:12.910 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:12.911 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:12.911 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:12.911 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:12.911 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:12.911 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:12.911 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:14.401 [error] Could not load vsce-sign module Cannot find module 'node-vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-02-18 15:20:14.423 [info] Extension signature verification is not done: equinusocio.vsc-material-theme-icons
+2024-02-18 15:20:14.572 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:14.572 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:14.572 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:14.573 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:14.573 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:14.573 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:14.573 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:14.573 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:14.574 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:14.574 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:14.574 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:14.574 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:14.575 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:20:14.827 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:14.827 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:14.828 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:14.828 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:14.828 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:14.828 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:14.828 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:14.828 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:14.828 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:14.829 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:14.829 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:14.829 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:14.829 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:20:15.027 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:20:15.031 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:15.031 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:15.031 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:15.031 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:15.031 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:15.031 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:15.031 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:15.031 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:15.032 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:15.032 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:15.032 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:15.032 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:15.208 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:20:15.210 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:15.210 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:15.210 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:15.210 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:15.210 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:15.210 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:15.210 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:15.210 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:15.211 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:15.211 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:15.211 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:15.211 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:26.458 [info] Getting Manifest... github.vscode-pull-request-github
+2024-02-18 15:20:27.102 [info] Installing extension: github.vscode-pull-request-github
+2024-02-18 15:20:27.161 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:27.162 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:27.162 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:27.162 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:27.162 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:27.162 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:27.162 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:27.162 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:27.162 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:27.162 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:27.162 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:27.162 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:27.165 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:20:27.606 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:20:29.897 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:29.899 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:29.899 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:29.899 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:29.899 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:29.899 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:29.899 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:29.899 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:29.900 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:29.900 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:29.900 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:29.900 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:30.024 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:33.748 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:33.748 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:33.748 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:33.748 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:33.749 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:33.749 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:33.749 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:33.749 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:33.749 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:33.749 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:33.750 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:33.750 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:20:37.874 [error] Could not load vsce-sign module Cannot find module 'node-vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-02-18 15:20:37.875 [info] Extension signature verification is not done: github.vscode-pull-request-github
+2024-02-18 15:20:47.968 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1: github.vscode-pull-request-github
+2024-02-18 15:20:49.151 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1
+2024-02-18 15:20:49.154 [info] Extracting extension completed. github.vscode-pull-request-github
+2024-02-18 15:20:49.679 [info] Extension installed successfully: github.vscode-pull-request-github
+2024-02-18 15:20:54.695 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/equinusocio.vsc-material-theme-icons-3.4.0: equinusocio.vsc-material-theme-icons
+2024-02-18 15:20:54.869 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/equinusocio.vsc-material-theme-icons-3.4.0
+2024-02-18 15:20:54.871 [info] Extracting extension completed. equinusocio.vsc-material-theme-icons
+2024-02-18 15:20:55.103 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:55.103 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:55.103 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:55.103 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:55.104 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:55.104 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:55.104 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:55.104 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:55.104 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:55.104 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:55.104 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:55.104 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:55.105 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:20:56.001 [error] Could not load vsce-sign module Cannot find module 'node-vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-02-18 15:20:56.002 [info] Extension signature verification is not done: equinusocio.vsc-material-theme
+2024-02-18 15:20:56.031 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/equinusocio.vsc-material-theme-34.3.1: equinusocio.vsc-material-theme
+2024-02-18 15:20:56.412 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/equinusocio.vsc-material-theme-34.3.1
+2024-02-18 15:20:56.413 [info] Extracting extension completed. equinusocio.vsc-material-theme
+2024-02-18 15:20:56.569 [info] Extension installed successfully: equinusocio.vsc-material-theme-icons
+2024-02-18 15:20:56.569 [info] Extension installed successfully: equinusocio.vsc-material-theme
+2024-02-18 15:20:57.452 [info] Getting Manifest... vsls-contrib.codetour
+2024-02-18 15:20:57.456 [info] Installing extension: vsls-contrib.codetour
+2024-02-18 15:20:57.549 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.549 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.549 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.549 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.549 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.550 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.550 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.550 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.550 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.550 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.550 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.550 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.553 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:20:57.675 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:20:57.678 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.678 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.678 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.678 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.679 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.679 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.679 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.679 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.679 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.679 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.680 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.680 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.779 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.779 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.779 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.780 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.780 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.780 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.780 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.780 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.781 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.781 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.781 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.781 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:20:57.781 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:20:59.396 [error] Could not load vsce-sign module Cannot find module 'node-vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-02-18 15:20:59.396 [info] Extension signature verification is not done: vsls-contrib.codetour
+2024-02-18 15:20:59.416 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/vsls-contrib.codetour-0.0.59: vsls-contrib.codetour
+2024-02-18 15:20:59.673 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/vsls-contrib.codetour-0.0.59
+2024-02-18 15:20:59.674 [info] Extracting extension completed. vsls-contrib.codetour
+2024-02-18 15:20:59.899 [info] Extension installed successfully: vsls-contrib.codetour
+2024-02-18 15:25:11.814 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:25:11.814 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:25:11.814 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:25:11.814 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:25:11.814 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:25:11.814 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:25:11.814 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:25:11.814 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:25:11.815 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:25:11.815 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:25:11.815 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:25:11.815 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:25:11.815 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:30:11.951 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:30:11.959 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:30:11.959 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:30:11.959 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:30:11.959 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:30:11.959 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:30:11.960 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:30:11.960 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:30:11.960 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:30:11.960 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:30:11.960 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:30:11.960 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:30:11.960 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:35:12.123 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-02-18 15:35:12.125 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:35:12.126 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:35:12.126 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:35:12.126 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:35:12.126 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:35:12.126 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:35:12.126 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:35:12.126 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:35:12.126 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:35:12.127 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:35:12.127 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-02-18 15:35:12.127 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.

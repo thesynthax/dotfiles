@@ -1,0 +1,14 @@
+2024-03-01 14:33:24.728 [warning] /home/thesynthax/.ssh/config: ENOENT: no such file or directory, open '/home/thesynthax/.ssh/config'
+2024-03-01 14:33:24.728 [info] Activation> Extension version: 0.80.1
+2024-03-01 14:33:25.078 [info] Looking for git repository
+2024-03-01 14:33:25.078 [info] Found 0 repositories during activation
+2024-03-01 14:33:25.078 [info] Git repository found, initializing review manager and pr tree view.
+2024-03-01 14:33:25.081 [info] Registering git provider
+2024-03-01 14:33:25.101 [info] Git initialization state changed: state=initialized
+2024-03-01 14:33:25.101 [info] Review+0> Validate state in progress
+2024-03-01 14:33:25.101 [info] Review+0> Validating state...
+2024-03-01 14:33:25.105 [info] Found GitHub remote for folder /home/thesynthax/projects/web/RocketChat-tour
+2024-03-01 14:33:25.107 [info] Trying to use globalState for assignableUsers.
+2024-03-01 14:33:25.123 [info] GlobalState does not exist for assignableUsers.
+2024-03-01 14:33:25.139 [info] Review+0> No matching pull request metadata found locally for current branch PRTour2
+2024-03-01 14:33:25.172 [info] Review+0> No matching pull request metadata found on GitHub for current branch PRTour2

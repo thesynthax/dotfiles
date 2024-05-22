@@ -1,0 +1,105 @@
+2024-03-01 11:40:52.110 [info] Log level: Info
+2024-03-01 11:40:52.110 [info] Validating found git in: "git"
+2024-03-01 11:40:52.110 [info] Using git "2.44.0" from "git"
+2024-03-01 11:40:52.110 [info] > git rev-parse --show-toplevel [30ms]
+2024-03-01 11:40:52.110 [info] > git rev-parse --git-dir --git-common-dir [27ms]
+2024-03-01 11:40:52.110 [info] Open repository: /home/thesynthax/projects/web/RocketChat-tour
+2024-03-01 11:40:52.114 [info] > git rev-parse --show-toplevel [9ms]
+2024-03-01 11:40:52.115 [info] > git config --get commit.template [19ms]
+2024-03-01 11:40:52.659 [info] > git check-ignore -v -z --stdin [8ms]
+2024-03-01 11:40:52.935 [info] > git rev-parse --show-toplevel [31ms]
+2024-03-01 11:40:53.016 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/PRTour2 refs/remotes/PRTour2 [82ms]
+2024-03-01 11:40:53.027 [info] > git rev-parse --show-toplevel [12ms]
+2024-03-01 11:40:53.574 [info] > git rev-parse --show-toplevel [524ms]
+2024-03-01 11:40:53.623 [info] > git rev-parse --show-toplevel [38ms]
+2024-03-01 11:40:53.642 [info] > git status -z -uall [616ms]
+2024-03-01 11:40:53.692 [info] > git rev-parse --show-toplevel [50ms]
+2024-03-01 11:40:53.728 [info] > git config --local branch.PRTour2.github-pr-owner-number [22ms]
+2024-03-01 11:40:53.729 [warning] git config failed: Failed to execute git
+2024-03-01 11:40:53.744 [info] > git config --local branch.PRTour2.remote [3ms]
+2024-03-01 11:40:53.758 [info] > git config --get commit.template [30ms]
+2024-03-01 11:40:53.758 [info] > git rev-parse --show-toplevel [39ms]
+2024-03-01 11:40:53.771 [info] > git config --local branch.PRTour2.merge [13ms]
+2024-03-01 11:40:53.820 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/PRTour2 refs/remotes/PRTour2 [35ms]
+2024-03-01 11:40:53.856 [info] > git rev-parse --show-toplevel [85ms]
+2024-03-01 11:40:53.981 [info] > git status -z -uall [125ms]
+2024-03-01 11:40:53.981 [info] > git rev-parse --show-toplevel [11ms]
+2024-03-01 11:40:54.635 [info] > git rev-parse --show-toplevel [639ms]
+2024-03-01 11:41:08.263 [info] > git rev-parse --show-toplevel [2ms]
+2024-03-01 11:41:08.286 [info] > git show --textconv :apps/meteor/server/services/room/service.ts [12ms]
+2024-03-01 11:41:08.287 [info] > git ls-files --stage -- /home/thesynthax/projects/web/RocketChat-tour/apps/meteor/server/services/room/service.ts [3ms]
+2024-03-01 11:41:08.309 [info] > git cat-file -s dcfb4276bb0c51d9b2305cf7dd7f302cca0f5138 [13ms]
+2024-03-01 11:41:08.311 [info] > git config --local branch.PRTour2.github-pr-owner-number [4ms]
+2024-03-01 11:41:08.311 [warning] git config failed: Failed to execute git
+2024-03-01 11:41:08.324 [info] > git config --local branch.PRTour2.remote [2ms]
+2024-03-01 11:41:08.348 [info] > git config --local branch.PRTour2.merge [14ms]
+2024-03-01 11:45:52.187 [info] > git config --local branch.PRTour2.github-pr-owner-number [8ms]
+2024-03-01 11:45:52.188 [warning] git config failed: Failed to execute git
+2024-03-01 11:50:52.204 [info] > git config --local branch.PRTour2.github-pr-owner-number [0ms]
+2024-03-01 11:50:52.272 [warning] git config failed: Failed to execute git
+2024-03-01 11:55:52.390 [info] > git config --local branch.PRTour2.github-pr-owner-number [62ms]
+2024-03-01 11:55:52.390 [warning] git config failed: Failed to execute git
+2024-03-01 12:00:52.421 [info] > git config --local branch.PRTour2.github-pr-owner-number [20ms]
+2024-03-01 12:00:52.421 [warning] git config failed: Failed to execute git
+2024-03-01 12:05:52.433 [info] > git config --local branch.PRTour2.github-pr-owner-number [0ms]
+2024-03-01 12:05:52.433 [warning] git config failed: Failed to execute git
+2024-03-01 12:10:52.448 [info] > git config --local branch.PRTour2.github-pr-owner-number [1ms]
+2024-03-01 12:10:52.448 [warning] git config failed: Failed to execute git
+2024-03-01 12:15:52.463 [info] > git config --local branch.PRTour2.github-pr-owner-number [1ms]
+2024-03-01 12:15:52.463 [warning] git config failed: Failed to execute git
+2024-03-01 12:20:52.476 [info] > git config --local branch.PRTour2.github-pr-owner-number [0ms]
+2024-03-01 12:20:52.476 [warning] git config failed: Failed to execute git
+2024-03-01 12:25:52.509 [info] > git config --local branch.PRTour2.github-pr-owner-number [1ms]
+2024-03-01 12:25:52.509 [warning] git config failed: Failed to execute git
+2024-03-01 12:30:52.524 [info] > git config --local branch.PRTour2.github-pr-owner-number [0ms]
+2024-03-01 12:30:52.524 [warning] git config failed: Failed to execute git
+2024-03-01 12:35:52.540 [info] > git config --local branch.PRTour2.github-pr-owner-number [1ms]
+2024-03-01 12:35:52.540 [warning] git config failed: Failed to execute git
+2024-03-01 12:40:52.584 [info] > git config --local branch.PRTour2.github-pr-owner-number [3ms]
+2024-03-01 12:40:52.585 [warning] git config failed: Failed to execute git
+2024-03-01 12:45:52.618 [info] > git config --local branch.PRTour2.github-pr-owner-number [0ms]
+2024-03-01 12:45:52.618 [warning] git config failed: Failed to execute git
+2024-03-01 12:50:52.650 [info] > git config --local branch.PRTour2.github-pr-owner-number [1ms]
+2024-03-01 12:50:52.650 [warning] git config failed: Failed to execute git
+2024-03-01 12:55:52.689 [info] > git config --local branch.PRTour2.github-pr-owner-number [1ms]
+2024-03-01 12:55:52.689 [warning] git config failed: Failed to execute git
+2024-03-01 13:00:52.701 [info] > git config --local branch.PRTour2.github-pr-owner-number [0ms]
+2024-03-01 13:00:52.701 [warning] git config failed: Failed to execute git
+2024-03-01 13:05:52.714 [info] > git config --local branch.PRTour2.github-pr-owner-number [1ms]
+2024-03-01 13:05:52.714 [warning] git config failed: Failed to execute git
+2024-03-01 13:10:52.730 [info] > git config --local branch.PRTour2.github-pr-owner-number [1ms]
+2024-03-01 13:10:52.730 [warning] git config failed: Failed to execute git
+2024-03-01 13:15:52.776 [info] > git config --local branch.PRTour2.github-pr-owner-number [3ms]
+2024-03-01 13:15:52.776 [warning] git config failed: Failed to execute git
+2024-03-01 13:20:52.792 [info] > git config --local branch.PRTour2.github-pr-owner-number [1ms]
+2024-03-01 13:20:52.793 [warning] git config failed: Failed to execute git
+2024-03-01 13:25:52.809 [info] > git config --local branch.PRTour2.github-pr-owner-number [1ms]
+2024-03-01 13:25:52.809 [warning] git config failed: Failed to execute git
+2024-03-01 13:28:51.954 [info] > git show --textconv :package.json [30ms]
+2024-03-01 13:28:52.027 [info] > git ls-files --stage -- /home/thesynthax/projects/web/RocketChat-tour/package.json [76ms]
+2024-03-01 13:28:52.045 [info] > git cat-file -s 47e67f6b7ec3e56cc76179329e47609d86a8b4c8 [4ms]
+2024-03-01 13:28:52.254 [info] > git check-ignore -v -z --stdin [9ms]
+2024-03-01 13:30:52.827 [info] > git config --local branch.PRTour2.github-pr-owner-number [1ms]
+2024-03-01 13:30:52.827 [warning] git config failed: Failed to execute git
+2024-03-01 13:35:52.845 [info] > git config --local branch.PRTour2.github-pr-owner-number [1ms]
+2024-03-01 13:35:52.845 [warning] git config failed: Failed to execute git
+2024-03-01 13:40:52.879 [info] > git config --local branch.PRTour2.github-pr-owner-number [0ms]
+2024-03-01 13:40:52.880 [warning] git config failed: Failed to execute git
+2024-03-01 13:45:52.897 [info] > git config --local branch.PRTour2.github-pr-owner-number [1ms]
+2024-03-01 13:45:52.897 [warning] git config failed: Failed to execute git
+2024-03-01 13:50:52.913 [info] > git config --local branch.PRTour2.github-pr-owner-number [1ms]
+2024-03-01 13:50:52.913 [warning] git config failed: Failed to execute git
+2024-03-01 13:55:52.943 [info] > git config --local branch.PRTour2.github-pr-owner-number [1ms]
+2024-03-01 13:55:52.943 [warning] git config failed: Failed to execute git
+2024-03-01 14:00:52.979 [info] > git config --local branch.PRTour2.github-pr-owner-number [1ms]
+2024-03-01 14:00:52.979 [warning] git config failed: Failed to execute git
+2024-03-01 14:05:52.996 [info] > git config --local branch.PRTour2.github-pr-owner-number [0ms]
+2024-03-01 14:05:52.996 [warning] git config failed: Failed to execute git
+2024-03-01 14:10:53.033 [info] > git config --local branch.PRTour2.github-pr-owner-number [1ms]
+2024-03-01 14:10:53.033 [warning] git config failed: Failed to execute git
+2024-03-01 14:15:53.048 [info] > git config --local branch.PRTour2.github-pr-owner-number [0ms]
+2024-03-01 14:15:53.048 [warning] git config failed: Failed to execute git
+2024-03-01 14:20:53.066 [info] > git config --local branch.PRTour2.github-pr-owner-number [1ms]
+2024-03-01 14:20:53.066 [warning] git config failed: Failed to execute git
+2024-03-01 14:25:53.084 [info] > git config --local branch.PRTour2.github-pr-owner-number [1ms]
+2024-03-01 14:25:53.084 [warning] git config failed: Failed to execute git

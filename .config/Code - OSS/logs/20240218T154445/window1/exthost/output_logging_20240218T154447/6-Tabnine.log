@@ -1,0 +1,96 @@
+15:44:50 GMT+0530 (India Standard Time) [INFO]: spawning binary with command: /home/thesynthax/.config/Code - OSS/User/globalStorage/tabnine.tabnine-vscode/binaries/4.107.0/x86_64-unknown-linux-musl/TabNine args: --tls_config insecure=false --no-lsp=true --client=vscode --client-metadata clientVersion=1.86.0 pluginVersion=3.69.0 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-extension-kind=1 vscode-theme-name=One Dark Pro Darker vscode-theme-kind=Dark vscode-machine-id=someValue.machineId vscode-is-new-app-install=false vscode-session-id=someValue.sessionId vscode-language=en vscode-app-name=Code - OSS vscode-beta-channel-enabled=false vscode-status-customization=#0D0303 vscode-inline-api-enabled=true vscode-code-lens-enabled=true vscode-found-intellicode=false ide-restart-counter=0 
+
+15:44:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:44:53 GMT+0530 (India Standard Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+15:45:12 GMT+0530 (India Standard Time) [DEBUG]: capabilities resolved on focus true 
+
+15:45:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:45:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:46:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:46:53 GMT+0530 (India Standard Time) [ERROR]: Error: Binary request timed out. {"Prefetch":{"filename":"/home/thesynthax/projects/web/RocketChat-tour/apps/meteor/client/views/root/AppRoot.tsx"}} 
+
+15:46:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:47:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:47:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:48:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:48:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:49:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:49:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:50:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:50:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:51:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:51:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:52:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:52:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:53:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:53:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:54:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:54:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:55:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:55:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:56:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:56:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:57:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:57:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:58:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:58:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:59:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+15:59:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+16:00:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+16:00:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+16:01:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+16:01:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+16:02:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+16:02:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+16:03:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+16:03:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+16:04:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+16:04:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+16:05:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+16:05:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project RocketChat-tour: ["/home/thesynthax/projects/web/RocketChat-tour"] 
+
+16:06:18 GMT+0530 (India Standard Time) [WARN]: assistant is closing 
+

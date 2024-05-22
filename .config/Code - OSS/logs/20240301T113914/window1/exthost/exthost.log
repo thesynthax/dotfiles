@@ -1,0 +1,60 @@
+2024-03-01 11:39:33.363 [info] Extension host with pid 21600 started
+2024-03-01 11:39:33.363 [info] Skipping acquiring lock for /home/thesynthax/.config/Code - OSS/User/workspaceStorage/1efe15b970c9a1dcef2502f1e36440f8.
+2024-03-01 11:39:33.611 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-01 11:39:33.638 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+2024-03-01 11:39:33.701 [info] ExtensionService#_doActivateExtension ms-vscode.vscode-typescript-tslint-plugin, startup: false, activationEvent: 'onLanguage:typescript'
+2024-03-01 11:39:34.440 [info] ExtensionService#_doActivateExtension rbbit.typescript-hero, startup: false, activationEvent: 'onLanguage:typescript'
+2024-03-01 11:39:46.095 [info] ExtensionService#_doActivateExtension wix.vscode-import-cost, startup: false, activationEvent: 'onLanguage:typescript'
+2024-03-01 11:39:49.716 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-01 11:39:49.721 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: true, activationEvent: '*'
+2024-03-01 11:39:50.534 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-03-01 11:39:50.799 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-03-01 11:39:51.306 [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock, startup: true, activationEvent: '*'
+2024-03-01 11:39:51.573 [info] ExtensionService#_doActivateExtension minhthai.vscode-todo-parser, startup: true, activationEvent: '*'
+2024-03-01 11:39:53.023 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2024-03-01 11:39:53.490 [info] ExtensionService#_doActivateExtension standard.vscode-standard, startup: true, activationEvent: '*'
+2024-03-01 11:40:20.551 [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: true, activationEvent: '*'
+2024-03-01 11:40:21.781 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-03-01 11:40:21.928 [info] Not activating extension 'franneck94.c-cpp-runner': Timed out while searching for 'workspaceContains' pattern *.h,*.c,*.hh,*.cc,*.hxx,*.cxx,*.hpp,*.cpp,*.cu
+2024-03-01 11:40:21.929 [info] Not activating extension 'ms-dotnettools.csharp': Timed out while searching for 'workspaceContains' pattern **/*.{csproj,sln,slnf,csx,cake}
+2024-03-01 11:40:21.929 [info] Not activating extension 'ms-vscode.cmake-tools': Timed out while searching for 'workspaceContains' pattern */CMakeLists.txt,*/*/CMakeLists.txt,*/*/*/CMakeLists.txt
+2024-03-01 11:40:21.929 [info] Not activating extension 'muhammad-sammy.csharp': Timed out while searching for 'workspaceContains' pattern **/*.{csproj,sln,slnf,csx,cake}
+2024-03-01 11:40:21.989 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 11:40:21.990 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 11:40:22.008 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 11:40:23.526 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 11:40:24.080 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 11:40:24.393 [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 11:40:25.460 [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 11:40:27.336 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 11:40:30.483 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 11:40:42.227 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onStartupFinished', root cause: GitHub.vscode-pull-request-github
+2024-03-01 11:40:42.272 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 11:40:43.634 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 11:40:44.363 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 11:40:44.463 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 11:40:44.896 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 11:40:45.449 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 11:40:46.336 [info] ExtensionService#_doActivateExtension vsls-contrib.codetour, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 11:40:46.652 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 11:40:47.734 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-01 11:40:47.795 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-01 11:40:50.387 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 11:40:50.963 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-03-01 11:40:51.931 [info] Eager extensions activated
+2024-03-01 11:40:52.143 [error] Activating extension GitHub.vscode-pull-request-github failed due to an error:
+2024-03-01 11:40:52.143 [error] Error: Extension 'GitHub.vscode-pull-request-github' CANNOT use API proposal: diffCommand.
+Its package.json#enabledApiProposals-property declares:  but NOT diffCommand.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+    at E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:138:51177)
+    at Object.registerDiffInformationCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:21335)
+    at V1 (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1/dist/extension.js:2001:9875)
+    at B2 (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1/dist/extension.js:2120:4420)
+    at $2 (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1/dist/extension.js:2120:8378)
+    at q2 (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1/dist/extension.js:2120:5739)
+    at c.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:6256)
+    at c.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:6219)
+    at c.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:5676)
+2024-03-01 13:28:41.850 [warning] TextEditor is closed/disposed
+2024-03-01 13:28:50.019 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-03-01 13:28:51.839 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'

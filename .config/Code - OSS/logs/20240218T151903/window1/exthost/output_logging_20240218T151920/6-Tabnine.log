@@ -1,0 +1,20 @@
+15:19:38 GMT+0530 (India Standard Time) [INFO]: spawning binary with command: /home/thesynthax/.config/Code - OSS/User/globalStorage/tabnine.tabnine-vscode/binaries/4.75.0/x86_64-unknown-linux-musl/TabNine args: --tls_config insecure=false --no-lsp=true --client=vscode --client-metadata clientVersion=1.86.0 pluginVersion=3.63.0 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-extension-kind=1 vscode-theme-name=One Dark Pro Darker vscode-theme-kind=Dark vscode-machine-id=someValue.machineId vscode-is-new-app-install=false vscode-session-id=someValue.sessionId vscode-language=en vscode-app-name=Code - OSS vscode-beta-channel-enabled=false vscode-status-customization=#0D0303 vscode-inline-api-enabled=true vscode-code-lens-enabled=true vscode-found-intellicode=false ide-restart-counter=0 
+
+15:19:38 GMT+0530 (India Standard Time) [DEBUG]: capabilities resolved immediately 
+
+15:19:41 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Rocket.Chat: ["/home/thesynthax/projects/web/Rocket.Chat"] 
+
+15:19:58 GMT+0530 (India Standard Time) [ERROR]: Error: Binary request timed out. {"Features":{}} 
+
+15:19:58 GMT+0530 (India Standard Time) [ERROR]: Error: Could not get enabled capabilities 
+
+15:19:59 GMT+0530 (India Standard Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+15:20:00 GMT+0530 (India Standard Time) [ERROR]: Error: Binary request timed out. {"Workspace":{"root_paths":["/home/thesynthax/projects/web/Rocket.Chat"]}} 
+
+15:20:05 GMT+0530 (India Standard Time) [ERROR]: Error: Binary request timed out. {"NotifyWorkspaceChanged":{"workspace_folders":["/home/thesynthax/projects/web/Rocket.Chat"]}} 
+
+15:20:06 GMT+0530 (India Standard Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+15:20:06 GMT+0530 (India Standard Time) [WARN]: assistant is closing 
+

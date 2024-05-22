@@ -1,0 +1,63 @@
+2024-02-18 15:19:24.575 [info] Log level: Info
+2024-02-18 15:19:24.575 [info] Validating found git in: "git"
+2024-02-18 15:19:24.575 [info] Using git "2.43.2" from "git"
+2024-02-18 15:19:24.575 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-18 15:19:24.575 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-02-18 15:19:24.575 [info] Open repository: /home/thesynthax/projects/web/Rocket.Chat
+2024-02-18 15:19:24.575 [info] > git config --get commit.template [6ms]
+2024-02-18 15:19:24.575 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-18 15:19:24.575 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/develop refs/remotes/develop [6ms]
+2024-02-18 15:19:24.575 [warning] ENOENT: no such file or directory, open '/home/thesynthax/projects/web/Rocket.Chat/.git/refs/remotes/origin/develop'
+2024-02-18 15:19:24.575 [info] > git rev-parse --show-toplevel [78ms]
+2024-02-18 15:19:24.575 [info] > git rev-parse refs/remotes/origin/develop [8ms]
+2024-02-18 15:19:24.575 [info] > git rev-parse --show-toplevel [14ms]
+2024-02-18 15:19:24.575 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-18 15:19:24.575 [info] > git status -z -uall [45ms]
+2024-02-18 15:19:24.575 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-18 15:19:24.575 [info] > git rev-parse --show-toplevel [6ms]
+2024-02-18 15:19:24.582 [info] > git config --get commit.template [8ms]
+2024-02-18 15:19:24.630 [info] > git rev-parse --show-toplevel [47ms]
+2024-02-18 15:19:24.638 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/develop refs/remotes/develop [9ms]
+2024-02-18 15:19:24.643 [warning] ENOENT: no such file or directory, open '/home/thesynthax/projects/web/Rocket.Chat/.git/refs/remotes/origin/develop'
+2024-02-18 15:19:24.644 [info] > git rev-parse --show-toplevel [7ms]
+2024-02-18 15:19:24.650 [info] > git rev-parse refs/remotes/origin/develop [7ms]
+2024-02-18 15:19:24.660 [info] > git rev-parse --show-toplevel [9ms]
+2024-02-18 15:19:24.668 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-18 15:19:24.681 [info] > git status -z -uall [26ms]
+2024-02-18 15:19:37.942 [info] > git check-ignore -v -z --stdin [857ms]
+2024-02-18 15:20:12.307 [info] Log level: Info
+2024-02-18 15:20:12.307 [info] Validating found git in: "git"
+2024-02-18 15:20:12.307 [info] Using git "2.43.2" from "git"
+2024-02-18 15:20:12.307 [info] > git rev-parse --show-toplevel [7ms]
+2024-02-18 15:20:12.315 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-02-18 15:20:12.324 [info] Open repository: /home/thesynthax/projects/web/Rocket.Chat
+2024-02-18 15:20:12.341 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-18 15:20:12.342 [info] > git config --get commit.template [9ms]
+2024-02-18 15:20:12.356 [info] > git rev-parse --show-toplevel [7ms]
+2024-02-18 15:20:12.364 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/develop refs/remotes/develop [9ms]
+2024-02-18 15:20:12.370 [warning] ENOENT: no such file or directory, open '/home/thesynthax/projects/web/Rocket.Chat/.git/refs/remotes/origin/develop'
+2024-02-18 15:20:12.371 [info] > git rev-parse --show-toplevel [8ms]
+2024-02-18 15:20:12.377 [info] > git rev-parse refs/remotes/origin/develop [7ms]
+2024-02-18 15:20:12.385 [info] > git rev-parse --show-toplevel [8ms]
+2024-02-18 15:20:12.395 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-18 15:20:12.402 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-18 15:20:12.409 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-18 15:20:12.416 [info] > git status -z -uall [32ms]
+2024-02-18 15:20:12.430 [info] > git rev-parse --show-toplevel [14ms]
+2024-02-18 15:20:12.438 [info] > git config --get commit.template [8ms]
+2024-02-18 15:20:12.440 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-18 15:20:12.503 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-18 15:20:12.503 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/develop refs/remotes/develop [10ms]
+2024-02-18 15:20:12.510 [warning] ENOENT: no such file or directory, open '/home/thesynthax/projects/web/Rocket.Chat/.git/refs/remotes/origin/develop'
+2024-02-18 15:20:12.511 [info] > git rev-parse refs/remotes/origin/develop [1ms]
+2024-02-18 15:20:12.544 [info] > git status -z -uall [26ms]
+2024-02-18 15:20:52.652 [info] > git config --local branch.develop.github-pr-owner-number [78ms]
+2024-02-18 15:20:52.652 [warning] git config failed: Failed to execute git
+2024-02-18 15:25:52.069 [info] > git config --local branch.develop.github-pr-owner-number [1ms]
+2024-02-18 15:25:52.069 [warning] git config failed: Failed to execute git
+2024-02-18 15:30:52.077 [info] > git config --local branch.develop.github-pr-owner-number [1ms]
+2024-02-18 15:30:52.077 [warning] git config failed: Failed to execute git
+2024-02-18 15:35:30.215 [info] > git check-ignore -v -z --stdin [8ms]
+2024-02-18 15:35:35.601 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-18 15:35:52.087 [info] > git config --local branch.develop.github-pr-owner-number [1ms]
+2024-02-18 15:35:52.087 [warning] git config failed: Failed to execute git

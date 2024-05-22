@@ -4,25 +4,18 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/thesynthax/projects/unity/Unity-Projects/two%20point%20five%20D%20platformer"
-            },
-            {
-                "folderUri": "file:///home/thesynthax/projects/node-ts/kushagrawelcomebot"
+                "folderUri": "file:///home/thesynthax/projects/web/RocketChat-tour"
             }
         ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1706339218105"
-            }
-        ]
+        "emptyWindows": []
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/thesynthax/projects/node-ts/kushagrawelcomebot",
-            "backupPath": "/home/thesynthax/.config/Code - OSS/Backups/d1f1af3195fc7e703d5cbeccbc3dd7b1",
+            "folder": "file:///home/thesynthax/projects/web/RocketChat-tour",
+            "backupPath": "/home/thesynthax/.config/Code - OSS/Backups/faeba3518b01bfdcc6282452004017ce",
             "uiState": {
                 "mode": 1,
-                "x": -3800,
+                "x": 1930,
                 "y": 43,
                 "width": 1900,
                 "height": 1027
@@ -68,10 +61,33 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/thesynthax/projects/web/RocketChat-tour",
+                                        "path": "/home/thesynthax/projects/web/RocketChat-tour",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/projects/web/RocketChat-tour"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/thesynthax/projects/web/Rocket.Chat",
+                                        "path": "/home/thesynthax/projects/web/Rocket.Chat",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/projects/web/Rocket.Chat"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -231,6 +247,13 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
+                                {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
@@ -396,6 +419,22 @@
                     {
                         "id": "editor.action.clipboardCopyAction",
                         "label": "&&Copy"
+                    },
+                    {
+                        "id": "submenuitem.MenubarCopy",
+                        "label": "Copy As",
+                        "submenu": {
+                            "items": [
+                                {
+                                    "id": "issue.copyGithubPermalink",
+                                    "label": "Copy GitHub Permalink"
+                                },
+                                {
+                                    "id": "issue.copyMarkdownGithubPermalink",
+                                    "label": "Copy GitHub Permalink as Markdown"
+                                }
+                            ]
+                        }
                     },
                     {
                         "id": "editor.action.clipboardPasteAction",
@@ -575,6 +614,10 @@
                                     "checked": true
                                 },
                                 {
+                                    "id": "toggle.toggleCustomTitleBar",
+                                    "label": "Custom Title Bar"
+                                },
+                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
@@ -590,6 +633,10 @@
                                                 "id": "workbench.action.activityBarLocation.side",
                                                 "label": "&&Side",
                                                 "checked": true
+                                            },
+                                            {
+                                                "id": "workbench.action.activityBarLocation.top",
+                                                "label": "&&Top"
                                             },
                                             {
                                                 "id": "workbench.action.activityBarLocation.hide",
@@ -674,6 +721,10 @@
                                                 "id": "workbench.action.editorActionsDefault",
                                                 "label": "Tab Bar",
                                                 "checked": true
+                                            },
+                                            {
+                                                "id": "workbench.action.editorActionsTitleBar",
+                                                "label": "Title Bar"
                                             },
                                             {
                                                 "id": "workbench.action.hideEditorActions",
@@ -875,7 +926,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1155,6 +1207,10 @@
                                 {
                                     "id": "editor.debug.action.addLogPoint",
                                     "label": "&&Logpoint..."
+                                },
+                                {
+                                    "id": "editor.debug.action.triggerByBreakpoint",
+                                    "label": "&&Triggered Breakpoint..."
                                 }
                             ]
                         }
@@ -1191,8 +1247,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1533,6 +1588,11 @@
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+shift+\\"
             },
+            "workbench.action.copyEditorToNewWindow": {
+                "label": "Ctrl+K O",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k o"
+            },
             "workbench.action.toggleEditorGroupLayout": {
                 "label": "Shift+Alt+0",
                 "userSettingsLabel": "shift+alt+0"
@@ -1546,8 +1606,9 @@
                 "userSettingsLabel": "ctrl+shift+f"
             },
             "workbench.view.scm": {
-                "label": "Ctrl+Shift+G",
-                "userSettingsLabel": "ctrl+shift+g"
+                "label": "Ctrl+Shift+G G",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+shift+g g"
             },
             "workbench.view.debug": {
                 "label": "Ctrl+Shift+D",
@@ -1782,11 +1843,11 @@
         "workspaces": {
             "file:///home/thesynthax/Downloads/node%20crash%20course": "__default__profile__",
             "file:///home/thesynthax/projects/unity/Unity-Projects/two%20point%20five%20D%20platformer": "__default__profile__",
-            "file:///home/thesynthax/projects/node-ts/kushagrawelcomebot": "__default__profile__"
+            "file:///home/thesynthax/projects/node-ts/kushagrawelcomebot": "__default__profile__",
+            "file:///home/thesynthax/projects/web/Rocket.Chat": "__default__profile__",
+            "file:///home/thesynthax/projects/web/RocketChat-tour": "__default__profile__"
         },
-        "emptyWindows": {
-            "1706339218105": "__default__profile__"
-        }
+        "emptyWindows": {}
     },
     "profileAssociationsMigration": true,
     "telemetry.sqmId": ""

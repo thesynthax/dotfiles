@@ -1,0 +1,140 @@
+2024-03-01 11:39:23.787 [info] Started local extension host with pid 21600.
+2024-03-01 11:39:32.543 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-03-01 11:39:32.546 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-01 11:39:32.546 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-01 11:39:32.547 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-01 11:39:32.547 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-01 11:39:32.547 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-01 11:39:32.547 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-01 11:39:32.547 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-01 11:39:32.547 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-01 11:39:32.548 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-01 11:39:32.548 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-01 11:39:32.548 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-01 11:39:32.548 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-01 11:39:33.250 [error] Extension 'GitHub.vscode-pull-request-github CANNOT USE these API proposals 'tokenInformation, contribShareMenu, fileComments, commentReactor, contribCommentPeekContext, contribCommentThreadAdditionalMenu, codiconDecoration, diffCommand, contribCommentEditorActionsMenu, shareProvider, quickDiffProvider, tabInputTextMerge, treeViewMarkdownMessage'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-03-01 11:39:33.251 [error] Extension 'ms-vscode.cpptools CANNOT USE these API proposals 'terminalDataWriteEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-03-01 11:39:33.251 [error] Extension 'ms-vscode.js-debug-nightly CANNOT USE these API proposals 'portsAttributes, workspaceTrust, tunnels'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-03-01 11:39:33.316 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.codelens.npmScripts'. This property is already registered.
+2024-03-01 11:39:33.316 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.terminalOptions'. This property is already registered.
+2024-03-01 11:39:33.316 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.automaticallyTunnelRemoteServer'. This property is already registered.
+2024-03-01 11:39:33.316 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.debugByLinkOptions'. This property is already registered.
+2024-03-01 11:39:33.316 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.pickAndAttachOptions'. This property is already registered.
+2024-03-01 11:39:33.316 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.autoAttachFilter'. This property is already registered.
+2024-03-01 11:39:33.316 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.autoAttachSmartPattern'. This property is already registered.
+2024-03-01 11:39:33.316 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.breakOnConditionalError'. This property is already registered.
+2024-03-01 11:39:33.317 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.unmapMissingSources'. This property is already registered.
+2024-03-01 11:39:33.317 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.defaultRuntimeExecutable'. This property is already registered.
+2024-03-01 11:39:33.317 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.resourceRequestOptions'. This property is already registered.
+2024-03-01 11:39:33.317 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.format.enable'. This property is already registered.
+2024-03-01 11:39:33.317 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressDotnetInstallWarning'. This property is already registered.
+2024-03-01 11:39:33.317 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressDotnetRestoreNotification'. This property is already registered.
+2024-03-01 11:39:33.317 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressProjectJsonWarning'. This property is already registered.
+2024-03-01 11:39:33.317 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressBuildAssetsNotification'. This property is already registered.
+2024-03-01 11:39:33.317 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressHiddenDiagnostics'. This property is already registered.
+2024-03-01 11:39:33.318 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.referencesCodeLens.filteredSymbols'. This property is already registered.
+2024-03-01 11:39:33.318 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.maxProjectFileCountForDiagnosticAnalysis'. This property is already registered.
+2024-03-01 11:39:33.318 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.semanticHighlighting.enabled'. This property is already registered.
+2024-03-01 11:39:33.318 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.showOmnisharpLogOnError'. This property is already registered.
+2024-03-01 11:39:33.318 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.useModernNet'. This property is already registered.
+2024-03-01 11:39:33.318 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.sdkPath'. This property is already registered.
+2024-03-01 11:39:33.318 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.sdkVersion'. This property is already registered.
+2024-03-01 11:39:33.318 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.sdkIncludePrereleases'. This property is already registered.
+2024-03-01 11:39:33.318 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.monoPath'. This property is already registered.
+2024-03-01 11:39:33.319 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.loggingLevel'. This property is already registered.
+2024-03-01 11:39:33.319 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.autoStart'. This property is already registered.
+2024-03-01 11:39:33.319 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.projectLoadTimeout'. This property is already registered.
+2024-03-01 11:39:33.319 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.maxProjectResults'. This property is already registered.
+2024-03-01 11:39:33.319 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.useEditorFormattingSettings'. This property is already registered.
+2024-03-01 11:39:33.319 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.minFindSymbolsFilterLength'. This property is already registered.
+2024-03-01 11:39:33.319 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.maxFindSymbolsItems'. This property is already registered.
+2024-03-01 11:39:33.319 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.disableMSBuildDiagnosticWarning'. This property is already registered.
+2024-03-01 11:39:33.319 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableMsBuildLoadProjectsOnDemand'. This property is already registered.
+2024-03-01 11:39:33.319 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableEditorConfigSupport'. This property is already registered.
+2024-03-01 11:39:33.320 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableDecompilationSupport'. This property is already registered.
+2024-03-01 11:39:33.320 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.organizeImportsOnFormat'. This property is already registered.
+2024-03-01 11:39:33.320 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableAsyncCompletion'. This property is already registered.
+2024-03-01 11:39:33.320 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.plugin.path'. This property is already registered.
+2024-03-01 11:39:33.320 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.devmode'. This property is already registered.
+2024-03-01 11:39:33.320 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.languageServer.directory'. This property is already registered.
+2024-03-01 11:39:33.320 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.languageServer.debug'. This property is already registered.
+2024-03-01 11:39:33.320 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.format.enable'. This property is already registered.
+2024-03-01 11:39:33.320 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2024-03-01 11:39:33.358 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.prettyPrint` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-03-01 11:39:33.358 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.toggleSkippingFile` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-03-01 11:39:33.358 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.addCustomBreakpoints` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-03-01 11:39:33.358 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.removeAllCustomBreakpoints` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-03-01 11:39:33.359 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.addXHRBreakpoints` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-03-01 11:39:33.359 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.removeXHRBreakpoint` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-03-01 11:39:33.359 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.editXHRBreakpoints` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-03-01 11:39:33.359 [info] [ms-vscode.js-debug-nightly]: Command `extension.pwa-node-debug.attachNodeProcess` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-03-01 11:39:33.359 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.npmScript` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-03-01 11:39:33.359 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.createDebuggerTerminal` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-03-01 11:39:33.359 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.startProfile` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-03-01 11:39:33.359 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.stopProfile` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-03-01 11:39:33.359 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.revealPage` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-03-01 11:39:33.360 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.debugLink` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-03-01 11:39:33.360 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.createDiagnostics` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-03-01 11:39:33.360 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.getDiagnosticLogs` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-03-01 11:39:33.360 [info] [ms-vscode.js-debug-nightly]: Command `extension.node-debug.startWithStopOnEntry` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-03-01 11:39:33.360 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.openEdgeDevTools` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-03-01 11:39:33.360 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.add` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-03-01 11:39:33.360 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.remove` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-03-01 11:39:33.360 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.removeAll` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-03-01 11:39:33.361 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.goToCaller` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-03-01 11:39:33.361 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.gotToTarget` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-03-01 11:39:33.361 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.enableSourceMapStepping` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-03-01 11:39:33.361 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.disableSourceMapStepping` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-03-01 11:39:33.361 [info] [muhammad-sammy.csharp]: Command `o.restart` already registered by C# (ms-dotnettools.csharp)
+2024-03-01 11:39:33.361 [info] [muhammad-sammy.csharp]: Command `o.pickProjectAndStart` already registered by C# (ms-dotnettools.csharp)
+2024-03-01 11:39:33.361 [info] [muhammad-sammy.csharp]: Command `o.fixAll.solution` already registered by C# (ms-dotnettools.csharp)
+2024-03-01 11:39:33.362 [info] [muhammad-sammy.csharp]: Command `o.fixAll.project` already registered by C# (ms-dotnettools.csharp)
+2024-03-01 11:39:33.362 [info] [muhammad-sammy.csharp]: Command `o.fixAll.document` already registered by C# (ms-dotnettools.csharp)
+2024-03-01 11:39:33.362 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.allProjects` already registered by C# (ms-dotnettools.csharp)
+2024-03-01 11:39:33.362 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.currentProject` already registered by C# (ms-dotnettools.csharp)
+2024-03-01 11:39:33.362 [info] [muhammad-sammy.csharp]: Command `dotnet.generateAssets` already registered by C# (ms-dotnettools.csharp)
+2024-03-01 11:39:33.362 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.project` already registered by C# (ms-dotnettools.csharp)
+2024-03-01 11:39:33.362 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.all` already registered by C# (ms-dotnettools.csharp)
+2024-03-01 11:39:33.362 [info] [muhammad-sammy.csharp]: Command `csharp.listProcess` already registered by C# (ms-dotnettools.csharp)
+2024-03-01 11:39:33.362 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteProcess` already registered by C# (ms-dotnettools.csharp)
+2024-03-01 11:39:33.362 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteDockerProcess` already registered by C# (ms-dotnettools.csharp)
+2024-03-01 11:39:33.363 [info] [muhammad-sammy.csharp]: Command `csharp.reportIssue` already registered by C# (ms-dotnettools.csharp)
+2024-03-01 11:39:33.363 [info] [muhammad-sammy.csharp]: Command `csharp.showDecompilationTerms` already registered by C# (ms-dotnettools.csharp)
+2024-03-01 11:39:33.363 [info] [muhammad-sammy.csharp]: Command `extension.showRazorCSharpWindow` already registered by C# (ms-dotnettools.csharp)
+2024-03-01 11:39:33.363 [info] [muhammad-sammy.csharp]: Command `extension.showRazorHtmlWindow` already registered by C# (ms-dotnettools.csharp)
+2024-03-01 11:39:33.363 [info] [muhammad-sammy.csharp]: Command `razor.reportIssue` already registered by C# (ms-dotnettools.csharp)
+2024-03-01 11:39:33.363 [info] [muhammad-sammy.csharp]: Command `dotnet.test.runTestsInContext` already registered by C# (ms-dotnettools.csharp)
+2024-03-01 11:39:33.364 [info] [muhammad-sammy.csharp]: Command `dotnet.test.debugTestsInContext` already registered by C# (ms-dotnettools.csharp)
+2024-03-01 11:39:33.375 [error] [GitHub.vscode-pull-request-github]: comments/comment/editorActions is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribCommentEditorActionsMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-03-01 11:39:33.375 [error] [GitHub.vscode-pull-request-github]: comments/commentThread/additionalActions is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribCommentThreadAdditionalMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-03-01 11:39:33.375 [error] [GitHub.vscode-pull-request-github]: comments/commentThread/title/context is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribCommentPeekContext"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-03-01 11:39:33.375 [error] [GitHub.vscode-pull-request-github]: comments/commentThread/comment/context is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribCommentPeekContext"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-03-01 11:39:33.375 [error] [GitHub.vscode-pull-request-github]: editor/context/share is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribShareMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-03-01 11:39:33.375 [error] [GitHub.vscode-pull-request-github]: file/share is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribShareMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-03-01 11:39:33.375 [error] [GitHub.vscode-pull-request-github]: editor/title/context/share is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribShareMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-03-01 11:39:33.375 [error] [GitHub.vscode-pull-request-github]: explorer/context/share is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribShareMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-03-01 11:39:33.424 [error] [ms-vscode.js-debug-nightly]: Cannot register multiple views with same id `jsBrowserBreakpoints`
+2024-03-01 11:39:33.424 [error] [ms-vscode.js-debug-nightly]: Cannot register multiple views with same id `jsExcludedCallers`
+2024-03-01 11:39:36.688 [info] [perf] Render performance baseline is 28ms
+2024-03-01 11:39:36.949 [info] Extension host (LocalProcess pid: 21600) is unresponsive.
+2024-03-01 11:39:38.427 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-03-01 11:39:45.776 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-01 11:39:45.776 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-01 11:39:45.776 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-01 11:39:45.777 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-01 11:39:45.777 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-01 11:39:45.777 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-01 11:39:45.777 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-01 11:39:45.777 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-01 11:39:45.777 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-01 11:39:45.777 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-01 11:39:45.777 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-01 11:39:45.778 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-01 11:39:48.191 [info] Extension host (LocalProcess pid: 21600) is responsive.
+2024-03-01 11:39:53.607 [info] Extension host (LocalProcess pid: 21600) is unresponsive.
+2024-03-01 11:39:54.444 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-03-01 11:40:21.853 [info] Extension host (LocalProcess pid: 21600) is responsive.
+2024-03-01 11:40:24.971 [info] Extension host (LocalProcess pid: 21600) is unresponsive.
+2024-03-01 11:40:25.459 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-03-01 11:40:47.837 [info] Extension host (LocalProcess pid: 21600) is responsive.
+2024-03-01 11:40:52.475 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.

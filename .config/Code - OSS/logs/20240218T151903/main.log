@@ -1,0 +1,10 @@
+2024-02-18 15:19:03.445 [info] update#setState disabled
+2024-02-18 15:19:03.447 [info] update#ctor - updates are disabled as there is no update URL
+2024-02-18 15:19:19.317 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 403624]: crashed with code 15 and reason 'killed'
+2024-02-18 15:20:06.739 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2024-02-18 15:20:06.741 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 403875]: crashed with code 15 and reason 'killed'
+2024-02-18 15:20:11.691 [info] Extension host with pid 403876 exited with code: 0, signal: unknown.
+2024-02-18 15:39:42.334 [info] Extension host with pid 405326 exited with code: 0, signal: unknown.
+2024-02-18 15:39:43.396 [warning] [storage main] detected slow close() operation: Time: 2042ms, DB size: 36864b, Large Keys: workbench.view.extensions.state:1963, __$__targetStorageMarker:1605, workbench.activity.viewletsWorkspaceState:1187, terminal.integrated.environmentVariableCollectionsV2:1093, workbench.view.debug.state:697
+2024-02-18 15:39:43.429 [warning] [storage main] detected slow close() operation: Time: 2076ms, DB size: 897024b, Large Keys: iconThemeData:799825, colorThemeData:34096, workbench.activity.placeholderViewlets:6697, __$__targetStorageMarker:2765, workbench.view.extensions.state.hidden:1674
+2024-02-18 15:39:47.355 [info] Extension host with pid 403599 exited with code: 0, signal: unknown.
