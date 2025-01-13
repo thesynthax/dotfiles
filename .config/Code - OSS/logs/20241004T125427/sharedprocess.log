@@ -1,0 +1,41 @@
+2024-10-04 12:54:34.883 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-04 12:54:34.976 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-10-04 12:54:34.977 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-04 12:54:34.999 [warning] [csharp]: Couldn't find message for key configuration.razor.server.trace.
+2024-10-04 12:54:35.001 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-04 12:54:35.025 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-04 12:54:37.799 [info] Deleted uninstalled extension from disk eliverlara.andromeda /home/thesynthax/.vscode-oss/extensions/eliverlara.andromeda-1.8.1
+2024-10-04 12:54:38.675 [info] Deleted uninstalled extension from disk llvm-vs-code-extensions.vscode-clangd /home/thesynthax/.vscode-oss/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28-universal
+2024-10-04 12:54:38.686 [info] Deleted uninstalled extension from disk vscodevim.vim /home/thesynthax/.vscode-oss/extensions/vscodevim.vim-1.27.2
+2024-10-04 12:54:39.476 [info] Deleted uninstalled extension from disk dbaeumer.vscode-eslint /home/thesynthax/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.4.4
+2024-10-04 12:54:39.477 [info] Deleted uninstalled extension from disk esbenp.prettier-vscode /home/thesynthax/.vscode-oss/extensions/esbenp.prettier-vscode-10.4.0-universal
+2024-10-04 12:54:39.479 [info] Deleted uninstalled extension from disk ms-dotnettools.vscode-dotnet-runtime /home/thesynthax/.vscode-oss/extensions/ms-dotnettools.vscode-dotnet-runtime-2.0.5-universal
+2024-10-04 12:54:39.485 [info] Deleted uninstalled extension from disk tabnine.tabnine-vscode /home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.104.0-universal
+2024-10-04 12:54:39.485 [info] Deleted uninstalled extension from disk usernamehw.errorlens /home/thesynthax/.vscode-oss/extensions/usernamehw.errorlens-3.18.0-universal
+2024-10-04 12:54:39.486 [info] Deleted uninstalled extension from disk vscode-icons-team.vscode-icons /home/thesynthax/.vscode-oss/extensions/vscode-icons-team.vscode-icons-12.8.0-universal
+2024-10-04 12:54:39.530 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/thesynthax/.vscode-oss/extensions/eliverlara.andromeda-1.8.1.-2483246c.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/thesynthax/.vscode-oss/extensions/eliverlara.andromeda-1.8.1.-2483246c.vsctmp'
+    at o.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)
+2024-10-04 12:54:39.537 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-04 12:54:39.548 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-04 12:54:39.554 [info] Deleted uninstalled extension from disk eamodio.gitlens /home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-15.0.4-universal
+2024-10-04 12:54:39.554 [info] Deleted uninstalled extension from disk github.vscode-pull-request-github /home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.88.1-universal
+2024-10-04 12:54:39.555 [info] Deleted uninstalled extension from disk franneck94.c-cpp-runner /home/thesynthax/.vscode-oss/extensions/franneck94.c-cpp-runner-9.4.7
+2024-10-04 12:54:39.558 [info] Deleted uninstalled extension from disk ms-vscode.js-debug-nightly /home/thesynthax/.vscode-oss/extensions/ms-vscode.js-debug-nightly-2024.2.2917
+2024-10-04 12:54:39.559 [info] Deleted uninstalled extension from disk zhuangtongfa.material-theme /home/thesynthax/.vscode-oss/extensions/zhuangtongfa.material-theme-3.17.2-universal
+2024-10-04 12:54:39.736 [info] Deleted uninstalled extension from disk ms-vscode.cmake-tools /home/thesynthax/.vscode-oss/extensions/ms-vscode.cmake-tools-1.18.41-universal
+2024-10-04 12:54:39.737 [info] Deleted uninstalled extension from disk ms-vscode.vscode-typescript-next /home/thesynthax/.vscode-oss/extensions/ms-vscode.vscode-typescript-next-5.5.20240301
+2024-10-04 12:54:39.738 [info] Deleted uninstalled extension from disk ms-vscode.cpptools /home/thesynthax/.vscode-oss/extensions/ms-vscode.cpptools-1.19.4-linux-x64
+2024-10-04 12:54:39.751 [info] Deleted uninstalled extension from disk ms-azuretools.vscode-docker /home/thesynthax/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.29.1-universal
+2024-10-04 12:54:39.759 [info] Deleted uninstalled extension from disk equinusocio.vsc-material-theme /home/thesynthax/.vscode-oss/extensions/equinusocio.vsc-material-theme-34.3.1
+2024-10-04 12:54:39.761 [info] Deleted uninstalled extension from disk ms-dotnettools.csharp /home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-2.18.16-linux-x64
+2024-10-04 12:54:39.792 [info] Deleted uninstalled extension from disk equinusocio.vsc-material-theme-icons /home/thesynthax/.vscode-oss/extensions/equinusocio.vsc-material-theme-icons-3.6.0-universal
+2024-10-04 12:54:39.801 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-04 12:54:39.962 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-04 12:54:40.085 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-04 12:54:40.207 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-04 12:56:31.278 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.

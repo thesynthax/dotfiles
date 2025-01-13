@@ -1,0 +1,22 @@
+12:54:58 GMT+0530 (India Standard Time) [INFO]: spawning binary with command: /home/thesynthax/.config/Code - OSS/User/globalStorage/tabnine.tabnine-vscode/binaries/4.194.0/x86_64-unknown-linux-musl/TabNine args: --tls_config insecure=false --no-lsp=true --client=vscode --client-metadata clientVersion=1.93.1 pluginVersion=3.166.0 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-extension-kind=1 vscode-theme-name=One Dark Pro Darker vscode-theme-kind=Dark vscode-machine-id=someValue.machineId vscode-is-new-app-install=false vscode-session-id=someValue.sessionId vscode-language=en vscode-app-name=Code - OSS vscode-beta-channel-enabled=false vscode-status-customization=#0D0303 vscode-inline-api-enabled=true vscode-code-lens-enabled=true vscode-found-intellicode=false ide-restart-counter=0 
+
+12:54:58 GMT+0530 (India Standard Time) [DEBUG]: capabilities resolved immediately 
+
+12:54:58 GMT+0530 (India Standard Time) [ERROR]: Error: Binary request timed out. {"Event":{"name":"active_text_editor_changed","properties":{"isDirty":"false"}}} 
+
+12:54:59 GMT+0530 (India Standard Time) [ERROR]: Error: Binary request timed out. {"Prefetch":{"filename":"/home/thesynthax/study/SEM7/LinAl/Program_assignment_ons/Linear_Algebra_Prog_Assign.ipynb"}} 
+
+12:55:01 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Program_assignment_ons: ["/home/thesynthax/study/SEM7/LinAl/Program_assignment_ons"] 
+
+12:55:31 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Program_assignment_ons: ["/home/thesynthax/study/SEM7/LinAl/Program_assignment_ons"] 
+
+12:56:01 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Program_assignment_ons: ["/home/thesynthax/study/SEM7/LinAl/Program_assignment_ons"] 
+
+12:56:31 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Program_assignment_ons: ["/home/thesynthax/study/SEM7/LinAl/Program_assignment_ons"] 
+
+12:57:01 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Program_assignment_ons: ["/home/thesynthax/study/SEM7/LinAl/Program_assignment_ons"] 
+
+12:57:31 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project Program_assignment_ons: ["/home/thesynthax/study/SEM7/LinAl/Program_assignment_ons"] 
+
+12:57:38 GMT+0530 (India Standard Time) [WARN]: assistant is closing 
+

@@ -1,0 +1,6 @@
+2024-11-09 12:19:34.259 [warning] /home/thesynthax/.ssh/config: ENOENT: no such file or directory, open '/home/thesynthax/.ssh/config'
+2024-11-09 12:19:34.259 [info] Activation> Extension version: 0.98.0
+2024-11-09 12:19:34.365 [info] Looking for git repository
+2024-11-09 12:19:34.365 [info] Found 0 repositories during activation
+2024-11-09 12:19:34.365 [info] Git repository found, initializing review manager and pr tree view.
+2024-11-09 12:19:34.366 [info] Registering git provider

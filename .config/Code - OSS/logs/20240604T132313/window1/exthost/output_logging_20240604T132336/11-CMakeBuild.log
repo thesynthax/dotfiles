@@ -1,0 +1,76 @@
+[proc] Executing command: cmake --version
+[proc] The command: cmake --version exited with code: 1
+[proc] Executing command: cmake -E capabilities
+[proc] The command: cmake -E capabilities exited with code: 1
+[variant] Loaded new set of variants
+[kit] Detected kits definition version change from undefined to 2. Silently scanning for kits.
+[proc] Executing command: /usr/bin/clang -v
+[proc] Executing command: /usr/bin/clang-17 -v
+[proc] Executing command: /usr/bin/clang-cl -v
+[proc] Executing command: /usr/bin/gcc -v
+[proc] Executing command: /usr/bin/gcc-13 -v
+[proc] Executing command: /usr/bin/i686-w64-mingw32-gcc -v
+[proc] Executing command: /usr/bin/i686-w64-mingw32-gcc-13.1.0 -v
+[proc] Executing command: /usr/bin/x86_64-linux-gnu-gcc -v
+[proc] Executing command: /usr/bin/x86_64-linux-gnu-gcc-13 -v
+[proc] Executing command: /usr/bin/x86_64-pc-linux-gnu-gcc -v
+[proc] Executing command: /usr/bin/x86_64-pc-linux-gnu-gcc-13 -v
+[proc] Executing command: /usr/bin/x86_64-pc-linux-gnu-gcc-13.3.0 -v
+[proc] Executing command: /usr/bin/x86_64-pc-linux-gnu-gcc-14.1.1 -v
+[proc] Executing command: /usr/bin/x86_64-w64-mingw32-gcc -v
+[proc] Executing command: /usr/bin/x86_64-w64-mingw32-gcc-13.1.0 -v
+[proc] Executing command: /usr/bin/x86_64-w64-mingw32-gcc -v
+[proc] Executing command: /usr/bin/x86_64-pc-linux-gnu-gcc -v
+[proc] Executing command: /usr/bin/x86_64-pc-linux-gnu-gcc -v
+[proc] Executing command: /usr/bin/i686-w64-mingw32-gcc -v
+[proc] Executing command: /usr/bin/clang -v
+[kit] Found Kit (trusted): Clang 17.0.6 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): Clang 17.0.6 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): Clang-cl 17.0.6 x86_64-pc-windows-msvc
+[kit] Found Kit (trusted): GCC 14.1.1 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 13.3.0 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 13.1.0 i686-w64-mingw32
+[kit] Found Kit (trusted): GCC 13.1.0 i686-w64-mingw32
+[kit] Found Kit (trusted): GCC 14.1.1 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 14.1.1 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 14.1.1 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 13.3.0 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 13.3.0 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 14.1.1 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 13.1.0 x86_64-w64-mingw32
+[kit] Found Kit (trusted): GCC 13.1.0 x86_64-w64-mingw32
+[proc] Executing command: /usr/bin/clang -v
+[proc] Executing command: /usr/bin/clang-17 -v
+[proc] Executing command: /usr/bin/clang-cl -v
+[proc] Executing command: /usr/bin/gcc -v
+[proc] Executing command: /usr/bin/gcc-13 -v
+[proc] Executing command: /usr/bin/i686-w64-mingw32-gcc -v
+[proc] Executing command: /usr/bin/i686-w64-mingw32-gcc-13.1.0 -v
+[proc] Executing command: /usr/bin/x86_64-linux-gnu-gcc -v
+[proc] Executing command: /usr/bin/x86_64-linux-gnu-gcc-13 -v
+[proc] Executing command: /usr/bin/x86_64-pc-linux-gnu-gcc -v
+[proc] Executing command: /usr/bin/x86_64-pc-linux-gnu-gcc-13 -v
+[proc] Executing command: /usr/bin/x86_64-pc-linux-gnu-gcc-13.3.0 -v
+[proc] Executing command: /usr/bin/x86_64-pc-linux-gnu-gcc-14.1.1 -v
+[proc] Executing command: /usr/bin/x86_64-w64-mingw32-gcc -v
+[proc] Executing command: /usr/bin/x86_64-w64-mingw32-gcc-13.1.0 -v
+[proc] Executing command: /usr/bin/x86_64-w64-mingw32-gcc -v
+[proc] Executing command: /usr/bin/x86_64-pc-linux-gnu-gcc -v
+[proc] Executing command: /usr/bin/x86_64-pc-linux-gnu-gcc -v
+[proc] Executing command: /usr/bin/i686-w64-mingw32-gcc -v
+[proc] Executing command: /usr/bin/clang -v
+[kit] Found Kit (trusted): Clang 17.0.6 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): Clang 17.0.6 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): Clang-cl 17.0.6 x86_64-pc-windows-msvc
+[kit] Found Kit (trusted): GCC 14.1.1 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 13.3.0 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 13.1.0 i686-w64-mingw32
+[kit] Found Kit (trusted): GCC 13.1.0 i686-w64-mingw32
+[kit] Found Kit (trusted): GCC 14.1.1 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 14.1.1 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 14.1.1 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 13.3.0 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 13.3.0 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 14.1.1 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 13.1.0 x86_64-w64-mingw32
+[kit] Found Kit (trusted): GCC 13.1.0 x86_64-w64-mingw32

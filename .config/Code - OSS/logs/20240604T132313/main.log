@@ -1,0 +1,5 @@
+2024-06-04 13:23:14.024 [info] update#setState disabled
+2024-06-04 13:23:14.025 [info] update#ctor - updates are disabled as there is no update URL
+2024-06-04 13:59:24.197 [info] Extension host with pid 1257067 exited with code: 0, signal: unknown.
+2024-06-04 13:59:24.544 [warning] [storage main] detected slow close() operation: Time: 3821ms, DB size: 36864b, Large Keys: __$__targetStorageMarker:2029, workbench.view.extensions.state:1952, memento/workbench.editors.files.textFileEditor:1844, workbench.activity.viewletsWorkspaceState:1186, terminal.integrated.environmentVariableCollectionsV2:1093
+2024-06-04 13:59:24.618 [warning] [storage main] detected slow close() operation: Time: 3897ms, DB size: 905216b, Large Keys: iconThemeData:799413, colorThemeData:34096, workbench.activity.placeholderViewlets:7036, vsls-contrib.codetour:3756, __$__targetStorageMarker:2929

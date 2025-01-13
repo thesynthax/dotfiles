@@ -1,0 +1,208 @@
+2024-11-09 12:22:39.459 [info] Started local extension host with pid 308942.
+2024-11-09 12:22:42.311 [error] Extension 'GitHub.vscode-pull-request-github CANNOT USE these API proposals 'activeComment, codiconDecoration, codeActionRanges, commentingRangeHint, commentReactor, commentReveal, commentThreadApplicability, contribAccessibilityHelpContent, contribCommentEditorActionsMenu, contribCommentPeekContext, contribCommentThreadAdditionalMenu, contribCommentsViewThreadMenus, contribEditorContentMenu, contribShareMenu, diffCommand, fileComments, quickDiffProvider, shareProvider, tokenInformation, treeViewMarkdownMessage'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-11-09 12:22:42.311 [error] Extension 'ms-python.debugpy CANNOT USE these API proposals 'portsAttributes, contribIssueReporter, debugVisualization, contribViewsWelcome'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-11-09 12:22:42.311 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, contribIssueReporter, codeActionAI, notebookReplDocument, notebookVariableProvider'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-11-09 12:22:42.312 [error] Extension 'ms-toolsai.jupyter CANNOT USE these API proposals 'notebookDeprecated, notebookMessaging, notebookMime, contribNotebookStaticPreloads, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow, quickPickItemTooltip, notebookExecution, notebookCellExecution, notebookVariableProvider, notebookReplDocument'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-11-09 12:22:42.312 [error] Extension 'ms-toolsai.jupyter-renderers CANNOT USE these API proposals 'contribNotebookStaticPreloads'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-11-09 12:22:42.312 [error] Extension 'ms-vscode.cpptools CANNOT USE these API proposals 'terminalDataWriteEvent, lmTools'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-11-09 12:22:42.312 [error] Extension 'ms-vscode.js-debug-nightly CANNOT USE these API proposals 'portsAttributes, workspaceTrust, tunnels'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-11-09 12:22:42.362 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.prettyPrint` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.363 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.toggleSkippingFile` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.363 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.addCustomBreakpoints` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.363 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.removeAllCustomBreakpoints` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.363 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.addXHRBreakpoints` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.363 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.removeXHRBreakpoint` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.363 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.editXHRBreakpoints` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.363 [info] [ms-vscode.js-debug-nightly]: Command `extension.pwa-node-debug.attachNodeProcess` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.363 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.npmScript` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.363 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.createDebuggerTerminal` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.364 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.startProfile` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.364 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.stopProfile` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.364 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.revealPage` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.364 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.debugLink` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.364 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.createDiagnostics` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.364 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.getDiagnosticLogs` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.364 [info] [ms-vscode.js-debug-nightly]: Command `extension.node-debug.startWithStopOnEntry` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.364 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.openEdgeDevTools` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.364 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.add` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.364 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.remove` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.365 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.removeAll` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.365 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.goToCaller` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.365 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.gotToTarget` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.365 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.enableSourceMapStepping` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.365 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.disableSourceMapStepping` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.365 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.network.viewRequest` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.365 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.network.clear` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.365 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.network.openBody` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.365 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.network.openBodyInHex` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.365 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.network.replayXHR` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.365 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.network.copyUri` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2024-11-09 12:22:42.366 [info] [muhammad-sammy.csharp]: Command `o.restart` already registered by C# (ms-dotnettools.csharp)
+2024-11-09 12:22:42.366 [info] [muhammad-sammy.csharp]: Command `o.pickProjectAndStart` already registered by C# (ms-dotnettools.csharp)
+2024-11-09 12:22:42.366 [info] [muhammad-sammy.csharp]: Command `dotnet.openSolution` already registered by C# (ms-dotnettools.csharp)
+2024-11-09 12:22:42.366 [info] [muhammad-sammy.csharp]: Command `o.fixAll.solution` already registered by C# (ms-dotnettools.csharp)
+2024-11-09 12:22:42.366 [info] [muhammad-sammy.csharp]: Command `o.fixAll.project` already registered by C# (ms-dotnettools.csharp)
+2024-11-09 12:22:42.366 [info] [muhammad-sammy.csharp]: Command `o.fixAll.document` already registered by C# (ms-dotnettools.csharp)
+2024-11-09 12:22:42.366 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.allProjects` already registered by C# (ms-dotnettools.csharp)
+2024-11-09 12:22:42.366 [info] [muhammad-sammy.csharp]: Command `o.reanalyze.currentProject` already registered by C# (ms-dotnettools.csharp)
+2024-11-09 12:22:42.366 [info] [muhammad-sammy.csharp]: Command `dotnet.generateAssets` already registered by C# (ms-dotnettools.csharp)
+2024-11-09 12:22:42.367 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.project` already registered by C# (ms-dotnettools.csharp)
+2024-11-09 12:22:42.367 [info] [muhammad-sammy.csharp]: Command `dotnet.restore.all` already registered by C# (ms-dotnettools.csharp)
+2024-11-09 12:22:42.367 [info] [muhammad-sammy.csharp]: Command `csharp.listProcess` already registered by C# (ms-dotnettools.csharp)
+2024-11-09 12:22:42.367 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteProcess` already registered by C# (ms-dotnettools.csharp)
+2024-11-09 12:22:42.367 [info] [muhammad-sammy.csharp]: Command `csharp.listRemoteDockerProcess` already registered by C# (ms-dotnettools.csharp)
+2024-11-09 12:22:42.367 [info] [muhammad-sammy.csharp]: Command `csharp.attachToProcess` already registered by C# (ms-dotnettools.csharp)
+2024-11-09 12:22:42.367 [info] [muhammad-sammy.csharp]: Command `csharp.reportIssue` already registered by C# (ms-dotnettools.csharp)
+2024-11-09 12:22:42.367 [info] [muhammad-sammy.csharp]: Command `csharp.showDecompilationTerms` already registered by C# (ms-dotnettools.csharp)
+2024-11-09 12:22:42.367 [info] [muhammad-sammy.csharp]: Command `extension.showRazorCSharpWindow` already registered by C# (ms-dotnettools.csharp)
+2024-11-09 12:22:42.368 [info] [muhammad-sammy.csharp]: Command `extension.showRazorHtmlWindow` already registered by C# (ms-dotnettools.csharp)
+2024-11-09 12:22:42.368 [info] [muhammad-sammy.csharp]: Command `razor.reportIssue` already registered by C# (ms-dotnettools.csharp)
+2024-11-09 12:22:42.368 [info] [muhammad-sammy.csharp]: Command `dotnet.test.runTestsInContext` already registered by C# (ms-dotnettools.csharp)
+2024-11-09 12:22:42.368 [info] [muhammad-sammy.csharp]: Command `dotnet.test.debugTestsInContext` already registered by C# (ms-dotnettools.csharp)
+2024-11-09 12:22:42.368 [info] [muhammad-sammy.csharp]: Command `dotnet.restartServer` already registered by C# (ms-dotnettools.csharp)
+2024-11-09 12:22:42.378 [error] [GitHub.vscode-pull-request-github]: commentsView/commentThread/context is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribCommentsViewThreadMenus"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-11-09 12:22:42.378 [error] [GitHub.vscode-pull-request-github]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-11-09 12:22:42.378 [error] [GitHub.vscode-pull-request-github]: comments/comment/editorActions is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribCommentEditorActionsMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-11-09 12:22:42.378 [error] [GitHub.vscode-pull-request-github]: comments/commentThread/additionalActions is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribCommentThreadAdditionalMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-11-09 12:22:42.378 [error] [GitHub.vscode-pull-request-github]: comments/commentThread/title/context is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribCommentPeekContext"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-11-09 12:22:42.379 [error] [GitHub.vscode-pull-request-github]: comments/commentThread/comment/context is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribCommentPeekContext"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-11-09 12:22:42.379 [error] [GitHub.vscode-pull-request-github]: editor/context/share is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribShareMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-11-09 12:22:42.379 [error] [GitHub.vscode-pull-request-github]: file/share is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribShareMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-11-09 12:22:42.379 [error] [GitHub.vscode-pull-request-github]: editor/title/context/share is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribShareMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-11-09 12:22:42.379 [error] [GitHub.vscode-pull-request-github]: explorer/context/share is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribShareMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2024-11-09 12:22:42.380 [error] [ms-python.debugpy]: issue/reporter is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribIssueReporter"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.debugpy
+2024-11-09 12:22:42.380 [error] [ms-python.python]: issue/reporter is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribIssueReporter"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-11-09 12:22:42.380 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-11-09 12:22:42.391 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.codelens.npmScripts'. This property is already registered.
+2024-11-09 12:22:42.391 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.terminalOptions'. This property is already registered.
+2024-11-09 12:22:42.392 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.automaticallyTunnelRemoteServer'. This property is already registered.
+2024-11-09 12:22:42.392 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.debugByLinkOptions'. This property is already registered.
+2024-11-09 12:22:42.392 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.pickAndAttachOptions'. This property is already registered.
+2024-11-09 12:22:42.392 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.autoAttachFilter'. This property is already registered.
+2024-11-09 12:22:42.392 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.autoAttachSmartPattern'. This property is already registered.
+2024-11-09 12:22:42.392 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.breakOnConditionalError'. This property is already registered.
+2024-11-09 12:22:42.393 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.unmapMissingSources'. This property is already registered.
+2024-11-09 12:22:42.393 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.defaultRuntimeExecutable'. This property is already registered.
+2024-11-09 12:22:42.393 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.resourceRequestOptions'. This property is already registered.
+2024-11-09 12:22:42.393 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.enableNetworkView'. This property is already registered.
+2024-11-09 12:22:42.393 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.defaultSolution'. This property is already registered.
+2024-11-09 12:22:42.393 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.codeLens.enableReferencesCodeLens'. This property is already registered.
+2024-11-09 12:22:42.394 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.codeLens.enableTestsCodeLens'. This property is already registered.
+2024-11-09 12:22:42.394 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.completion.showCompletionItemsFromUnimportedNamespaces'. This property is already registered.
+2024-11-09 12:22:42.394 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.completion.showNameCompletionSuggestions'. This property is already registered.
+2024-11-09 12:22:42.394 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.completion.provideRegexCompletions'. This property is already registered.
+2024-11-09 12:22:42.394 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.backgroundAnalysis.analyzerDiagnosticsScope'. This property is already registered.
+2024-11-09 12:22:42.394 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.backgroundAnalysis.compilerDiagnosticsScope'. This property is already registered.
+2024-11-09 12:22:42.394 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.highlighting.highlightRelatedRegexComponents'. This property is already registered.
+2024-11-09 12:22:42.395 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.highlighting.highlightRelatedJsonComponents'. This property is already registered.
+2024-11-09 12:22:42.395 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.enableInlayHintsForImplicitObjectCreation'. This property is already registered.
+2024-11-09 12:22:42.395 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.enableInlayHintsForImplicitVariableTypes'. This property is already registered.
+2024-11-09 12:22:42.395 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.enableInlayHintsForLambdaParameterTypes'. This property is already registered.
+2024-11-09 12:22:42.395 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.inlayHints.enableInlayHintsForTypes'. This property is already registered.
+2024-11-09 12:22:42.395 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.inlayHints.enableInlayHintsForIndexerParameters'. This property is already registered.
+2024-11-09 12:22:42.396 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.inlayHints.enableInlayHintsForLiteralParameters'. This property is already registered.
+2024-11-09 12:22:42.396 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.inlayHints.enableInlayHintsForObjectCreationParameters'. This property is already registered.
+2024-11-09 12:22:42.396 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.inlayHints.enableInlayHintsForOtherParameters'. This property is already registered.
+2024-11-09 12:22:42.396 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.inlayHints.enableInlayHintsForParameters'. This property is already registered.
+2024-11-09 12:22:42.396 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.inlayHints.suppressInlayHintsForParametersThatDifferOnlyBySuffix'. This property is already registered.
+2024-11-09 12:22:42.396 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.inlayHints.suppressInlayHintsForParametersThatMatchArgumentName'. This property is already registered.
+2024-11-09 12:22:42.396 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.inlayHints.suppressInlayHintsForParametersThatMatchMethodIntent'. This property is already registered.
+2024-11-09 12:22:42.396 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.navigation.navigateToDecompiledSources'. This property is already registered.
+2024-11-09 12:22:42.397 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.quickInfo.showRemarksInQuickInfo'. This property is already registered.
+2024-11-09 12:22:42.397 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.symbolSearch.searchReferenceAssemblies'. This property is already registered.
+2024-11-09 12:22:42.397 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.stopAtEntry'. This property is already registered.
+2024-11-09 12:22:42.397 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.console'. This property is already registered.
+2024-11-09 12:22:42.397 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.sourceFileMap'. This property is already registered.
+2024-11-09 12:22:42.397 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.justMyCode'. This property is already registered.
+2024-11-09 12:22:42.397 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.requireExactSource'. This property is already registered.
+2024-11-09 12:22:42.397 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.enableStepFiltering'. This property is already registered.
+2024-11-09 12:22:42.397 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.logging.exceptions'. This property is already registered.
+2024-11-09 12:22:42.398 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.logging.moduleLoad'. This property is already registered.
+2024-11-09 12:22:42.398 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.logging.programOutput'. This property is already registered.
+2024-11-09 12:22:42.398 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.logging.browserStdOut'. This property is already registered.
+2024-11-09 12:22:42.398 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.logging.elapsedTiming'. This property is already registered.
+2024-11-09 12:22:42.398 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.logging.threadExit'. This property is already registered.
+2024-11-09 12:22:42.398 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.logging.processExit'. This property is already registered.
+2024-11-09 12:22:42.398 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.logging.engineLogging'. This property is already registered.
+2024-11-09 12:22:42.398 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.logging.diagnosticsLog.protocolMessages'. This property is already registered.
+2024-11-09 12:22:42.398 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.logging.diagnosticsLog.dispatcherMessages'. This property is already registered.
+2024-11-09 12:22:42.399 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.logging.diagnosticsLog.debugEngineAPITracing'. This property is already registered.
+2024-11-09 12:22:42.399 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.logging.diagnosticsLog.debugRuntimeEventTracing'. This property is already registered.
+2024-11-09 12:22:42.399 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.logging.diagnosticsLog.expressionEvaluationTracing'. This property is already registered.
+2024-11-09 12:22:42.399 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.logging.diagnosticsLog.startDebuggingTracing'. This property is already registered.
+2024-11-09 12:22:42.399 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.logging.consoleUsageMessage'. This property is already registered.
+2024-11-09 12:22:42.399 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.suppressJITOptimizations'. This property is already registered.
+2024-11-09 12:22:42.399 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.symbolOptions.searchPaths'. This property is already registered.
+2024-11-09 12:22:42.399 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.symbolOptions.searchMicrosoftSymbolServer'. This property is already registered.
+2024-11-09 12:22:42.399 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.symbolOptions.searchNuGetOrgSymbolServer'. This property is already registered.
+2024-11-09 12:22:42.399 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.symbolOptions.cachePath'. This property is already registered.
+2024-11-09 12:22:42.400 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.symbolOptions.moduleFilter.mode'. This property is already registered.
+2024-11-09 12:22:42.400 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.symbolOptions.moduleFilter.excludedModules'. This property is already registered.
+2024-11-09 12:22:42.400 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.symbolOptions.moduleFilter.includedModules'. This property is already registered.
+2024-11-09 12:22:42.400 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.symbolOptions.moduleFilter.includeSymbolsNextToModules'. This property is already registered.
+2024-11-09 12:22:42.400 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.symbolOptions.moduleFilter.includeSymbolsOnDemand'. This property is already registered.
+2024-11-09 12:22:42.400 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.expressionEvaluationOptions.allowImplicitFuncEval'. This property is already registered.
+2024-11-09 12:22:42.400 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.expressionEvaluationOptions.allowToString'. This property is already registered.
+2024-11-09 12:22:42.400 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.expressionEvaluationOptions.allowFastEvaluate'. This property is already registered.
+2024-11-09 12:22:42.400 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.debug.expressionEvaluationOptions.showRawValues'. This property is already registered.
+2024-11-09 12:22:42.400 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.unitTestDebuggingOptions'. This property is already registered.
+2024-11-09 12:22:42.401 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.unitTests.runSettingsPath'. This property is already registered.
+2024-11-09 12:22:42.401 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.preferCSharpExtension'. This property is already registered.
+2024-11-09 12:22:42.401 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.dotnetPath'. This property is already registered.
+2024-11-09 12:22:42.401 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.server.path'. This property is already registered.
+2024-11-09 12:22:42.401 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.server.componentPaths'. This property is already registered.
+2024-11-09 12:22:42.401 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.server.startTimeout'. This property is already registered.
+2024-11-09 12:22:42.401 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.server.waitForDebugger'. This property is already registered.
+2024-11-09 12:22:42.401 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.server.trace'. This property is already registered.
+2024-11-09 12:22:42.401 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.server.extensionPaths'. This property is already registered.
+2024-11-09 12:22:42.402 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.server.crashDumpPath'. This property is already registered.
+2024-11-09 12:22:42.402 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.enableXamlTools'. This property is already registered.
+2024-11-09 12:22:42.402 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.server.suppressLspErrorToasts'. This property is already registered.
+2024-11-09 12:22:42.402 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.projects.binaryLogPath'. This property is already registered.
+2024-11-09 12:22:42.402 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.projects.enableAutomaticRestore'. This property is already registered.
+2024-11-09 12:22:42.402 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.languageServer.directory'. This property is already registered.
+2024-11-09 12:22:42.402 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.languageServer.debug'. This property is already registered.
+2024-11-09 12:22:42.402 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.server.trace'. This property is already registered.
+2024-11-09 12:22:42.403 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.languageServer.forceRuntimeCodeGeneration'. This property is already registered.
+2024-11-09 12:22:42.403 [warning] [muhammad-sammy.csharp]: Cannot register 'dotnet.server.useOmnisharp'. This property is already registered.
+2024-11-09 12:22:42.403 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.format.enable'. This property is already registered.
+2024-11-09 12:22:42.403 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressDotnetInstallWarning'. This property is already registered.
+2024-11-09 12:22:42.403 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressDotnetRestoreNotification'. This property is already registered.
+2024-11-09 12:22:42.403 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressProjectJsonWarning'. This property is already registered.
+2024-11-09 12:22:42.403 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressBuildAssetsNotification'. This property is already registered.
+2024-11-09 12:22:42.403 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.suppressHiddenDiagnostics'. This property is already registered.
+2024-11-09 12:22:42.404 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.referencesCodeLens.filteredSymbols'. This property is already registered.
+2024-11-09 12:22:42.404 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.maxProjectFileCountForDiagnosticAnalysis'. This property is already registered.
+2024-11-09 12:22:42.404 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.semanticHighlighting.enabled'. This property is already registered.
+2024-11-09 12:22:42.404 [warning] [muhammad-sammy.csharp]: Cannot register 'csharp.showOmnisharpLogOnError'. This property is already registered.
+2024-11-09 12:22:42.404 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.useModernNet'. This property is already registered.
+2024-11-09 12:22:42.404 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.sdkPath'. This property is already registered.
+2024-11-09 12:22:42.404 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.sdkVersion'. This property is already registered.
+2024-11-09 12:22:42.404 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.sdkIncludePrereleases'. This property is already registered.
+2024-11-09 12:22:42.404 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.monoPath'. This property is already registered.
+2024-11-09 12:22:42.405 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.loggingLevel'. This property is already registered.
+2024-11-09 12:22:42.405 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.autoStart'. This property is already registered.
+2024-11-09 12:22:42.405 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.projectFilesExcludePattern'. This property is already registered.
+2024-11-09 12:22:42.405 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.projectLoadTimeout'. This property is already registered.
+2024-11-09 12:22:42.405 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.maxProjectResults'. This property is already registered.
+2024-11-09 12:22:42.405 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.useEditorFormattingSettings'. This property is already registered.
+2024-11-09 12:22:42.405 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.minFindSymbolsFilterLength'. This property is already registered.
+2024-11-09 12:22:42.405 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.maxFindSymbolsItems'. This property is already registered.
+2024-11-09 12:22:42.405 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.disableMSBuildDiagnosticWarning'. This property is already registered.
+2024-11-09 12:22:42.405 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableMsBuildLoadProjectsOnDemand'. This property is already registered.
+2024-11-09 12:22:42.406 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableEditorConfigSupport'. This property is already registered.
+2024-11-09 12:22:42.406 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableDecompilationSupport'. This property is already registered.
+2024-11-09 12:22:42.406 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableLspDriver'. This property is already registered.
+2024-11-09 12:22:42.406 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.organizeImportsOnFormat'. This property is already registered.
+2024-11-09 12:22:42.406 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.enableAsyncCompletion'. This property is already registered.
+2024-11-09 12:22:42.406 [warning] [muhammad-sammy.csharp]: Cannot register 'omnisharp.dotNetCliPaths'. This property is already registered.
+2024-11-09 12:22:42.406 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.plugin.path'. This property is already registered.
+2024-11-09 12:22:42.406 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.devmode'. This property is already registered.
+2024-11-09 12:22:42.406 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.format.enable'. This property is already registered.
+2024-11-09 12:22:42.407 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.format.codeBlockBraceOnNextLine'. This property is already registered.
+2024-11-09 12:22:42.407 [warning] [muhammad-sammy.csharp]: Cannot register 'razor.completion.commitElementsWithSpace'. This property is already registered.
+2024-11-09 12:22:42.407 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2024-11-09 12:22:42.445 [error] [ms-vscode.js-debug-nightly]: Cannot register multiple views with same id `jsBrowserBreakpoints`
+2024-11-09 12:22:42.445 [error] [ms-vscode.js-debug-nightly]: Cannot register multiple views with same id `jsExcludedCallers`
+2024-11-09 12:22:42.446 [error] [ms-vscode.js-debug-nightly]: Cannot register multiple views with same id `jsDebugNetworkTree`
+2024-11-09 12:22:44.216 [info] [perf] Render performance baseline is 25ms
