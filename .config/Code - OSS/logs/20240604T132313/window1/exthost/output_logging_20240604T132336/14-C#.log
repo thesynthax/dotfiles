@@ -1,0 +1,11 @@
+Using dotnet configured on PATH
+Dotnet path: /usr/share/dotnet/dotnet
+Activating C# standalone...
+waiting for named pipe information from server...
+[Error - 1:24:20 PM] Microsoft.CodeAnalysis.LanguageServer client: couldn't create connection to server.
+Error: Timeout. Named pipe information not received from server.
+    at Function.<anonymous> (/home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-2.18.16-linux-x64/dist/extension.js:2:1291159)
+    at Generator.next (<anonymous>)
+    at s (/home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-2.18.16-linux-x64/dist/extension.js:2:1281031)
+[stdout] {"pipeName":"/tmp/e8254f58.sock"}
+received named pipe information from server

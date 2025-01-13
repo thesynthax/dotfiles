@@ -1,6 +1,0 @@
-[Info  - 7:04:46 PM] ESLint server is starting
-[Info  - 7:04:50 PM] ESLint server running in node v16.14.2
-[Info  - 7:04:50 PM] ESLint server is running.
-[Info  - 7:04:56 PM] ESLint library loaded from: /home/thesynthax/Downloads/node crash course/node_modules/eslint/lib/api.js
-Warning: React version not specified in eslint-plugin-react settings. See https://github.com/jsx-eslint/eslint-plugin-react#configuration .
-[Info  - 5:46:40 PM] ESLint server stopped.

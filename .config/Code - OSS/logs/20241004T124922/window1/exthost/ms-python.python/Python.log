@@ -1,0 +1,139 @@
+2024-10-04 12:51:41.473 [warning] Dir "/home/thesynthax/study/SEM7/LinAl/Program_assignment_ons/.pixi/envs" is not watchable (directory does not exist)
+2024-10-04 12:51:41.473 [info] Default formatter is set to null for workspace /home/thesynthax/study/SEM7/LinAl/Program_assignment_ons
+2024-10-04 12:51:41.473 [error] Unable to check if shell integration is active Error: Extension 'ms-python.python' CANNOT use API proposal: terminalDataWriteEvent.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalDataWriteEvent.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:149:59064)
+    at a.onDidWriteTerminalData (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:171:40355)
+    at new v (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:904597)
+    at me (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1750940)
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1754304
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1754332
+    at Se (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1754399)
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1754879
+    at we (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1754820)
+    at Pe (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1754854)
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1752093
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1753698
+    at Array.reduce (<anonymous>)
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1753670
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1753952
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1754332
+    at Se (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1754399)
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1754879
+    at we (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1754820)
+    at Pe (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1754854)
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1752093
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1781763
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1781784
+    at e._get (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1780797)
+    at e._getButThrowIfAsync (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1780857)
+    at e.get (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1776566)
+    at e.dynamicValue (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1766299)
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1752476
+    at Ee (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1752732)
+    at Se (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1754448)
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1754879
+    at we (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1754820)
+    at Pe (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1754854)
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1752093
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1752027
+    at Array.map (<anonymous>)
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1751998
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1753698
+    at Array.reduce (<anonymous>)
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1753670
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1753952
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1754332
+    at Se (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1754399)
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1754879
+    at we (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1754820)
+    at Pe (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1754854)
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1752093
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1781763
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1781784
+    at e._get (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1780797)
+    at e._getButThrowIfAsync (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1780857)
+    at e.get (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:1776566)
+    at a.get (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:523454)
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:439421
+    at t.activateComponents (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:437708)
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:2707678
+    at e (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:2707210)
+    at m.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:6409)
+    at m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:6372)
+    at m.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:5829)
+2024-10-04 12:51:41.473 [info] Starting Environment refresh
+2024-10-04 12:51:41.473 [info] Searching for interpreters in posix paths locator
+2024-10-04 12:51:41.473 [info] Searching for pyenv environments
+2024-10-04 12:51:41.473 [info] Searching for conda environments
+2024-10-04 12:51:41.473 [info] Searching for global virtual environments
+2024-10-04 12:51:41.473 [info] Searching for custom virtual environments
+2024-10-04 12:51:41.473 [info] pyenv is not installed
+2024-10-04 12:51:41.473 [info] Finished searching for pyenv environments: 14 milliseconds
+2024-10-04 12:51:41.473 [info] Finished searching for custom virtual envs: 13 milliseconds
+2024-10-04 12:51:41.473 [info] > conda info --json
+2024-10-04 12:51:41.473 [info] > pixi --version
+2024-10-04 12:51:41.473 [info] > hatch env show --json
+2024-10-04 12:51:41.473 [info] cwd: .
+2024-10-04 12:51:41.473 [info] > pyenv which python
+2024-10-04 12:51:41.473 [info] cwd: .
+2024-10-04 12:51:41.473 [info] Finished searching for global virtual envs: 42 milliseconds
+2024-10-04 12:51:41.474 [info] Found: /bin/python --> /bin/python3.12
+2024-10-04 12:51:41.478 [info] Found: /bin/python3 --> /bin/python3.12
+2024-10-04 12:51:41.479 [info] Found: /bin/python3.12 --> /bin/python3.12
+2024-10-04 12:51:41.530 [info] Found: /sbin/python --> /sbin/python3.12
+2024-10-04 12:51:41.530 [info] Found: /sbin/python3 --> /sbin/python3.12
+2024-10-04 12:51:41.531 [info] Found: /sbin/python3.12 --> /sbin/python3.12
+2024-10-04 12:51:41.552 [info] Found: /usr/bin/python --> /usr/bin/python3.12
+2024-10-04 12:51:41.553 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2024-10-04 12:51:41.553 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2024-10-04 12:51:41.585 [info] Found: /usr/sbin/python --> /usr/sbin/python3.12
+2024-10-04 12:51:41.585 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.12
+2024-10-04 12:51:41.585 [info] Found: /usr/sbin/python3.12 --> /usr/sbin/python3.12
+2024-10-04 12:51:41.600 [info] > /bin/python -I ~/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-10-04 12:51:41.610 [info] > /sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-10-04 12:51:41.618 [info] Finished searching for interpreters in posix paths locator: 1687 milliseconds
+2024-10-04 12:51:41.624 [info] Environments refresh paths discovered (event): 1694 milliseconds
+2024-10-04 12:51:41.624 [info] Environments refresh paths discovered: 1694 milliseconds
+2024-10-04 12:51:41.641 [info] > /usr/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-10-04 12:51:41.648 [info] > /usr/sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-10-04 12:51:41.678 [info] Environments refresh finished (event): 1748 milliseconds
+2024-10-04 12:51:41.686 [info] Environment refresh took 1757 milliseconds
+2024-10-04 12:51:41.688 [warning] could not find a pixi interpreter for the interpreter at /bin/python
+2024-10-04 12:51:41.690 [info] Python interpreter path: /bin/python
+2024-10-04 12:51:41.695 [error] [
+  'Failed to activate a workspace, Class name = v, completed in 1765ms, has a falsy return value, Arg 1: <Uri:/home/thesynthax/study/SEM7/LinAl/Program_assignment_ons>, Arg 2: {"started":1728026499789}, Return Value: undefined',
+  Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+      at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:149:59064)
+      at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:171:33061)
+      at C.activate (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:938870)
+      at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:2457
+      at Array.map (<anonymous>)
+      at v.activateWorkspace (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:2447)
+]
+2024-10-04 12:51:41.695 [error] Failure during activation. Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:149:59064)
+    at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:171:33061)
+    at C.activate (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:938870)
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:2457
+    at Array.map (<anonymous>)
+    at v.activateWorkspace (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:2447)
+2024-10-04 12:51:41.695 [error] sendStartupTelemetry() failed. Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at P (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:149:59064)
+    at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:171:33061)
+    at C.activate (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:938870)
+    at /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:2457
+    at Array.map (<anonymous>)
+    at v.activateWorkspace (/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:2447)
+2024-10-04 12:51:41.720 [info] Starting Pylance language server.
+2024-10-04 12:51:42.303 [info] > /sbin/python3.12 -I ~/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-10-04 12:51:42.322 [info] > /usr/sbin/python3.12 -I ~/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-10-04 12:51:42.391 [info] > /sbin/python3 -I ~/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-10-04 12:51:42.399 [info] > /usr/sbin/python3 -I ~/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py

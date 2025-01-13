@@ -1,0 +1,15 @@
+2024-06-04 13:23:50.711 [warning] /home/thesynthax/.ssh/config: ENOENT: no such file or directory, open '/home/thesynthax/.ssh/config'
+2024-06-04 13:23:50.711 [info] Activation> Extension version: 0.80.1
+2024-06-04 13:23:50.797 [info] Looking for git repository
+2024-06-04 13:23:50.797 [info] Found 0 repositories during activation
+2024-06-04 13:23:50.797 [info] Git repository found, initializing review manager and pr tree view.
+2024-06-04 13:23:50.802 [info] Registering git provider
+2024-06-04 13:23:50.802 [info] Review+0> Validate state in progress
+2024-06-04 13:23:50.802 [info] Review+0> Validating state...
+2024-06-04 13:23:50.818 [info] Found GitHub remote for folder /home/thesynthax/projects/cpp/opengl-raytracing
+2024-06-04 13:23:50.819 [info] Trying to use globalState for assignableUsers.
+2024-06-04 13:23:50.824 [info] GlobalState does not exist for assignableUsers.
+2024-06-04 13:23:50.825 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-06-04 13:23:50.826 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-06-04 13:23:51.069 [info] Repo state for file:///home/thesynthax/projects/cpp/opengl-raytracing changed.
+2024-06-04 13:23:51.069 [info] Repo file:///home/thesynthax/projects/cpp/opengl-raytracing has already been setup.

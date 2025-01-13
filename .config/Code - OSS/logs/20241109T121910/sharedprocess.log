@@ -1,0 +1,192 @@
+2024-11-09 12:19:17.965 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:17.977 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:18.131 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:18.773 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:18.884 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:18.974 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:19.191 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:19.291 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:19.411 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:19.509 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:20.093 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:20.155 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:20.532 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:28.565 [info] Getting Manifest... eamodio.gitlens
+2024-11-09 12:19:28.565 [info] Getting Manifest... equinusocio.vsc-material-theme
+2024-11-09 12:19:28.566 [info] Getting Manifest... equinusocio.vsc-material-theme-icons
+2024-11-09 12:19:28.567 [info] Getting Manifest... github.vscode-pull-request-github
+2024-11-09 12:19:28.567 [info] Getting Manifest... ms-dotnettools.csharp
+2024-11-09 12:19:28.568 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2024-11-09 12:19:28.569 [info] Getting Manifest... ms-python.debugpy
+2024-11-09 12:19:28.570 [info] Getting Manifest... ms-python.python
+2024-11-09 12:19:28.570 [info] Getting Manifest... ms-python.vscode-pylance
+2024-11-09 12:19:28.571 [info] Getting Manifest... ms-toolsai.jupyter
+2024-11-09 12:19:28.571 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2024-11-09 12:19:28.572 [info] Getting Manifest... ms-vscode.cpptools
+2024-11-09 12:19:28.573 [info] Getting Manifest... ms-vscode.js-debug-nightly
+2024-11-09 12:19:28.574 [info] Getting Manifest... ms-vscode.vscode-typescript-next
+2024-11-09 12:19:28.575 [info] Getting Manifest... robbowen.synthwave-vscode
+2024-11-09 12:19:28.576 [info] Getting Manifest... tabnine.tabnine-vscode
+2024-11-09 12:19:28.577 [info] Getting Manifest... vadimcn.vscode-lldb
+2024-11-09 12:19:28.577 [info] Getting Manifest... zhuangtongfa.material-theme
+2024-11-09 12:19:28.717 [info] Installing extension: ms-vscode.vscode-typescript-next {"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-09 12:19:28.720 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-09 12:19:28.731 [info] Installing extension: ms-vscode.js-debug-nightly {"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-09 12:19:28.732 [info] Installing extension: ms-vscode.cpptools {"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-09 12:19:28.737 [info] Installing extension: ms-python.debugpy {"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-09 12:19:28.738 [info] Installing extension: ms-python.vscode-pylance {"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-09 12:19:28.740 [info] Installing extension: equinusocio.vsc-material-theme-icons {"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-09 12:19:28.740 [info] Installing extension: equinusocio.vsc-material-theme {"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-09 12:19:28.741 [info] Installing extension: zhuangtongfa.material-theme {"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-09 12:19:28.762 [info] Installing extension: ms-toolsai.jupyter-renderers {"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-09 12:19:28.763 [info] Installing extension: ms-toolsai.jupyter {"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-09 12:19:28.766 [info] Installing extension: github.vscode-pull-request-github {"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-09 12:19:28.774 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:28.909 [info] Installing extension: vadimcn.vscode-lldb {"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-09 12:19:28.909 [info] Installing extension: robbowen.synthwave-vscode {"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-09 12:19:28.913 [info] Installing extension: ms-dotnettools.csharp {"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-09 12:19:28.913 [info] Installing extension: ms-dotnettools.vscode-dotnet-runtime {"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-09 12:19:28.917 [info] Installing extension: eamodio.gitlens {"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-09 12:19:28.966 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:29.172 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:29.183 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:29.274 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:29.327 [info] Installing extension: tabnine.tabnine-vscode {"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-09 12:19:29.336 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:29.407 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:29.417 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:29.456 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:29.885 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2024-11-09 12:19:29.975 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:30.042 [info] Getting Manifest... ms-python.python
+2024-11-09 12:19:30.072 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:30.205 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:30.254 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:30.558 [info] Getting Manifest... ms-python.python
+2024-11-09 12:19:33.418 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:34.619 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-09 12:19:34.619 [info] Extension signature verification is not done: zhuangtongfa.material-theme
+2024-11-09 12:19:34.668 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-09 12:19:34.668 [info] Extension signature verification is not done: ms-vscode.js-debug-nightly
+2024-11-09 12:19:34.681 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:36.153 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-09 12:19:36.154 [info] Extension signature verification is not done: robbowen.synthwave-vscode
+2024-11-09 12:19:36.154 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-09 12:19:36.154 [info] Extension signature verification is not done: ms-dotnettools.vscode-dotnet-runtime
+2024-11-09 12:19:36.154 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-09 12:19:36.154 [info] Extension signature verification is not done: vadimcn.vscode-lldb
+2024-11-09 12:19:36.155 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-09 12:19:36.155 [info] Extension signature verification is not done: ms-python.python
+2024-11-09 12:19:36.155 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-09 12:19:36.155 [info] Extension signature verification is not done: ms-toolsai.jupyter
+2024-11-09 12:19:36.155 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-09 12:19:36.155 [info] Extension signature verification is not done: github.vscode-pull-request-github
+2024-11-09 12:19:36.216 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/vadimcn.vscode-lldb-1.11.1: vadimcn.vscode-lldb
+2024-11-09 12:19:37.112 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/vadimcn.vscode-lldb-1.11.1
+2024-11-09 12:19:37.118 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-09 12:19:37.118 [info] Extension signature verification is not done: ms-vscode.vscode-typescript-next
+2024-11-09 12:19:37.119 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-09 12:19:37.119 [info] Extension signature verification is not done: ms-toolsai.jupyter-renderers
+2024-11-09 12:19:37.126 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-09 12:19:37.126 [info] Extension signature verification is not done: eamodio.gitlens
+2024-11-09 12:19:37.160 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/robbowen.synthwave-vscode-0.1.17: robbowen.synthwave-vscode
+2024-11-09 12:19:37.251 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-09 12:19:37.251 [info] Extension signature verification is not done: tabnine.tabnine-vscode
+2024-11-09 12:19:37.371 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.2: ms-dotnettools.vscode-dotnet-runtime
+2024-11-09 12:19:37.411 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/robbowen.synthwave-vscode-0.1.17
+2024-11-09 12:19:37.451 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-09 12:19:37.451 [info] Extension signature verification is not done: equinusocio.vsc-material-theme
+2024-11-09 12:19:37.452 [info] Marked extension as uninstalled vadimcn.vscode-lldb-1.10.0
+2024-11-09 12:19:37.452 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-09 12:19:37.452 [info] Extension signature verification is not done: ms-python.debugpy
+2024-11-09 12:19:37.466 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:37.473 [info] Extension installed successfully: vadimcn.vscode-lldb vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2024-11-09 12:19:37.516 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-vscode.js-debug-nightly-2024.11.417: ms-vscode.js-debug-nightly
+2024-11-09 12:19:37.561 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/zhuangtongfa.material-theme-3.17.6: zhuangtongfa.material-theme
+2024-11-09 12:19:37.827 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.2
+2024-11-09 12:19:37.827 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-vscode.js-debug-nightly-2024.11.417
+2024-11-09 12:19:37.828 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/zhuangtongfa.material-theme-3.17.6
+2024-11-09 12:19:37.859 [info] Marked extension as uninstalled robbowen.synthwave-vscode-0.1.15
+2024-11-09 12:19:37.877 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:37.886 [info] Extension installed successfully: robbowen.synthwave-vscode vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2024-11-09 12:19:37.919 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.100.1: github.vscode-pull-request-github
+2024-11-09 12:19:38.036 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.100.1
+2024-11-09 12:19:38.047 [info] Marked extension as uninstalled ms-dotnettools.vscode-dotnet-runtime-2.1.7
+2024-11-09 12:19:38.083 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:38.089 [info] Extension installed successfully: ms-dotnettools.vscode-dotnet-runtime vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2024-11-09 12:19:38.121 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/equinusocio.vsc-material-theme-34.7.9: equinusocio.vsc-material-theme
+2024-11-09 12:19:38.171 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.187.0: tabnine.tabnine-vscode
+2024-11-09 12:19:38.212 [info] Marked extension as uninstalled ms-vscode.js-debug-nightly-2024.10.317
+2024-11-09 12:19:38.320 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/equinusocio.vsc-material-theme-34.7.9
+2024-11-09 12:19:38.434 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.21: ms-toolsai.jupyter-renderers
+2024-11-09 12:19:39.644 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-vscode.vscode-typescript-next-5.8.20241108: ms-vscode.vscode-typescript-next
+2024-11-09 12:19:40.156 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.187.0
+2024-11-09 12:19:41.699 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.21
+2024-11-09 12:19:41.772 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:41.782 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:41.787 [info] Marked extension as uninstalled zhuangtongfa.material-theme-3.17.5
+2024-11-09 12:19:41.795 [info] Extension installed successfully: ms-vscode.js-debug-nightly vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2024-11-09 12:19:41.795 [info] Extension installed successfully: zhuangtongfa.material-theme vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2024-11-09 12:19:42.574 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-vscode.vscode-typescript-next-5.8.20241108
+2024-11-09 12:19:42.613 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64: ms-toolsai.jupyter
+2024-11-09 12:19:43.628 [info] Marked extension as uninstalled github.vscode-pull-request-github-0.98.0
+2024-11-09 12:19:45.391 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64
+2024-11-09 12:19:45.408 [info] Marked extension as uninstalled equinusocio.vsc-material-theme-34.7.5
+2024-11-09 12:19:45.446 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:45.472 [info] Extension installed successfully: github.vscode-pull-request-github vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2024-11-09 12:19:45.481 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:45.487 [info] Extension installed successfully: equinusocio.vsc-material-theme vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2024-11-09 12:19:47.997 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-15.6.3: eamodio.gitlens
+2024-11-09 12:19:48.031 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-09 12:19:48.031 [info] Extension signature verification is not done: equinusocio.vsc-material-theme-icons
+2024-11-09 12:19:48.032 [info] Marked extension as uninstalled tabnine.tabnine-vscode-3.166.0
+2024-11-09 12:19:50.301 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-15.6.3
+2024-11-09 12:19:50.317 [info] Marked extension as uninstalled ms-toolsai.jupyter-renderers-1.0.19
+2024-11-09 12:19:50.687 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-python.debugpy-2024.12.0-linux-x64: ms-python.debugpy
+2024-11-09 12:19:50.732 [info] Marked extension as uninstalled ms-vscode.vscode-typescript-next-5.7.20241003
+2024-11-09 12:19:51.415 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-python.debugpy-2024.12.0-linux-x64
+2024-11-09 12:19:51.421 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-09 12:19:51.421 [info] Extension signature verification is not done: ms-dotnettools.csharp
+2024-11-09 12:19:51.423 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-09 12:19:51.423 [info] Extension signature verification is not done: ms-vscode.cpptools
+2024-11-09 12:19:51.425 [info] Marked extension as uninstalled ms-toolsai.jupyter-2024.8.1-linux-x64
+2024-11-09 12:19:51.460 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:51.490 [info] Extension installed successfully: tabnine.tabnine-vscode vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2024-11-09 12:19:51.495 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:51.505 [info] Extension installed successfully: ms-toolsai.jupyter-renderers vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2024-11-09 12:19:51.531 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:51.562 [info] Extension installed successfully: ms-vscode.vscode-typescript-next vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2024-11-09 12:19:51.567 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:51.575 [info] Extension installed successfully: ms-toolsai.jupyter vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2024-11-09 12:19:51.745 [info] Marked extension as uninstalled eamodio.gitlens-15.5.1
+2024-11-09 12:19:52.038 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:52.045 [info] Marked extension as uninstalled ms-python.debugpy-2024.10.0-linux-x64
+2024-11-09 12:19:52.069 [info] Extension installed successfully: eamodio.gitlens vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2024-11-09 12:19:52.076 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:52.084 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2024-11-09 12:19:52.919 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-09 12:19:52.919 [info] Extension signature verification is not done: ms-python.vscode-pylance
+2024-11-09 12:19:56.272 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.18.1-linux-x64: ms-python.python
+2024-11-09 12:19:57.531 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.18.1-linux-x64
+2024-11-09 12:19:58.725 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:19:58.737 [info] Marked extension as uninstalled ms-python.python-2024.14.1-linux-x64
+2024-11-09 12:19:58.758 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2024-11-09 12:20:07.442 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/equinusocio.vsc-material-theme-icons-3.8.10: equinusocio.vsc-material-theme-icons
+2024-11-09 12:20:07.813 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/equinusocio.vsc-material-theme-icons-3.8.10
+2024-11-09 12:20:07.824 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-vscode.cpptools-1.22.11-linux-x64: ms-vscode.cpptools
+2024-11-09 12:20:09.302 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-vscode.cpptools-1.22.11-linux-x64
+2024-11-09 12:20:09.349 [info] Marked extension as uninstalled equinusocio.vsc-material-theme-icons-3.8.8
+2024-11-09 12:20:09.424 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:20:09.431 [info] Extension installed successfully: equinusocio.vsc-material-theme-icons vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2024-11-09 12:20:18.207 [info] Marked extension as uninstalled ms-vscode.cpptools-1.21.6-linux-x64
+2024-11-09 12:20:18.237 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:20:18.246 [info] Extension installed successfully: ms-vscode.cpptools vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2024-11-09 12:20:33.540 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-2.50.27-linux-x64: ms-dotnettools.csharp
+2024-11-09 12:20:33.796 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-2.50.27-linux-x64
+2024-11-09 12:20:34.454 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-11-09 12:20:34.484 [info] Marked extension as uninstalled ms-dotnettools.csharp-2.45.25-linux-x64
+2024-11-09 12:20:34.490 [info] Extension installed successfully: ms-dotnettools.csharp vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2024-11-09 12:20:36.450 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-python.vscode-pylance-2024.11.1: ms-python.vscode-pylance
+2024-11-09 12:20:36.824 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-python.vscode-pylance-2024.11.1
+2024-11-09 12:20:37.826 [info] Marked extension as uninstalled ms-python.vscode-pylance-2024.9.2
+2024-11-09 12:20:37.846 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json

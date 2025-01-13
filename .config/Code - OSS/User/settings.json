@@ -52,5 +52,6 @@
     "workbench.iconTheme": "vscode-icons",
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
+    },
+    "cmake.configureOnOpen": true
 }

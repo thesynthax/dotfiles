@@ -1,0 +1,9 @@
+[Running] python -u "/home/thesynthax/study/SEM7/LinAl/Program_assignment_ons/Linear_Algebra_Prog_Assign.ipynb"
+Traceback (most recent call last):
+  File "/home/thesynthax/study/SEM7/LinAl/Program_assignment_ons/Linear_Algebra_Prog_Assign.ipynb", line 38, in <module>
+    "trusted": false,
+               ^^^^^
+NameError: name 'false' is not defined. Did you mean: 'False'?
+
+[Done] exited with code=1 in 0.035 seconds
+

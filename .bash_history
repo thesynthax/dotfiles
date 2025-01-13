@@ -12,3 +12,5 @@ exit
 ls
 doas wg-quick arch down
 doas wg-quick down arch
+man 2 write
+sudo su

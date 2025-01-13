@@ -3,16 +3,20 @@ local servers = {
     "clangd",
     "lua_ls",
 	"pyright",
+    "cmake",
+    "glsl_analyzer",
 	"jsonls",
     "tsserver",
     "emmet_ls",
     "html",
+    "cssls",
     "tailwindcss",
     "rust_analyzer",
-    "omnisharp",
+    --"omnisharp",
     "dockerls",
     "docker_compose_language_service",
-    "csharp_ls"
+    "csharp_ls",
+    "gopls"
 }
 
 local settings = {
@@ -63,7 +67,6 @@ require "lspconfig".emmet_ls.setup {
     filetypes = { "html", "css", "typescriptreact", "javascriptreact", "javascript" },
 }
 
---[[]]
 local pid = vim.fn.getpid()
 require'lspconfig'.omnisharp.setup {
     cmd = { "/home/thesynthax/.cache/omnisharp-vim/omnisharp-roslyn/run", "--languageserver", "--hostPID", tostring(pid) },

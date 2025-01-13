@@ -1,0 +1,428 @@
+2024-06-04 13:23:36.747 [info] Extension host with pid 1257067 started
+2024-06-04 13:23:36.747 [info] Skipping acquiring lock for /home/thesynthax/.config/Code - OSS/User/workspaceStorage/601f559a567bcde3ebf97c23c4d4b710.
+2024-06-04 13:23:37.386 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-06-04 13:23:37.392 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: true, activationEvent: '*'
+2024-06-04 13:23:38.306 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-06-04 13:23:38.351 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-06-04 13:23:38.494 [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock, startup: true, activationEvent: '*'
+2024-06-04 13:23:38.571 [info] ExtensionService#_doActivateExtension minhthai.vscode-todo-parser, startup: true, activationEvent: '*'
+2024-06-04 13:23:38.988 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2024-06-04 13:23:39.046 [info] ExtensionService#_doActivateExtension standard.vscode-standard, startup: true, activationEvent: '*'
+2024-06-04 13:23:41.422 [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: true, activationEvent: '*'
+2024-06-04 13:23:41.553 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-06-04 13:23:41.617 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-06-04 13:23:41.656 [info] ExtensionService#_doActivateExtension muhammad-sammy.csharp, startup: true, activationEvent: 'workspaceContains:**/*.{csproj,sln,slnf,csx,cake}'
+2024-06-04 13:23:41.816 [info] ExtensionService#_doActivateExtension ms-vscode.cmake-tools, startup: true, activationEvent: 'workspaceContains:*/CMakeLists.txt,*/*/CMakeLists.txt,*/*/*/CMakeLists.txt'
+2024-06-04 13:23:42.112 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: true, activationEvent: 'workspaceContains:**/*.{csproj,sln,slnf,csx,cake}', root cause: ms-dotnettools.csharp
+2024-06-04 13:23:42.314 [info] ExtensionService#_doActivateExtension ms-dotnettools.csharp, startup: true, activationEvent: 'workspaceContains:**/*.{csproj,sln,slnf,csx,cake}'
+2024-06-04 13:23:43.496 [info] Eager extensions activated
+2024-06-04 13:23:43.515 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-06-04 13:23:43.516 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-06-04 13:23:43.531 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2024-06-04 13:23:44.045 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-06-04 13:23:44.232 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-06-04 13:23:44.486 [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-06-04 13:23:45.404 [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-06-04 13:23:45.786 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-06-04 13:23:46.131 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-06-04 13:23:47.178 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onStartupFinished', root cause: GitHub.vscode-pull-request-github
+2024-06-04 13:23:47.240 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-06-04 13:23:47.588 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-06-04 13:23:47.769 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2024-06-04 13:23:47.845 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2024-06-04 13:23:47.872 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-06-04 13:23:48.029 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-06-04 13:23:48.199 [info] ExtensionService#_doActivateExtension vsls-contrib.codetour, startup: false, activationEvent: 'onStartupFinished'
+2024-06-04 13:23:48.223 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-06-04 13:23:48.411 [error] Error: command 'csharp.listProcess' already exists
+    at registerCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188071)
+    at Object.registerCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:163:21876)
+    at Object.<anonymous> (/home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-2.18.16-linux-x64/dist/extension.js:2:1152644)
+    at Generator.next (<anonymous>)
+    at /home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-2.18.16-linux-x64/dist/extension.js:2:1150075
+    at new Promise (<anonymous>)
+    at r (/home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-2.18.16-linux-x64/dist/extension.js:2:1149820)
+    at Object.t.activate (/home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-2.18.16-linux-x64/dist/extension.js:2:1152072)
+    at /home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-2.18.16-linux-x64/dist/extension.js:2:1317840
+    at Generator.next (<anonymous>)
+    at s (/home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-2.18.16-linux-x64/dist/extension.js:2:1312179)
+2024-06-04 13:23:49.020 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2024-06-04 13:23:49.291 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-06-04 13:23:49.336 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-06-04 13:23:49.381 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-06-04 13:23:50.811 [error] Activating extension GitHub.vscode-pull-request-github failed due to an error:
+2024-06-04 13:23:50.811 [error] Error: Extension 'GitHub.vscode-pull-request-github' CANNOT use API proposal: diffCommand.
+Its package.json#enabledApiProposals-property declares:  but NOT diffCommand.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+    at y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:141:51558)
+    at Object.registerDiffInformationCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:163:22374)
+    at V1 (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1/dist/extension.js:2001:9875)
+    at B2 (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1/dist/extension.js:2120:4420)
+    at $2 (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1/dist/extension.js:2120:8378)
+    at q2 (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1/dist/extension.js:2120:5739)
+    at h.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:143:6281)
+    at h.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:143:6244)
+    at h.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:143:5701)
+2024-06-04 13:24:01.440 [error] onWillSaveTextDocument-listener from extension 'EditorConfig.EditorConfig' threw ERROR
+2024-06-04 13:24:01.556 [error] Error: timeout
+    at Timeout._onTimeout (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:72759)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2024-06-04 13:24:21.344 [error] Error: Timeout. Named pipe information not received from server.
+    at Function.<anonymous> (/home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-2.18.16-linux-x64/dist/extension.js:2:1291159)
+    at Generator.next (<anonymous>)
+    at s (/home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-2.18.16-linux-x64/dist/extension.js:2:1281031)
+2024-06-04 13:25:18.443 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp', root cause: franneck94.c-cpp-runner
+2024-06-04 13:25:25.731 [warning] TextEditor is closed/disposed
+2024-06-04 13:25:26.519 [warning] DiagnosticCollection with name 'csharp' does already exist.
+2024-06-04 13:25:29.353 [info] ExtensionService#_doActivateExtension franneck94.c-cpp-runner, startup: false, activationEvent: 'onLanguage:cpp'
+2024-06-04 13:25:30.563 [warning] TextEditor is closed/disposed
+2024-06-04 13:27:16.539 [warning] TextEditor is closed/disposed
+2024-06-04 13:59:20.667 [info] Extension host terminating: renderer closed the MessagePort
+2024-06-04 13:59:21.668 [warning] Canceled
+2024-06-04 13:59:22.262 [error] Canceled: Canceled
+    at new O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:143:47131)
+    at c.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:5542)
+    at Proxy.F.<computed>.z.charCodeAt.F.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:2993)
+    at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188926)
+    at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at k.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:187688)
+    at r.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:189465)
+    at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188457)
+    at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:163:22673)
+    at a.O [as value] (/usr/lib/code/extensions/git/dist/main.js:2:945138)
+    at o.y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+    at o.z (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:730)
+    at o.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:946)
+    at Object.p [as dispose] (/usr/lib/code/extensions/git/dist/main.js:2:964222)
+    at /usr/lib/code/extensions/git/dist/main.js:2:970260
+    at Array.forEach (<anonymous>)
+    at f.dispose (/usr/lib/code/extensions/git/dist/main.js:2:970246)
+    at h.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:3955)
+    at h.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:4052)
+    at h.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:947395)
+    at h.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:4052)
+    at a (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at f.eb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:9975)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:7824
+    at Array.map (<anonymous>)
+    at f.$ (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:7811)
+    at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:8085)
+    at a.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+    at t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:176:9922)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:176:6347)
+    at MessagePortMain.emit (node:events:517:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-06-04 13:59:22.265 [error] Canceled: Canceled
+    at new O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:143:47131)
+    at c.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:5542)
+    at Proxy.F.<computed>.z.charCodeAt.F.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:2993)
+    at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188926)
+    at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at k.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:187688)
+    at r.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:189465)
+    at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188457)
+    at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:163:22673)
+    at a.VscodeDevShareProvider.set hasGitHubRepositories [as hasGitHubRepositories] (/usr/lib/code/extensions/github/dist/extension.js:2:322969)
+    at /usr/lib/code/extensions/github/dist/extension.js:2:323928
+    at a.value (/usr/lib/code/extensions/git/dist/main.js:2:1050711)
+    at o.y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+    at o.z (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:730)
+    at o.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:946)
+    at Object.p [as dispose] (/usr/lib/code/extensions/git/dist/main.js:2:964222)
+    at /usr/lib/code/extensions/git/dist/main.js:2:970260
+    at Array.forEach (<anonymous>)
+    at f.dispose (/usr/lib/code/extensions/git/dist/main.js:2:970246)
+    at h.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:3955)
+    at h.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:4052)
+    at h.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:947395)
+    at h.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:4052)
+    at a (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at f.eb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:9975)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:7824
+    at Array.map (<anonymous>)
+    at f.$ (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:7811)
+    at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:8085)
+    at a.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+    at t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:176:9922)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:176:6347)
+    at MessagePortMain.emit (node:events:517:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-06-04 13:59:22.267 [error] Canceled: Canceled
+    at new O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:143:47131)
+    at c.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:5542)
+    at Proxy.F.<computed>.z.charCodeAt.F.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:2993)
+    at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188926)
+    at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at k.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:187688)
+    at r.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:189465)
+    at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188457)
+    at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:163:22673)
+    at e (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1/dist/extension.js:1948:1467)
+    at Object.n [as setContext] (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1/dist/extension.js:1948:1582)
+    at Lp.updateActiveReviewCount (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1/dist/extension.js:2008:22909)
+    at Lp.removeRepo (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1/dist/extension.js:2008:24054)
+    at a.value (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1/dist/extension.js:2120:4217)
+    at o.y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+    at o.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:877)
+    at a.value (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1/dist/extension.js:1916:446993)
+    at o.y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+    at o.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:877)
+    at /home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1/dist/extension.js:2008:27770
+    at a.value (/usr/lib/code/extensions/git/dist/main.js:2:1050711)
+    at o.y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+    at o.z (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:730)
+    at o.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:946)
+    at Object.p [as dispose] (/usr/lib/code/extensions/git/dist/main.js:2:964222)
+    at /usr/lib/code/extensions/git/dist/main.js:2:970260
+    at Array.forEach (<anonymous>)
+    at f.dispose (/usr/lib/code/extensions/git/dist/main.js:2:970246)
+    at h.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:3955)
+    at h.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:4052)
+    at h.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:947395)
+    at h.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:4052)
+    at a (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at f.eb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:9975)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:7824
+    at Array.map (<anonymous>)
+    at f.$ (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:7811)
+    at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:8085)
+    at a.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+    at t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:176:9922)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:176:6347)
+    at MessagePortMain.emit (node:events:517:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-06-04 13:59:22.268 [error] Canceled: Canceled
+    at new O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:143:47131)
+    at c.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:5542)
+    at Proxy.F.<computed>.z.charCodeAt.F.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:2993)
+    at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188926)
+    at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at k.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:187688)
+    at r.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:189465)
+    at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188457)
+    at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:163:22673)
+    at e (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1/dist/extension.js:1948:1467)
+    at Object.n [as setContext] (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1/dist/extension.js:1948:1582)
+    at Nm.setReviewModeContexts (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1/dist/extension.js:2107:14107)
+    at Nm.removePrFromView (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1/dist/extension.js:2107:14734)
+    at Gc.clear (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1/dist/extension.js:1989:25895)
+    at Gc.dispose (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1/dist/extension.js:1991:167)
+    at Om.removeReviewManager (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1/dist/extension.js:2107:45442)
+    at a.value (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1/dist/extension.js:2120:4235)
+    at o.y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+    at o.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:877)
+    at a.value (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1/dist/extension.js:1916:446993)
+    at o.y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+    at o.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:877)
+    at /home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1/dist/extension.js:2008:27770
+    at a.value (/usr/lib/code/extensions/git/dist/main.js:2:1050711)
+    at o.y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+    at o.z (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:730)
+    at o.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:946)
+    at Object.p [as dispose] (/usr/lib/code/extensions/git/dist/main.js:2:964222)
+    at /usr/lib/code/extensions/git/dist/main.js:2:970260
+    at Array.forEach (<anonymous>)
+    at f.dispose (/usr/lib/code/extensions/git/dist/main.js:2:970246)
+    at h.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:3955)
+    at h.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:4052)
+    at h.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:947395)
+    at h.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:4052)
+    at a (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at f.eb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:9975)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:7824
+    at Array.map (<anonymous>)
+    at f.$ (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:7811)
+    at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:8085)
+    at a.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+    at t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:176:9922)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:176:6347)
+    at MessagePortMain.emit (node:events:517:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-06-04 13:59:22.268 [error] Canceled: Canceled
+    at new O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:143:47131)
+    at c.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:5542)
+    at Proxy.F.<computed>.z.charCodeAt.F.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:2993)
+    at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188926)
+    at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at k.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:187688)
+    at r.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:189465)
+    at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188457)
+    at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:163:22673)
+    at w (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:1081:41245)
+    at h (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:1081:46293)
+    at ActionRunners._updateContextKeys (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:663:18419)
+    at s (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:663:16862)
+    at RegisteredActionRunner.unregister (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:663:17005)
+    at RegisteredActionRunner.dispose (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:663:15658)
+    at ActionRunners.dispose (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:663:16445)
+    at /home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:1041:19544
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:1041:19526)
+    at a (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at f.eb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:9975)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:7824
+    at Array.map (<anonymous>)
+    at f.$ (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:7811)
+    at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:8085)
+    at a.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+    at t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:176:9922)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:176:6347)
+    at MessagePortMain.emit (node:events:517:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-06-04 13:59:22.269 [error] Canceled: Canceled
+    at new O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:143:47131)
+    at c.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:5542)
+    at Proxy.F.<computed>.z.charCodeAt.F.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:2993)
+    at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188926)
+    at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at k.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:187688)
+    at r.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:189465)
+    at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188457)
+    at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:163:22673)
+    at w (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:1081:41245)
+    at h (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:1081:46293)
+    at ActionRunners._updateContextKeys (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:663:18419)
+    at s (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:663:16862)
+    at RegisteredActionRunner.unregister (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:663:17005)
+    at RegisteredActionRunner.dispose (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:663:15658)
+    at ActionRunners.dispose (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:663:16445)
+    at /home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:1041:19544
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:1041:19526)
+    at a (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at f.eb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:9975)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:7824
+    at Array.map (<anonymous>)
+    at f.$ (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:7811)
+    at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:8085)
+    at a.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+    at t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:176:9922)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:176:6347)
+    at MessagePortMain.emit (node:events:517:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-06-04 13:59:22.270 [error] Canceled: Canceled
+    at new O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:143:47131)
+    at c.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:5542)
+    at Proxy.F.<computed>.z.charCodeAt.F.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:2993)
+    at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188926)
+    at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at k.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:187688)
+    at r.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:189465)
+    at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188457)
+    at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:163:22673)
+    at w (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:1081:41245)
+    at h (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:1081:46293)
+    at ActionRunners._updateContextKeys (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:663:18419)
+    at s (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:663:16862)
+    at RegisteredActionRunner.unregister (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:663:17005)
+    at RegisteredActionRunner.dispose (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:663:15658)
+    at ActionRunners.dispose (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:663:16445)
+    at /home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:1041:19544
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-14.8.2/dist/gitlens.js:1041:19526)
+    at a (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at f.eb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:9975)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:7824
+    at Array.map (<anonymous>)
+    at f.$ (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:7811)
+    at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:8085)
+    at a.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+    at t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:176:9922)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:176:6347)
+    at MessagePortMain.emit (node:events:517:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-06-04 13:59:22.777 [error] Canceled: Canceled
+    at new O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:143:47131)
+    at c.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:5542)
+    at Proxy.F.<computed>.z.charCodeAt.F.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:2993)
+    at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188926)
+    at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at k.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:187688)
+    at r.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:189465)
+    at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188457)
+    at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:163:22673)
+    at setContextValue (/home/thesynthax/.vscode-oss/extensions/franneck94.c-cpp-runner-9.4.7/dist/webpack:/c-cpp-runner/src/utils/vscodeUtils.ts:26:26)
+    at Object.deactivate (/home/thesynthax/.vscode-oss/extensions/franneck94.c-cpp-runner-9.4.7/dist/webpack:/c-cpp-runner/src/extension.ts:142:18)
+    at f.eb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:9780)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:7824
+    at Array.map (<anonymous>)
+    at f.$ (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:7811)
+    at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:8085)
+    at a.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+    at t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:176:9922)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:176:6347)
+    at MessagePortMain.emit (node:events:517:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-06-04 13:59:24.187 [error] Canceled: Canceled
+    at new O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:143:47131)
+    at c.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:5542)
+    at Proxy.F.<computed>.z.charCodeAt.F.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:2993)
+    at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188926)
+    at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at k.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:187688)
+    at r.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:189465)
+    at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188457)
+    at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:163:22673)
+    at Object.dispose (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.73.0/src/lookAheadSuggestion.ts:162:21)
+    at h.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:3955)
+    at h.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:4052)
+    at h.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:3955)
+    at h.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:4052)
+    at forEach (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.73.0/src/autocompleteInstaller.ts:121:7)
+    at Array.forEach (<anonymous>)
+    at uninstallAutocomplete (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.73.0/src/autocompleteInstaller.ts:120:17)
+    at Object.dispose (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.73.0/src/autocompleteInstaller.ts:27:20)
+    at a (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at f.eb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:9975)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:7824
+    at Array.map (<anonymous>)
+    at f.$ (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:7811)
+    at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:8085)
+    at a.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+    at t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:176:9922)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:176:6347)
+    at MessagePortMain.emit (node:events:517:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-06-04 13:59:24.189 [error] Error: Channel has been closed
+    at r (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:156:2490)
+    at Object.appendLine (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:156:2608)
+    at Object.log (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.73.0/src/utils/logger.ts:44:24)
+    at Object.error (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.73.0/src/utils/logger.ts:68:10)
+    at t.default.request (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.73.0/src/binary/Binary.ts:82:14)
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at processTimers (node:internal/timers:509:9)
+    at async Promise.all (index 31)
+    at f.$ (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:7839)
+2024-06-04 13:59:24.192 [error] Error: Stopping the server timed out
+    at /usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:289059
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at processTimers (node:internal/timers:509:9)
+    at Object.dispose (/usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:521097)
+    at Object.dispose (/usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:513427)
+    at Object.e.deactivate (/usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:581517)
+    at async Promise.all (index 6)
+    at f.$ (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:7839)
+2024-06-04 13:59:24.194 [error] Canceled: Canceled
+    at new O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:143:47131)
+    at c.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:5542)
+    at Proxy.F.<computed>.z.charCodeAt.F.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:2993)
+    at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188926)
+    at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at k.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:187688)
+    at r.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:189465)
+    at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188457)
+    at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:163:22673)
+    at d (/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.73.0/src/capabilities/capabilities.ts:117:20)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) setContext undefined
+2024-06-04 13:59:24.196 [info] Extension host with pid 1257067 exiting with code 0

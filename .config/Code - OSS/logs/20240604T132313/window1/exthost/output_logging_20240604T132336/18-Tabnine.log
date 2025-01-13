@@ -1,0 +1,162 @@
+13:23:49 GMT+0530 (India Standard Time) [INFO]: spawning binary with command: /home/thesynthax/.config/Code - OSS/User/globalStorage/tabnine.tabnine-vscode/binaries/4.111.0/x86_64-unknown-linux-musl/TabNine args: --tls_config insecure=false --no-lsp=true --client=vscode --client-metadata clientVersion=1.89.1 pluginVersion=3.73.0 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-extension-kind=1 vscode-theme-name=One Dark Pro Darker vscode-theme-kind=Dark vscode-machine-id=someValue.machineId vscode-is-new-app-install=false vscode-session-id=someValue.sessionId vscode-language=en vscode-app-name=Code - OSS vscode-beta-channel-enabled=false vscode-status-customization=#0D0303 vscode-inline-api-enabled=true vscode-code-lens-enabled=true vscode-found-intellicode=false ide-restart-counter=0 
+
+13:23:49 GMT+0530 (India Standard Time) [DEBUG]: capabilities resolved on focus true 
+
+13:23:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:24:09 GMT+0530 (India Standard Time) [ERROR]: Error: Binary request timed out. {"Features":{}} 
+
+13:24:09 GMT+0530 (India Standard Time) [ERROR]: Error: Could not get enabled capabilities 
+
+13:24:10 GMT+0530 (India Standard Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+13:24:11 GMT+0530 (India Standard Time) [ERROR]: Error: Binary request timed out. {"Workspace":{"root_paths":["/home/thesynthax/projects/cpp/opengl-raytracing"]}} 
+
+13:24:16 GMT+0530 (India Standard Time) [ERROR]: Error: Binary request timed out. {"NotifyWorkspaceChanged":{"workspace_folders":["/home/thesynthax/projects/cpp/opengl-raytracing"]}} 
+
+13:24:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:24:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:25:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:25:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:26:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:26:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:27:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:27:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:28:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:28:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:29:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:29:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:30:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:30:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:31:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:31:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:32:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:32:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:33:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:33:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:34:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:34:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:34:56 GMT+0530 (India Standard Time) [WARN]: Binary child process exited with code 0 signal unknown 
+
+13:34:58 GMT+0530 (India Standard Time) [INFO]: spawning binary with command: /home/thesynthax/.config/Code - OSS/User/globalStorage/tabnine.tabnine-vscode/binaries/4.165.0/x86_64-unknown-linux-musl/TabNine args: --tls_config insecure=false --no-lsp=true --client=vscode --client-metadata clientVersion=1.89.1 pluginVersion=3.73.0 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-extension-kind=1 vscode-theme-name=One Dark Pro Darker vscode-theme-kind=Dark vscode-machine-id=someValue.machineId vscode-is-new-app-install=false vscode-session-id=someValue.sessionId vscode-language=en vscode-app-name=Code - OSS vscode-beta-channel-enabled=false vscode-status-customization=#0D0303 vscode-inline-api-enabled=true vscode-code-lens-enabled=true vscode-found-intellicode=false ide-restart-counter=1 
+
+13:35:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:35:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:36:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:36:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:37:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:37:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:38:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:38:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:39:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:39:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:40:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:40:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:41:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:41:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:42:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:42:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:43:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:43:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:44:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:44:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:45:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:45:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:46:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:46:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:47:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:47:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:48:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:48:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:49:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:49:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:50:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:50:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:51:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:51:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:52:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:52:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:53:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:53:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:54:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:54:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:55:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:55:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:56:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:56:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:57:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:57:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:58:23 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:58:53 GMT+0530 (India Standard Time) [DEBUG]: Updating root paths for project opengl-raytracing: ["/home/thesynthax/projects/cpp/opengl-raytracing"] 
+
+13:59:20 GMT+0530 (India Standard Time) [WARN]: assistant is closing 
+
