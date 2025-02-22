@@ -6,7 +6,7 @@ local servers = {
     "cmake",
     "glsl_analyzer",
 	"jsonls",
-    "tsserver",
+    "ts_ls",
     "emmet_ls",
     "html",
     "cssls",

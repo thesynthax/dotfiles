@@ -105,7 +105,7 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-figlet -f ANSI-shadow "chad-arch" | lolcat -p 6 -F 0.01
+figlet -f ANSI-shadow "archlinux" | lolcat -p 6 -F 0.01
 echo "i use arch btw"
 
 ## Advanced Tab Completion
