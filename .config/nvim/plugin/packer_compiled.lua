@@ -49,8 +49,8 @@ local function save_profiles(threshold)
 end
 
 time([[Luarocks path setup]], true)
-local package_path_str = "/home/thesynthax/.cache/nvim/packer_hererocks/2.1.1731601260/share/lua/5.1/?.lua;/home/thesynthax/.cache/nvim/packer_hererocks/2.1.1731601260/share/lua/5.1/?/init.lua;/home/thesynthax/.cache/nvim/packer_hererocks/2.1.1731601260/lib/luarocks/rocks-5.1/?.lua;/home/thesynthax/.cache/nvim/packer_hererocks/2.1.1731601260/lib/luarocks/rocks-5.1/?/init.lua"
-local install_cpath_pattern = "/home/thesynthax/.cache/nvim/packer_hererocks/2.1.1731601260/lib/lua/5.1/?.so"
+local package_path_str = "/home/thesynthax/.cache/nvim/packer_hererocks/2.1.1741730670/share/lua/5.1/?.lua;/home/thesynthax/.cache/nvim/packer_hererocks/2.1.1741730670/share/lua/5.1/?/init.lua;/home/thesynthax/.cache/nvim/packer_hererocks/2.1.1741730670/lib/luarocks/rocks-5.1/?.lua;/home/thesynthax/.cache/nvim/packer_hererocks/2.1.1741730670/lib/luarocks/rocks-5.1/?/init.lua"
+local install_cpath_pattern = "/home/thesynthax/.cache/nvim/packer_hererocks/2.1.1741730670/lib/lua/5.1/?.so"
 if not string.find(package.path, package_path_str, 1, true) then
   package.path = package.path .. ';' .. package_path_str
 end
@@ -144,6 +144,11 @@ _G.packer_plugins = {
     path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/gitsigns.nvim",
     url = "https://github.com/lewis6991/gitsigns.nvim"
   },
+  ["lazy.nvim"] = {
+    loaded = true,
+    path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/lazy.nvim",
+    url = "https://github.com/folke/lazy.nvim"
+  },
   ["lualine.nvim"] = {
     loaded = true,
     path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/lualine.nvim",
@@ -166,11 +171,6 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/mason.nvim",
     url = "https://github.com/williamboman/mason.nvim"
-  },
-  ["null-ls.nvim"] = {
-    loaded = true,
-    path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/null-ls.nvim",
-    url = "https://github.com/jose-elias-alvarez/null-ls.nvim"
   },
   ["nvim-autopairs"] = {
     loaded = true,

@@ -143,6 +143,7 @@ alias vpnoff="doas wg-quick down arch"
 alias vpnrestart="vpnoff; vpnon"
 alias fastkey="xset r rate 300 40"
 alias mirror-update="doas reflector --verbose --country 'India' -l 5 --sort rate --save /etc/pacman.d/mirrorlist"
+alias freebsd="doas qemu-system-x86_64 /home/thesynthax/qemu/FreeBSD-15.0-CURRENT-amd64-zfs.qcow2 -enable-kvm -netdev tap,id=net0,ifname=tap0,script=no,downscript=no -device virtio-net-pci,netdev=net0 -daemonize -m 6G -smp cores=6,cpus=6 -vga qxl"
 . "$HOME/.cargo/env"
 alias cat="bat"
 alias mpv="devour mpv"
@@ -163,3 +164,4 @@ export ANDROID_HOME=/opt/android-sdk
 export PATH=$PATH:$ANDROID_HOME/emulator
 export PATH=$PATH:$ANDROID_HOME/platform-tools
 export OLLAMA_MODELS=/home/thesynthax/.ollama/models
+doas ip link set tap0 master virbr0

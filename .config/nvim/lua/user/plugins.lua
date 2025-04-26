@@ -58,7 +58,7 @@ return packer.startup(function(use)
     use "neovim/nvim-lspconfig" -- enable LSP
     use "williamboman/mason.nvim" -- simple to use language server installer
     use "williamboman/mason-lspconfig.nvim" -- simple to use language server installer
-    use 'jose-elias-alvarez/null-ls.nvim' -- LSP diagnostics and code actions
+    --use 'jose-elias-alvarez/null-ls.nvim' -- LSP diagnostics and code actions
     use 'mfussenegger/nvim-lint'
     use "hrsh7th/cmp-nvim-lua"
     use "hrsh7th/cmp-nvim-lsp"
@@ -83,6 +83,7 @@ return packer.startup(function(use)
     use "mlaursen/vim-react-snippets"
     use {'akinsho/bufferline.nvim', tag = "v3.*", requires = 'nvim-tree/nvim-web-devicons'}
     use {'nvim-lualine/lualine.nvim', requires = { 'kyazdani42/nvim-web-devicons', opt = true}}
+    use "folke/lazy.nvim"
     --use "OmniSharp/omnisharp-vim"
     -- Automatically set up your configuration after cloning packer.nvim
     -- Put this at the end after all plugins

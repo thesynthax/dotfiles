@@ -132,7 +132,7 @@ static char *colors[][ColCount] = {
 
 
 static const char *const autostart[] = {
-    "/usr/lib/kdeconnectd", NULL,
+    "/usr/bin/kdeconnectd", NULL,
     "kdeconnect-indicator", NULL,
     "xrandr", "--output", "eDP-1-1", "--left-of", "HDMI-1-2", NULL,
 	"xset", "r", "rate", "300", "40", NULL,
@@ -216,6 +216,7 @@ static const Rule rules[] = {
 	RULE(.wintype = WTYPE "TOOLBAR", .isfloating = 1)
 	RULE(.wintype = WTYPE "SPLASH", .isfloating = 1)
     RULE(.class = "GraphicsEngine", .isfloating = 1)
+    RULE(.class = "kdeconnect.daemon", .isfloating = 1)
 	RULE(.class = "Gimp", .tags = 1 << 3)
 	//RULE(.class = "firefox", .tags = 1 << 0)
 	//RULE(.class = "Brave", .tags = 1 << 0)
