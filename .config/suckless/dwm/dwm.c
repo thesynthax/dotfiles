@@ -259,6 +259,7 @@ typedef struct {
 	int isfloating;
 	int monitor;
 	const char scratchkey;
+    int isfullscreen;
 } Rule;
 
 #define RULE(...) { .monitor = -1, __VA_ARGS__ },
@@ -1597,6 +1598,7 @@ manage(Window w, XWindowAttributes *wa)
 		c->mon = selmon;
 		c->bw = borderpx;
 		applyrules(c);
+        if (c->isfullscreen) setfullscreen(c, 1);
 	}
 
 	if (c->x + WIDTH(c) > c->mon->wx + c->mon->ww)
