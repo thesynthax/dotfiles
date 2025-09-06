@@ -1,15 +1,20 @@
 # If you come from bash you might have to change your $PATH.
-# export PATH=$HOME/bin:/usr/local/bin:$PATH
-
+export PATH=$HOME/bin:/usr/local/bin:$HOME/.local/bin:$PATH
+export XDG_CONFIG_HOME="$HOME/.config"
 # Path to your oh-my-zsh installation.
-ZSH=/usr/share/oh-my-zsh/
-
+export ZSH="$HOME/.config/oh-my-zsh"
+#export ZSH=/usr/share/oh-my-zsh/
+export TERM="st"
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+#ZSH_THEME="intheloop"
 ZSH_THEME="refined" # set by `omz`
-
+#ZSH_THEME="linuxonly"
+#source ~/.config/zsh/refined.zsh-theme
+#source ~/.config/zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+#source ~/.config/zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
 # a theme from this variable instead of looking in $ZSH/themes/
@@ -25,7 +30,7 @@ ZSH_THEME="refined" # set by `omz`
 
 # Uncomment one of the following lines to change the auto-update behavior
 # zstyle ':omz:update' mode disabled  # disable automatic updates
-# zstyle ':omz:update' mode auto      # update automatically without asking
+zstyle ':omz:update' mode auto      # update automatically without asking
 # zstyle ':omz:update' mode reminder  # just remind me to update when it's time
 
 # Uncomment the following line to change how often to auto-update (in days).
@@ -70,8 +75,9 @@ ZSH_THEME="refined" # set by `omz`
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
+plugins=(zsh-autosuggestions fast-syntax-highlighting zsh-completions)
 
+source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
@@ -99,9 +105,66 @@ plugins=(git)
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-ZSH_CACHE_DIR=$HOME/.cache/oh-my-zsh
-if [[ ! -d $ZSH_CACHE_DIR ]]; then
-  mkdir $ZSH_CACHE_DIR
+figlet -f ANSI-shadow "archlinux" | lolcat -p 6 -F 0.01
+echo "i use arch btw"
+
+## Advanced Tab Completion
+autoload -Uz compinit
+#zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}'
+zstyle ':completion*' menu select
+compinit
+
+if [ -f /etc/bash.command-not-found ]; then
+    . /etc/bash.command-not-found
+fi
+alias sudo="doas "
+#alias vim="bash -c nvim "
+alias "nvim $1"='bash -c "nvim $1"'
+alias "nv"='bash -c nvim'
+export EDITOR="nvim"
+export VISUAL="nvim"
+#Pacman Shortcuts
+alias sync="doas pacman -Syyy"
+alias install="doas pacman -S"
+alias update="doas pacman -Syyu"
+alias search="doas pacman -Ss"
+alias search-local="doas pacman -Qs"
+alias pkg-info="doas pacman -Qi"
+alias local-install="doas pacman -U"
+alias clr-cache="doas pacman -Scc"
+alias unlock="doas rm /var/lib/pacman/db.lck"
+alias remove="doas pacman -R"
+alias autoremove="doas pacman -Rns"
+alias irc="weechat"
+alias l="exa"
+alias la="exa -la"
+alias vpnon="doas resolvconf -u; doas wg-quick up arch"
+alias vpnoff="doas wg-quick down arch; doas systemctl restart NetworkManager"
+alias vpnrestart="vpnoff; vpnon"
+alias fastkey="xset r rate 300 40"
+alias mirror-update="doas reflector --verbose --country 'India' -l 5 --sort rate --save /etc/pacman.d/mirrorlist"
+alias freebsd="doas qemu-system-x86_64 /home/thesynthax/qemu/FreeBSD-15.0-CURRENT-amd64-zfs.qcow2 -enable-kvm -netdev tap,id=net0,ifname=tap0,script=no,downscript=no -device virtio-net-pci,netdev=net0 -daemonize -m 8G -smp cores=5,cpus=10,threads=2,sockets=1 -vga qxl -serial file:/tmp/freebsd_logs.txt"
+alias fixwifi="sudo systemctl stop create_ap hostapd; sudo ip link set wlo1 down; sudo iw dev wlo1 set type managed; sudo ip link set wlo1 up; nmcli radio wifi on"
+alias fixsound="pulseaudio -k && pulseaudio --start"
+. "$HOME/.cargo/env"
+alias cat="bat"
+alias mpv="devour mpv"
+if [ -f /etc/bash.command-not-found ]; then
+    . /etc/bash.command-not-found
 fi
 
-source $ZSH/oh-my-zsh.sh
+export PATH="$PATH:$HOME/Applications/JetBrains Rider-2021.3/bin"
+[[ ":$PATH:" != *":$HOME/.cargo/bin:"* ]] && PATH="$HOME/.cargo/bin:${PATH}"
+
+export NVM_DIR="$HOME/.config/nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+source /usr/local/gromacs/bin/GMXRC
+export PATH=/home/thesynthax/.meteor:$PATH
+export ANDROID_HOME=/opt/android-sdk
+export PATH=$PATH:$ANDROID_HOME/emulator
+export PATH=$PATH:$ANDROID_HOME/platform-tools
+export OLLAMA_MODELS=/home/thesynthax/.ollama/models
+doas ip link set tap0 master virbr0
+export PATH=$PATH:/opt/cascadeur

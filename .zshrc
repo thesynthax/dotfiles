@@ -1,118 +1,59 @@
-# If you come from bash you might have to change your $PATH.
-export PATH=$HOME/bin:/usr/local/bin:$HOME/.local/bin:$PATH
+# Minimal, standalone zsh config (NO oh-my-zsh)
+
+# Ensure essential PATH
+export PATH="/usr/local/bin:/usr/bin:/bin:$HOME/bin:$PATH"
 export XDG_CONFIG_HOME="$HOME/.config"
-# Path to your oh-my-zsh installation.
-export ZSH="$HOME/.config/oh-my-zsh"
-#export ZSH=/usr/share/oh-my-zsh/
+
+# Prefer interactive-only blocks
+[[ $- != *i* ]] && return   # exit early for non-interactive shells
+
+# User custom functions + plugin dir
+ZSH="$HOME/.config/zsh"
+fpath=("$ZSH/functions" $fpath)
 export TERM="st"
-# Set name of the theme to load --- if set to "random", it will
-# load a random theme each time oh-my-zsh is loaded, in which case,
-# to know which specific one was loaded, run: echo $RANDOM_THEME
-# See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-#ZSH_THEME="intheloop"
-ZSH_THEME="refined" # set by `omz`
-#ZSH_THEME="linuxonly"
-#source ~/.config/zsh/refined.zsh-theme
-#source ~/.config/zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
-#source ~/.config/zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-# Set list of themes to pick from when loading at random
-# Setting this variable when ZSH_THEME=random will cause zsh to load
-# a theme from this variable instead of looking in $ZSH/themes/
-# If set to an empty array, this variable will have no effect.
-# ZSH_THEME_RANDOM_CANDIDATES=( "robbyrussell" "agnoster" )
 
-# Uncomment the following line to use case-sensitive completion.
-# CASE_SENSITIVE="true"
+# Load your theme (if it's a raw OMZ theme, it might set PROMPT directly)
+# Copy your OMZ theme file into ~/.zsh/themes/refined.zsh-theme first
+if [[ -f "$ZSH/themes/refined.zsh-theme" ]]; then
+  source "$ZSH/themes/refined.zsh-theme"
+else
+  # fallback prompt (simple)
+  PROMPT='%n@%m %1~ %# '
+fi
 
-# Uncomment the following line to use hyphen-insensitive completion.
-# Case-sensitive completion must be off. _ and - will be interchangeable.
-# HYPHEN_INSENSITIVE="true"
+# Load plugins manually:
+source "$ZSH/plugins/fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh"
+source "$ZSH/plugins/zsh-completions/zsh-completions.plugin.zsh"
+#source "$ZSH/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh"
+source "$ZSH/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh"
 
-# Uncomment one of the following lines to change the auto-update behavior
-# zstyle ':omz:update' mode disabled  # disable automatic updates
-zstyle ':omz:update' mode auto      # update automatically without asking
-# zstyle ':omz:update' mode reminder  # just remind me to update when it's time
+# ---- completions: set fpath for completions BEFORE compinit ----
+fpath=(
+  /usr/share/zsh/functions
+  /usr/share/zsh/site-functions
+  /usr/local/share/zsh/site-functions
+  $ZSH/completions   # your custom completions
+  $fpath
+)
 
-# Uncomment the following line to change how often to auto-update (in days).
-# zstyle ':omz:update' frequency 13
-
-# Uncomment the following line if pasting URLs and other text is messed up.
-# DISABLE_MAGIC_FUNCTIONS="true"
-
-# Uncomment the following line to disable colors in ls.
-# DISABLE_LS_COLORS="true"
-
-# Uncomment the following line to disable auto-setting terminal title.
-# DISABLE_AUTO_TITLE="true"
-
-# Uncomment the following line to enable command auto-correction.
-# ENABLE_CORRECTION="true"
-
-# Uncomment the following line to display red dots whilst waiting for completion.
-# You can also set it to another string to have that shown instead of the default red dots.
-# e.g. COMPLETION_WAITING_DOTS="%F{yellow}waiting...%f"
-# Caution: this setting can cause issues with multiline prompts in zsh < 5.7.1 (see #5765)
-# COMPLETION_WAITING_DOTS="true"
-
-# Uncomment the following line if you want to disable marking untracked files
-# under VCS as dirty. This makes repository status check for large repositories
-# much, much faster.
-# DISABLE_UNTRACKED_FILES_DIRTY="true"
-
-# Uncomment the following line if you want to change the command execution time
-# stamp shown in the history command output.
-# You can set one of the optional three formats:
-# "mm/dd/yyyy"|"dd.mm.yyyy"|"yyyy-mm-dd"
-# or set a custom format using the strftime function format specifications,
-# see 'man strftime' for details.
-# HIST_STAMPS="mm/dd/yyyy"
-
-# Would you like to use another custom folder than $ZSH/custom?
-# ZSH_CUSTOM=/path/to/new-custom-folder
-
-# Which plugins would you like to load?
-# Standard plugins can be found in $ZSH/plugins/
-# Custom plugins may be added to $ZSH_CUSTOM/plugins/
-# Example format: plugins=(rails git textmate ruby lighthouse)
-# Add wisely, as too many plugins slow down shell startup.
-plugins=(zsh-autosuggestions fast-syntax-highlighting zsh-completions)
-
-source $ZSH/oh-my-zsh.sh
-
-# User configuration
-
-# export MANPATH="/usr/local/man:$MANPATH"
-
-# You may need to manually set your language environment
-# export LANG=en_US.UTF-8
-
-# Preferred editor for local and remote sessions
-# if [[ -n $SSH_CONNECTION ]]; then
-#   export EDITOR='vim'
-# else
-#   export EDITOR='mvim'
-# fi
-
-# Compilation flags
-# export ARCHFLAGS="-arch x86_64"
-
-# Set personal aliases, overriding those provided by oh-my-zsh libs,
-# plugins, and themes. Aliases can be placed here, though oh-my-zsh
-# users are encouraged to define aliases within the ZSH_CUSTOM folder.
-# For a full list of active aliases, run `alias`.
-#
-# Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
-
+# Autoload and initialize completion system
+autoload -Uz compinit compdef || true
+zstyle ':completion*' menu select
+compinit -u
+# remove stale compdump if present
+#rm -f ~/.zcompdump* 2>/dev/null || true
+# initialize completions
+#compinit -u
 figlet -f ANSI-shadow "archlinux" | lolcat -p 6 -F 0.01
 echo "i use arch btw"
 
-## Advanced Tab Completion
-autoload -Uz compinit
-#zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}'
-zstyle ':completion*' menu select
-compinit
+# Useful abbreviations / helpers (migrate from your .zshrc.bak as needed)
+#setopt autocd              # example option
+bindkey '^R' history-incremental-search-backward
+
+# Source other personal config at end (if you have one)
+[[ -f ~/.zshrc.local ]] && source ~/.zshrc.local
+
 
 if [ -f /etc/bash.command-not-found ]; then
     . /etc/bash.command-not-found
@@ -137,13 +78,16 @@ alias remove="doas pacman -R"
 alias autoremove="doas pacman -Rns"
 alias irc="weechat"
 alias l="exa"
+alias ls="exa"
 alias la="exa -la"
-alias vpnon="doas wg-quick up arch"
-alias vpnoff="doas wg-quick down arch"
+alias vpnon="doas resolvconf -u; doas wg-quick up arch"
+alias vpnoff="doas wg-quick down arch; doas systemctl restart NetworkManager"
 alias vpnrestart="vpnoff; vpnon"
 alias fastkey="xset r rate 300 40"
 alias mirror-update="doas reflector --verbose --country 'India' -l 5 --sort rate --save /etc/pacman.d/mirrorlist"
-alias freebsd="doas qemu-system-x86_64 /home/thesynthax/qemu/FreeBSD-15.0-CURRENT-amd64-zfs.qcow2 -enable-kvm -netdev tap,id=net0,ifname=tap0,script=no,downscript=no -device virtio-net-pci,netdev=net0 -daemonize -m 6G -smp cores=6,cpus=6 -vga qxl"
+alias freebsd="doas qemu-system-x86_64 /home/thesynthax/qemu/FreeBSD-15.0-CURRENT-amd64-zfs.qcow2 -enable-kvm -netdev tap,id=net0,ifname=tap0,script=no,downscript=no -device virtio-net-pci,netdev=net0 -daemonize -m 8G -smp cores=5,cpus=10,threads=2,sockets=1 -vga qxl -serial file:/tmp/freebsd_logs.txt"
+alias fixwifi="sudo systemctl stop create_ap hostapd; sudo ip link set wlo1 down; sudo iw dev wlo1 set type managed; sudo ip link set wlo1 up; nmcli radio wifi on"
+alias fixsound="pulseaudio -k && pulseaudio --start"
 . "$HOME/.cargo/env"
 alias cat="bat"
 alias mpv="devour mpv"
@@ -165,3 +109,4 @@ export PATH=$PATH:$ANDROID_HOME/emulator
 export PATH=$PATH:$ANDROID_HOME/platform-tools
 export OLLAMA_MODELS=/home/thesynthax/.ollama/models
 doas ip link set tap0 master virbr0
+export PATH=$PATH:/opt/cascadeur
