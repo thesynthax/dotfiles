@@ -83,3 +83,15 @@ git rebase --continue
 git log
 exirt
 exit
+git config
+git config list
+git config user.name
+git config user.name knownunknown1403
+git config --help
+git config set user.name thesynthax
+git config set --user.name=thesynthax
+git config --no-global user.name thesynthax
+git config --global user.name thesynthax
+pass git config
+exit
+exit
