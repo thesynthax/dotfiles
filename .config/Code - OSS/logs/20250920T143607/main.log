@@ -1,0 +1,5 @@
+2025-09-20 14:36:08.022 [info] update#setState disabled
+2025-09-20 14:36:08.023 [info] update#ctor - updates are disabled as there is no update URL
+2025-09-20 14:38:34.052 [info] Extension host with pid 393816 exited with code: 0, signal: unknown.
+2025-09-20 14:38:38.035 [warning] No ptyHost heartbeat after 6 seconds
+2025-09-20 14:38:40.724 [warning] [storage main] detected slow close() operation: Time: 14689ms, DB size: 32768b, Large Keys: ms-toolsai.jupyter:3835, __$__targetStorageMarker:1611, workbench.activity.viewletsWorkspaceState:1245, workbench.scm.views.state:660, workbench.view.debug.state:584

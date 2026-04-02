@@ -49,8 +49,8 @@ local function save_profiles(threshold)
 end
 
 time([[Luarocks path setup]], true)
-local package_path_str = "/home/thesynthax/.cache/nvim/packer_hererocks/2.1.1741730670/share/lua/5.1/?.lua;/home/thesynthax/.cache/nvim/packer_hererocks/2.1.1741730670/share/lua/5.1/?/init.lua;/home/thesynthax/.cache/nvim/packer_hererocks/2.1.1741730670/lib/luarocks/rocks-5.1/?.lua;/home/thesynthax/.cache/nvim/packer_hererocks/2.1.1741730670/lib/luarocks/rocks-5.1/?/init.lua"
-local install_cpath_pattern = "/home/thesynthax/.cache/nvim/packer_hererocks/2.1.1741730670/lib/lua/5.1/?.so"
+local package_path_str = "/home/thesynthax/.cache/nvim/packer_hererocks/2.1.1772619647/share/lua/5.1/?.lua;/home/thesynthax/.cache/nvim/packer_hererocks/2.1.1772619647/share/lua/5.1/?/init.lua;/home/thesynthax/.cache/nvim/packer_hererocks/2.1.1772619647/lib/luarocks/rocks-5.1/?.lua;/home/thesynthax/.cache/nvim/packer_hererocks/2.1.1772619647/lib/luarocks/rocks-5.1/?/init.lua"
+local install_cpath_pattern = "/home/thesynthax/.cache/nvim/packer_hererocks/2.1.1772619647/lib/lua/5.1/?.so"
 if not string.find(package.path, package_path_str, 1, true) then
   package.path = package.path .. ';' .. package_path_str
 end
@@ -88,6 +88,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/alpha-nvim",
     url = "https://github.com/goolord/alpha-nvim"
+  },
+  ["blink.cmp"] = {
+    loaded = true,
+    path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/blink.cmp",
+    url = "https://github.com/saghen/blink.cmp"
   },
   ["bufferline.nvim"] = {
     loaded = true,
@@ -128,6 +133,12 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/cmp_luasnip",
     url = "https://github.com/saadparwaiz1/cmp_luasnip"
+  },
+  ["copilot.vim"] = {
+    config = { "\27LJ\2\n,\0\0\3\0\2\0\0046\0\0\0'\2\1\0B\0\2\1K\0\1\0\17user.copilot\frequire\0" },
+    loaded = true,
+    path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/copilot.vim",
+    url = "https://github.com/github/copilot.vim"
   },
   ["emmet-vim"] = {
     loaded = true,
@@ -222,6 +233,12 @@ _G.packer_plugins = {
     path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/onedark.nvim",
     url = "https://github.com/navarasu/onedark.nvim"
   },
+  ["opencode.nvim"] = {
+    config = { "\27LJ\2\n-\0\0\3\0\2\0\0046\0\0\0'\2\1\0B\0\2\1K\0\1\0\18user.opencode\frequire\0" },
+    loaded = true,
+    path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/opencode.nvim",
+    url = "https://github.com/nickjvandyke/opencode.nvim"
+  },
   ["packer.nvim"] = {
     loaded = true,
     path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/packer.nvim",
@@ -241,6 +258,16 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/popup.nvim",
     url = "https://github.com/nvim-lua/popup.nvim"
+  },
+  ["render-markdown.nvim"] = {
+    loaded = true,
+    path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/render-markdown.nvim",
+    url = "https://github.com/MeanderingProgrammer/render-markdown.nvim"
+  },
+  ["snacks.nvim"] = {
+    loaded = true,
+    path = "/home/thesynthax/.local/share/nvim/site/pack/packer/start/snacks.nvim",
+    url = "https://github.com/folke/snacks.nvim"
   },
   ["telescope-media-files.nvim"] = {
     loaded = true,
@@ -270,6 +297,14 @@ _G.packer_plugins = {
 }
 
 time([[Defining packer_plugins]], false)
+-- Config for: opencode.nvim
+time([[Config for opencode.nvim]], true)
+try_loadstring("\27LJ\2\n-\0\0\3\0\2\0\0046\0\0\0'\2\1\0B\0\2\1K\0\1\0\18user.opencode\frequire\0", "config", "opencode.nvim")
+time([[Config for opencode.nvim]], false)
+-- Config for: copilot.vim
+time([[Config for copilot.vim]], true)
+try_loadstring("\27LJ\2\n,\0\0\3\0\2\0\0046\0\0\0'\2\1\0B\0\2\1K\0\1\0\17user.copilot\frequire\0", "config", "copilot.vim")
+time([[Config for copilot.vim]], false)
 
 -- Command lazy-loads
 time([[Defining lazy-load commands]], true)

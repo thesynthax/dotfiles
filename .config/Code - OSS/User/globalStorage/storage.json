@@ -5,20 +5,19 @@
         "folders": [],
         "emptyWindows": [
             {
-                "backupFolder": "1731135152072"
+                "backupFolder": "1761643198911"
             }
         ]
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/thesynthax/study/SEM7/LinAl/Program_assignment_ons",
-            "backupPath": "/home/thesynthax/.config/Code - OSS/Backups/499db1e530fcec6b30fd7c820112f224",
+            "backupPath": "/home/thesynthax/.config/Code - OSS/Backups/1761643198911",
             "uiState": {
                 "mode": 1,
-                "x": 1930,
+                "x": 2979,
                 "y": 43,
-                "width": 1900,
-                "height": 1027
+                "width": 851,
+                "height": 508
             }
         },
         "openedWindows": []
@@ -1806,9 +1805,10 @@
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
-            "titleBarHeight": 0,
+            "titleBarHeight": 35,
             "activityBarWidth": 48,
             "sideBarWidth": 0,
+            "auxiliaryBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
@@ -1825,11 +1825,12 @@
             "file:///home/thesynthax/study/SEM7/LinAl/Program_assignment_ons": "__default__profile__"
         },
         "emptyWindows": {
-            "1731134950464": "__default__profile__",
-            "1731135152072": "__default__profile__"
+            "1758360887041": "__default__profile__",
+            "1761643198911": "__default__profile__"
         }
     },
     "profileAssociationsMigration": true,
     "telemetry.sqmId": "",
-    "telemetry.devDeviceId": "59895eba-d77b-4ae2-86cf-d88d76369808"
+    "telemetry.devDeviceId": "59895eba-d77b-4ae2-86cf-d88d76369808",
+    "windowControlHeight": 35
 }

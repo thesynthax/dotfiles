@@ -1,0 +1,47 @@
+2025-09-20 14:21:46.508 [info] Extension host with pid 388572 started
+2025-09-20 14:21:46.783 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-09-20 14:21:46.802 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2025-09-20 14:21:47.558 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2025-09-20 14:21:49.970 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-09-20 14:21:49.972 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2025-09-20 14:21:50.142 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2025-09-20 14:21:50.475 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-09-20 14:21:50.502 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-09-20 14:21:52.487 [info] Eager extensions activated
+2025-09-20 14:21:52.488 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-09-20 14:21:52.491 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-09-20 14:21:52.509 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2025-09-20 14:21:52.873 [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-09-20 14:21:53.270 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-09-20 14:21:53.943 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onStartupFinished', root cause: GitHub.vscode-pull-request-github
+2025-09-20 14:21:53.966 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2025-09-20 14:21:56.174 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-09-20 14:21:56.541 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-09-20 14:21:56.717 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-09-20 14:21:57.309 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-09-20 14:21:58.824 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2025-09-20 14:21:59.516 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-09-20 14:21:59.523 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-09-20 14:21:59.571 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-09-20 14:22:00.301 [error] Activating extension GitHub.vscode-pull-request-github failed due to an error:
+2025-09-20 14:22:00.301 [error] Error: Extension 'GitHub.vscode-pull-request-github' CANNOT use API proposal: diffCommand.
+Its package.json#enabledApiProposals-property declares:  but NOT diffCommand.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+    at T (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:33255)
+    at Object.registerDiffInformationCommand (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:199:103365)
+    at fg (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.100.1/dist/extension.js:2344:2008)
+    at Yb (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.100.1/dist/extension.js:2677:4432)
+    at ew (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.100.1/dist/extension.js:2677:8707)
+    at Xb (/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.100.1/dist/extension.js:2677:5959)
+    at _b.n (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:13382)
+    at _b.m (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:13345)
+    at _b.l (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:12801)
+2025-09-20 14:22:08.689 [info] Extension host terminating: renderer closed the MessagePort
+2025-09-20 14:22:08.899 [error] Error: Channel has been closed
+    at n (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:119:2816)
+    at Object.info (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:119:3161)
+    at T.info (/usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:45257)
+    at ChildProcess.<anonymous> (/usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:600187)
+    at ChildProcess.emit (node:events:519:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-09-20 14:22:13.890 [info] Extension host with pid 388572 exiting with code 0

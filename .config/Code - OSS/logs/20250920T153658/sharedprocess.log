@@ -1,0 +1,133 @@
+2025-09-20 15:37:14.464 [error] Error: Unable to read file '/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-15.6.3.-32f26f21.vsctmp/package.json' (Error: Unable to resolve nonexistent file '/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-15.6.3.-32f26f21.vsctmp/package.json')
+    at qh.G (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89755)
+    at qh.F (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89580)
+    at async qh.D (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:88952)
+    at async Ea.u (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:45762)
+    at async Ea.scanExtension (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44269)
+    at async Promise.all (index 10)
+    at async Ea.r (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42695)
+    at async mf.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35555)
+    at async Bh.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69653)
+    at async B9.H (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:59467)
+    at async B9.s (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:57362)
+2025-09-20 15:37:14.465 [error] Error: Unable to read file '/home/thesynthax/.vscode-oss/extensions/franneck94.c-cpp-runner-9.4.9.-4fa00d36.vsctmp/package.json' (Error: Unable to resolve nonexistent file '/home/thesynthax/.vscode-oss/extensions/franneck94.c-cpp-runner-9.4.9.-4fa00d36.vsctmp/package.json')
+    at qh.G (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89755)
+    at qh.F (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89580)
+    at async qh.D (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:88952)
+    at async Ea.u (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:45762)
+    at async Ea.scanExtension (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44269)
+    at async Promise.all (index 25)
+    at async Ea.r (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42695)
+    at async mf.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35555)
+    at async Bh.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69653)
+    at async B9.H (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:59467)
+    at async B9.s (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:57362)
+2025-09-20 15:37:14.465 [error] Error: Unable to read file '/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.100.1.2f460cff.vsctmp/package.json' (Error: Unable to resolve nonexistent file '/home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.100.1.2f460cff.vsctmp/package.json')
+    at qh.G (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89755)
+    at qh.F (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89580)
+    at async qh.D (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:88952)
+    at async Ea.u (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:45762)
+    at async Ea.scanExtension (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44269)
+    at async Promise.all (index 26)
+    at async Ea.r (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42695)
+    at async mf.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35555)
+    at async Bh.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69653)
+    at async B9.H (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:59467)
+    at async B9.s (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:57362)
+2025-09-20 15:37:14.465 [error] Error: Unable to read file '/home/thesynthax/.vscode-oss/extensions/ms-python.debugpy-2024.12.0-linux-x64.70bd9294.vsctmp/package.json' (Error: Unable to resolve nonexistent file '/home/thesynthax/.vscode-oss/extensions/ms-python.debugpy-2024.12.0-linux-x64.70bd9294.vsctmp/package.json')
+    at qh.G (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89755)
+    at qh.F (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89580)
+    at async qh.D (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:88952)
+    at async Ea.u (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:45762)
+    at async Ea.scanExtension (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44269)
+    at async Promise.all (index 36)
+    at async Ea.r (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42695)
+    at async mf.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35555)
+    at async Bh.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69653)
+    at async B9.H (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:59467)
+    at async B9.s (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:57362)
+2025-09-20 15:37:14.466 [error] Error: Unable to read file '/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.18.1-linux-x64.-30a8a34e.vsctmp/package.json' (Error: Unable to resolve nonexistent file '/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.18.1-linux-x64.-30a8a34e.vsctmp/package.json')
+    at qh.G (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89755)
+    at qh.F (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89580)
+    at async qh.D (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:88952)
+    at async Ea.u (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:45762)
+    at async Ea.scanExtension (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44269)
+    at async Promise.all (index 38)
+    at async Ea.r (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42695)
+    at async mf.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35555)
+    at async Bh.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69653)
+    at async B9.H (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:59467)
+    at async B9.s (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:57362)
+2025-09-20 15:37:14.466 [error] Error: Unable to read file '/home/thesynthax/.vscode-oss/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64.-7e55df28.vsctmp/package.json' (Error: Unable to resolve nonexistent file '/home/thesynthax/.vscode-oss/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64.-7e55df28.vsctmp/package.json')
+    at qh.G (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89755)
+    at qh.F (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89580)
+    at async qh.D (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:88952)
+    at async Ea.u (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:45762)
+    at async Ea.scanExtension (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44269)
+    at async Promise.all (index 42)
+    at async Ea.r (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42695)
+    at async mf.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35555)
+    at async Bh.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69653)
+    at async B9.H (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:59467)
+    at async B9.s (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:57362)
+2025-09-20 15:37:14.466 [error] Error: Unable to read file '/home/thesynthax/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.21.-60105949.vsctmp/package.json' (Error: Unable to resolve nonexistent file '/home/thesynthax/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.21.-60105949.vsctmp/package.json')
+    at qh.G (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89755)
+    at qh.F (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89580)
+    at async qh.D (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:88952)
+    at async Ea.u (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:45762)
+    at async Ea.scanExtension (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44269)
+    at async Promise.all (index 45)
+    at async Ea.r (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42695)
+    at async mf.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35555)
+    at async Bh.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69653)
+    at async B9.H (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:59467)
+    at async B9.s (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:57362)
+2025-09-20 15:37:14.466 [error] Error: Unable to read file '/home/thesynthax/.vscode-oss/extensions/ms-vscode.cpptools-1.22.11-linux-x64.-39cd19fb.vsctmp/package.json' (Error: Unable to resolve nonexistent file '/home/thesynthax/.vscode-oss/extensions/ms-vscode.cpptools-1.22.11-linux-x64.-39cd19fb.vsctmp/package.json')
+    at qh.G (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89755)
+    at qh.F (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89580)
+    at async qh.D (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:88952)
+    at async Ea.u (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:45762)
+    at async Ea.scanExtension (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44269)
+    at async Promise.all (index 50)
+    at async Ea.r (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42695)
+    at async mf.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35555)
+    at async Bh.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69653)
+    at async B9.H (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:59467)
+    at async B9.s (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:57362)
+2025-09-20 15:37:14.467 [error] Error: Unable to read file '/home/thesynthax/.vscode-oss/extensions/vscode-icons-team.vscode-icons-12.9.0.-bbb02bb.vsctmp/package.json' (Error: Unable to resolve nonexistent file '/home/thesynthax/.vscode-oss/extensions/vscode-icons-team.vscode-icons-12.9.0.-bbb02bb.vsctmp/package.json')
+    at qh.G (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89755)
+    at qh.F (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89580)
+    at async qh.D (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:88952)
+    at async Ea.u (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:45762)
+    at async Ea.scanExtension (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44269)
+    at async Promise.all (index 69)
+    at async Ea.r (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42695)
+    at async mf.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35555)
+    at async Bh.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69653)
+    at async B9.H (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:59467)
+    at async B9.s (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:57362)
+2025-09-20 15:37:14.488 [info] Deleted marked for removal extension from disk vscode-icons-team.vscode-icons /home/thesynthax/.vscode-oss/extensions/vscode-icons-team.vscode-icons-12.9.0
+2025-09-20 15:37:14.567 [info] Deleted marked for removal extension from disk eamodio.gitlens /home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-15.6.3
+2025-09-20 15:37:14.568 [info] Deleted marked for removal extension from disk franneck94.c-cpp-runner /home/thesynthax/.vscode-oss/extensions/franneck94.c-cpp-runner-9.4.9
+2025-09-20 15:37:14.568 [info] Deleted marked for removal extension from disk github.vscode-pull-request-github /home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.100.1
+2025-09-20 15:37:14.675 [info] Deleted marked for removal extension from disk ms-vscode.cpptools /home/thesynthax/.vscode-oss/extensions/ms-vscode.cpptools-1.22.11-linux-x64
+2025-09-20 15:37:14.682 [info] Deleted marked for removal extension from disk ms-toolsai.jupyter-renderers /home/thesynthax/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.21
+2025-09-20 15:37:15.454 [info] Deleted marked for removal extension from disk ms-toolsai.jupyter /home/thesynthax/.vscode-oss/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64
+2025-09-20 15:37:15.872 [info] Deleted marked for removal extension from disk ms-python.debugpy /home/thesynthax/.vscode-oss/extensions/ms-python.debugpy-2024.12.0-linux-x64
+2025-09-20 15:37:15.955 [info] Deleted marked for removal extension from disk ms-python.python /home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.18.1-linux-x64
+2025-09-20 15:37:16.866 [info] Marked extension as removed vadimcn.vscode-lldb-1.10.0
+2025-09-20 15:37:21.583 [info] Getting Manifest... ms-dotnettools.csharp
+2025-09-20 15:37:21.584 [info] Getting Manifest... ms-python.vscode-pylance
+2025-09-20 15:37:21.947 [info] Installing extension: ms-dotnettools.csharp {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 15:37:21.948 [info] Installing extension: ms-python.vscode-pylance {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 15:37:22.748 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2025-09-20 15:37:25.833 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Executed: true. Duration: 2321ms.
+2025-09-20 15:37:29.926 [info] Extension signature verification result for ms-dotnettools.csharp: Success. Executed: true. Duration: 6570ms.
+2025-09-20 15:38:13.726 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-python.vscode-pylance-2025.8.2: ms-python.vscode-pylance
+2025-09-20 15:38:14.832 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-python.vscode-pylance-2025.8.2
+2025-09-20 15:38:15.589 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-2.90.60-linux-x64: ms-dotnettools.csharp
+2025-09-20 15:38:15.662 [info] Marked extension as removed ms-python.vscode-pylance-2024.11.1
+2025-09-20 15:38:16.041 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2025-09-20 15:38:17.184 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-2.90.60-linux-x64
+2025-09-20 15:38:18.070 [info] Marked extension as removed ms-dotnettools.csharp-2.50.27-linux-x64
+2025-09-20 15:38:18.082 [info] Extension installed successfully: ms-dotnettools.csharp vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json

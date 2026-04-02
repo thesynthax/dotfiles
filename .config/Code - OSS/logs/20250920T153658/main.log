@@ -1,0 +1,5 @@
+2025-09-20 15:36:58.360 [info] update#setState disabled
+2025-09-20 15:36:58.360 [info] update#ctor - updates are disabled as there is no update URL
+2025-09-20 16:00:25.479 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 421355]: crashed with code 15 and reason 'killed'
+2025-09-20 16:00:27.997 [warning] [storage main] detected slow close() operation: Time: 2532ms, DB size: 28672b, Large Keys: __$__targetStorageMarker:1965, workbench.activity.viewletsWorkspaceState:1311, memento/workbench.editors.files.textFileEditor:881, workbench.scm.views.state:724, workbench.view.debug.state:584
+2025-09-20 16:00:28.337 [info] Extension host with pid 421444 exited with code: 0, signal: unknown.

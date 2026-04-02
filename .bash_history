@@ -95,3 +95,19 @@ git config --global user.name thesynthax
 pass git config
 exit
 exit
+cd .config/oh-my-zsh
+cd .config
+ls
+ls -l | grep oh-my
+cd oh-my-zsh 
+cd
+cd dotfiles/.config
+ls
+cd oh-my-zsh.bak/
+ls
+cd ..
+mv oh-my-zsh.bak/ oh-my-zsh
+cd
+cd .config/oh-my-zsh
+ls
+cd

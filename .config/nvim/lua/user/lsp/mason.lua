@@ -1,109 +1,89 @@
-
 local servers = {
-    "clangd",
-    "lua_ls",
-	"pyright",
-    "cmake",
-    "glsl_analyzer",
-	"jsonls",
-    "ts_ls",
-    "emmet_ls",
-    "html",
-    "cssls",
-    "tailwindcss",
-    "rust_analyzer",
-    --"omnisharp",
-    "dockerls",
-    "docker_compose_language_service",
-    --"csharp_ls",
-    "gopls"
+    "clangd", "lua_ls", "pyright", "cmake", "glsl_analyzer",
+    "jsonls", "ts_ls", "emmet_ls", "html", "cssls", "tailwindcss",
+    "rust_analyzer", "dockerls", "docker_compose_language_service", "gopls"
 }
 
-local settings = {
-	ui = {
-		border = "none",
-		icons = {
-			package_installed = "◍",
-			package_pending = "◍",
-			package_uninstalled = "◍",
-		},
-	},
-	log_level = vim.log.levels.INFO,
-	max_concurrent_installers = 4,
-}
-
-require("mason").setup(settings)
-require("mason-lspconfig").setup({
-	ensure_installed = servers,
-	automatic_installation = true,
+-- 1. Setup Mason as usual
+require("mason").setup({
+    ui = {
+        border = "none",
+        icons = {
+            package_installed = "◍",
+            package_pending = "◍",
+            package_uninstalled = "◍",
+        },
+    },
+    log_level = vim.log.levels.INFO,
+    max_concurrent_installers = 4,
 })
 
-local lspconfig_status_ok, lspconfig = pcall(require, "lspconfig")
-if not lspconfig_status_ok then
-	return
-end
+-- 2. Setup Mason-LSPConfig (Note the new 'automatic_enable' for 0.11)
+require("mason-lspconfig").setup({
+    ensure_installed = servers,
+    -- In 0.11, mason-lspconfig can automatically call vim.lsp.enable() for you
+    automatic_enable = true, 
+})
 
-local opts = {}
+-- 3. Handle Keymaps & OnAttach via native Autocommand
+-- This replaces the need to pass `on_attach` to every server.
+vim.api.nvim_create_autocmd('LspAttach', {
+    callback = function(args)
+        local bufnr = args.buf
+        local client = vim.lsp.get_client_by_id(args.data.client_id)
+        
+        -- Call your existing handler function
+        require("user.lsp.handlers").on_attach(client, bufnr)
+    end,
+})
+
+-- 4. Apply server-specific settings using the NEW API
+local handlers = require("user.lsp.handlers")
 
 for _, server in pairs(servers) do
-	opts = {
-		on_attach = require("user.lsp.handlers").on_attach,
-		capabilities = require("user.lsp.handlers").capabilities,
-	}
+    -- Clean server name (remove @ versions)
+    local server_name = vim.split(server, "@")[1]
 
-	server = vim.split(server, "@")[1]
+    -- Prepare the config table
+    local config = {
+        capabilities = handlers.capabilities,
+    }
 
-	local require_ok, conf_opts = pcall(require, "user.lsp.settings." .. server)
-	if require_ok then
-		opts = vim.tbl_deep_extend("force", conf_opts, opts)
-	end
+    -- Merge custom settings from your files (e.g., user.lsp.settings.lua_ls)
+    local require_ok, conf_opts = pcall(require, "user.lsp.settings." .. server_name)
+    if require_ok then
+        config = vim.tbl_deep_extend("force", config, conf_opts)
+    end
 
-	lspconfig[server].setup(opts)
+    -- NEW: Register the configuration with Neovim
+    vim.lsp.config(server_name, config)
+    
+    -- NEW: Enable the server (if not already handled by mason-lspconfig)
+    vim.lsp.enable(server_name)
 end
 
-require "lspconfig".emmet_ls.setup {
-    capabilities = require("user.lsp.handlers").capabilities,
-    on_attach = require("user.lsp.handlers").on_attach,
+vim.lsp.config('emmet_ls', {
+    capabilities = handlers.capabilities,
     filetypes = { "html", "css", "typescriptreact", "javascriptreact", "javascript" },
-}
+})
+vim.lsp.enable('emmet_ls')
 
 local pid = vim.fn.getpid()
-require'lspconfig'.omnisharp.setup {
+vim.lsp.config('omnisharp', {
+    -- Replace lspconfig.util.root_pattern with native vim.fs.root
+    root_dir = function(fname)
+        return vim.fs.root(fname, { "*.csproj", "*.sln" })
+    end,
     cmd = { "/home/thesynthax/.cache/omnisharp-vim/omnisharp-roslyn/run", "--languageserver", "--hostPID", tostring(pid) },
-    root_dir = lspconfig.util.root_pattern("*.csproj","*.sln"),
-
-    -- Enables support for reading code style, naming convention and analyzer
-    -- settings from .editorconfig.
-    enable_editorconfig_support = true,
-
-    -- If true, MSBuild project system will only load projects for files that
-    -- were opened in the editor. This setting is useful for big C# codebases
-    -- and allows for faster initialization of code navigation features only
-    -- for projects that are relevant to code that is being edited. With this
-    -- setting enabled OmniSharp may load fewer projects and may thus display
-    -- incomplete reference lists for symbols.
-    enable_ms_build_load_projects_on_demand = false,
-
-    -- Enables support for roslyn analyzers, code fixes and rulesets.
-    enable_roslyn_analyzers = false,
-
-    -- Specifies whether 'using' directives should be grouped and sorted during
-    -- document formatting.
-    organize_imports_on_format = false,
-
-    -- Enables support for showing unimported types and unimported extension
-    -- methods in completion lists. When committed, the appropriate using
-    -- directive will be added at the top of the current file. This option can
-    -- have a negative impact on initial completion responsiveness,
-    -- particularly for the first few completion sessions after opening a
-    -- solution.
-    enable_import_completion = false,
-
-    -- Specifies whether to include preview versions of the .NET SDK when
-    -- determining which version to use for project loading.
-    sdk_include_prereleases = true,
-
-    -- Only run analyzers against open files when 'enableRoslynAnalyzers' is
-    -- true
-    analyze_open_documents_only = false,
-}
+    settings = {
+        -- Note: Custom flags usually go inside 'settings' for native LSP
+        enable_editorconfig_support = true,
+        enable_ms_build_load_projects_on_demand = false,
+        enable_roslyn_analyzers = false,
+        organize_imports_on_format = false,
+        enable_import_completion = false,
+        sdk_include_prereleases = true,
+        analyze_open_documents_only = false,
+    }
+})
+vim.lsp.enable('omnisharp')

@@ -1,7 +1,7 @@
 # Minimal, standalone zsh config (NO oh-my-zsh)
 
 # Ensure essential PATH
-export PATH="/usr/local/bin:/usr/bin:/bin:$HOME/bin:$PATH"
+export PATH="/usr/local/bin:/usr/bin:/bin:$HOME/bin:$HOME/.local/bin:$PATH"
 export XDG_CONFIG_HOME="$HOME/.config"
 
 # Prefer interactive-only blocks
@@ -37,9 +37,10 @@ fpath=(
 )
 
 # Autoload and initialize completion system
-autoload -Uz compinit compdef || true
+#autoload -Uz compinit compdef || true
+autoload -Uz compinit
 zstyle ':completion*' menu select
-compinit -u
+compinit
 # remove stale compdump if present
 #rm -f ~/.zcompdump* 2>/dev/null || true
 # initialize completions
@@ -51,6 +52,17 @@ echo "i use arch btw"
 #setopt autocd              # example option
 bindkey '^R' history-incremental-search-backward
 
+export HISTFILE=$HOME/.zsh_history # Or your preferred path for the combined history
+export HISTSIZE=100000
+export SAVEHIST=100000
+
+setopt SHARE_HISTORY
+setopt APPEND_HISTORY
+setopt INC_APPEND_HISTORY
+setopt HIST_EXPIRE_DUPS_FIRST
+setopt HIST_IGNORE_DUPS
+setopt HIST_IGNORE_SPACE
+setopt HIST_VERIFY
 # Source other personal config at end (if you have one)
 [[ -f ~/.zshrc.local ]] && source ~/.zshrc.local
 
@@ -102,7 +114,7 @@ export NVM_DIR="$HOME/.config/nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
-source /usr/local/gromacs/bin/GMXRC
+#source /usr/local/gromacs/bin/GMXRC
 export PATH=/home/thesynthax/.meteor:$PATH
 export ANDROID_HOME=/opt/android-sdk
 export PATH=$PATH:$ANDROID_HOME/emulator
@@ -110,3 +122,11 @@ export PATH=$PATH:$ANDROID_HOME/platform-tools
 export OLLAMA_MODELS=/home/thesynthax/.ollama/models
 doas ip link set tap0 master virbr0
 export PATH=$PATH:/opt/cascadeur
+unset LD_LIBRARY_PATH
+
+# opencode
+export PATH=/home/thesynthax/.opencode/bin:$PATH
+
+# Added by flyctl installer
+export FLYCTL_INSTALL="/home/thesynthax/.fly"
+export PATH="$FLYCTL_INSTALL/bin:$PATH"

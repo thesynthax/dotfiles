@@ -1,0 +1,298 @@
+2025-09-20 14:36:12.995 [error] Error: Unable to read file '/home/thesynthax/.vscode-oss/extensions/equinusocio.vsc-material-theme-34.7.5.547c6dd3.vsctmp/package.json' (Error: Unable to resolve nonexistent file '/home/thesynthax/.vscode-oss/extensions/equinusocio.vsc-material-theme-34.7.5.547c6dd3.vsctmp/package.json')
+    at qh.G (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89755)
+    at qh.F (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89580)
+    at async qh.D (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:88952)
+    at async Ea.u (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:45762)
+    at async Ea.scanExtension (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44269)
+    at async Promise.all (index 12)
+    at async Ea.r (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42695)
+    at async mf.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35555)
+    at async Bh.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69653)
+    at async B9.H (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:59467)
+    at async B9.s (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:57362)
+2025-09-20 14:36:12.995 [error] Error: Unable to read file '/home/thesynthax/.vscode-oss/extensions/equinusocio.vsc-material-theme-icons-3.8.8.230d6460.vsctmp/package.json' (Error: Unable to resolve nonexistent file '/home/thesynthax/.vscode-oss/extensions/equinusocio.vsc-material-theme-icons-3.8.8.230d6460.vsctmp/package.json')
+    at qh.G (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89755)
+    at qh.F (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89580)
+    at async qh.D (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:88952)
+    at async Ea.u (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:45762)
+    at async Ea.scanExtension (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44269)
+    at async Promise.all (index 16)
+    at async Ea.r (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42695)
+    at async mf.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35555)
+    at async Bh.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69653)
+    at async B9.H (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:59467)
+    at async B9.s (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:57362)
+2025-09-20 14:36:12.995 [error] Error: Unable to read file '/home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-2.45.25-linux-x64.cd5ef4e.vsctmp/package.json' (Error: Unable to resolve nonexistent file '/home/thesynthax/.vscode-oss/extensions/ms-dotnettools.csharp-2.45.25-linux-x64.cd5ef4e.vsctmp/package.json')
+    at qh.G (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89755)
+    at qh.F (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89580)
+    at async qh.D (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:88952)
+    at async Ea.u (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:45762)
+    at async Ea.scanExtension (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44269)
+    at async Promise.all (index 29)
+    at async Ea.r (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42695)
+    at async mf.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35555)
+    at async Bh.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69653)
+    at async B9.H (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:59467)
+    at async B9.s (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:57362)
+2025-09-20 14:36:12.995 [error] Error: Unable to read file '/home/thesynthax/.vscode-oss/extensions/ms-python.debugpy-2024.10.0-linux-x64.36de5298.vsctmp/package.json' (Error: Unable to resolve nonexistent file '/home/thesynthax/.vscode-oss/extensions/ms-python.debugpy-2024.10.0-linux-x64.36de5298.vsctmp/package.json')
+    at qh.G (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89755)
+    at qh.F (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89580)
+    at async qh.D (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:88952)
+    at async Ea.u (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:45762)
+    at async Ea.scanExtension (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44269)
+    at async Promise.all (index 32)
+    at async Ea.r (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42695)
+    at async mf.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35555)
+    at async Bh.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69653)
+    at async B9.H (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:59467)
+    at async B9.s (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:57362)
+2025-09-20 14:36:12.996 [error] Error: Unable to read file '/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64.309149ee.vsctmp/package.json' (Error: Unable to resolve nonexistent file '/home/thesynthax/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64.309149ee.vsctmp/package.json')
+    at qh.G (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89755)
+    at qh.F (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89580)
+    at async qh.D (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:88952)
+    at async Ea.u (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:45762)
+    at async Ea.scanExtension (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44269)
+    at async Promise.all (index 34)
+    at async Ea.r (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42695)
+    at async mf.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35555)
+    at async Bh.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69653)
+    at async B9.H (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:59467)
+    at async B9.s (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:57362)
+2025-09-20 14:36:12.996 [error] Error: Unable to read file '/home/thesynthax/.vscode-oss/extensions/ms-python.vscode-pylance-2024.9.2.-1b94a813.vsctmp/package.json' (Error: Unable to resolve nonexistent file '/home/thesynthax/.vscode-oss/extensions/ms-python.vscode-pylance-2024.9.2.-1b94a813.vsctmp/package.json')
+    at qh.G (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89755)
+    at qh.F (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89580)
+    at async qh.D (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:88952)
+    at async Ea.u (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:45762)
+    at async Ea.scanExtension (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44269)
+    at async Promise.all (index 37)
+    at async Ea.r (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42695)
+    at async mf.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35555)
+    at async Bh.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69653)
+    at async B9.H (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:59467)
+    at async B9.s (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:57362)
+2025-09-20 14:36:12.996 [error] Error: Unable to read file '/home/thesynthax/.vscode-oss/extensions/ms-toolsai.jupyter-2024.8.1-linux-x64.5d6c2a33.vsctmp/package.json' (Error: Unable to resolve nonexistent file '/home/thesynthax/.vscode-oss/extensions/ms-toolsai.jupyter-2024.8.1-linux-x64.5d6c2a33.vsctmp/package.json')
+    at qh.G (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89755)
+    at qh.F (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89580)
+    at async qh.D (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:88952)
+    at async Ea.u (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:45762)
+    at async Ea.scanExtension (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44269)
+    at async Promise.all (index 39)
+    at async Ea.r (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42695)
+    at async mf.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35555)
+    at async Bh.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69653)
+    at async B9.H (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:59467)
+    at async B9.s (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:57362)
+2025-09-20 14:36:12.996 [error] Error: Unable to read file '/home/thesynthax/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.19.1afe7693.vsctmp/package.json' (Error: Unable to resolve nonexistent file '/home/thesynthax/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.19.1afe7693.vsctmp/package.json')
+    at qh.G (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89755)
+    at qh.F (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89580)
+    at async qh.D (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:88952)
+    at async Ea.u (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:45762)
+    at async Ea.scanExtension (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44269)
+    at async Promise.all (index 41)
+    at async Ea.r (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42695)
+    at async mf.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35555)
+    at async Bh.scanAllUserExtensions (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69653)
+    at async B9.H (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:59467)
+    at async B9.s (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:57362)
+2025-09-20 14:36:13.083 [info] Marked extension as removed vadimcn.vscode-lldb-1.10.0
+2025-09-20 14:37:21.883 [info] Getting Manifest... dbaeumer.vscode-eslint
+2025-09-20 14:37:21.884 [info] Getting Manifest... eamodio.gitlens
+2025-09-20 14:37:21.885 [info] Getting Manifest... editorconfig.editorconfig
+2025-09-20 14:37:21.885 [info] Getting Manifest... eliverlara.andromeda
+2025-09-20 14:37:21.887 [info] Getting Manifest... equinusocio.vsc-material-theme
+2025-09-20 14:37:21.887 [info] Getting Manifest... franneck94.c-cpp-runner
+2025-09-20 14:37:21.888 [info] Getting Manifest... github.vscode-pull-request-github
+2025-09-20 14:37:21.889 [info] Getting Manifest... llvm-vs-code-extensions.vscode-clangd
+2025-09-20 14:37:21.890 [info] Getting Manifest... ms-azuretools.vscode-docker
+2025-09-20 14:37:21.891 [info] Getting Manifest... ms-dotnettools.csharp
+2025-09-20 14:37:21.891 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2025-09-20 14:37:21.892 [info] Getting Manifest... ms-python.debugpy
+2025-09-20 14:37:21.893 [info] Getting Manifest... ms-python.python
+2025-09-20 14:37:21.893 [info] Getting Manifest... ms-python.vscode-pylance
+2025-09-20 14:37:21.894 [info] Getting Manifest... ms-toolsai.jupyter
+2025-09-20 14:37:21.895 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2025-09-20 14:37:21.895 [info] Getting Manifest... ms-vscode.cmake-tools
+2025-09-20 14:37:21.896 [info] Getting Manifest... ms-vscode.cpptools
+2025-09-20 14:37:21.896 [info] Getting Manifest... ms-vscode.cpptools-extension-pack
+2025-09-20 14:37:21.897 [info] Getting Manifest... ms-vscode.js-debug-nightly
+2025-09-20 14:37:21.897 [info] Getting Manifest... ms-vscode.vscode-typescript-next
+2025-09-20 14:37:21.898 [info] Getting Manifest... robbowen.synthwave-vscode
+2025-09-20 14:37:21.898 [info] Getting Manifest... tabnine.tabnine-vscode
+2025-09-20 14:37:21.899 [info] Getting Manifest... usernamehw.errorlens
+2025-09-20 14:37:21.900 [info] Getting Manifest... vadimcn.vscode-lldb
+2025-09-20 14:37:21.900 [info] Getting Manifest... vscode-icons-team.vscode-icons
+2025-09-20 14:37:21.901 [info] Getting Manifest... vscodevim.vim
+2025-09-20 14:37:21.901 [info] Getting Manifest... vsls-contrib.codetour
+2025-09-20 14:37:21.902 [info] Getting Manifest... zhuangtongfa.material-theme
+2025-09-20 14:37:21.976 [info] Installing extension: eliverlara.andromeda {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:21.977 [info] Installing extension: github.vscode-pull-request-github {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:21.978 [info] Installing extension: ms-python.debugpy {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:21.987 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:21.989 [info] Installing extension: ms-vscode.cpptools-extension-pack {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:21.991 [info] Installing extension: ms-vscode.cmake-tools {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:21.992 [info] Installing extension: equinusocio.vsc-material-theme {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:21.995 [info] Installing extension: ms-vscode.vscode-typescript-next {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:21.998 [info] Installing extension: ms-vscode.js-debug-nightly {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:22.000 [info] Installing extension: ms-vscode.cpptools {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:22.001 [info] Installing extension: ms-azuretools.vscode-docker {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:22.005 [info] Installing extension: ms-python.vscode-pylance {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:22.010 [info] Installing extension: eamodio.gitlens {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:22.128 [info] Installing extension: tabnine.tabnine-vscode {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:22.130 [info] Installing extension: vsls-contrib.codetour {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:22.137 [info] Installing extension: llvm-vs-code-extensions.vscode-clangd {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:22.152 [info] Installing extension: editorconfig.editorconfig {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:22.154 [info] Installing extension: zhuangtongfa.material-theme {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:22.161 [info] Installing extension: franneck94.c-cpp-runner {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:22.163 [info] Installing extension: vadimcn.vscode-lldb {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:22.167 [info] Installing extension: ms-toolsai.jupyter {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:22.168 [info] Installing extension: vscode-icons-team.vscode-icons {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:22.169 [info] Installing extension: ms-toolsai.jupyter-renderers {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:22.172 [info] Installing extension: robbowen.synthwave-vscode {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:22.174 [info] Installing extension: dbaeumer.vscode-eslint {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:22.175 [info] Installing extension: usernamehw.errorlens {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:22.176 [info] Installing extension: ms-dotnettools.vscode-dotnet-runtime {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:22.177 [info] Installing extension: vscodevim.vim {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:22.179 [info] Installing extension: ms-dotnettools.csharp {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-20 14:37:25.518 [error] [/home/thesynthax/.vscode-oss/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.9]: Failed to parse /home/thesynthax/.vscode-oss/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.9/package.json: [0, 0] Value expected.
+2025-09-20 14:37:25.523 [error] [/home/thesynthax/.vscode-oss/extensions/ms-vscode.js-debug-nightly-2024.11.417]: Failed to parse /home/thesynthax/.vscode-oss/extensions/ms-vscode.js-debug-nightly-2024.11.417/package.json: [0, 0] Value expected.
+2025-09-20 14:37:25.525 [error] [/home/thesynthax/.vscode-oss/extensions/zhuangtongfa.material-theme-3.17.6]: Failed to parse /home/thesynthax/.vscode-oss/extensions/zhuangtongfa.material-theme-3.17.6/package.json: [0, 0] Value expected.
+2025-09-20 14:37:25.525 [error] [/home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.187.0]: Failed to parse /home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.187.0/package.json: [0, 0] Value expected.
+2025-09-20 14:37:25.527 [error] [/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-15.6.3]: Failed to parse /home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-15.6.3/package.json: [0, 0] Value expected.
+2025-09-20 14:37:27.199 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2025-09-20 14:37:27.201 [info] Getting Manifest... ms-vscode.cpptools
+2025-09-20 14:37:27.202 [info] Getting Manifest... ms-python.vscode-python-envs
+2025-09-20 14:37:27.203 [info] Getting Manifest... ms-azuretools.vscode-containers
+2025-09-20 14:37:27.204 [info] Getting Manifest... ms-python.python
+2025-09-20 14:37:27.237 [info] Installing extension: ms-python.vscode-python-envs {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-09-20 14:37:27.239 [info] Getting Manifest... vadimcn.vscode-lldb
+2025-09-20 14:37:27.282 [info] Getting Manifest... ms-python.vscode-python-envs
+2025-09-20 14:37:27.316 [info] Waiting for already requested installing extension ms-python.vscode-python-envs ms-python.debugpy vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2025-09-20 14:37:27.539 [info] Installing extension: ms-azuretools.vscode-containers {"productVersion":{"version":"1.104.1","date":"2025-09-18T16:13:21.262Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json","path":"/home/thesynthax/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-09-20 14:37:30.818 [info] Extension signature verification result for ms-vscode.cmake-tools: Success. Executed: true. Duration: 1543ms.
+2025-09-20 14:37:30.958 [info] Extension signature verification result for ms-vscode.js-debug-nightly: Success. Executed: true. Duration: 980ms.
+2025-09-20 14:37:30.958 [info] Extension signature verification result for equinusocio.vsc-material-theme: Success. Executed: true. Duration: 1569ms.
+2025-09-20 14:37:30.971 [info] Extension signature verification result for eliverlara.andromeda: Success. Executed: true. Duration: 1919ms.
+2025-09-20 14:37:30.987 [info] Extension signature verification result for ms-vscode.cpptools-extension-pack: Success. Executed: true. Duration: 1921ms.
+2025-09-20 14:37:31.142 [info] Extension signature verification result for ms-vscode.vscode-typescript-next: Success. Executed: true. Duration: 1331ms.
+2025-09-20 14:37:32.693 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-vscode.cpptools-extension-pack-1.3.1: ms-vscode.cpptools-extension-pack
+2025-09-20 14:37:36.259 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-vscode.cpptools-extension-pack-1.3.1
+2025-09-20 14:37:36.694 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/eliverlara.andromeda-1.9.0: eliverlara.andromeda
+2025-09-20 14:37:37.282 [info] Extension signature verification result for llvm-vs-code-extensions.vscode-clangd: Success. Executed: true. Duration: 684ms.
+2025-09-20 14:37:37.296 [info] Extension signature verification result for tabnine.tabnine-vscode: Success. Executed: true. Duration: 680ms.
+2025-09-20 14:37:37.296 [info] Extension signature verification result for editorconfig.editorconfig: Success. Executed: true. Duration: 688ms.
+2025-09-20 14:37:37.297 [info] Extension signature verification result for vsls-contrib.codetour: Success. Executed: true. Duration: 723ms.
+2025-09-20 14:37:37.331 [info] Extension signature verification result for eamodio.gitlens: Success. Executed: true. Duration: 700ms.
+2025-09-20 14:37:37.888 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/eliverlara.andromeda-1.9.0
+2025-09-20 14:37:37.948 [info] Extension installed successfully: ms-vscode.cpptools-extension-pack vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2025-09-20 14:37:38.016 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/llvm-vs-code-extensions.vscode-clangd-0.2.0: llvm-vs-code-extensions.vscode-clangd
+2025-09-20 14:37:38.478 [info] Extension signature verification result for zhuangtongfa.material-theme: Success. Executed: true. Duration: 550ms.
+2025-09-20 14:37:38.490 [info] Extension signature verification result for vadimcn.vscode-lldb: Success. Executed: true. Duration: 567ms.
+2025-09-20 14:37:39.171 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/llvm-vs-code-extensions.vscode-clangd-0.2.0
+2025-09-20 14:37:39.227 [info] Extension installed successfully: eliverlara.andromeda vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2025-09-20 14:37:39.235 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/equinusocio.vsc-material-theme-34.7.13: equinusocio.vsc-material-theme
+2025-09-20 14:37:39.739 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-vscode.js-debug-nightly-2025.9.1117: ms-vscode.js-debug-nightly
+2025-09-20 14:37:39.740 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/equinusocio.vsc-material-theme-34.7.13
+2025-09-20 14:37:40.107 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/vadimcn.vscode-lldb-1.11.5: vadimcn.vscode-lldb
+2025-09-20 14:37:40.108 [info] Extension installed successfully: llvm-vs-code-extensions.vscode-clangd vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2025-09-20 14:37:40.382 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/vadimcn.vscode-lldb-1.11.5
+2025-09-20 14:37:40.382 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-vscode.js-debug-nightly-2025.9.1117
+2025-09-20 14:37:40.423 [info] Extension installed successfully: equinusocio.vsc-material-theme vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2025-09-20 14:37:40.575 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/editorconfig.editorconfig-0.17.4: editorconfig.editorconfig
+2025-09-20 14:37:40.739 [info] Extension signature verification result for ms-toolsai.jupyter: Success. Executed: true. Duration: 624ms.
+2025-09-20 14:37:40.799 [info] Extension installed successfully: vadimcn.vscode-lldb vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2025-09-20 14:37:40.811 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/zhuangtongfa.material-theme-3.19.0: zhuangtongfa.material-theme
+2025-09-20 14:37:40.882 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/editorconfig.editorconfig-0.17.4
+2025-09-20 14:37:41.006 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.315.0: tabnine.tabnine-vscode
+2025-09-20 14:37:41.019 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/zhuangtongfa.material-theme-3.19.0
+2025-09-20 14:37:41.100 [info] Extension installed successfully: ms-vscode.js-debug-nightly vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2025-09-20 14:37:41.148 [info] Extension signature verification result for ms-vscode.cpptools: Success. Executed: true. Duration: 1028ms.
+2025-09-20 14:37:41.161 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/tabnine.tabnine-vscode-3.315.0
+2025-09-20 14:37:41.279 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-vscode.vscode-typescript-next-6.0.20250919: ms-vscode.vscode-typescript-next
+2025-09-20 14:37:41.361 [info] Extension installed successfully: editorconfig.editorconfig vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2025-09-20 14:37:41.368 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-vscode.cmake-tools-1.21.36: ms-vscode.cmake-tools
+2025-09-20 14:37:41.442 [info] Extension signature verification result for robbowen.synthwave-vscode: Success. Executed: true. Duration: 680ms.
+2025-09-20 14:37:41.457 [info] Extension signature verification result for ms-toolsai.jupyter-renderers: Success. Executed: true. Duration: 699ms.
+2025-09-20 14:37:41.638 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-vscode.vscode-typescript-next-6.0.20250919
+2025-09-20 14:37:41.966 [info] Extension signature verification result for dbaeumer.vscode-eslint: Success. Executed: true. Duration: 653ms.
+2025-09-20 14:37:42.266 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-vscode.cmake-tools-1.21.36
+2025-09-20 14:37:42.699 [info] Extension installed successfully: zhuangtongfa.material-theme vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2025-09-20 14:37:42.753 [info] Extension installed successfully: tabnine.tabnine-vscode vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2025-09-20 14:37:42.897 [info] Extension signature verification result for usernamehw.errorlens: Success. Executed: true. Duration: 616ms.
+2025-09-20 14:37:48.531 [info] Extension installed successfully: ms-vscode.vscode-typescript-next vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2025-09-20 14:37:48.533 [info] Extension installed successfully: ms-vscode.cmake-tools vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2025-09-20 14:37:48.533 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/dbaeumer.vscode-eslint-3.0.16: dbaeumer.vscode-eslint
+2025-09-20 14:37:49.005 [info] Extension signature verification result for ms-dotnettools.vscode-dotnet-runtime: Success. Executed: true. Duration: 565ms.
+2025-09-20 14:37:50.012 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/dbaeumer.vscode-eslint-3.0.16
+2025-09-20 14:37:51.271 [info] Extension signature verification result for vscodevim.vim: Success. Executed: true. Duration: 550ms.
+2025-09-20 14:37:52.986 [info] Extension installed successfully: dbaeumer.vscode-eslint vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2025-09-20 14:37:53.005 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/vsls-contrib.codetour-0.0.61: vsls-contrib.codetour
+2025-09-20 14:37:53.553 [info] Extension signature verification result for ms-python.vscode-python-envs: Success. Executed: true. Duration: 573ms.
+2025-09-20 14:37:53.595 [info] Extension signature verification result for ms-python.python: Success. Executed: true. Duration: 607ms.
+2025-09-20 14:37:53.879 [info] Marked extension as removed ms-vscode.cpptools-extension-pack-1.3.0
+2025-09-20 14:37:54.391 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/vsls-contrib.codetour-0.0.61
+2025-09-20 14:37:54.655 [info] Marked extension as removed eliverlara.andromeda-1.8.2
+2025-09-20 14:37:54.668 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/usernamehw.errorlens-3.26.0: usernamehw.errorlens
+2025-09-20 14:37:54.963 [info] Extension signature verification result for franneck94.c-cpp-runner: Success. Executed: true. Duration: 569ms.
+2025-09-20 14:37:55.168 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/usernamehw.errorlens-3.26.0
+2025-09-20 14:37:55.172 [info] Marked extension as removed llvm-vs-code-extensions.vscode-clangd-0.1.29
+2025-09-20 14:37:55.197 [info] Extension installed successfully: vsls-contrib.codetour vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2025-09-20 14:37:55.235 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/robbowen.synthwave-vscode-0.1.20: robbowen.synthwave-vscode
+2025-09-20 14:37:55.287 [info] Extension signature verification result for ms-python.debugpy: Success. Executed: true. Duration: 629ms.
+2025-09-20 14:37:55.662 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/robbowen.synthwave-vscode-0.1.20
+2025-09-20 14:37:55.664 [info] Marked extension as removed equinusocio.vsc-material-theme-33.6.0-universal
+2025-09-20 14:37:55.664 [info] Marked extension as removed equinusocio.vsc-material-theme-34.7.9
+2025-09-20 14:37:55.715 [info] Extension installed successfully: usernamehw.errorlens vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2025-09-20 14:37:55.752 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/vscodevim.vim-1.30.1: vscodevim.vim
+2025-09-20 14:37:55.752 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.7: ms-dotnettools.vscode-dotnet-runtime
+2025-09-20 14:37:55.791 [info] Extension signature verification result for ms-azuretools.vscode-docker: Success. Executed: true. Duration: 590ms.
+2025-09-20 14:37:56.275 [info] Extension signature verification result for github.vscode-pull-request-github: Success. Executed: true. Duration: 607ms.
+2025-09-20 14:37:56.823 [info] Extension signature verification result for ms-dotnettools.csharp: Success. Executed: true. Duration: 1130ms.
+2025-09-20 14:37:57.410 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.7
+2025-09-20 14:37:57.411 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/vscodevim.vim-1.30.1
+2025-09-20 14:37:57.414 [info] Marked extension as removed vadimcn.vscode-lldb-1.11.1
+2025-09-20 14:37:57.466 [info] Extension installed successfully: robbowen.synthwave-vscode vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2025-09-20 14:37:57.487 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-azuretools.vscode-docker-2.0.0: ms-azuretools.vscode-docker
+2025-09-20 14:37:57.589 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-17.4.1: eamodio.gitlens
+2025-09-20 14:37:57.611 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/franneck94.c-cpp-runner-9.4.10: franneck94.c-cpp-runner
+2025-09-20 14:37:57.756 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-toolsai.jupyter-2025.8.0-linux-x64: ms-toolsai.jupyter
+2025-09-20 14:37:57.759 [info] Marked extension as removed ms-vscode.js-debug-nightly-2024.11.417
+2025-09-20 14:37:57.822 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-azuretools.vscode-docker-2.0.0
+2025-09-20 14:37:57.996 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/franneck94.c-cpp-runner-9.4.10
+2025-09-20 14:37:58.040 [info] Extension signature verification result for ms-azuretools.vscode-containers: Success. Executed: true. Duration: 623ms.
+2025-09-20 14:37:58.175 [info] Extension signature verification result for vscode-icons-team.vscode-icons: Success. Executed: true. Duration: 623ms.
+2025-09-20 14:37:58.231 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-toolsai.jupyter-2025.8.0-linux-x64
+2025-09-20 14:37:58.231 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-17.4.1
+2025-09-20 14:37:58.232 [info] Marked extension as removed editorconfig.editorconfig-0.16.6-universal
+2025-09-20 14:37:58.286 [info] Extension installed successfully: ms-dotnettools.vscode-dotnet-runtime vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2025-09-20 14:37:58.334 [info] Extension installed successfully: vscodevim.vim vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2025-09-20 14:37:58.355 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.3.0: ms-toolsai.jupyter-renderers
+2025-09-20 14:37:58.605 [info] Marked extension as removed zhuangtongfa.material-theme-3.17.6
+2025-09-20 14:37:59.565 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.3.0
+2025-09-20 14:37:59.606 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-python.vscode-python-envs-1.8.0-linux-x64: ms-python.vscode-python-envs
+2025-09-20 14:37:59.656 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-azuretools.vscode-containers-2.1.0: ms-azuretools.vscode-containers
+2025-09-20 14:37:59.867 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.118.1: github.vscode-pull-request-github
+2025-09-20 14:38:13.415 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-python.vscode-python-envs-1.8.0-linux-x64
+2025-09-20 14:38:13.415 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/github.vscode-pull-request-github-0.118.1
+2025-09-20 14:38:13.415 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-azuretools.vscode-containers-2.1.0
+2025-09-20 14:38:13.416 [info] Marked extension as removed tabnine.tabnine-vscode-3.187.0
+2025-09-20 14:38:13.640 [info] Marked extension as removed ms-vscode.vscode-typescript-next-5.8.20241108
+2025-09-20 14:38:13.731 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-python.debugpy-2025.10.0-linux-x64: ms-python.debugpy
+2025-09-20 14:38:14.833 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/vscode-icons-team.vscode-icons-12.14.0: vscode-icons-team.vscode-icons
+2025-09-20 14:38:15.127 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-python.debugpy-2025.10.0-linux-x64
+2025-09-20 14:38:15.131 [info] Marked extension as removed ms-vscode.cmake-tools-1.19.52
+2025-09-20 14:38:15.215 [info] Extension installed successfully: franneck94.c-cpp-runner vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2025-09-20 14:38:15.257 [info] Extension installed successfully: eamodio.gitlens vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2025-09-20 14:38:15.297 [info] Extension installed successfully: ms-toolsai.jupyter vscode-userdata:/home/thesynthax/.vscode-oss/extensions/extensions.json
+2025-09-20 14:38:23.840 [info] Marked extension as removed dbaeumer.vscode-eslint-3.0.10
+2025-09-20 14:38:23.967 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-python.python-2025.14.0-linux-x64: ms-python.python
+2025-09-20 14:38:24.498 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Executed: true. Duration: 654ms.
+2025-09-20 14:38:24.679 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/vscode-icons-team.vscode-icons-12.14.0
+2025-09-20 14:38:25.323 [info] Extracted extension to file:///home/thesynthax/.vscode-oss/extensions/ms-vscode.cpptools-1.27.7-linux-x64: ms-vscode.cpptools
+2025-09-20 14:38:38.038 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-python.python-2025.14.0-linux-x64
+2025-09-20 14:38:38.038 [info] Marked extension as removed vsls-contrib.codetour-0.0.59
+2025-09-20 14:38:38.038 [info] Renamed to /home/thesynthax/.vscode-oss/extensions/ms-vscode.cpptools-1.27.7-linux-x64
+2025-09-20 14:38:39.040 [info] Marked extension as removed usernamehw.errorlens-3.20.0
+2025-09-20 14:38:39.618 [info] Marked extension as removed robbowen.synthwave-vscode-0.1.17
+2025-09-20 14:38:40.200 [info] Marked extension as removed ms-dotnettools.vscode-dotnet-runtime-2.2.2
+2025-09-20 14:38:40.495 [info] Marked extension as removed vscodevim.vim-1.28.1
+2025-09-20 14:38:40.719 [info] Marked extension as removed ms-azuretools.vscode-docker-1.29.3

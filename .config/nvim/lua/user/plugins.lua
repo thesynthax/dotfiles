@@ -84,6 +84,25 @@ return packer.startup(function(use)
     use {'akinsho/bufferline.nvim', tag = "v3.*", requires = 'nvim-tree/nvim-web-devicons'}
     use {'nvim-lualine/lualine.nvim', requires = { 'kyazdani42/nvim-web-devicons', opt = true}}
     use "folke/lazy.nvim"
+    use {
+        "github/copilot.vim",
+        config = function()
+            require("user.copilot")
+        end
+    }
+    use {
+        "nickjvandyke/opencode.nvim",
+        requires = {
+            "nvim-lua/plenary.nvim",             -- required by opencode.nvim
+            -- optional dependencies below:
+            "MeanderingProgrammer/render-markdown.nvim",
+            "saghen/blink.cmp",                  -- optional completion
+            "folke/snacks.nvim",                 -- optional picker UI
+        },
+        config = function()
+            require("user.opencode")
+        end,
+    }
     --use "OmniSharp/omnisharp-vim"
     -- Automatically set up your configuration after cloning packer.nvim
     -- Put this at the end after all plugins

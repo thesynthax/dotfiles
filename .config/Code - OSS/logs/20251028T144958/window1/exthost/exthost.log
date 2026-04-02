@@ -1,0 +1,54 @@
+2025-10-28 14:50:06.141 [info] Extension host with pid 426544 started
+2025-10-28 14:50:06.391 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-28 14:50:06.452 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-10-28 14:50:06.454 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2025-10-28 14:50:06.907 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2025-10-28 14:50:07.620 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-28 14:50:07.832 [info] Eager extensions activated
+2025-10-28 14:50:07.833 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-28 14:50:07.835 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-28 14:50:07.854 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2025-10-28 14:50:08.429 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2025-10-28 14:50:12.322 [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-10-28 14:50:12.486 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-10-28 14:50:13.164 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onStartupFinished', root cause: GitHub.vscode-pull-request-github
+2025-10-28 14:50:13.185 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2025-10-28 14:50:14.057 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-10-28 14:50:14.325 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-10-28 14:50:14.579 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-10-28 14:50:14.951 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-10-28 14:50:15.308 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-28 14:50:15.316 [error] An error occurred when disposing the subscriptions for extension 'eamodio.gitlens':
+2025-10-28 14:50:15.572 [error] TypeError: Cannot read properties of undefined (reading 'dispose')
+    at Object.dispose (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:142:122634)
+    at $0.<anonymous> (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:110:24558)
+    at $0.dispose (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:110:24654)
+    at Object.dispose (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-17.4.1/dist/gitlens.js:111:29281)
+    at /home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-17.4.1/dist/gitlens.js:390:17184
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/thesynthax/.vscode-oss/extensions/eamodio.gitlens-17.4.1/dist/gitlens.js:390:17166)
+    at Hi (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:25:746)
+    at E2.b (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:15119)
+    at E2.dispose (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:25:1227)
+    at SZ.eb (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:11992)
+    at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:9947
+    at Array.map (<anonymous>)
+    at SZ.$ (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:9935)
+    at SZ.terminate (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:10178)
+    at H3.terminate (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+    at Ss (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:393:10409)
+    at MessagePortMain.<anonymous> (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:393:6948)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-10-28 14:50:15.576 [error] ProxyResolver#addCertificatesV1 Canceled: Canceled
+    at gl (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:7:1394)
+    at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:117842
+    at Array.forEach (<anonymous>)
+    at U4.dispose (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:117782)
+    at SZ.terminate (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:10155)
+    at H3.terminate (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+    at Ss (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:393:10409)
+    at MessagePortMain.<anonymous> (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:393:6948)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-10-28 14:50:15.576 [info] Extension host with pid 426544 exiting with code 0
