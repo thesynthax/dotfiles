@@ -1,18 +1,15 @@
-require "user.options"
-require "user.keymaps"
-require "user.plugins"
-require "user.colorscheme"
-require "user.cmp"
-require "user.lsp"
-require "user.telescope"
-require "user.treesitter"
-require "user.autopairs"
-require "user.comment"
-require "user.gitsigns"
-require "user.nvim-tree"
-require "user.whichkey"
-require "user.alpha"
-require "user.bufferline"
-require "user.lualine"
-require "user.opencode"
---require "user.lazy"
+--[[
+   ______          __     ____                 __  ______ 
+  / ____/___  ____/ /__  / __ \____  _____    / / / / __ \
+ / /   / __ \/ __  / _ \/ / / / __ \/ ___/   / /_/ / / / /
+/ /___/ /_/ / /_/ /  __/ /_/ / /_/ (__  )   / __  / /_/ / 
+\____/\____/\__,_/\___/\____/ .___/____/   /_/ /_/\___\_\ 
+                           /_/
+
+
+--]]
+
+
+require("config.options")
+require("config.keymaps")
+require("config.lazy")

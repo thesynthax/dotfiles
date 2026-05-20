@@ -3,3 +3,5 @@ xrandr --auto
 xrandr --dpi 96
 exec dwm
 xrandr --output eDP-1-1 --left-of HDMI-1-2
+systemctl --user import-environment DISPLAY XAUTHORITY
+dbus-update-activation-environment --systemd DISPLAY XAUTHORITY

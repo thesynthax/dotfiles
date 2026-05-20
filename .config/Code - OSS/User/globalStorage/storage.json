@@ -5,19 +5,19 @@
         "folders": [],
         "emptyWindows": [
             {
-                "backupFolder": "1761643198911"
+                "backupFolder": "1779085547375"
             }
         ]
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/thesynthax/.config/Code - OSS/Backups/1761643198911",
+            "backupPath": "/home/thesynthax/.config/Code - OSS/Backups/1779085547375",
             "uiState": {
                 "mode": 1,
                 "x": 2979,
                 "y": 43,
                 "width": 851,
-                "height": 508
+                "height": 1027
             }
         },
         "openedWindows": []
@@ -1826,7 +1826,9 @@
         },
         "emptyWindows": {
             "1758360887041": "__default__profile__",
-            "1761643198911": "__default__profile__"
+            "1761643198911": "__default__profile__",
+            "1778091037294": "__default__profile__",
+            "1779085547375": "__default__profile__"
         }
     },
     "profileAssociationsMigration": true,

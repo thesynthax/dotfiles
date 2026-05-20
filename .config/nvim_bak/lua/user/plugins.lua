@@ -46,7 +46,7 @@ return packer.startup(function(use)
     use "nvim-lua/plenary.nvim" -- Useful lua functions used ny lots of plugins
     use {'iamcco/markdown-preview.nvim', run = 'cd app && yarn install', cmd = 'MarkdownPreview'}
     use "navarasu/onedark.nvim"
-    use "thesynthax/thesynthax-dark"
+--    use "thesynthax/thesynthax-dark"
     use "hrsh7th/nvim-cmp" -- The completion plugin
     use "hrsh7th/cmp-buffer" -- buffer completions
     use "hrsh7th/cmp-path" -- path completions
@@ -66,11 +66,13 @@ return packer.startup(function(use)
     use "nvim-telescope/telescope.nvim"
     use 'nvim-telescope/telescope-media-files.nvim'
     use {
-        "nvim-treesitter/nvim-treesitter",
-        run = "TSUpdate"
+       "nvim-treesitter/nvim-treesitter",
+         run = function()
+            require('nvim-treesitter.install').update({ with_sync = true })
+         end,
     }
-    use "p00f/nvim-ts-rainbow"
-    use "nvim-treesitter/playground"
+--    use "p00f/nvim-ts-rainbow"
+--    use "nvim-treesitter/playground"
     use "windwp/nvim-autopairs"
     use "JoosepAlviste/nvim-ts-context-commentstring"
     use "lewis6991/gitsigns.nvim"
@@ -96,7 +98,7 @@ return packer.startup(function(use)
             "nvim-lua/plenary.nvim",             -- required by opencode.nvim
             -- optional dependencies below:
             "MeanderingProgrammer/render-markdown.nvim",
-            "saghen/blink.cmp",                  -- optional completion
+            --"saghen/blink.cmp",                  -- optional completion
             "folke/snacks.nvim",                 -- optional picker UI
         },
         config = function()

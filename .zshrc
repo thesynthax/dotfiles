@@ -114,7 +114,7 @@ export NVM_DIR="$HOME/.config/nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
-#source /usr/local/gromacs/bin/GMXRC
+source /usr/local/gromacs/bin/GMXRC
 export PATH=/home/thesynthax/.meteor:$PATH
 export ANDROID_HOME=/opt/android-sdk
 export PATH=$PATH:$ANDROID_HOME/emulator
@@ -130,3 +130,7 @@ export PATH=/home/thesynthax/.opencode/bin:$PATH
 # Added by flyctl installer
 export FLYCTL_INSTALL="/home/thesynthax/.fly"
 export PATH="$FLYCTL_INSTALL/bin:$PATH"
+
+export PYENV_ROOT="$HOME/.pyenv"
+export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init -)"
