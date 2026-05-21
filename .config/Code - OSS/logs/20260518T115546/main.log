@@ -1,9 +1,0 @@
-2026-05-18 11:55:46.747 [info] StorageMainService: creating application shared storage
-2026-05-18 11:55:46.747 [info] StorageMainService: creating application shared storage with local application storage fallback
-2026-05-18 11:55:46.751 [info] [shared storage] Creating shared storage database at '/home/thesynthax/.vscode-oss-shared/sharedStorage/state.vscdb' (wasCreated: false)
-2026-05-18 11:55:46.751 [info] [shared storage] Initializing fallback application storage (type: local, path: /home/thesynthax/.config/Code - OSS/User/globalStorage/state.vscdb)
-2026-05-18 11:55:52.612 [info] [shared storage] Fallback application storage initialized with 109 items
-2026-05-18 11:55:52.613 [info] update#setState disabled
-2026-05-18 11:55:52.613 [info] update#ctor - updates are disabled as there is no update URL
-2026-05-18 11:55:53.003 [warning] [storage main] detected slow close() operation: Time: 4194ms, DB size: 12288b, Large Keys: __$__isNewStorageMarker:5
-2026-05-18 11:55:53.328 [warning] [storage main] detected slow close() operation: Time: 4518ms, DB size: 2002944b, Large Keys: iconThemeData:979851, colorThemeData:34506, workbench.activity.placeholderViewlets:10927, extensionsEnablement/malicious:8135, __$__targetStorageMarker:3764

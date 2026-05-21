@@ -1,3 +1,0 @@
-2025-09-20 15:37:31.386 [info] GitLens v17.4.1 activating in Code - OSS (1.104.1) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (someValue.machineId|someValue.sessionId)
-To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
-
