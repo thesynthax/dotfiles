@@ -75,8 +75,8 @@
 		"critical": 15
 	},
 	"format": "{icon} {capacity}",
-	"format-charging": " {capacity}%",
-	"format-plugged": "󱘖  {capacity}%",
+	"format-charging": "{capacity}%",
+	"format-plugged": "󱘖 {capacity}%",
 	"format-alt-click": "click",
 	"format-full": "{icon} Full",
 	"format-alt": "{icon} {time}",
@@ -142,9 +142,9 @@
 	"format-bluetooth": "{icon} 󰂰  {volume}",
 	"format-muted": "󰖁 ",
 	"format-icons": {
-		"headphone": " ",
-		"hands-free": " ",
-		"headset": " ",
+		"headphone": "",
+		"hands-free": "",
+		"headset": "",
 		"phone": " ",
 		"portable": " ",
 		"car": " ",
@@ -165,8 +165,8 @@
 },
 "pulseaudio#microphone": {
 	"format": "{format_source}",
-	"format-source": " {volume}%",
-	"format-source-muted": " ",
+	"format-source": "{volume}%",
+	"format-source-muted": "",
 	"on-click": "~/.config/hypr/scripts/Volume.sh --toggle-mic",
 	"on-click-right": "pavucontrol -t 4",
 	"on-scroll-up": "~/.config/hypr/scripts/Volume.sh --mic-inc",
@@ -280,7 +280,7 @@
 },
 // NOTE:! This is only for Arch and Arch Based Distros  depend: \
 "custom/weather": {
-	"format": "{}lol",
+	"format": "{}",
 	"format-alt": "{alt}: {}",
 	"format-alt-click": "click",
 	"interval": 3600,
@@ -323,17 +323,17 @@
 },
 
   "hyprland/window": {
-    "format": "󰣆  {title}",
+    "format": "󰣆 {title}",
     "max-length": 40,
     "separate-outputs": false,
     "rewrite": {
-      "^.*( — LibreWolf|LibreWolf)$": "󰈹  LibreWolf",
-      "(.*) — Mozilla Firefox": "  Firefox",
-      "^.*v( .*|$)": "  Neovim",
-      "^.*~$": "󰄛  Kitty",
-      "(.*) ": "  Empty",
+      "^.*( — LibreWolf|LibreWolf)$": "󰈹 LibreWolf",
+      "(.*) — Mozilla Firefox": " Firefox",
+      "^.*v( .*|$)": " Neovim",
+      "^.*~$": "󰄛 Kitty",
+      "(.*) ": " Empty",
       "^.*pdf( .*|$)": "",
-      "^.*(- Mousepad)$" :"  $1"
+      "^.*(- Mousepad)$" :" $1"
     },
   },
   "group/info": {
