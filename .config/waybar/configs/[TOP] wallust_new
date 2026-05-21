@@ -25,7 +25,5 @@
   "idle_inhibitor",
   "group/demo",
    "group/hub",
-   "custom/power",
-    
   ],
 }

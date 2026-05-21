@@ -46,6 +46,8 @@ GDK_BACKEND=$BACKEND yad --width=$dynamic_width --height=$dynamic_height \
 " A" "Desktop Overview" "(AGS Overview)" \
 " D" "App Launcher" "(rofi-wayland)" \
 " SHIFT D" "Command Runner" "(rofi-wayland)" \
+" SHIFT P" "Power Menu" "(powermenu)" \
+" SHIFT D" "Pass menu" "(passmenu)" \
 " S" "Google Search" "(rofi)" \
 " Q" "close active window" "(not kill)" \
 " Shift Q " "kills an active window" "(kill)" \
@@ -67,7 +69,6 @@ GDK_BACKEND=$BACKEND yad --width=$dynamic_width --height=$dynamic_height \
 " CTRL Print" "screenshot timer 5 secs " "(grim)" \
 " CTRL SHIFT Print" "screenshot timer 10 secs " "(grim)" \
 "ALT Print" "Screenshot active window" "active window only" \
-"CTRL ALT P" "power-menu" "(wlogout)" \
 " C" "screen lock" "(hyprlock)" \
 "CTRL ALT Del" "Hyprland Exit" "(SAVE YOUR WORK!!!)" \
 " F" "Fullscreen" "Toggles to full screen" \

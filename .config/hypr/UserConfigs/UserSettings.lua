@@ -70,7 +70,7 @@ hl.config({
         kb_model = "",
         kb_options = "grp:alt_shift_toggle",
         kb_rules = "",
-        repeat_rate = 25,
+        repeat_rate = 45,
         repeat_delay = 300,
         numlock_by_default = true,
         left_handed = false,
