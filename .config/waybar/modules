@@ -279,6 +279,12 @@
 	"escape": true,
 },
 // NOTE:! This is only for Arch and Arch Based Distros  depend: \
+"custom/updates": {
+	"format": " {}",
+	"exec": "checkupdates-with-aur | wc -l",
+	"interval": 3600,
+	"tooltip": false,
+},
 "custom/weather": {
 	"format": "{}",
 	"format-alt": "{alt}: {}",

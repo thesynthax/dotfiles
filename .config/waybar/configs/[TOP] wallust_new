@@ -24,6 +24,7 @@
   "modules-right": [
   "idle_inhibitor",
   "group/demo",
+   "custom/updates",
    "group/hub",
   ],
 }
