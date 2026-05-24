@@ -78,7 +78,9 @@ shotwin() {
 
 shotarea() {
 	tmpfile=$(mktemp)
-	grim -g "$(slurp)" - >"$tmpfile"
+	geometry=$(slurp)
+	sleep 0.3
+	grim -g "$geometry" - >"$tmpfile"
 	if [[ -s "$tmpfile" ]]; then
 		wl-copy <"$tmpfile"
 		mv "$tmpfile" "$dir/$file"
@@ -98,7 +100,9 @@ shotactive() {
 
 shotswappy() {
 	tmpfile=$(mktemp)
-	grim -g "$(slurp)" - >"$tmpfile" && "${sDIR}/Sounds.sh" --screenshot && notify_view "swappy"
+	geometry=$(slurp)
+	sleep 0.3
+	grim -g "$geometry" - >"$tmpfile" && "${sDIR}/Sounds.sh" --screenshot && notify_view "swappy"
 	swappy -f - <"$tmpfile"
 	rm "$tmpfile"
 }

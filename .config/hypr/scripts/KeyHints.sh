@@ -47,7 +47,7 @@ GDK_BACKEND=$BACKEND yad --width=$dynamic_width --height=$dynamic_height \
 " D" "App Launcher" "(rofi-wayland)" \
 " SHIFT D" "Command Runner" "(rofi-wayland)" \
 " SHIFT P" "Power Menu" "(powermenu)" \
-" SHIFT D" "Pass menu" "(passmenu)" \
+" CTRL P" "Pass menu" "(passmenu)" \
 " S" "Google Search" "(rofi)" \
 " Q" "close active window" "(not kill)" \
 " Shift Q " "kills an active window" "(kill)" \
@@ -81,5 +81,3 @@ GDK_BACKEND=$BACKEND yad --width=$dynamic_width --height=$dynamic_height \
 " ALT V" "Clipboard Manager" "cliphist" \
 " H" "Launch this app" "" \
 " E" "View or EDIT Keybinds, Settings, Monitor" "" \
-"" "" "" \
-"More tips:" "https://github.com/JaKooLit/Hyprland-Dots/wiki" ""\

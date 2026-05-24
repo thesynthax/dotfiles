@@ -4,7 +4,7 @@
 (
 address: "127.0.0.1:6600",
 on_song_change: ["~/.config/rmpc/notify"],
-lyrics_dir: "~/Music",
+lyrics_dir: "~/music",
 theme: Some("wallust"), 
 cache_dir: Some("/home/hypr/.cache/rmpc/"),
 
