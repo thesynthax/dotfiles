@@ -5,6 +5,10 @@
 # WALLPAPERS PATH
 wallDIR="$HOME/.wallpaper"
 SCRIPTSDIR="$HOME/.config/hypr/scripts"
+CACHE_DIR="$HOME/.cache/wallpaper-thumbs"
+THUMB_SIZE="300x200"
+
+mkdir -p "$CACHE_DIR"
 
 # variables
 focused_monitor=$(hyprctl monitors | awk '/^Monitor/{name=$2} /focused: yes/{print name}')
@@ -29,20 +33,44 @@ RANDOM_PIC_NAME=". random"
 # Rofi command
 rofi_command="rofi -i -show -dmenu -config ~/.config/rofi/config-wallpaper.rasi"
 
+get_thumbnail() {
+  local img="$1"
+  local mtime=$(stat -c "%Y" "$img" 2>/dev/null)
+  local hash=$(echo -n "${img}${mtime}" | md5sum | cut -d' ' -f1)
+  local thumb="$CACHE_DIR/${hash}.jpg"
+  if [[ ! -f "$thumb" ]]; then
+    magick "$img" -thumbnail "${THUMB_SIZE}^" -gravity center -extent "$THUMB_SIZE" "$thumb" 2>/dev/null
+  fi
+  echo "$thumb"
+}
+
+# Pre-generate missing thumbnails in parallel
+for pic in "${PICS[@]}"; do
+  mtime=$(stat -c "%Y" "$pic" 2>/dev/null)
+  hash=$(echo -n "${pic}${mtime}" | md5sum | cut -d' ' -f1)
+  thumb="$CACHE_DIR/${hash}.jpg"
+  if [[ ! -f "$thumb" ]]; then
+    (magick "$pic" -thumbnail "${THUMB_SIZE}^" -gravity center -extent "$THUMB_SIZE" "$thumb" 2>/dev/null) &
+  fi
+done
+wait
+
 # Sorting Wallpapers
 menu() {
   # Sort the PICS array
   IFS=$'\n' sorted_options=($(sort <<<"${PICS[*]}"))
 
   # Place ". random" at the beginning with the random picture as an icon
-  printf "%s\x00icon\x1f%s\n" "$RANDOM_PIC_NAME" "$RANDOM_PIC"
+  local random_thumb=$(get_thumbnail "$RANDOM_PIC")
+  printf "%s\x00icon\x1f%s\n" "$RANDOM_PIC_NAME" "$random_thumb"
 
   for pic_path in "${sorted_options[@]}"; do
     pic_name=$(basename "$pic_path")
 
     # Displaying .gif to indicate animated images
     if [[ ! "$pic_name" =~ \.gif$ ]]; then
-      printf "%s\x00icon\x1f%s\n" "$(echo "$pic_name" | cut -d. -f1)" "$pic_path"
+      local thumb=$(get_thumbnail "$pic_path")
+      printf "%s\x00icon\x1f%s\n" "$(echo "$pic_name" | cut -d. -f1)" "$thumb"
     else
       printf "%s\n" "$pic_name"
     fi
