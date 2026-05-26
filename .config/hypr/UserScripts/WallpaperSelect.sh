@@ -140,7 +140,7 @@ json.dump(m, open(f, 'w'))
 fi
 
 sleep 0.5
-"$SCRIPTSDIR/WallustSwww.sh"
+"$SCRIPTSDIR/WallustSwww.sh" "$selected_wallpaper"
 sleep 0.2
 "$SCRIPTSDIR/Refresh.sh"
 sleep 2

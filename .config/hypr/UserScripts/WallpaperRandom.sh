@@ -34,7 +34,7 @@ json.dump(m, open(f, 'w'))
   awww img -o "$focused_monitor" "$RANDOMPICS" --transition-fps 60 --transition-type random --transition-duration 1
 fi
 
-${scriptsDir}/WallustSwww.sh
+${scriptsDir}/WallustSwww.sh "$RANDOMPICS"
 sleep 1
 ${scriptsDir}/Refresh.sh
 sleep 0.2
