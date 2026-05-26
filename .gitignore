@@ -2,4 +2,12 @@
 .config/Code\ -\ OSS/CachedExtensionVSIXs
 .config/Code\ -\ OSS/User/History
 .config/Code\ -\ OSS/Cache
+
+# Shell history
 .zsh_history
+.bash_history
+
+# Private keys and certificates
+*.pem
+*.key
+*.cert

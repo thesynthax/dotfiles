@@ -168,7 +168,7 @@ local config_defaults = {
 }
 config = {
 	version = uosc_version,
-	open_subtitles_api_key = 'b0rd16N0bp7DETMpO4pYZwIqmQkZbYQr',
+	open_subtitles_api_key = os.getenv('OPEN_SUBTITLES_API_KEY') or '',
 	open_subtitles_agent = 'uosc v' .. uosc_version,
 	-- sets max rendering frequency in case the
 	-- native rendering frequency could not be detected
