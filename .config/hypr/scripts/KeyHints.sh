@@ -55,9 +55,10 @@ GDK_BACKEND=$BACKEND yad --width=$dynamic_width --height=$dynamic_height \
 " W" "Open Browser" "(brave)" \
 " SHIFT E" "Open File Manager" "(thunar)" \
 " Alt V" "Clipboard Manager" "(cliphist)" \
-" CTRL W" "Choose wallpaper" "(Wallpaper Menu)" \
+" CTRL W" "Choose wallpaper" "(waydeeper depth effect)" \
 " SHIFT W" "Choose wallpaper effects" "(imagemagick + swww)" \
-"CTRL ALT W" "Random wallpaper" "(via swww)" \
+"CTRL ALT W" "Random wallpaper" "(waydeeper depth effect)" \
+" ALT W" "Toggle depth effect" "(waydeeper on/off)" \
 " B" "Hide/UnHide Waybar" "waybar" \
 " CTRL B" "Choose waybar styles" "(waybar styles)" \
 " ALT B" "Choose waybar layout" "(waybar layout)" \

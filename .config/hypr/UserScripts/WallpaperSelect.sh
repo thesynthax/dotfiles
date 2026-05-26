@@ -12,17 +12,13 @@ mkdir -p "$CACHE_DIR"
 
 # variables
 focused_monitor=$(hyprctl monitors | awk '/^Monitor/{name=$2} /focused: yes/{print name}')
-# swww transition config
+
+# swww transition config (used when waydeeper is off)
 FPS=60
 TYPE="any"
 DURATION=2
 BEZIER=".43,1.19,1,.4"
 SWWW_PARAMS="--transition-fps $FPS --transition-type $TYPE --transition-duration $DURATION"
-
-# Check if swaybg is running
-if pidof swaybg >/dev/null; then
-  pkill swaybg
-fi
 
 # Retrieve image files using null delimiter to handle spaces in filenames
 mapfile -d '' PICS < <(find -L "${wallDIR}" -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.gif" \) -print0)
@@ -77,9 +73,6 @@ menu() {
   done
 }
 
-# initiate swww if not running
-awww query || awww-daemon --format xrgb
-
 # Choice of wallpapers
 main() {
   choice=$(menu | $rofi_command)
@@ -88,51 +81,66 @@ main() {
   choice=$(echo "$choice" | xargs)
   RANDOM_PIC_NAME=$(echo "$RANDOM_PIC_NAME" | xargs)
 
-  # No choice case
   if [[ -z "$choice" ]]; then
     echo "No choice selected. Exiting."
     exit 0
   fi
 
-  # Random choice case
   if [[ "$choice" == "$RANDOM_PIC_NAME" ]]; then
-    awww img -o "$focused_monitor" "$RANDOM_PIC" $SWWW_PARAMS
-    sleep 0.5
-    "$SCRIPTSDIR/WallustSwww.sh"
-    sleep 0.2
-    "$SCRIPTSDIR/Refresh.sh"
+    echo "$RANDOM_PIC"
     exit 0
   fi
 
-  # Find the index of the selected file
-  pic_index=-1
   for i in "${!PICS[@]}"; do
     filename=$(basename "${PICS[$i]}")
     if [[ "$filename" == "$choice"* ]]; then
-      pic_index=$i
-      break
+      echo "${PICS[$i]}"
+      exit 0
     fi
   done
 
-  if [[ $pic_index -ne -1 ]]; then
-    awww img -o "$focused_monitor" "${PICS[$pic_index]}" $SWWW_PARAMS
-  else
-    echo "Image not found."
-    exit 1
-  fi
+  echo "Image not found."
+  exit 1
 }
 
-# Check if rofi is already running
 if pidof rofi >/dev/null; then
   pkill rofi
-  sleep 1 # Allow some time for rofi to close
+  sleep 1
 fi
 
-main
+selected_wallpaper=$(main)
+
+if [[ -z "$selected_wallpaper" || "$selected_wallpaper" == "Image not found." ]]; then
+  exit 1
+fi
+
+# Update symlinks
+ln -sf "$selected_wallpaper" "$HOME/.config/rofi/.current_wallpaper"
+cp -r "$selected_wallpaper" "$HOME/.config/hypr/wallpaper_effects/.wallpaper_current"
+
+# Check waydeeper state, use appropriate backend
+if [ -f "$HOME/.cache/waydeeper/state" ] && [ "$(cat "$HOME/.cache/waydeeper/state")" = "on" ]; then
+  waydeeper set "$selected_wallpaper" -m "$focused_monitor"
+else
+  # Track per-monitor wallpaper for seamless toggle
+  MONITORS_FILE="$HOME/.cache/waydeeper/monitors.json"
+  python3 -c "
+import json
+f = '$MONITORS_FILE'
+try:
+    m = json.load(open(f))
+except:
+    m = {}
+m['$focused_monitor'] = '$selected_wallpaper'
+json.dump(m, open(f, 'w'))
+" 2>/dev/null
+
+  awww query || awww-daemon --format xrgb
+  awww img -o "$focused_monitor" "$selected_wallpaper" $SWWW_PARAMS
+fi
 
 sleep 0.5
 "$SCRIPTSDIR/WallustSwww.sh"
-
 sleep 0.2
 "$SCRIPTSDIR/Refresh.sh"
 sleep 2

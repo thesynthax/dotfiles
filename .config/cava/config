@@ -244,13 +244,13 @@
 gradient = 1
 gradient_count = 8
 gradient_color_1 = '#030001'
-gradient_color_2 = '#7E5D5F'
-gradient_color_3 = '#824A52'
-gradient_color_4 = '#8E5747'
-gradient_color_5 = '#C37C77'
-gradient_color_6 = '#885F68'
-gradient_color_7 = '#8E5747'
-gradient_color_8 = '#D9B5B3'
+gradient_color_2 = '#9A6F38'
+gradient_color_3 = '#197CBF'
+gradient_color_4 = '#AA631F'
+gradient_color_5 = '#87C097'
+gradient_color_6 = '#6E8337'
+gradient_color_7 = '#AA631F'
+gradient_color_8 = '#BAD7C2'
 
 
 [smoothing]

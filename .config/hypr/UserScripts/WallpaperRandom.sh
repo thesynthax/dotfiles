@@ -10,14 +10,29 @@ focused_monitor=$(hyprctl monitors | awk '/^Monitor/{name=$2} /focused: yes/{pri
 PICS=($(find ${wallDIR} -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -o -name "*.gif" \)))
 RANDOMPICS=${PICS[$RANDOM % ${#PICS[@]}]}
 
-# Transition config
-FPS=60
-TYPE="random"
-DURATION=1
-BEZIER=".43,1.19,1,.4"
-SWWW_PARAMS="--transition-fps $FPS --transition-type $TYPE --transition-duration $DURATION --transition-bezier $BEZIER"
+ln -sf "$RANDOMPICS" "$HOME/.config/rofi/.current_wallpaper"
+cp -r "$RANDOMPICS" "$HOME/.config/hypr/wallpaper_effects/.wallpaper_current"
 
-awww query || awww-daemon --format xrgb && awww img -o $focused_monitor ${RANDOMPICS} $SWWW_PARAMS
+# Check waydeeper state, use appropriate backend
+if [ -f "$HOME/.cache/waydeeper/state" ] && [ "$(cat "$HOME/.cache/waydeeper/state")" = "on" ]; then
+  waydeeper set "$RANDOMPICS" -m "$focused_monitor"
+else
+  # Track per-monitor wallpaper for seamless toggle
+  MONITORS_FILE="$HOME/.cache/waydeeper/monitors.json"
+  python3 -c "
+import json
+f = '$MONITORS_FILE'
+try:
+    m = json.load(open(f))
+except:
+    m = {}
+m['$focused_monitor'] = '$RANDOMPICS'
+json.dump(m, open(f, 'w'))
+" 2>/dev/null
+
+  awww query || awww-daemon --format xrgb
+  awww img -o "$focused_monitor" "$RANDOMPICS" --transition-fps 60 --transition-type random --transition-duration 1
+fi
 
 ${scriptsDir}/WallustSwww.sh
 sleep 1
