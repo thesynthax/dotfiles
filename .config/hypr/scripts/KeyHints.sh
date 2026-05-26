@@ -69,6 +69,7 @@ GDK_BACKEND=$BACKEND yad --width=$dynamic_width --height=$dynamic_height \
 " Shift S" "screenshot region" "(swappy)" \
 " CTRL Print" "screenshot timer 5 secs " "(grim)" \
 " CTRL SHIFT Print" "screenshot timer 10 secs " "(grim)" \
+" CTRL SHIFT S" "OCR " "(grim + tesseract)" \
 "ALT Print" "Screenshot active window" "active window only" \
 " C" "screen lock" "(hyprlock)" \
 "CTRL ALT Del" "Hyprland Exit" "(SAVE YOUR WORK!!!)" \
