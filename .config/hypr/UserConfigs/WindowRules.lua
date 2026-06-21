@@ -152,6 +152,44 @@ hl.window_rule({ match = { title = "^(Picture%-in%-Picture)$" }, keep_aspect_rat
 hl.window_rule({ match = { tag = "games" }, no_blur = true })
 hl.window_rule({ match = { tag = "games" }, fullscreen = true })
 
+
+-- --- Google Keep Conky Widget Configuration ---
+hl.window_rule({
+    name = "conky-keep-desktop-widget",
+    match = { 
+        class = "conky-keep"  -- Matches the own_window_class from conkyrc
+    },
+    
+    -- Window behavior behaviors
+    float = true,
+    pin = true,
+    no_initial_focus = true,
+    no_shadow = true,
+    no_dim = true,
+    
+    -- Force it into the background layer behind tiling windows
+    
+    -- Set default dimensions (Width: 350px, Height: 450px)
+    size = { 350, 450 }
+})
+-- --- Interactive Google Keep Widget Setup ---
+hl.window_rule({
+    name = "google-keep-interactive",
+    match = { 
+        class = "keep-interactive-widget" -- Matches the custom class we set in Step 1
+    },
+    
+    -- Window placement and look
+    float = true,
+    pin = true,
+    no_shadow = false,
+    no_dim = true,
+    
+    -- Positioning and scale (Adjust X/Y coordinates and sizing to fit your screen)
+    size = { 360, 500 },
+})
+
+
 hl.layer_rule({ match = { namespace = "noanim" }, no_anim = true })
 hl.layer_rule({ match = { namespace = "gtk-layer-shell" }, blur = true })
 hl.layer_rule({ match = { namespace = "gtk-layer-shell" }, ignore_alpha = 0.0 })

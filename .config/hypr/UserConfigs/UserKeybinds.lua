@@ -5,7 +5,7 @@ local userScriptsDir = home .. "/.config/hypr/UserScripts"
 local files = "thunar"
 local term = "kitty"
 local editor = "nvim"
-local browser = "brave --enable-features=UseOzonePlatform --ozone-platform=wayland"
+local browser = "brave"
 
 --hl.bind(mainMod .. " + SUPER_L", hl.dsp.exec_cmd("pkill rofi || rofi -show drun -modi drun,filebrowser"), { release = true })
 hl.bind(mainMod .. " + D", hl.dsp.exec_cmd("pkill rofi || rofi -show drun -modi drun,filebrowser,window"))
