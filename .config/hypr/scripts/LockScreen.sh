@@ -2,6 +2,5 @@
 # /* ---- 💫 https://github.com/JaKooLit 💫 ---- */  ##
 
 # For Hyprlock
-
-pidof hyprlock || hyprlock -q 
-
+pkill -9 -f hyprlock
+hyprlock -q
