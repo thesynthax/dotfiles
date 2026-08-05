@@ -7,7 +7,7 @@ sDIR="$HOME/.config/hypr/scripts"
 notify_cmd_shot="notify-send -h string:x-canonical-private-synchronous:shot-notify -u low -i ${iDIR}/picture.png"
 
 time=$(date "+%d-%b_%H-%M-%S")
-dir="$(xdg-user-dir)/pics/screenshots"
+dir="$HOME/pics/screenshots"
 file="Screenshot_${time}_${RANDOM}.png"
 
 active_window_class=$(hyprctl -j activewindow | jq -r '(.class)')
